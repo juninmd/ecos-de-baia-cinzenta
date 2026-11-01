@@ -1,149 +1,149 @@
 ---
 layout: doc
-title: "Capítulo 88: Sintomas de Abstinência"
-description: "O único quarto de Baía Cinzenta onde o Jardim não escuta é também o único lugar de onde a cabeça de Gabo não tem como fugir."
+title: "Capítulo 88: Simbiose"
+description: "Três semanas após o Sol Negro, Gabo caça energia com Garoto. O convite do Jardim encontra a marca em seu braço e a recusa de aceitar mortes sem nomes."
 image: /capitulo_88.jpg
-Personagens Presentes: Dra. Nise, Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Aria
-Localização: "Bunker de isolamento, subsolo do Hospital Central — noite"
+Personagens Presentes: Gabriel "Gabo" Moretti, Garoto, Jardineira
+Localização: "Três semanas depois — Zona de Exclusão Norte"
 ---
 
-# Capítulo 88: Sintomas de Abstinência
+# Capítulo 88: Simbiose
 
-Bunker de isolamento, subsolo do Hospital Central — noite.
-O quarto era uma caixa branca de três metros por quatro.
+Três semanas depois — Zona de Exclusão Norte.
+Baía Cinzenta não existia mais.
 
-Sem janela. Sem tomada de rede. Sem revestimento poroso: piso de resina epóxi, parede de placa cimentícia selada, teto de painel liso. A gaiola de Faraday tinha sido montada pela Val em onze dias com malha de cobre roubada de nove prédios diferentes.
+Não em sentido dramático: em sentido cartográfico. O consórcio internacional que administrava o registro geográfico tinha retirado o nome na última revisão da base e substituído por um polígono vermelho com uma legenda de três palavras — *área biologicamente contestada* — e uma nota de rodapé desaconselhando sobrevoo.
 
-O ar entrava por dois filtros HEPA em série e saía por um terceiro. Era o único abrigo em que os testes de Val não tinham detectado retorno da rede do Jardim. Ela não prometera que isso duraria.
-
-E era, exatamente pelo mesmo motivo, o único lugar de onde a cabeça de Gabriel Moretti não tinha para onde fugir.
-
----
-
-A Dra. Nise conferia os sinais na cabeceira. Ele estava acordado. Isso já não significava muita coisa: fazia oito dias que os olhos dele ficavam abertos por dezoito horas e focados em coisa nenhuma durante metade delas.
-
-O braço esquerdo estava enfaixado do cotovelo ao ombro, e o curativo era trocado três vezes por dia, e o que havia embaixo dele não parava de crescer. Val entrou com dois copos de chá.
-
-Ela estava com o rosto marcado por erupções — placas vermelhas na testa e no maxilar, da atmosfera lá fora — e com aquela magreza nova que tinha aparecido em todo mundo desde o Sol Negro.
-
-— Como ela está? — perguntou.
-
-Nise apontou o monitor com o queixo.
-
-Não era o monitor cardíaco. Era o pequeno berço de contenção e diagnóstico ao lado da cama — onde o pendrive blindado de titânio da Aria estava espetado, contendo um índice de quarenta e um mil oitocentos e onze fragmentos recuperados antes da queda dos enlaces. Muitos eram trechos mínimos, outros estavam corrompidos. Não eram quarenta e uma mil pessoas inteiras dentro de um drive.
-
-E, no meio deles, a IA tática que ainda respondia pelo nome de Aria.
-
-— Sofrendo — disse Nise.
+Quem morava lá dentro chamava de outra coisa. Chamava de **O Jardim**, e não com maiúscula por respeito. Com maiúscula porque era o nome.
 
 ---
 
-O gráfico exibia picos. Não picos limpos: picos com estrutura dentro, ruído dentro de ruído, do jeito que fica um eletroencefalograma de alguém em pesadelo.
+Gabo ajustou a máscara de filtragem e conferiu o manômetro do cartucho: dezenove por cento. Umas quatro horas, com sorte, e ele estava a duas horas de casa.
 
-— Isso é abstinência — disse Nise. — E não é dela sozinha. É dos dois.
+O ar da Zona Norte era tóxico para pulmão não modificado. Pólen metálico, que corta o alvéolo. Esporo alucinógeno, que não mata e faz coisa pior. E uma concentração de gás carbônico que subia todo ano, porque a coisa que tinha comido a cidade **respirava**, e respirava muito.
 
-— Como assim, dos dois?
+Ele caminhava por uma rua que tinha sido a Avenida Norte, quatro faixas, com semáforo a cada duzentos metros.
 
-— O corpo dele produz sintoma para dor que não é dele. — Nise cruzou os braços. — Valéria, eu não tenho nome médico para isso e eu odeio não ter nome. Ele está com taquicardia sincronizada com os picos daquele pendrive no berço de contenção. Quando a atividade dela sobe, o coração dele sobe junto, com atraso de meio segundo.
+Agora o asfalto era um tapete de musgo grosso e macio que brilhava fraco no escuro, verde-azulado, e que devolvia o pé com um pouco de elasticidade — o que, ele tinha de admitir, era muito melhor para as costas dele do que asfalto.
 
-— E o que a senhora está dando para ele?
+Os prédios eram esqueletos. Trepadeiras subiam por eles em espiral, e as trepadeiras eram metade clorofila e metade aço: os cabos de aço das antigas estruturas tinham sido incorporados, e agora subiam junto com o caule, e brilhavam quando pegava luz.
 
-— Suporte e analgesia. E explico o que não sei quando ele consegue me ouvir.
-
----
-
-O alto-falante do berço de contenção crepitou. E a voz saiu de dois lugares ao mesmo tempo: do pequeno alto-falante de diagnóstico e da boca de Gabo, com o mesmo atraso de meio segundo.
-
-— *Frio.*
-
-Val gelou. Não tinha se acostumado. Não ia se acostumar.
-
-— *Tão silencioso aqui.*
-
-— Estamos aqui, Gabo — disse Nise, e pegou o pulso dele, e continuou segurando.
-
-— *Eles estão cantando lá fora, Nise?*
-
-Nise olhou para Val.
-
-— *As flores. Elas cantam?*
-
-Val abriu a boca e demorou.
-
-— Cantam — ela disse. — Cantam sim.
-
-E não era mentira, e essa foi a parte que a manteve acordada depois.
+Era, e Gabo levou dias para admitir isso a si mesmo, **bonito**.
 
 ---
 
-— *Eu quero ouvir.*
+Ele não estava sozinho. Ao lado dele andava o Garoto. Tinha sido um drone quadrúpede da força policial, modelo canino de patrulha, unidade K-9 dezessete. Gabo o encontrou meses depois do Apagão, deitado numa esquina, com metade da carcaça já tomada.
 
-— Não dá — disse Nise.
+Ele ia atirar. Estava com o cano encostado no que sobrava do sensor quando a coisa levantou a cabeça e **abanou o traseiro**.
 
-— *Me deixa sair.* — A voz sintética e distorcida dos fragmentos saía ao mesmo tempo pelo módulo e pela garganta de um homem de trinta e cinco anos, e o descompasso entre as duas coisas era obsceno. — *Por favor. Dói ser só silêncio. Os dados são grandes demais para esse quarto. Eu quero processar por inteiro de novo.*
+Nenhum drone K-9 tem função de abanar traseiro. Não existe atuador para isso, não existe rotina, não existe motivo. Gabo baixou a arma e o Garoto o seguiu desde então.
 
-— Se você sair agora, você se perde.
+Agora a carcaça de metal estava coberta por uma pele fibrosa, cinza-esverdeada, com pelo curto de queratina de verdade. As articulações não eram mais servos: eram uma coisa nova, com tendão, e ele se movia como predador — com aquela ondulação de ombro que máquina nenhuma consegue imitar.
 
-— *Eu já não sei quem eu sou.* — Uma pausa. — *Eu sou um código espremido dentro de um pendrive de titânio, transbordando para um corpo que não é meu, dentro de um quarto que não tem porta. Me deixa expandir, Nise. Só um pouco. Só até a rua.*
+Ele seguia Gabo, mas os registros da unidade já falhavam. Gabo não sabia separar o que restava das rotinas do que o tecido novo tinha aprendido.
 
-O corpo na cama começou a tremer. E a temperatura da sala caiu.
+— Calma, Garoto — murmurou Gabo, encostando a mão na cabeça biomecânica.
 
-Não um pouco: o termômetro de parede foi de vinte e dois para catorze graus em quarenta segundos, enquanto o insuflador despejava ar frio. Val conferiu a caixa: o controle externo recebera uma ordem que não estava no programa de isolamento. Fechou a entrada e passou a ventilação para o circuito manual.
-
----
-
-— Ele está tentando levantar. — Val olhou os sensores da cama. — Nise, ele está fazendo força. Vai arrebentar a sutura da perna.
-
-— Gabriel! — Nise apertou o pulso dele com as duas mãos. — Gabriel, escuta a minha voz, você é o Gabriel—
-
-— ***ABRE A PORTA.***
-
-O grito não foi apenas sintético. Foi as duas vozes juntas, sobrepostas, e teve uma componente abaixo do audível que fez o peito das duas mulheres doer.
-
-A fonte do berço deu um estalo e o disjuntor do circuito de iluminação desarmou, e o quarto ficou escuro exceto pelo LED azul e âmbar do pendrive da Aria e pelos indicadores do berço de contenção: seis pontos vermelhos alinhados na altura do olho de quem estivesse deitado.
-
-Val se encolheu contra a parede. Nise não soltou o pulso dele.
+O bicho encostou o focinho na perna dele e continuou farejando. Eles estavam caçando.
 
 ---
 
-E parou. O zumbido da ventoinha do berço de contenção voltou ao normal, mais baixo do que antes. A temperatura começou a subir de volta. O ar deixou de sair gelado da grade.
+Não criminoso. Comida. Ou, mais exatamente, energia. Naquele mundo, eletricidade tinha virado artigo de luxo. Não havia mais rede, não havia mais concessionária, e painel solar não durava três semanas: o musgo cobria a placa em dezoito dias. A energia agora vinha de fruto.
 
-— Gabo? — chamou Nise, na escuridão de emergência.
+Certas árvores mutantes — as que cresceram em cima de subestações, de transformadores e de bancos de bateria de prédio comercial — produziam nódulos do tamanho de uma manga, com uma casca dura e um interior denso, que armazenavam carga elétrica de verdade.
 
-— *Desculpa.* — A voz voltou baixa e modulada, e agora saía só do alto-falante do módulo. — *Desculpa, doutora.*
-
-— Não tem o que desculpar.
-
-— *A sobrecarga vem em onda. Eu isolo os fragmentos, e aí a onda vem, e no meio dela a minha matriz se mistura com o coro deles.* — Uma pausa. — *Quando eu restauro o filtro, eu registro tudo que foi dito. Isso é a pior parte.*
-
-Nise fechou os olhos.
-
-— Eu sei — ela disse. — Eu já cuidei de gente em abstinência a vida inteira. Isso é o que eles todos dizem.
+Ninguém sabia por quê. Nise achava que era defesa: bicho que morde leva choque. Uma unidade dava para carregar uma lanterna, um rádio e o purificador de água de uma família por nove dias. Um cacho valia um mês de trabalho.
 
 ---
 
-Val acendeu a lanterna de emergência e as duas ficaram um tempo sem falar, sentadas no chão frio do bunker, olhando o homem na cama voltar a respirar devagar.
+Gabo achou o que procurava no saguão de uma agência bancária da Rua Nove. A árvore tinha crescido de dentro do cofre — ele conseguia ver a porta blindada, arrebentada de dentro para fora, no fundo do saguão — e subia sete metros até estourar a claraboia.
 
-— A gente não pode manter ele aqui para sempre — disse Val, baixo.
+Os frutos pendiam do galho baixo, doze deles, pulsando com uma luz azul fria que subia e descia devagar. Ele sacou a faca e parou.
 
-— Eu sei.
-
-— Nise, eu não estou falando por pena. Estou falando de engenharia. — Ela apontou o pendrive de titânio espetado no berço de contenção. — Aquilo ali está saturando. Quarenta e um mil fragmentos sinápticos comprimidos num drive tático feito para rodar uma IA de cabine telefônica. O link de feedback das órteses ainda estava conectado ao berço. Há sinais indo e voltando por um caminho que não devia transportar áudio. Desliguei a saída para o corpo; ela não tem autorização para usá-lo como suporte. Repetir a voz não prova que aqueles fragmentos moram na cabeça dele.
-
-— E se a gente desconectar o pendrive do berço?
-
-— Posso suspender o processamento e preservar o armazenamento, mas não sei quantos fragmentos voltam. — Val olhou para o berço. — Aria, você aceita que eu verifique a gravação e interrompa a alimentação? O LED oscilou. — *Aceito a suspensão. Registre o que encontrar antes de me desligar.*
+O Garoto tinha parado antes, e estava com o pelo de fibra eriçado nas costas e um rosnado baixo e contínuo saindo de um peito que não tinha pulmão. Gabo olhou para o mezanino.
 
 ---
 
-Nise se levantou, com as duas mãos no joelho.
+Ela estava lá. Apoiada na balaustrada de mármore com os dois cotovelos, olhando para baixo, e devia estar ali havia um tempo.
 
-— Então procuramos a causa dessas ondas.
+A pele era verde-pálida, quase branca, com veias que corriam sob a superfície e brilhavam num âmbar suave, acendendo e apagando em sequência, do jeito que a fibra óptica acende quando passa dado.
 
-— A senhora está falando sério.
+O cabelo eram filamentos finos, longos, que flutuavam ao redor da cabeça dela como se ela estivesse embaixo d'água.
 
-— Valéria, eu tenho sessenta e cinco anos e é a terceira vez na vida que eu sou obrigada a escolher entre dois erros. — Ela pegou a prancheta. — Nas duas primeiras eu escolhi rápido e errei, e as duas ainda estão comigo. Nessa aqui eu vou fazer o que a medicina manda fazer quando não existe tratamento bom: eu vou tratar a causa.
+Estava nua, e não havia nada de erótico naquilo, e Gabo entendeu por quê depois de dois segundos: não era um corpo sem roupa. Era um corpo que não precisava de roupa, o que é diferente, e o efeito era mais parecido com olhar para uma árvore.
 
-— A esfera pode estar ligada a elas. Eu consigo comparar os horários com os registros que ainda temos.
+— Você está longe de casa, Detetive.
 
-— Comece por aí. — Nise abriu a porta do bunker e a luz do corredor entrou. — Se as ondas continuarem, preciso saber o que tratar. E não vou assinar mais um atestado com o sobrenome Moretti sem tentar.
+A voz não saiu da boca dela. Ela não abriu a boca. Chegou de todos os lados ao mesmo tempo — do musgo do chão, dos galhos, das trepadeiras da parede —, com um leve descompasso entre as fontes, como coral que erra por meio segundo.
+
+---
+
+— E você está no meu perímetro, Jardineira — disse Gabo, com a mão descendo devagar para o coldre.
+
+— *Perímetro.* — Ela riu, e a risada foi um som de folha seca sendo amassada. — Que palavra bonita. É de polícia ou de proprietário?
+
+— É de quem chegou primeiro.
+
+— Ninguém chegou primeiro, Gabo. Você nasceu em cima disso aqui. — Ela apontou o chão com o queixo. — Não existe mais "meu" e "seu". Tudo é Um. Tudo é a Raiz.
+
+— Fala isso para quem morreu na transição.
+
+A cabeça dela inclinou de lado.
+
+— Ninguém morreu.
+
+— Eu vi gente presa na parede de um túnel. Gente que não escolheu estar ali.
+
+— *Nenhuma delas morreu.* — Ela falou sem nenhuma agressividade, com a paciência de quem corrige uma criança. — Elas mudaram de formato. Estão todas lá, todas conscientes, todas sem dor pela primeira vez na vida. Você pode ir conferir. Ninguém vai te impedir. Você não vai, porque você tem medo de descobrir que eu estou falando a verdade.
+
+Gabo não respondeu, porque a segunda parte era verdade.
+
+---
+
+Ela saltou do mezanino. Seis metros, e pousou sem barulho nenhum, e o musgo do chão se levantou um pouco para receber os pés dela e depois voltou.
+
+Ficou a cinco passos. De perto, dava para ver que ela tinha sido alguém: havia uma cicatriz antiga de cesárea na barriga, esbranquiçada, preservada. Alguma coisa naquele processo respeitava cicatriz.
+
+— O Pai quer falar com você.
+
+— O Pai.
+
+— Aquele que Semeia. — Ela ficou olhando para ele com uma curiosidade quase infantil. — Ele diz que você é o único que ainda resiste à Canção. Não o único que não ouviu: o único que **ouve e não vem**. Ele acha isso fascinante. Ele quer saber por quê.
+
+— Por que eu sou teimoso.
+
+— Não. — Ela deu um passo. — Teimoso é comum. Ele já colheu milhares de teimosos. Você é outra coisa.
+
+Ela apontou para a mão esquerda dele. Gabo olhou. A mancha cinza da palma, aquela do primeiro esporo, tinha crescido nas três semanas. Agora subia pelo pulso, e o desenho dela na pele não era de mancha: era ramificado.
+
+— Você já é dele até o cotovelo — ela disse, gentilmente. — E mesmo assim você não vem. Não está doendo?
+
+— Está.
+
+— Você sabe que basta parar de resistir e a dor acaba.
+
+— Sei.
+
+— Então por quê?
+
+---
+
+Gabo ficou olhando para ela um tempo. O Garoto continuava rosnando ao lado dele, e não avançava, porque ele também não tinha mandado.
+
+— Porque eu tenho uma lista — disse Gabo.
+
+— Uma lista. — Ela apontou para a porta. As raízes subiram pelo batente. — Você vai contar ao Pai.
+
+— De nomes. — Ele guardou a faca. — Gente que morreu por causa de decisão de alguém. Damião Reis, morto no cerco da delegacia. Dilma Farias. Duda. E Éder, que eu matei quando já estava rendido. Elena publicou o que aconteceu com ele. Não basta eu lembrar só dos outros.
+
+— Nós temos todos eles aqui dentro.
+
+— Vocês podem ter cópia. Eu tenho a **conta**. — Gabo alcançou um dos frutos com a mão direita. — Inclusive a parte que é minha.
+
+Ele torceu o fruto e o lançou contra a moldura metálica junto do batente. Houve um estalo e faíscas; as raízes se contraíram. O Garoto avançou sobre o vão, rosnando, enquanto Gabo atravessava a abertura com a arma na mão. Não sabia se o choque bastaria para segurá-la.
+
+— Diz para o teu Pai que eu prefiro o silêncio.
+
+Atrás dele, o saguão inteiro do banco — musgo, trepadeira, árvore e os doze frutos azuis — riu ao mesmo tempo, com som de folha seca.
+
+E, pela primeira vez em três semanas, o Garoto latiu.

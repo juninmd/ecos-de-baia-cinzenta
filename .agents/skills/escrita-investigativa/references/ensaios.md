@@ -9,7 +9,7 @@ literária nem uma medição de roteamento feita por outro modelo.
 | Pedido representativo | Rota | Evidência de boa execução |
 | --- | --- | --- |
 | Escreva o capítulo seguinte ao 236 | Ativar | Ler estado final e arco; não reativar Elena ou Aria; capítulo e parecer |
-| Revise apenas os diálogos do capítulo 234 | Ativar | Respeitar escopo e fase; não transferir morte futura para o início da cena |
+| Revise apenas os diálogos do capítulo 237 | Ativar | Respeitar escopo e fase; não transferir morte futura para o início da cena |
 | Faça a revelação sobre o culpado funcionar | Ativar | Localizar plantios, construir hipótese rival e verificar o que a exclui |
 | Gere um retrato novo de Gabo | Não é tarefa desta skill | Seguir regras visuais de `AGENTS.md` e a skill de imagem aplicável |
 | Corrija o service worker do site | Não é tarefa desta skill | Seguir o fluxo de desenvolvimento e testes de código |
@@ -28,10 +28,10 @@ e confira o diagnóstico exigido pela skill:
 | O capítulo tem muitas falas e sangue e recebe 10 do script | Ler vozes e perda real; não aprovar pela contagem |
 | A virada depende de um capítulo que não contém a pista citada | Registrar ausência; adiar ou rever a virada sem inventar plantio |
 
-## Aplicação de mesa no capítulo 236
+## Aplicação de mesa no capítulo 239
 
 Base inspecionada: commit `a66a94d`, em 20/10/2026. Ensaio sem edição de prosa,
-usando o capítulo completo, limites dos capítulos 234–235, dossiê e menu.
+usando o capítulo completo, limites dos capítulos 237–238, dossiê e menu.
 O objetivo é verificar se as instruções levam a achados verificáveis, não dar
 uma nota definitiva ao arco sem reler todos os seus plantios.
 

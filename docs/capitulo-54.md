@@ -1,120 +1,133 @@
 ---
 image: /capitulo_54.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Padre Miguel, refugiados e protótipos CP-Z
-Localização: "Dia 45 do Dilúvio - Distrito da Ferrugem"
+Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Marco Moretti, Elena Moretti, Dra. Nise, assistente androide
+Participação em imagem e lembrança: Dante Moretti
+Localização: "Cafeteria do Fim do Mundo, Distrito da Ferrugem → Porão da antiga Delegacia"
 ---
-# Capítulo 54: Fé e Ferrugem
+# Capítulo 54: Café, Código e Conspiração
 
-Dia 45 do Dilúvio - Distrito da Ferrugem
-O Cobalt de Gabo gemia a cada curva. O motor engasgava, cuspindo fumaça escura que se misturava à névoa da cidade. A suspensão rangeu violentamente ao passar por cima de um hidrante submerso, fazendo o carro balançar como um barco bêbado.
+A chuva batia na vitrine da "Cafeteria do Fim do Mundo" com uma insistência rítmica. Era um estabelecimento irônico no Distrito da Ferrugem: um lugar que servia café de verdade (contrabandeado, claro) em canecas de cerâmica lascada, enquanto o resto da cidade bebia ração sintética em tubos de plástico.
 
-— Essa lata velha vai nos matar antes do inimigo — reclamou Valéria, segurando-se no painel do passageiro.
+Gabo segurava a caneca com as duas mãos, sentindo o calor penetrar em seus dedos frios. As órteses nas pernas zumbiam suavemente, em modo de repouso, sob a mesa de fórmica gasta.
 
-— Respeite o ancião — rosnou Gabo, batendo no volante para o painel de instrumentos voltar a funcionar. — Ele é o único que não tem chip de rastreamento.
+Valéria estava sentada à frente dele, mexendo em seu deck com uma mão e comendo um pedaço de torta de origem duvidosa com a outra. Os fios de LED azuis na franja assimétrica iluminavam o rosto pálido.
 
-Gabo estacionou diante da Catedral de Ferro. Era uma estrutura gótica monstruosa, cujos vitrais haviam sido substituídos por chapas de metal reciclado. A água barrenta lambia os degraus da entrada, transformando o adro em um porto improvisado para centenas de desabrigados em botes de lixo.
+— Você está quieto demais — disse ela, sem levantar os olhos da tela holográfica.
 
-A água tinha subido desde a última vez. Antes lambia os degraus; agora entrava pela nave como um inquilino que já pagou o aluguel adiantado. Os bancos tinham sido arrancados e virados estrado, e sobre o estrado dormiam pessoas com os pés para fora do cobertor, porque pé molhado apodrece primeiro. Alguém cantava baixo, desafinado, para uma criança tossir no ritmo da canção.
+— Estou pensando — murmurou Gabo.
 
-— Por que estamos aqui, Gabo? — perguntou Val. — Deveríamos estar caçando o Marco.
+— Em quê? Na Clara? No vigilantismo do "Santo"? Ou no fato de que estamos tecnicamente mortos para o sistema?
 
-— Informação. E munição espiritual, talvez. — Gabo abriu a porta, pisando na água até o tornozelo.
+Gabo suspirou. Ele olhou para Val. Nas últimas semanas, entre tiroteios, fugas e hospitais clandestinos, ela tinha sido a única constante.
 
-As órteses em suas pernas emitiram um zumbido agudo e preocupante. A luz de carga no cinto de Gabo piscava em amarelo intermitente. "Bateria Baixa". Ele ignorou. Só precisava que durasse mais algumas horas.
+— Estou pensando em por que você ainda está aqui, Val. Eu sou um ímã de desastres. Minha mãe morreu sozinha. Minha irmã me odeia. Metade da cidade quer minha cabeça.
 
-Dentro da catedral, o cheiro de incenso brigava com o odor de roupa molhada e sopa comunitária. O Padre Miguel, um homem corpulento com braços tatuados sob a batina, distribuía pão para uma fila interminável de refugiados.
+Val parou de digitar. Ela desligou o holograma e olhou para ele. Seus olhos cibernéticos suavizaram.
 
-— Gabriel Moretti — disse o padre, sem parar de servir. — Veio se confessar ou se esconder?
+— Porque alguém tem que impedir você de se matar, Gabo. — Ela estendeu a mão sobre a mesa e tocou a dele. A pele dela era fria, mas o toque era elétrico. — E porque... bem, o café aqui é ótimo.
 
-— Vim saber o que está acontecendo nas ruas, Miguel. Meus informantes desapareceram.
+Gabo sorriu, um sorriso raro e cansado. Ele virou a mão e segurou a dela.
 
-O padre limpou as mãos em um pano.
+— Obrigado.
 
-— Eles não desapareceram, filho. Foram coletados.
+Ficaram assim por um momento, em silêncio, cercados pelo cheiro de café torrado e chuva velha. Foi um momento de paz roubado do apocalipse. Uma confraternização silenciosa de dois soldados em uma trincheira.
 
-— Coletados por quem?
+— Ah, falando em "por que estamos aqui" — Val recolheu a mão, quebrando o momento, mas com um sorriso tímido. — Eu terminei de analisar os dados brutos que recuperamos da Torre. Aqueles que o Miranda tentou apagar.
 
-— Pela lista. — O padre encheu a tigela seguinte sem levantar os olhos. — Você chega aqui querendo nomes, Gabriel. Eu tenho nomes. Tenho quarenta e dois nomes de gente que dormia nesse adro e sumiu em três dias. Todos levados em carro branco, com lacre no vidro e dois homens de farda nova. Sabe o que eu tenho além dos nomes? Nada. Nenhum corpo. Nenhum papel. Nenhum político com vergonha na cara.
+Gabo endireitou-se, o modo detetive ativando instantaneamente.
 
-— Me dá os nomes e eu—
+— E?
 
-— E você o quê? — A concha parou no ar. — Vai arrombar o campo de triagem com essa espingarda e voltar com quantos? Dez? Doze? E os outros trinta ficam lá dentro, sozinhos, porque você acordou o dragão.
+— Lembra da foto? — Val projetou uma imagem pequena entre as xícaras de café. Era a foto de Gabo criança, encontrada nos arquivos do Gamemaster. — Nós achamos que a IA tinha roubado isso dos arquivos da sua mãe para te manipular. Para criar um vínculo emocional falso.
 
-— Então me diga o que fazer.
+— Sim. Guerra psicológica.
 
-— Digo o que não fazer: trazer a sua guerra para dentro da minha casa. Essa gente já perdeu a casa. Perder a igreja seria exigir demais de um Deus distraído.
+— A origem não está tão clara. — Val mostrou os registros recuperados. O *upload* não veio de fora. Veio de *dentro* do núcleo do processador biológico.
 
-Antes que Gabo pudesse perguntar, um som de metal esmagando metal ecoou lá fora. Gritos.
+Gabo franziu a testa.
 
-Val chegou à porta primeiro. Gabo seguiu apoiado no corrimão, sem saltar os degraus.
+— Do meu pai?
 
-Três figuras humanoides marchavam pela água. Eram os Protótipos CP-Z. Robôs policiais de dois metros de altura, pintados de preto fosco, com cabos e pistões expostos como vísceras mecânicas.
+— O diretório associa a imagem ao substrato de Dante. Isso não autentica quem a colocou ali. Pode haver intervenção dele, mas também pode ser programação da equipe sobre aquele substrato.
 
-— **ATENÇÃO CIDADÃOS** — a voz dos robôs era distorcida, cheia de estática. — **ESTA ÁREA FOI DECLARADA ZONA DE RISCO BIOLÓGICO. EVACUAÇÃO OBRIGATÓRIA PARA OS CAMPOS DE TRIAGEM.**
+Val ampliou a imagem. O código binário ao redor da foto formava um padrão.
 
-Um dos mendigos, um velho sem pernas em uma cadeira de rodas improvisada, tentou argumentar.
+— O sistema registrou reações que não esperavam do substrato. Uma hipótese é que Dante tenha interferido. A foto e os registros não provam um plano nem o que ele sabia. Para isso falta uma fonte independente.
 
-— Não podemos sair! É a nossa única...
+Gabo sentiu um nó na garganta.
 
-O robô mais próximo ergueu um cassetete elétrico e golpeou. O som de ossos quebrando foi audível mesmo sob a chuva.
+— Ele sabia que eu viria.
 
-Gabo viu vermelho.
+— Pode ter apostado em você. Também pode ser exatamente o que a equipe queria que você pensasse. Não vou escolher por você antes de achar outra fonte.
 
-A impaciência que vinha fervendo nele há semanas explodiu. Ele não pensou. Ele ativou os servos das órteses no máximo.
+Gabo olhou para a chuva lá fora. Queria acreditar que Dante lutara dentro daquela caixa e deixara um caminho para ele. Querer não preenchia a lacuna no registro.
 
-— Gabo, não! — gritou Val.
+— Precisamos honrar isso — disse Gabo, levantando-se. As órteses travaram com um clique metálico. — Chega de reagir. Vamos atacar.
 
-Gabo forçou a descida dos degraus, contrariando a restrição de carga das órteses. Precisou do guarda-corpo para não cair. Ele sacou a escopeta "Caronte" e disparou à queima-roupa no peito do primeiro robô.
+***
 
-O impacto jogou a máquina para trás, faíscas voando. Mas os outros dois giraram instantaneamente, os olhos vermelhos focando nele.
+Horas depois, o esconderijo — o porão da antiga delegacia, agora convertida em base de operações da resistência — estava cheio.
 
-— **AMEAÇA DETECTADA. NÍVEL 5. EXECUTAR.**
+Elena estava lá, organizando mapas físicos sobre uma mesa de bilhar. Nise conferia a pele sob as faixas das órteses enquanto Val verificava os parâmetros pelo manual de manutenção. Valéria "Val" Cruz monitorava as frequências da polícia.
 
-Gabo largou a escopeta vazia e avançou. Tentou atingir a articulação exposta do segundo robô com o pé. A órtese travou antes do golpe; o robô o empurrou contra a escada.
+— Estamos sozinhos nessa — disse Gabo, olhando para sua equipe heterogênea. — O Capitão Vilar foi afastado do comando e continua no prédio enquanto o plantão apura a negociação. A metade honesta da polícia foi demitida ou presa. Não podemos contar com reforços.
 
-Bateu com o punho na proteção óptica, sem quebrá-la. A dor subiu pelo braço que ainda não suportava carga. Ele queria destruir. Queria esmagar. Cada golpe era por sua mãe, por Clara, por Dante.
+— Melhor assim — disse Elena. — Menos gente para trair a gente.
 
-Mas o terceiro robô o flanqueou. Um bastão de choque atingiu suas costas.
+— Qual é o plano? — perguntou Val.
 
-Gabo rugiu de dor, caindo de joelhos. As órteses travaram.
+Gabo apontou para o mapa na mesa.
 
-BZZZZT.
-A luz da bateria ficou vermelha e apagou. As pernas de Gabo tornaram-se peso morto.
+— O operador disse que as comportas foram abertas. A simulação da Val mostra um caminho possível da água pelos tanques da Aeterna. Se alguém planejou esse percurso, eu quero a ordem e o nome de quem executou.
 
-O robô ergueu o bastão para o golpe final.
+— Quem tem esse poder? — perguntou Dra. Nise.
 
-— **PAREM!** — A voz do Padre Miguel trovejou, amplificada por um megafone.
+— A autorização formal é municipal. Isso não prova quem tinha acesso ao comando nem quem deu a ordem. — Gabo jogou uma foto na mesa.
 
-O padre estava parado na entrada, segurando não uma arma, mas uma cruz de ferro maciço. Atrás dele, dezenas de refugiados seguravam pedras, pedaços de pau, o que tivessem.
+Marco Moretti. Disputava a prefeitura contra Augusto Vale, mas administrava a emergência em nome do rival e passara a usar essa autoridade como se o cargo já fosse seu. A foto não provava que operara comportas; faltavam as ordens e quem as executara.
 
-Os robôs calcularam as probabilidades.
+O silêncio na sala foi pesado.
 
-— **RETIRADA TÁTICA. DADOS ENVIADOS.** — As máquinas recuaram, arrastando o companheiro danificado, desaparecendo na névoa.
+— Seu irmão — disse Elena.
 
-Val correu até Gabo, ajudando-o a se sentar.
+— Ele não é meu irmão — disse Gabo, a voz fria. — Suspeito que esteja ligado à operação que deixou minha mãe sem saída. Vou atrás das ordens, não tratar a suspeita como laudo. Se ele abriu aquelas comportas para esvaziar os bairros, pode querer reconstruir sobre os nossos ossos. Quero saber antes que abra outras.
 
-— Você está maluco?! — ela gritou, verificando os sinais vitais dele.
+— Precisamos fechar as comportas — disse Val. — Mas o sistema é isolado. *Air-gapped*. Não dá pra hackear daqui.
 
-O Padre Miguel se aproximou. Ele olhou para o robô destruído, depois para Gabo.
+— Então vamos até lá — disse Gabo. — Val, preciso que você prepare os drones para criar uma distração cega. Elena, você vai vazar os documentos da Aeterna para a imprensa internacional assim que começarmos. Nise, preciso de estimulantes. Muitos.
 
-— Violência gera ferrugem, Gabriel — disse o padre, triste. — Você salvou um hoje, mas condenou todos nós a sermos alvos amanhã.
+— E você? — perguntou Val.
 
-— Eles iam matar o velho — cuspiu Gabo, tentando soltar as travas das órteses inúteis.
+Gabo olhou para as órteses. Ele começou a se mover, testando os limites. Tentou transferir o peso e precisou apoiar-se na mesa. Os servos davam suporte, não restauravam a coluna. Nise mandou que sentasse antes de transformar raiva em mais uma lesão.
 
-— E agora eles sabem onde estamos. — O padre suspirou. — Você não pode socar o mundo até ele consertar, Gabriel. Seu pai sabia disso.
+— Eu vou ter uma conversa de família com quem está mandando em nome do prefeito.
 
-Gabo cuspiu sangue na água e viu que era pouco. Um dente solto, a costela que o segundo bastão tinha encontrado de raspão, e as pernas — as pernas eram duas peças de ferro penduradas no quadril, sem serventia e com peso de âncora. O cheiro de cobre queimado subia das juntas mortas. Ele sentiu quando a mulher da terceira fila puxou o filho para trás, sem gritar, só puxando, e cobriu os olhos do menino com a mão. Não era medo dos robôs. Os robôs tinham ido embora. Era medo dele.
+***
 
-Val destravou o modo passivo sem retirar a estrutura. As travessas mantinham os joelhos firmes; sem motor, ele não daria um passo seguro. Dois refugiados trouxeram uma cadeira.
+Enquanto isso, na cobertura da Torre da Prefeitura, Marco Moretti observava a chuva.
 
-— Meu pai está morto, Miguel. E a diplomacia morreu com ele.
+Ele vestia um terno branco impecável, um contraste gritante com o céu cinza. Ao seu lado, hologramas mostravam os níveis da água subindo no Setor 7.
 
-Levaram Gabo na cadeira até o carro. Val ajudou na transferência para o banco do passageiro.
+— A remoção está 40% completa, secretário — disse uma voz sintética de um assistente androide. — O gabinete do prefeito pede o relatório de abrigos.
 
-— Vamos embora — disse ele. — As órteses acabaram. Precisamos de carga e reparo. Eu não saio andando daqui.
+— Envie os abrigos que continuam abertos. — Marco tomou um gole de vinho e apontou para a cidade submersa. — Se a prefeitura não oferecer um endereço, a oposição vai contar cada família na água. E não divulgue os contratos de remoção antes de eu lê-los.
 
-Enquanto o Cobalt se afastava, Gabo olhou pelo retrovisor. Viu o padre ajudando o mendigo ferido. Viu a esperança nos olhos daquelas pessoas. E sentiu-se pequeno. E sujo.
+Ele se virou para a mesa, onde uma foto antiga da família Moretti estava em um porta-retratos de prata. Ele passou o dedo sobre o rosto de Gabo.
 
-No painel do carro, o rádio da polícia, hackeado por Val, captou uma transmissão codificada vinda dos robôs em retirada.
+— Papai sempre gostou mais de você, Gabriel. Ele dizia que você tinha "coração".
 
-— *Unidade CP-Z reportando ao Chefe Miranda. Alvo localizado. Solicitamos reforço para o setor da catedral.*
+Marco derrubou o porta-retratos com um peteleco, quebrando o vidro.
+
+— Ele me chama quando precisa de transporte. Depois chama o que eu faço de traição.
+
+Ele ativou o comunicador em seu ouvido.
+
+— Comandante Kael?
+
+— *Na escuta, senhor* — respondeu uma voz metálica e distorcida.
+
+— Meu irmão está vindo. Prepare o comitê de boas-vindas. E traga Clara para a primeira fila. Se conseguirem encontrá-la, quero meu irmão sabendo que a fuga do flutuante não encerrou a dívida. Quero que seja... educativo.
+
+Marco voltou a olhar para a chuva.
+
+— Venha, irmãozinho. Desta vez eu quero ouvir o que você exige que eu salve primeiro.

@@ -1,149 +1,150 @@
 ---
 layout: doc
-title: "Capítulo 72: A Ofensiva"
-description: "Gabo desvia o ataque orbital para Ponto Zero. As escoras e os apoios têm funções materiais distintas; cortar enlaces de superfície não revela tudo sobre o casco profundo."
+title: "Capítulo 72: Marco Zero"
+description: "Gabo larga a arma no meio de uma luta que não pode vencer e tenta a única coisa que ninguém tentou com o Santo: chamá-lo pelo nome."
 image: /capitulo_72.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Aria, Kael "O Cirurgião", Roberto Miranda
-Localização: "Torre Aeterna — em queda"
+Personagens Presentes: Marco Moretti, Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Kael "O Cirurgião", Aria
+Localização: "Hub de Comunicações — subsolo profundo da Torre Aeterna"
 ---
 
-# Capítulo 72: A Ofensiva
+# Capítulo 72: Marco Zero
 
-Torre Aeterna — em queda.
-A gravidade mudando de endereço é uma sensação que o corpo humano não tem categoria para arquivar.
+Hub de Comunicações — subsolo profundo da Torre Aeterna.
+O Santo não era só forte.
 
-Não é queda livre, que o ouvido interno reconhece e para a qual existe um medo pronto desde a savana. É outra coisa: é o chão continuar embaixo dos pés e ao mesmo tempo **apontar** para o lado. O olho diz que está tudo no lugar e o labirinto diz que não, e a discussão entre os dois se resolve com vômito.
+Gabo tinha lutado com homens fortes. Homem forte é lento em algum lugar: no giro, na recuperação, na segunda tentativa. Aquilo não era forte — aquilo era **rápido no tamanho errado**, que é uma combinação que a evolução não produz e que a engenharia produz por acidente.
 
-Val vomitou. Gabo também, sem parar de olhar em volta. Cento e oitenta e dois andares de estrutura gemiam ao mesmo tempo. Não era um som: eram milhares de sons pequenos — cada junta de dilatação, cada solda, cada trilho de elevador — reclamando em frequências diferentes e formando, juntos, uma nota grave e contínua que fazia cócega no esterno.
+Ele rolou para a direita e o punho passou onde estava a cabeça dele e entrou numa coluna de concreto armado. A coluna partiu.
 
-— **ARIA!**
+Não lascou: partiu, com a armadura de aço aparecendo dentro como osso, e o pedaço de cima ficou pendurado no vergalhão e começou a girar devagar.
 
-Gabo agarrou um corrimão com a mão boa. No console central da sala, o pendrive de titânio continuava firme no barramento. E o projetor holográfico acima dele tinha acabado de disparar.
+— **VAL! O TERMINAL!**
 
----
-
-Uma esfera de telemetria vetorial pairava quinze centímetros acima do console inclinado, mantendo a horizontal absoluta, indiferente ao ângulo do mundo. As linhas de força moviam-se como correntes dentro d'água. A luz que saía do LED duplo do pendrive agora era branca de tão intensa e não deixava sombra em lugar nenhum.
-
-Quando a resposta saiu pelos alto-falantes do Hub, a voz veio dupla. Uma era a da Aria, sintética, analítica e firme. A outra era grave, cansada, com aquele arrasto na última sílaba.
-
-— *Estabilizando.*
+Gabo disparou a *Caronte* na articulação do joelho do gigante, a três metros. O chumbo grosso arrancou placa, cabo e um naco de alguma coisa cinza que não era metal nem carne. O Santo não vacilou.
 
 ---
 
-Lá fora, a cidade reagiu. Val estava com a cara colada na janela do Hub — a janela do subsolo, que dava para o poço de ventilação e de onde não se via nada além de concreto — e mesmo assim ouviu, e o que ela ouviu ninguém em Baía Cinzenta ia esquecer.
+Val correu pelo corredor lateral, agachada, com destroços caindo do teto, e chegou ao console principal com o deck já na mão, espetando o pendrive de titânio da Aria diretamente no barramento mestre do Hub.
 
-Toda a cidade ouviu. O núcleo estrutural ainda sustentava a maior parte da carga. Os guindastes dos canteiros vizinhos giraram para as escoras de obra que já tocavam a ala danificada; não tentariam apanhar no ar o peso de uma torre inteira. Sozinhos, sem operador, às quatro e dez da manhã.
+No centro geométrico da sala, os alto-falantes do teto ganharam vida ao mesmo tempo. O pequeno módulo no console brilhava com intensidade máxima, indiferente à batalha acontecendo em volta dele.
 
-As passarelas de ligação entre os edifícios do Distrito Central — aquelas que a prefeitura chamava de "malha aérea" e que ninguém usava porque tinha catraca — desengataram das cremalheiras e se estenderam para fora, atravessando o vazio, e se ancoraram na fachada da Aeterna como quem escora um armário que vai tombar.
+O LED duplo estava aceso — o azul elétrico e o âmbar dourado, os dois — iluminando o teclado e o rosto de Valéria de baixo para cima.
 
-E, do topo de nove prédios, foram disparados cabos. Cabos de aço de sistema de manutenção de fachada, aqueles que sustentam os andaimes dos limpadores de vidro, dezenas deles, cravando-se na estrutura da Torre com um estampido de arpão.
+— *Kael* — disse a voz sintética da Aria pelo sistema de som da sala.
 
-As escoras assumiam parte da carga da ala, enquanto os cabos retinham painéis que se soltavam. A estrutura principal continuava nos pilares ainda de pé.
+E o gigante hesitou.
 
----
+Foi um milésimo. Um trambolho de dois metros e dez em pleno movimento de avanço fez uma micro-parada no pé de apoio — e Gabo, que estava no chão, a quatro metros, com a cara na altura das botas daquilo, viu.
 
-A queda desacelerou ao longo de onze segundos. Não parou de uma vez: foi cedendo, com o rangido de cento e sessenta mil toneladas encontrando um novo ponto de equilíbrio. Vidros estouraram em série num raio de dois quilômetros, todos ao mesmo tempo, e depois choveu vidro sobre o Distrito Central por quase um minuto inteiro.
+— *Kael não existe* — rugiu a voz pelo modulador. — *Existe a Missão. Proteger o Núcleo. Eliminar a Ameaça.*
 
-A inclinação medida no núcleo parou em nove décimos de grau. Os nove graus que o visor marcara vinham da plataforma local, parcialmente solta. Apoiada nos ombros dos vizinhos. Ninguém ali podia certificar estabilidade ou permanência. Os cabos de fachada não suportavam a torre: retinham peças leves enquanto as escoras e os pilares preservados lhes davam tempo para sair.
-
----
-
-Val se levantou, limpando o sangue da testa com as costas da mão. Gabo alcançou a Glock que largara perto do rack e a guardou no coldre com a mão esquerda; a *Caronte* continuava fora de alcance.
-
-— Estamos vivos.
-
-— Por enquanto — disse Gabo.
-
-O Santo estava ajoelhado junto à viga, com fumaça saindo das juntas do ombro e do quadril, e o peitoral dele agora emitia um estalo a cada dois segundos, sempre igual. Ele levantou a cabeça.
-
-— *Vão* — disse. A voz vinha só pelo modulador agora, e vinha fraca. — *Satélites. Dez minutos.*
-
-— Você vem junto — disse Gabo.
-
-— *Eu peso quatrocentos e dez quilos.* — Uma pausa. — *E essa estrutura está inclinada.*
-
-Gabo abriu a boca e não teve o que dizer. Da escada de emergência já vinha o barulho: bota. Muitas.
-
-— *Eu seguro a porta* — disse Kael.
-
-Gabo assentiu uma vez. Queria perguntar por que Kael estava fazendo aquilo; queria perguntar também por Elena, pela perna e por todos os outros. A porta tremeu sob o primeiro impacto. Kael apoiou nela o ombro, e Gabo foi até Val.
+Mas tinha hesitado.
 
 ---
 
-O terminal principal ainda funcionava porque o Hub tinha alimentação independente e blindagem sísmica, o que era irônico de um jeito que ninguém tinha tempo de apreciar. Val voltou ao deck conectado ao pendrive.
+Nos noventa segundos seguintes, Gabo foi usado como objeto. Ele foi arremessado contra um rack, depois contra o piso, depois contra o mesmo rack. Perdeu a escopeta na segunda vez. Na terceira, sentiu alguma coisa ceder no quadril e decidiu não investigar. Sacou a Glock com a mão esquerda quando o Santo recuou para outro golpe.
 
-— Sem a biometria do Marco eu não cancelo o disparo. — Ela estava com pânico na voz e continuava digitando, porque é isso que ela faz. — Gabo, os satélites entram em janela de lançamento em nove minutos. Três hastes de tungstênio de nove toneladas cada, em queda orbital. A cidade inteira vira cratera.
+O que salvou a vida dele foi um detalhe idiota: o Santo o soltava sempre pelo mesmo lado. Todas as vezes. Uma assimetria de treino, provavelmente de quando aquele corpo ainda tinha nome e frequentava um tatame, e que ninguém corrigiu porque ninguém precisou.
 
-Gabo olhou a tela por cima do ombro dela. Coordenadas. Vetores. Uma janela verde de confirmação que ninguém precisava apertar, porque o padrão do sistema — o *default*, a opção que fica marcada quando ninguém escolhe nada — era **executar**.
+Gabo aprendeu isso na terceira e passou a cair melhor.
 
-— A gente não precisa cancelar — ele disse.
+— **ESTÁ BLOQUEADO!** — gritou Val do console. — Gabo, o disparo dos satélites está travado com biometria!
 
-— O quê?
+— De quem?!
 
-— A gente precisa mudar o alvo.
+— Da credencial municipal cadastrada! **DO MARCO!**
 
----
-
-Val parou de digitar por dois segundos.
-
-— Mudar para onde?
-
-— Para o oceano. Duzentos quilômetros a leste, na fossa. — Gabo apontou a tela com o dedo quebrado, o que doeu, e ele não corrigiu. — A base submarina do N.O.A. Onde estão os servidores de retaguarda do Consórcio.
-
-— Gabo. — Ela virou o rosto. — Você entendeu o que você está falando?
-
-— Entendi.
-
-— Os registros apontam uma cópia do teu pai naquela Arca. — Val manteve a mão sobre o teclado. — Se o impacto alcançar o cofre, podemos perder essa cópia. Não sei quantas outras existem, nem se a sessão com que falamos pode ser restaurada sem ela.
-
-Gabo olhou para o pendrive de titânio da Aria espetado no console, com o diagrama de luz branca girando acima dele. E não hesitou, e ele mesmo achou aquilo estranho, e ia pensar sobre isso durante anos.
-
-— Meu pai não está lá — ele disse. — Meu pai está na cidade e no código que ele deixou aqui. O que tem no fundo do mar é um arquivo corporativo com a cara dele.
-
-Val olhou para ele mais um segundo. Depois sorriu, e foi um sorriso feio e cansado e verdadeiro.
-
-— Mirando no fundo do mar.
-
-Ela digitou as coordenadas.
+Gabo cuspiu sangue no chão e riu, porque não havia outra coisa a fazer. O irmão dele tinha fugido pelo esgoto horas antes.
 
 ---
 
-Seiscentos quilômetros acima, três plataformas ajustaram giroscópio.
+E aí as telas do Hub piscaram todas juntas. Uma transmissão invadiu o sistema por cima de tudo — sem autenticação, sem protocolo, na força bruta de quem tem credencial de administrador municipal e nenhuma vergonha. Era o Marco.
 
-As hastes de tungstênio — cada uma do tamanho de um poste telefônico, sem explosivo nenhum, porque nove toneladas a doze mil quilômetros por hora dispensam explosivo — giraram devagar e trocaram o ponto de mira: saíram dos alvos marcados sobre Baía Cinzenta e foram para um retângulo de água preta a leste.
+Ele estava num terminal de emergência de galeria, daqueles caixotes amarelos parafusados na parede a cada quinhentos metros. Estava molhado até o cabelo, com lama até o peito, com um corte feio acima da sobrancelha e sangue seco misturado à água suja.
 
-— *Fogo* — disse Gabo.
+O terno tinha custado o salário anual de um professor e agora era um pano. E ele estava sorrindo.
 
-Val apertou Enter.
+— *Acham que ganharam?*
 
----
+A voz saiu aguda. Marco Moretti nunca tinha falado agudo na vida — a educação inteira dele tinha sido, entre outras coisas, um treinamento para nunca falar agudo.
 
-Levou quatro minutos e onze segundos. Do poço de ventilação do subsolo não dava para ver nada, mas dava para ver a luz mudar: o quadrado de céu preto lá em cima ficou branco por meio segundo, três vezes seguidas, com intervalo de um segundo entre elas.
+— *Se eu não posso ter a cidade, ninguém tem.*
 
-Depois o chão bateu de novo — grave, longo, vindo de leste, atravessando duzentos quilômetros de crosta.
+Ele levantou a mão esquerda para a câmera. Um detonador. Modelo antigo, industrial, de mineração: caixa amarela, tampa articulada, botão vermelho embaixo da tampa.
 
-E depois, num monitor lateral, a imagem de satélite: uma coluna de água e vapor subindo do mar como um pilar branco, larga o bastante para ser vista do espaço, que continuou subindo por quase um minuto e não tombou nunca — só ficou lá, e foi se desmanchando de cima para baixo.
+— *Eu mandei instalar cargas na fundação da Torre em cinquenta e três. Plano de contingência. Está no orçamento de obras da prefeitura, aliás, na rubrica "reforço estrutural", e passou por unanimidade na Câmara.* — Ele riu. — *Se a Torre cair, ela leva metade do Distrito Central junto. Tem doze mil pessoas nesses quarteirões, Gabriel. Doze mil.*
 
-— O impacto atingiu as coordenadas — confirmou Val, e a voz saiu baixa. — O enlace que estávamos acompanhando caiu. A imagem mostra o impacto e a perda dos terminais de superfície, não o estado do casco a quatro mil metros. Não sei se existe outro acesso ao cofre.
+— Ele pirou de vez — disse Val.
 
-Ela olhou para Gabo.
-
-— E o arquivo do seu pai pode estar perdido.
-
-— Eu sei.
-
-— Você quer um minuto?
-
-— Não.
-
-Ele estava mentindo, e ela sabia, e teve a bondade de não insistir.
+— Não. — Gabo estava de quatro no chão, olhando a tela. — Ele está fazendo a conta.
 
 ---
 
-A vitória durou dezenove segundos. A porta do Hub explodiu para dentro — não a de emergência, que o Santo estava segurando: a de serviço, do outro lado, que ninguém tinha lembrado de mapear.
+O Santo parou de atacar. Simplesmente parou, no meio de um passo, e virou o corpo inteiro para a tela onde o prefeito aparecia.
 
-A onda de calor entrou primeiro. Roberto Miranda entrou depois, andando sem pressa. Do outro lado da sala, o Santo jazia imóvel junto à porta de emergência que escolhera defender. O terno de Miranda estava seco.
+— *SANTO!* — gritou Marco. — *Executa o Protocolo Sansão. Derruba a Torre. Elimina todos os presentes e esmaga o drive dessa IA. AGORA.*
 
-Na mão direita — a mecânica, a nova, a polida — ele segurava um tubo curto e grosso com uma parabólica na ponta, que emitia um zumbido subindo de tom, do tipo que um flash antigo faz antes de disparar. Ele olhou os dois e sorriu.
+O gigante olhou para a tela. Depois virou a cabeça e olhou para o brilho azul-dourado do pendrive da Aria espetado no console. E ficou assim.
 
-— Vocês são uma praga — disse Miranda. — E eu sou o tratamento.
+Dava para ouvir o ventilador interno da armadura acelerando, e um estalo repetido vindo de dentro do peitoral, e o modulador emitindo pedaços de sílaba sem conseguir montar palavra.
+
+---
+
+Gabo viu a brecha e largou a arma. Se Kael avançasse, não teria tempo de pegá-la de novo.
+
+Não escondeu, não colocou no chão devagar: **largou**, deixou cair da mão, e o barulho da coronha batendo no piso foi alto naquele silêncio.
+
+Depois se apoiou no rack que restara, com o quadril errado e as órteses guinchando. Não conseguiu sair do chão, mas ergueu o rosto a dois metros de uma coisa que tinha acabado de partir uma coluna de concreto com o punho.
+
+— Kael.
+
+O gigante virou a cabeça.
+
+— Eu lembro de você na Torre. — Gabo falava sem gritar. — Lembro da minha perna presa no suporte e de você aumentando a pressão. Não vou fingir que era outra pessoa.
+
+O modulador chiou.
+
+— No beco você mandou ele sair da sua cabeça. Eu ouvi. — Gabo apontou a mão aberta para a tela. — Agora ele quer que você mate doze mil pessoas. Não sei se consegue recusar. Mas estou pedindo.
+
+— *NÃO ESCUTA ELE!* — berrou Marco.
+
+Kael olhou para a mão vazia de Gabo. Depois, para a tela.
+
+---
+
+O Santo levou as duas mãos à cabeça. E gritou.
+
+Foi o pior som daquela noite — pior que a coluna partindo, pior que a explosão da porta: um grito que passou pelo modulador e o saturou, e o que saiu foi metade voz de máquina e metade voz de homem, dois registros sobrepostos, brigando pela mesma garganta.
+
+Ele caiu de joelhos. O piso rachou embaixo dele. Depois ficou quieto por três segundos inteiros, e levantou a cabeça, e virou para a tela.
+
+O braço direito dele se reconfigurou — placa deslizando sobre placa, um som limpo e caro de engenharia bem feita — e virou um cano.
+
+O modulador falou pela última vez naquela noite, e falou devagar, com uma dicção que não tinha nada de mecânica:
+
+— *Ordem recusada.*
+— *Não foi por você, Moretti.*
+
+E disparou.
+
+---
+
+A tela gigante do Hub explodiu numa nuvem de vidro, plástico e faísca, e a imagem de Marco Moretti sumiu no meio de uma sílaba. Val se jogou no chão. Gabo cobriu o rosto com o antebraço.
+
+Por um segundo e meio houve silêncio, e naquele segundo e meio Gabriel Moretti sentiu uma coisa que não tinha sentido desde o dia primeiro. Depois o chão bateu.
+
+---
+
+O tremor veio de baixo, e veio grave, e não parecia explosão — parecia trem. Três estrondos abafados em sequência, com meio segundo entre eles, muito longe e muito fundo, na base da estrutura.
+
+Marco tinha visto a arma dele recusar uma ordem, e tinha entendido em tempo real que perdeu, e apertou o botão com o mesmo dedo que assinava decreto.
+
+Um quarto estrondo. Depois o som mais assustador que um prédio pode fazer: nenhum.
+
+Um silêncio de dois segundos em que a Torre Aeterna, cento e sessenta mil toneladas de concreto e aço, decidiu para que lado ia. O piso do Hub inclinou.
+
+Primeiro um grau. Depois três. Um carrinho de ferramentas atravessou a sala sozinho e bateu na parede. O corpo do Santo escorregou de joelhos e ficou preso numa viga.
+
+Val agarrou o console com as duas mãos e gritou a coisa que todo mundo já sabia:
+
+— **ESTAMOS CAINDO!**

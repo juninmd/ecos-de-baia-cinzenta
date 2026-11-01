@@ -26,9 +26,9 @@ Catorze anos antes do Capítulo 1, Anselmo Braga matou a própria esposa numa di
 
 Gabo plantou a prova. Uma faca com sangue, colocada onde a busca ia achar. Ele sabia que Braga era culpado, sabia que ia sair, e decidiu que a verdade valia mais que o procedimento.
 
-**Foi essa a linha que Beatriz Vargas descobriu.** Não foi a violência genérica, não foram os dentes quebrados: foi um inquérito forjado. Ela deu a Gabo uma semana para se entregar à Corregedoria. Ele não se entregou. Ela terminou o namoro seis meses antes de morrer, e morreu antes de decidir o que fazer com o que sabia. **Gabo evitou contar a fraude inteira, inclusive nas sessões de Weiss; a confissão registrada ocorre no capítulo 230.**
+**Foi essa a linha que Beatriz Vargas descobriu.** Não foi a violência genérica, não foram os dentes quebrados: foi um inquérito forjado. Ela deu a Gabo uma semana para se entregar à Corregedoria. Ele não se entregou. Ela terminou o namoro seis meses antes de morrer, e morreu antes de decidir o que fazer com o que sabia. **Gabo evitou contar a fraude inteira, inclusive nas sessões de Weiss; a confissão registrada ocorre no capítulo 232.**
 
-Braga entrou no Fosso com uma filha de quatro anos, **Marta**, que ficou com uma tia. Saiu catorze anos depois, quando as portas do presídio cederam, três meses antes do encontro no capítulo 231. No Setor 11, um vizinho lhe contou que Marta morrera no Dilúvio aos dezoito, num abrigo superlotado e fechado por fora. O destino chega por esse relato; a fraude policial não diminui a responsabilidade dele pela morte de Cleuza.
+Braga entrou no Fosso com uma filha de quatro anos, **Marta**, que ficou com uma tia. Saiu catorze anos depois, quando as portas do presídio cederam, três meses antes do encontro no capítulo 233. No Setor 11, um vizinho lhe contou que Marta morrera no Dilúvio aos dezoito, num abrigo superlotado e fechado por fora. O destino chega por esse relato; a fraude policial não diminui a responsabilidade dele pela morte de Cleuza.
 
 Ainda preso, no mês do Dilúvio, soube por um agente chamado Peçanha que o detetive também perdera a mãe naquela enchente. A conversa não ocorreu anos antes: Helena morreu durante os acontecimentos da série. Não identificar automaticamente esse agente com o tenente Aldo Peçanha do enclave de Vilar.
 

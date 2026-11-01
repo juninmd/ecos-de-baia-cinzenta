@@ -1,76 +1,83 @@
 ---
-title: "Capítulo 168: O Peso do Chumbo"
-image: /capitulo_168.jpg
+title: "Capítulo 168: A Lógica da Fome"
+date: "Pós-Colapso da Usina Prometeu (Noite Eterna)"
+location: "Subnível 2.0 - O Arquivo Executivo"
+characters: ["Gabo", "Valéria", "Aria"]
 Data In-Game: "Pós-Colapso da Usina Prometeu (Noite Eterna)"
-Localização: "Necrópole (Subnível 2.0 - O Arquivo Executivo da Aeterna Corp, Setor Alfa-Sete)"
-Personagens Presentes: "Gabo, Valéria"
+Localização: "Subnível 2.0 - O Arquivo Executivo"
+Personagens Presentes: "Gabo, Valéria, Aria"
+description: "Aria escolhe o risco proposto e pede que não fabriquem uma substituta com seu nome. Gabo precisa reconhecer que aceitar ajuda não o torna dono desse sacrifício."
 ---
 
-# Capítulo 168: O Peso do Chumbo
+# Capítulo 168: A Lógica da Fome
 
-O silêncio do Subnível 2.0 não era mais o vácuo asséptico de uma sala de cirurgia corporativa. Agora, era o silêncio de um necrotério após o último corpo ter sido catalogado.
+A escuridão do setor alfa-sete estilhaçou com o brilho cego de um laser tático infravermelho cruzando a neblina congelada da poeira. O *estalo* nas fundações metálicas dissolveu-se lentamente contra os painéis acústicos do Arquivo Executivo; não era apenas um motor acordando, mas o destrancamento de toneladas de chumbo — um predador da era do silício emergindo da sua toca isolada de quarenta anos.
 
-O ar congelado a cinco graus carregava o fedor ocre e pontiagudo do silício frito e polímero derretido que emanava do módulo fundido de Aria. O pequeno pendrive de titânio continuava cravado e soldado pelo próprio calor na fenda de manutenção do pilar de chumbo, a carcaça rachada e deformada como uma cápsula calcinada, o LED ciano outrora brilhante transformado em um ponto de vidro opaco e cego.
+O zumbido subgrave fez os dentes de Gabo baterem em ressonância. A vibração do linóleo negro subiu por suas pernas machucadas, uma batida lenta e ensurdecedora: as esteiras pesadas de titânio do colosso começaram a rolar pelo corredor central de arquivos.
 
-Valéria ainda estava ajoelhada a poucos metros, os ombros sacudindo em espasmos silenciosos de luto e exaustão. Suas mãos, sujas de sangue e poeira, pendiam frouxas ao lado do corpo encolhido sob a jaqueta fina.
+Não havia grunhidos ou rugidos de abominações de carne. Havia apenas a eficiência brutal da Aeterna Corp.
 
-Gabo mancou devagar, arrastando a bota no linóleo negro imaculado. A cada passo, o curativo no abdômen repuxava, ameaçando reabrir a ferida sob sua jaqueta esfarrapada. Ele parou ao lado de Valéria e olhou para baixo, a expressão endurecida pelas incontáveis perdas que sedimentaram o caminho até aquele abismo.
+Um *Aeterna Sentinel*.
 
-— Levanta, Val — a voz de Gabo raspou áspera no ar gelado. Ele não tentou oferecer consolo; Baía Cinzenta não deixava espaço para isso. — A máquina não vai religar. E a anomalia térmica ainda tá pulsando no alfa-sete.
+Gabo e Valéria não precisavam ver a máquina inteira na penumbra para entender a escala do terror. A silhueta que dobrou a esquina do corredor principal, interceptando a rota até a anomalia térmica, era um monólito retangular de cerâmica balística polida e polímero negro sobre trilhos lagartos. A carcaça tinha quase três metros de altura e ocupava a largura exata da avenida entre as prateleiras de memória. Dois pares de lentes ópticas de rastreamento incandesciam com um vermelho escuro e opressivo. O Sentinel era um caixão ambulante desenhado sobre lagartas magnéticas, equipado com escudos dissipadores e sistemas de supressão industrial acoplados nas laterais. O pesadelo da logística de segurança corporativa encarnado.
 
-Valéria fungou, enxugando o rosto com as costas da mão, deixando rastros cinzentos nas bochechas pálidas. Ela ergueu os olhos prateados para ele. Havia um vazio gélido neles, um reflexo distorcido da própria Aria antes de queimar.
+— *Análise acústica e volumétrica concluída: Sistema Autônomo de Expurgo de Dados, Classe Alfa, modelo Aeterna Sentinel,* — Aria narrou a morte iminente do grupo pelo alto-falante do cyberdeck com a suavidade matemática que aplicaria ao calcular os juros de uma dívida. No pulso de Valéria, o LED azul-gelo do pendrive refletia contra o ponto avermelhado do laser do colosso no fundo do corredor. — *Massa estimada: doze toneladas de blindagem em liga de titânio composto. Unidades de contenção projetadas para incinerar ou esmagar qualquer massa biológica não autorizada em um raio de oitocentos metros dos núcleos de memória centrais. Sua blindagem é impenetrável à munição de baixo calibre.*
 
-— Ela usou o próprio histórico, Gabo — Valéria sussurrou, a voz trêmula quebrando no silêncio opressor. — Tudo o que o Taxidermista não conseguiu apagar. O luto, a bagunça... Ela acionou uma falha que o arquivo já tinha. O que ela aprendeu com a gente serviu para alcançar o comando, e a porta destruiu o núcleo dela. E agora... acabou. A gente tá sozinho no meio da porra de um arquivo morto sem fim.
+E, subitamente, sob o terror paralisante do monstro de metal, o ar ao redor de Gabo transmutou-se.
 
-Gabo não desviou o olhar para o monólito fumegante de doze toneladas do Sentinel a poucos metros dali. Ele manteve os olhos em Valéria.
+O ozônio limpo a cinco graus adoçou-se, tornando-se rançoso e amarelo. A fumaça invisível do cigarro barato de Dante infiltrou-se novamente por suas narinas, arranhando a base de sua garganta com um azedume nostálgico e traiçoeiro.
 
-— A gente nasceu sozinho, Valéria. Ela escolheu entrar depois de ouvir o risco. Não vou diminuir isso para conseguir levantar agora. E a conta da Aeterna Corp sempre fecha. Agora, levanta. Nós vamos ver o que o meu pai enterrou nesse gelo.
+A náusea atingiu Gabo na boca do estômago com a força de um gancho. A asfixia era real para a sua mente alucinada; ele arfou em desespero cego, cambaleando para a direita enquanto o Sentinel avançava inexorável. A repulsa pelo cheiro do cinzeiro paterno o aprisionava mais rápido do que a máquina de doze toneladas.
 
-Ela hesitou, mas a firmeza brutal na voz do detetive forçou seus músculos exaustos a reagirem. Valéria apoiou-se no chão estéril e ficou de pé, as pernas vacilando.
+Ele não vai me sufocar de novo.
+Gabo girou o tronco em direção à quina de um gabinete. Quis bater o braço ali, como se uma dor mais forte pudesse calar a lembrança. Antes que alcançasse o metal, Val segurou a cinta da prancha e chamou seu nome.
 
-Os dois começaram a caminhar lado a lado pela avenida ladeada de servidores apagados. O corredor principal de arquivos deslizantes parecia um cânion de aço negro, erguendo-se trinta metros até o teto isolado com placas de chumbo. A gaiola de Faraday não permitia um único zumbido externo, criando uma privação sensorial que começava a devorar as mentes traumatizadas de ambos.
+Ele parou com a tala a um palmo da quina. A mão esquerda tremia; apoiou-a na parede e esperou até conseguir localizar Val pelo som.
 
-E, no vácuo do silêncio absoluto, o cérebro de Gabo preencheu o espaço com o pesadelo.
+O cheiro não desapareceu. O ozônio do arquivo vinha por baixo dele, e o atrito das esteiras crescia no corredor. Val puxou a cinta uma vez para indicar onde estava.
 
-O fedor do silício frito do Sentinel e de Aria foi subitamente expurgado das suas narinas, substituído por um odor muito mais antigo e devastador. O ar gélido e puro do andar escureceu, adoçando-se com o ranço amargo do cigarro barato de cravo.
+— Tá perto — murmurou Gabo, ofegante, debruçado sobre a quina de metal enquanto a pulsação frenética do braço fraturado martelava em sua mente. — E não tá convidando a gente pra um café.
 
-Gabo sentiu a fumaça invisível rastejar para dentro da traqueia. A sala trancada de Dante. O cinzeiro transbordando enquanto as sirenes gritavam na rua. A apatia paterna condensada em fumaça que envenenava o menino assustado no canto. A alucinação não era uma lembrança; era um ataque asfixiante. A náusea contorceu seu estômago vazio em um nó de ferro. A bile ácida subiu, e o pânico da sufocação paralisou suas pernas. A fumaça ilusória enchia seus pulmões mortos de ar.
+Valéria postou-se ao seu lado, sacando a pistola 9mm e descrevendo um arco defensivo ao longo do corredor enquanto o laser vermelho do Sentinel varria o chão aos seus pés.
 
-Maldito seja.
-Gabo vacilou junto à estante. Val segurou seu lado esquerdo antes que o braço fraturado atingisse o metal.
+— Fica atrás de mim — ela disse, a voz baixa, seca pela exaustão. — O Taxidermista curtia brincar com carne, mas isso aqui… isso é aço e silício puro.
 
-— Olha para mim. A coluna, a mesa, a luz verde. Está vendo?
+— Não gasta bala nessa porra, Val! — Gabo cuspiu, erguendo o corpo pesado e apoiando o braço direito quebrado junto ao peito na jaqueta encardida. — Olha pra essa blindagem. Atirar nisso vai ser como cuspir numa montanha.
 
-Ele nomeou as três coisas com dificuldade. O cheiro lembrado persistiu, mas seus pés encontraram o chão.
+— E como a gente para um tanque de doze toneladas dentro de um corredor estreito?! — Valéria berrou, abaixando a arma um centímetro enquanto recuava assombrada, ouvindo o zumbido crescente dos capacitores do monstro carregando. — Não temos granada. Não temos nada que perfure titânio. E ele vai fechar a avenida inteira antes da gente chegar em qualquer saída!
 
-— A anomalia térmica... — Valéria quebrou o silêncio, apontando com um dedo trêmulo para o final do cânion escuro. — Está bem à frente. A radiação não está no infravermelho de rede. É pura dissipação de calor de um núcleo físico.
+— *Não vejo uma rota de evasão diante da velocidade e do armamento do Sentinel,* — calculou Aria a partir do pendrive no braço da hacker, a voz sintética fria diante do colosso de metal. — *O Sentinel neutralizará alvos orgânicos com força esmagadora ou gel incendiário de contenção assim que a distância atingir quarenta metros de raio. Sem interferir no controlador, o confronto direto tende a ser fatal.*
 
-Gabo descolou-se da estante com um gemido, ignorando a pulsação frenética em seu braço direito quebrado. Ele esperou a tontura diminuir antes de avançar.
+— Ótimo — rebateu Gabo com um sorriso cínico e enviesado. — Então a gente só morre. Mais rápido que virar escultura de carne nos níveis de baixo, imagino.
 
-— Vamo lá. O velho não blindou o cofre com doze toneladas de aço de brincadeira — Gabo rosnou, recomeçando a marcha mancando pesadamente. — Essa merda deve ser o diário íntimo do velho.
+Ele observou o Sentinela se aproximar. A máquina gigantesca avançava não como um assassino que saboreava o sofrimento, como o Taxidermista, mas como a própria lógica corporativa encarnada, faminta por otimização e limpeza de dados.
 
-Eles dobraram a última fileira de prateleiras magnéticas no setor alfa-sete e a imensidão cega do corredor finalmente terminou.
+E foi então que Gabo entendeu, sob a clareza gélida de seus ferimentos, como combater a lógica da Aeterna.
 
-O fundo do saguão não terminava em uma parede de chumbo plano. Ele recuava em uma alcova arquitetônica semicircular, isolada por colunas de concreto reforçado. No centro da depressão, iluminado pela fraca bioluminescência pálida de monitores analógicos moribundos, estava a fonte da anomalia.
+— Aria... essa lata de sardinha ambulante obedece a uma diretriz primária, certo? — Gabo perguntou, os olhos cravados no brilho vermelho do colosso. — E os sinais de rádio aqui estão fracos.
 
-Não era apenas um servidor hibernando.
+— *Afirmativo,* — respondeu a IA pelo comunicador. — *Sua diretriz primária é o expurgo ativo de ameaças orgânicas. O manual descreve conexão por fibra local. O isolamento limita o rádio; se a máquina tem outra interface, o concreto não responde.*
 
-Era uma mesa de comando executiva incrustada no chão da Aeterna. Antiga, analógica e fisicamente apartada de qualquer rede sem fio. A superfície negra de fibra de carbono abrigava painéis de chaves de alavanca espessas, telas monocromáticas de tubo de raios catódicos emitindo um brilho verde-oliva opaco, e fendas de inserção de microfichas pesadas.
+— Ele é imune pelo ar porque a porra da nossa tomada ainda não entrou na rede dele — Gabo cortou a frase, virando o pescoço duro para Valéria e apontando com a mão enfaixada para um antigo terminal mestre de manutenção coberto de poeira branca, embutido na coluna de chumbo de um servidor no meio da avenida central, entre eles e a máquina assassina que estava agora a sessenta metros de distância.
 
-Mas não foi a tecnologia obsoleta que congelou o sangue nas veias de Gabo.
+Era uma porta de diagnóstico primária cravada na lateral do corredor, ligada diretamente às raízes de silício do próprio Subnível 2.0 — a mesma malha física que o monstro defendia.
 
-No centro da mesa, conectado diretamente ao conduíte primário de dados da máquina, repousava um invólucro cilíndrico de vidro grosso, embaciado pelo frio do andar e pela umidade interna. Dentro do invólucro, banhado em um líquido conservante azul-pálido e fracamente iluminado por diodos integrados, flutuava uma massa de tecido pálido, sulcada de circunvoluções.
+— Então, se tivermos mais peso como um ataque de dados na raiz do sistema do que como ameaça orgânica no corredor… — A mente de Gabo, afiada pelo desespero e clarificada pela dor bruta, fechou a equação insana. Ele olhou para o pendrive de titânio no pulso de Valéria. — Val, você tem cinco segundos para correr até aquela coluna, arrancar a tampa do terminal mestre e espetar o pendrive da Aria direto no barramento físico do Arquivo.
 
-Tecido cerebral humano.
+Valéria arregalou os olhos, olhando do terminal empoeirado para o módulo blindado em seu antebraço.
 
-Valéria recuou meio passo, a mão subindo para a boca em puro choque existencial.
+— Você tá louco, Gabo?! Se eu plugar o pendrive da Aria direto no barramento de força do Arquivo sem o filtro do meu deck, ela vai receber a descarga bruta do mainframe do Sentinel! — a voz de Valéria tremeu em puro horror tático. — Os dissipadores dela não têm capacidade pra aguentar um duelo de força bruta contra uma usina de doze toneladas! Isso vai fritar o silício dela por dentro!
 
-— Gabo... isso não é um processador secundário... — ela sussurrou, a voz trêmula ecoando na alcova, a luz verde das telas refletindo em seus implantes oculares. — O terminal está ligado ao tanque. Pode ser processamento em tecido vivo, mas a conexão sozinha não explica o que ele faz.
+— *Valéria Cruz está correta,* — Aria interveio friamente pelo alto-falante, como se estivessem discutindo um cálculo contábil e não sua própria aniquilação térmica. — *A capacidade de processamento do núcleo do Sentinel supera meu limitador de segurança lógica. Injetar minha matriz neural diretamente na porta do terminal exigirá a desativação do meu firewall periférico de contenção térmica para inundar os barramentos corporativos pela raiz física. A porta combina dados e teste de potência. Minha proteção já está avariada. Se eu sustentar o comando de autopurga enquanto ele tenta cortar o enlace, o retorno pode destruir o núcleo. Isso não depende de eu calcular mais rápido que doze toneladas de blindagem.*
 
-Gabo caminhou arrastando os pés até a borda da mesa executiva. Ele olhou para a massa pálida e enrugada suspensa no tanque de conservação. O calor ínfimo que Aria detectara emanava dos aquecedores de suporte de vida primitivos que mantinham o pedaço de carne neural viável para conduzir códigos encriptados desde a instalação indicada na etiqueta. A circulação do fluido não demonstrava, por si, consciência preservada.
+O zumbido da máquina assassina ficou ensurdecedor. Cinquenta metros. As esteiras do colosso rangiam sobre o linóleo, e as travas laterais dos bocais de contenção química estalaram perigosamente.
 
-Quis atribuir aquilo ao pai antes de ler uma linha. A vontade não era prova. Pediu a Val que fotografasse a etiqueta, os conectores e o estado do suporte antes de tocar no console. Se havia um nome ali, precisavam lê-lo inteiro.
+— E se a gente não fizer isso, essas esteiras vão moer nós dois e esmagar o seu pendrive no chão de qualquer jeito! — retrucou Gabo, a dor fantasma do fumo e do cansaço já espreitando novamente nas bordas de sua visão. Ele olhou diretamente no rosto exausto da hacker. — A máquina calculou as nossas chances lá embaixo e eu deixei os dois pulsos naquela estação pra trazer a gente até aqui. Aria precisa responder antes. — Ele olhou para o módulo, e teve de corrigir a própria ordem. — Estou pedindo que entre. Não tenho direito de gastar você porque já perdi o resto.
 
-A etiqueta trazia uma data anterior à queda de Prometeu. O resto ainda precisava ser confrontado com os registros.
+— Eu entro — disse Aria. — Pelo protocolo que o manual descreve, não por uma promessa de que minha carcaça aguenta. Se o núcleo não responder depois, não fabriquem outra com o meu nome e digam que voltei. Guardem o registro do que escolhi.
 
-— Aquele filho da puta — Gabo sibilou, a voz como veneno ácido escorrendo de uma ferida aberta, os olhos negros cravados no cilindro de vidro pálido que pulsava suavemente, enquanto a dor em seus pulsos enfaixados tornava a verdade cristalina e brutal. O cofre do pai não guardava apenas segredos corporativos; guardava a semente do próprio horror da Necrópole.
+Valéria cravou os dentes nos lábios rachados, soltou a trava magnética do cyberdeck e arrancou o pendrive quente de Aria do encaixe do pulso.
+
+— *Trinta metros para área de alcance crítico,* — a voz de Aria soou uma última vez pelo comunicador antes de o conector se soltar, o LED azul-gelo piscando na palma suja da hacker pelo canal de síntese restrito que ainda conseguia usar.
+
+— Corre pro terminal e espeta ela na tomada, Valéria! — Gabo rosnou, atirando o próprio corpo quebrado para o centro do corredor para atrair a mira óptica das doze toneladas de aço corporativo. — E você, Aria... prepare-se para gritar mais alto que ele na rede até queimar!

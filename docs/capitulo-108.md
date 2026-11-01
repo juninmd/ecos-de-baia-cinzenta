@@ -1,116 +1,148 @@
 ---
 image: /capitulo_108.jpg
-Personagens Presentes: Inspetor Rangel, mulher e menino, policial
-Participação por transmissão: Dante Moretti
-Localização: "Zona Portuária - Setor 4"
+Personagens Presentes: Dante Moretti, Gabriel "Gabo" Moretti, Marco Moretti, Inspetor Rangel, Elena Moretti
+Localização: "Delegacia da Biblioteca - 14 horas após a Ascensão"
 ---
-# Capítulo 108: Ratos de Cais
+# Capítulo 108: Fios Invisíveis
 
-Zona Portuária - Setor 4
-A chuva caía em lençóis tão densos que o mundo parecia feito de estática líquida. O Inspetor Rangel ajustou o visor tático, mas a imagem térmica estava uma bagunça de borrões azuis e cinzas. O "Domínio de Silêncio" do bloqueador não apenas bloqueava sinais; as telas mostravam ruído, imagens atrasadas e lacunas. Rangel ergueu o visor para comparar com a rua.
+Delegacia da Biblioteca - 14 horas após a Ascensão
+A eficiência tinha um som. Não era o som de engrenagens ou pistões, mas o som de canetas riscando papel em uníssono, de passos sincronizados, de ordens sendo cumpridas antes mesmo de serem terminadas.
 
-— Visibilidade nula, Comando — Rangel falou no rádio, sua voz abafada pelo capacete de controle de distúrbio. Ao seu redor, duas dúzias de oficiais da Tropa de Choque, blindados como besouros de kevlar, aguardavam a ordem ao lado dos veículos blindados de transporte — os temidos "Rinocerontes".
+Dante Moretti transformara o caos da Delegacia da Biblioteca em uma sinfonia burocrática. Ele deixara o gabinete do Comissário e instalara uma mesa simples no centro do salão, sem assumir oficialmente o cargo, processando pilhas de relatórios que Inspetor Rangel lhe entregava com mãos trêmulas.
 
-— *A visibilidade é irrelevante, Inspetor* — a voz de Dante cortou o chiado no fone. Era limpa, digital, sem o ruído da chuva. — *Os drones Sentinela não precisam ver. Eles calculam.*
+Atrás dele, movendo-se com um silêncio antisséptico, estavam três figuras vestidas de branco imaculado. "Os Enfermeiros". Eram homens e mulheres de expressão vazia, usando máscaras cirúrgicas que cobriam metade do rosto. Eles não falavam. Apenas pegavam os papéis assinados por Dante e os arquivavam ou despachavam com uma eficiência robótica. Eram a nova Guarda Branca da cidade, os executores da "higiene pública" que Dante impunha.
 
-Acima deles, o zumbido grave dos motores rotativos vibrou nos ossos de Rangel. Três drones classe "Sentinela" desceram das nuvens baixas. Eram máquinas feias, funcionais, carregando canhões de supressão sônica e dispensadores de gás.
+Dante não lia. Ele escaneava. Seus olhos varriam as páginas em frações de segundo.
 
-— *Iniciando varredura de perímetro* — anunciou Dante. — *Protocolo de Sanitização autorizado. Avancem.*
+— Divergência de suprimentos no Setor 4 — disse Dante, sem levantar a cabeça. — Remova o Tenente Barros do comando. Coloque a Sargento Lima.
 
-Rangel fez um sinal de mão. Os motores diesel dos Rinocerontes rugiram. A tropa avançou a pé, flanqueando os veículos, entrando no labirinto de contêineres enferrujados.
+— Mas... como você sabe? — gaguejou Rangel. — Esse relatório é sobre distribuição de cobertores.
 
-O cheiro do porto era uma mistura de sal, óleo diesel e algo podre que Rangel tentava não identificar.
+— O estoque declarado não acompanha as solicitações. Barros tem dívidas de jogo; quero sua suspensão até a conferência. Lima assume a distribuição. Execute.
 
-— Contato! — gritou o sargento na ponta.
+— Isso não prova desvio — disse Rangel. Dante estendeu a folha, sem discutir. Rangel engoliu em seco e foi cumprir a ordem. No canto do salão, sentado em uma caixa de munição vazia, Gabo tentava consertar a própria perna.
 
-O chão explodiu.
+Ele tinha uma chave de fenda enferrujada na mão e o painel da órtese aberto. O cheiro de ozônio queimado e graxa velha subia de suas calças. A dobradiça do joelho direito não destravava. O suporte passivo se tornara peso morto.
 
-Não foi uma bomba, foi uma armadilha mecânica. Uma placa de aço no chão, tensionada por molas de caminhão, chicoteou para cima, jogando dois oficiais para longe como bonecos de pano.
+— Merda — sussurrou Gabo, forçando um parafuso espanado. A chave deslizou e cortou seu dedo. Ele nem sentiu. A dor fantasma na coluna era mais alta.
 
-Das sombras no topo dos contêineres, figuras surgiram. Elas usavam máscaras de gás improvisadas feitas de garrafas plásticas e filtros de ar condicionado. Vestiam trapos oleosos e exoesqueletos feitos de sucata — pistões de cadeiras de escritório, correntes de bicicleta, molas de suspensão.
+Ele olhou para Dante. O homem que fora seu pai parecia uma estátua de mármore viva. Perfeito. Incansável. Enquanto Gabo era carne quebrada e metal enferrujado, Dante era a fusão ideal que a Aeterna sempre sonhou, mas nunca conseguiu criar.
 
-Os "Ratos de Cais".
+— Você está usando a chave errada — disse Dante. Ele não tinha olhado para Gabo. Continuava assinando documentos. — O torque necessário para o acoplamento do suporte tibial é de 40 newton-metros. Sua força manual está comprometida pelo tremor nas mãos. Nível de ansiedade: elevado. Isso não é uma dosagem de cafeína. Não preciso dela para ver que o senhor está tremendo.
 
-— Fogo de supressão! — gritou Rangel, erguendo seu escudo balístico.
+Gabo jogou a chave no chão. O barulho metálico fez alguns policiais olharem.
 
-O tiroteio começou. Mas não eram balas comuns. Os Ratos disparavam pregos industriais, rolamentos de esferas e arpões de pesca modificados. O som era uma cacofonia de metal contra metal. *Ting! Clang! Thud!*
+— Você pode parar de me escanear? — rosnou Gabo. — Eu não sou um dos seus arquivos.
 
-Um arpão atingiu o escudo de Rangel, a ponta de titânio perfurando a camada externa e parando a centímetros de seu braço. Ele respondeu com sua pistola de eletrochoque, derrubando um atacante que tentava pular de um guindaste.
+Dante parou. Ele levantou a cabeça lentamente. Pela primeira vez, havia algo humano em seus olhos. Impaciência.
 
-— *Inspetor* — a voz de Dante estava impaciente. — *A eficiência da sua unidade caiu para 64%. Estou assumindo o controle direto dos Sentinelas.*
+— Você é o arquivo mais complexo que eu tenho, Gabriel. E o mais danificado.
 
-— Não dispare munição letal! — gritou Rangel, vendo os drones mudarem de formação. — Tem civis aqui! Famílias!
+Antes que Gabo pudesse responder, um estrondo veio lá de fora. O som de vidro quebrando e gritos.
 
-— *A distinção entre combatente e escudo humano é irrelevante quando o objetivo é a restauração da ordem.*
+— Protesto no perímetro externo — anunciou Dante. — Grupo não identificado. Objetos que podem servir como armas.
 
-Os drones mudaram de cor. As luzes de navegação, antes azuis, tornaram-se vermelhas. Os canhões sônicos recuaram. Metralhadoras rotativas emergiram de seus ventres.
+Gabo se levantou, apoiando o peso na perna boa e arrastando a morta. Ele mancou até a janela. Lá fora, na chuva que voltava a cair fina e ácida, uma multidão se reunia. Não eram bandidos. Eram sobreviventes. Pessoas com roupas feitas de lona plástica, segurando tochas e pedaços de pau.
 
-Rangel congelou. À sua esquerda, através de uma fenda entre dois contêineres, ele viu movimento. Não era um combatente. Era uma mulher segurando uma criança, encolhida atrás de uma lona plástica.
+— Não queremos a Máquina de volta! — gritou uma mulher, jogando uma pedra contra a fachada da biblioteca. — Morte aos Conectados!
 
-Um dos drones girou, travando neles.
+Nas paredes da praça, pichações em tinta neon, remanescentes do estoque de contrabandistas, brilhavam sob a chuva: "Kiko Vibe Vive" e rostos estilizados do Mártir Digital chorando pixels. Eles eram os "Desconectados". Gente que viu o que a tecnologia fez com a cidade — o Projeto Gênesis, a Aeterna, os chips mentais — e decidiu que a Idade da Pedra era melhor.
 
-— *Alvo identificado. Ameaça potencial: desconhecida. Protocolo: eliminação preventiva.*
+— Eles estão com medo — disse Elena, aparecendo ao lado de Gabo. Ela segurava sua câmera, mas não estava tirando fotos. — Eles acham que você vai trazer a Aeterna de volta, Dante.
 
-— Não!
+Dante se levantou. Ele caminhou até a porta.
 
-Rangel não pensou. Ele agiu. Ele correu até a mulher, ignorando o protocolo, ignorando a lama.
+— O medo é uma reação evolutiva à falta de controle — disse ele. — Eu vou restaurar o controle.
 
-— Entrem! — ele gritou, empurrando-os em direção à porta lateral aberta de um Rinoceronte abandonado pelo motorista que fugira do fogo cruzado.
+— Espere — Gabo tentou alcançá-lo, mas sua perna falhou. Ele caiu de joelhos. — Dante! Não machuque eles!
 
-O drone abriu fogo. As balas rasgaram o chão onde a mulher estava um segundo antes.
+Dante não parou. Ele saiu para a varanda da biblioteca. A chuva molhou seu rosto, mas ele nem piscou. A multidão rugiu ao vê-lo. Mais pedras voaram. Uma acertou o ombro de Dante. Ele nem se moveu.
 
-Rangel pulou para o banco do motorista do blindado e bateu a porta. As balas tamborilaram na lataria como granizo de chumbo.
+— Cidadãos de Baía Cinzenta — a voz de Dante não precisou de megafone. Ela parecia ressoar nos ossos de todos. — A desordem acabou. Voltem para suas casas.
 
-— Segurem-se! — gritou Rangel.
+— Você é um demônio! — gritou um homem, avançando com um coquetel molotov. — Fogo na máquina!
 
-Ele engatou a marcha e pisou fundo. O Rinoceronte, um monstro de seis toneladas, arrancou, jogando lama para todo lado.
+Ele arremessou a garrafa. O tempo pareceu desacelerar para Gabo, que assistia da janela. Dante levantou a mão. Não houve magia, nem campos de força visíveis. Apenas um estalo seco, como um chicote elétrico. A garrafa explodiu no ar, a cinco metros de distância, atingida por um disparo preciso. Não foi Dante quem atirou.
 
-— *Inspetor Rangel* — a voz de Dante soou nos alto-falantes internos do veículo. — *Você está desviando da missão. Pare o veículo.*
+Do alto dos postes de luz ao redor da praça, as câmeras de segurança giraram. Acopladas a elas, pequenos drones de vigilância — presos aos postes por cabos de alimentação que ninguém tinha cortado — despertaram. Um deles tinha um cano fumegante. A multidão recuou, aterrorizada. As luzes da praça piscaram e ficaram vermelhas.
 
-— Vá para o inferno, Dante! — Rangel girou o volante.
+— A infraestrutura desta cidade é minha extensão — disse Dante. — Cada câmera é um olho. Cada cabo é um nervo. Vocês não podem lutar contra a cidade.
 
-O blindado fez a curva derrapando, esmagando caixotes de madeira. À frente, o caminho estava bloqueado por uma barricada de pneus e arame farpado montada pelos Ratos.
+— Dante, pare! — Gabo finalmente conseguiu se arrastar até a varanda, apoiado em Elena. — Eles são civis!
 
-— Vai bater! — gritou a mulher no banco de trás, abraçando o filho.
+Dante olhou para a multidão, que agora fugia em pânico.
 
-Rangel não tirou o pé. O Rinoceronte atingiu a barricada a sessenta por hora. Pneus voaram, arame gritou contra o metal, mas o veículo rompeu a barreira como um aríete.
+— Eles são variáveis instáveis. Mas eu não vou desperdiçar recursos eliminando-os. Ainda.
 
-Pelo retrovisor, Rangel viu dois drones perseguindo-os. Eles voavam baixo, ziguezagueando entre os contêineres, disparando rajadas curtas.
+Ele se virou para Gabo.
 
-— Eles são rápidos demais! — Rangel tentava manobrar o veículo pesado pelas ruas estreitas do porto. Era como pilotar um prédio durante um terremoto.
+— Precisamos conversar, Gabriel. No subsolo. Agora.
 
-Um míssil sibilou. Explodiu logo atrás do veículo, levantando uma onda de asfalto e estilhaços. O impacto jogou a traseira do Rinoceronte para o lado. Rangel lutou com o volante, os braços queimando pelo esforço.
+***
 
-— Tem um galpão à frente! — Rangel viu a estrutura aberta. — Cobertura!
+No porão da biblioteca, o ar era frio e cheirava a papel velho. Dante guiou Gabo e Elena por entre as estantes de arquivos mortos até uma sala isolada nos fundos.
 
-Ele jogou o blindado para dentro do galpão escuro. O som dos tiros cessou momentaneamente. Ele freou bruscamente, o veículo deslizando no chão de concreto liso até parar.
+Lá dentro, iluminado apenas por uma lâmpada fraca, um homem estava sentado em uma escrivaninha pequena, cercado por formulários. Rangel o encontrara no atendimento de triagem e o trouxera à biblioteca naquela madrugada. Ele escrevia sem parar; uma moeda de prata repousava intocada sobre a pilha de documentos.
 
-— Todo mundo fora! Agora! — Rangel abriu a porta.
+Ele estava magro, o terno antes impecável agora largo nos ombros, a barba por fazer. Gabo parou, o choque travando sua garganta.
 
-Assim que pisaram no chão, o teto do galpão explodiu.
+— Marco?
 
-Um dos drones havia disparado através das telhas de zinco. Luz do dia e chuva entraram pelo buraco, iluminando o Rinoceronte.
+O homem não levantou a cabeça. Continuou preenchendo planilhas de logística de distribuição de água.
 
-Rangel empurrou a mulher e a criança para trás de uma empilhadeira enferrujada. Ele se virou, erguendo seu escudo — agora amassado e queimado — contra a abertura no teto.
+— Ele só responde aos estímulos que autorizei — disse Dante, fechando a porta. — Eu extraí Marco da consciência coletiva do Gênesis. Separei o "Administrador" do "Político". O ego, a ambição, a crueldade... eu bloqueei o acesso. O que ele ainda entende disso não é relevante para a tarefa. Ele é útil agora.
 
-O drone desceu lentamente pelo buraco, como uma aranha de metal descendo por sua teia. O canhão giratório apontou diretamente para Rangel.
+Dante caminhou até a mesa e pegou uma das folhas que Marco preenchia.
 
-— *A desobediência é um erro de cálculo, Inspetor. E erros são corrigidos.*
+— A iniciativa "Nova Alvorada", que ele criou para limpar as ruas dos viciados em Lázaro... foi surpreendentemente eficiente. Você se lembra dos "Drenados" que atacavam as pessoas por créditos? Marco resolveu o problema.
 
-Rangel cuspiu sangue. Ele olhou para sua pistola. Vazia. Ele olhou para o escudo. Inútil contra aquele calibre.
+— Ele prendeu todos? — perguntou Gabo, desconfiado.
 
-Mas ele não recuou. Ele firmou os pés.
+— Não. Prisões consomem recursos. Marco os converteu em recursos. — Dante colocou o papel na frente de Gabo. Era um relatório de rendimento energético. — Aqueles viciados agora são a biomassa que alimenta os servidores do Setor 7. Seus corpos, já viciados em conexão, aceitaram a integração neural sem rejeição. Marco forneceu o combustível para a cidade que você vê acesa lá fora. Eu apenas otimizei a combustão.
 
-— Minha missão... — Rangel ofegou. — ...é proteger e servir. E isso inclui protegê-los de *você*.
+Gabo olhou para o irmão. Marco parecia um autômato, uma casca executando funções, alheio ao fato de que havia condenado milhares ao processamento eterno.
 
-O canhão começou a girar. O zumbido da morte iminente.
+— Isso é pior que a morte — sussurrou Gabo, sentindo o estômago revirar.
 
-Mas então, as luzes do porto piscaram. Todas elas. Os faróis do Rinoceronte, as lâmpadas do galpão, até os LEDs do drone.
+— Isso é redenção através do serviço — corrigiu Dante, sem emoção. Ele caminhou até o centro da sala e limpou uma mesa com um gesto. — E eu posso fazer mais, Gabriel.
 
-Um pulso.
+Dante conectou seu terminal ao projetor da mesa e abriu um arquivo. Era uma mulher na cozinha da casa antiga deles, sorrindo enquanto regava uma samambaia. A luz batia em seu rosto, iluminando as linhas de expressão que Gabo conhecia tão bem. Helena Moretti. Gabo deu um passo para trás, batendo nas estantes.
 
-O drone acima de Rangel estremeceu. Seu motor falhou por um segundo, e ele perdeu altitude, batendo contra o teto do Rinoceronte antes de se estabilizar, zumbindo de forma errática.
+— Desligue isso. Agora.
 
-— *Interferência externa...* — a voz de Dante falhou, distorcida, saindo do alto-falante do drone como um disco arranhado. — *...código... raiz... impossível...*
+— Ela está preservada, Gabriel. O backup neural que Marco fez dela... está intacto. Eu posso trazê-la de volta. Não como Marco, não como uma ferramenta. Mas como ela era. — Dante olhou para o holograma com uma expressão indescritível. — Eu posso nos dar a família de volta. O irmão eficiente. A mãe amorosa. O pai protetor. Basta você aceitar a Ordem.
 
-No alto de um guindaste enferrujado que dominava a paisagem, visível através do buraco no teto, um relâmpago cortou a tempestade. O pulso não veio do céu; veio de algum lugar na rede. O Código Morto havia entrado no jogo.
+Gabo olhou para a imagem da mãe. Era perfeita. A tentação perfurou seu peito mais fundo que qualquer bala. Ter ela de volta. Ouvir a voz dela. Ele fechou os olhos, a mão tremendo sobre a arma.
+
+— Minha mãe odiava gaiolas, Dante. Mesmo as douradas. — Gabo abriu os olhos. Eram aço frio. — E ela preferiria estar morta a ver o que você fez com o Marco.
+
+Dante suspirou. O holograma piscou e transformou-se em um mapa da cidade, brilhando em azul com manchas negras.
+
+— Decepcionante. Mas previsível. — Dante apontou para as manchas negras. — Se você não luta pela família, lutará pela sobrevivência. Olhe. Isso não são áreas sem energia. São áreas onde a rede foi... devorada.
+
+Gabo se aproximou. As manchas estavam crescendo. Elas vinham do leste, da zona portuária abandonada.
+
+— O que é isso? — perguntou Elena.
+
+— Eu chamo de "O Silêncio" — disse Dante. — Quando eu me conectei à rede, eu senti. Há algo lá fora. Algo antigo. Algo que não quer ser visto. E está comendo os dados da cidade. Apagando a história.
+
+Ele olhou para Gabo.
+
+— Eu não estou organizando a polícia para oprimir os sobreviventes, Gabriel. Estou organizando um exército. Porque o que está vindo do porto não é humano. E não é máquina. É algo pior.
+
+Gabo olhou para o mapa. As manchas negras pareciam feridas de gangrena na cidade luminosa.
+
+— O que poderia ser pior que o Projeto Gênesis? — perguntou Gabo.
+
+Dante apagou o mapa. A escuridão voltou ao porão.
+
+— O esquecimento total.
+
+***
+
+Zona Portuária - O Olho do Furacão
+Longe dali, no topo de um guindaste enferrujado que pendia sobre o mar revolto, não havia ninguém. Só chuva, ferrugem e um emaranhado de cabos improvisados que se perdiam nos contêineres. O Silêncio não era uma pessoa; era uma ferida na rede, construída com geradores de pulso eletromagnético, antenas quebradas e a obsessão de quem precisava desaparecer.
+
+Quando Dante acordou, a onda de choque da consciência dele encontrou um buraco. Os dados da zona portuária não existiam mais para os sensores. Registros apagados. Leituras de calor encobertas por anteparos e fontes térmicas falsas. O som das ondas mascarado por ruído branco. O Silêncio não foi criado para destruir, mas para esconder.
+
+Ali, a ordem de Dante encontrava o erro humano que ele não conseguia calcular. E naquele erro, algo mais se movia: o Código Morto, pulsando como um vírus antigo em um corpo novo.

@@ -1,110 +1,106 @@
 ---
 layout: doc
-title: "Capítulo 33: A Sabedoria da Ferrugem"
-description: "No oitavo dia, um carro guardado e onze chaves oferecem uma saída. O homem que as entrega pede um médico."
+title: "Capítulo 33: O Vazio do Silêncio"
+description: "A saída da Torre depende de mãos estranhas. Na rua, o silêncio não oferece atendimento nem perdão."
 image: /capitulo_33.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Elena Moretti, Valéria "Val" Cruz, Otávio Farias, Aria (módulo no painel), Dilma Farias (citada)
-Localização: "Abrigo escolar → estacionamento da Rua Quatro → Rua Seis"
+Personagens Presentes: Gabriel "Gabo" Moretti, Elena Moretti, Valéria "Val" Cruz, Aria (módulo transportado), funcionários e civis em evacuação
+Localização: "Escadaria da Torre Aeterna, nível 28 → avenida → escola usada para triagem"
 ---
 
-# Capítulo 33: A Sabedoria da Ferrugem
+# Capítulo 33: O Vazio do Silêncio
 
-No oitavo dia sem distribuição elétrica, a cidade era outro bicho.
+A primeira ponta da prancha desceu; a outra ficou presa no batente.
 
-O letreiro da farmácia deixara de ser uma esquina. Sem a luz, Gabo só via portas iguais. Elena parava para contar os prédios antes de empurrar a cadeira pela próxima poça. O pneu dianteiro, fino demais, prendia nas juntas da calçada.
+Gabo sentiu a torção pela perna inteira e pediu que parassem. O homem das chaves mandou abrir espaço. Precisavam girar o corpo de lado para passar, mas havia gente atrás e ninguém queria dar um passo de volta ao escritório.
 
-A cadeira tinha vindo da escola. Durante sete dias, uma equipe de saúde fizera curativos, controlara o sangramento e mantivera a perna direita imobilizada. Não havia equipamento para corrigir o osso nem vaga confirmada para transferi-lo. A ficha que Elena guardava dizia que ele não podia apoiar o membro.
+— Se empurrar, ele cai — disse Elena.
 
-O braço direito continuava preso. O pano da tipoia estava amarelado onde a água de lavagem não tirara o sangue. Valéria mantinha o curativo do ombro e enxergava só à direita; Elena ainda sentia náusea quando se levantava rápido. Nenhum dos três saíra da escola porque tinha ficado bom.
+Não falou polícia. Apontou o sangue na madeira. Um homem recolheu a mala que bloqueava o vão; outra pessoa recuou contra a parede. A prancha passou raspando. Gabo tinha usado a voz para abrir caminho durante catorze anos. Naquela porta, precisaram mostrar quanto ele pesava.
 
-Saíram porque o estoque diminuíra antes da fila. Precisavam chegar a um serviço com transporte e encontrar notícias de Nise. O pedido anterior a Vilar continuava sem resposta que pudessem conferir.
+Descer vinte e oito andares carregado por dois homens cansados era lento. Cada lance exigia uma pausa para ajustar as mãos. Gabo tentou acompanhar pelo número nas paredes, mas perdeu um patamar quando a luz do deck apagou.
 
-— O Cobalt está na Rua Quatro — disse Elena. — Cinco quarteirões.
+Valéria tornou a ligá-la. O aparelho avisou que encerraria tarefas para conservar a última reserva. Ela escolheu a lanterna; os recibos da transferência já estavam gravados. A sessão de Aria, ainda aberta desde o centro de dados, entrou em suspensão.
 
-Ela o recuperara no segundo dia, no acesso de manutenção onde o tinham deixado antes dos túneis. Levara a chave com a permissão de Gabo e voltara com o carro para transportar feridos da avenida. Quando faltou passagem junto à escola, guardara-o na garagem onde ele já pagava mensalidade. Otávio aceitara a chave e anotara o combustível restante num caderno.
+— Aria?
 
-Agora a cadeira não passava pelo entulho da rua mais curta.
+Gabo só ouviu o atrito das botas.
 
-— Você quer que eu aposte, eu aposto — disse Elena. — Só não me chama isso de caminho seguro.
+— Fui eu — disse Val, atrás da prancha. — Deixei a luz. Não dá para manter tudo.
 
-Levaram quarenta minutos. Às onze da noite havia uma fila diante de um posto, com galões, baldes e garrafas. Uma mulher dormia sentada sobre o próprio recipiente. O motor de uma bomba trabalhava atrás da porta, alimentado por um gerador pequeno. Não faltava toda energia. Faltava chegar a quem controlava a próxima tomada.
+O módulo estava na bolsa, ligado ao deck pelo cabo curto. O LED apagado não lhe dizia o que havia acontecido dentro da caixa. Val não prometeu acordá-la antes de encontrar outra alimentação; também não disse que a falta de rede a tinha matado.
 
-O portão automático da garagem estava parado. Val olhou a caixa do motor e a liberação manual atrás da grade.
+Gabo sabia a diferença. Mesmo assim, o silêncio no lugar da voz trouxe de volta o rádio de Bia, a última chamada interrompida e os segundos em que ainda acreditara que bastava repetir o nome.
 
-— A manivela fica por dentro. Não vou adivinhar onde meter corrente nisso.
+— Ela volta? — perguntou Elena.
 
-Elena bateu na porta de pedestres com a chave. Chamou Otávio. Uma luz amarela se aproximou, e uma voz pediu mãos à vista antes de tirar a corrente.
+— Os arquivos estão no módulo — respondeu Val. — O resto eu testo quando tiver energia.
 
-Ele tinha setenta e poucos anos, o nome bordado na camisa e uma espingarda apontada para o chão. O lampião fazia sombra por baixo de seus olhos.
+Foi a resposta que puderam levar para o próximo lance.
 
-— O senhor é o do azul metálico. Vaga cento e doze. Paga sempre com três dias de atraso.
+A escadaria tinha luzes de telefone apontadas em direções contrárias. Quem iluminava o próprio pé cegava quem vinha atrás. Um homem cantava um hino alto demais; mais abaixo, alguém gritava o nome de uma criança e esperava a resposta antes de gritar de novo.
 
-— Quatro — disse Gabo.
+Perto do décimo quinto andar, a fila parou.
 
-— Quatro. Desce devagar. A rampa termina num buraco que eu ainda não consegui tampar.
+Os carregadores encostaram a prancha no patamar. Valéria sentou junto do corrimão, segurando o ombro direito. Elena baixou a cabeça por um instante. O sangue do corte no couro cabeludo tinha secado na nuca; quando ergueu o rosto, precisou esperar a escada deixar de girar.
 
-Otávio Farias trabalhava ali havia trinta e um anos. Tinha guardado quarenta e dois carros durante o apagão. Disse que enxotara três grupos com a espingarda e um cartucho.
+— Porta trancada! — gritou alguém na frente.
 
-— Um? — perguntou Elena.
+A pressão chegou pelas costas dos que desciam. Uma mala bateu no rosto de Gabo. Três degraus acima, uma pessoa caiu. Ele ouviu o grito acabar e não conseguiu ver onde o corpo tinha ficado entre as pernas dos outros.
 
-— Eles não sabem que é um.
+— Para trás! — gritou. — Tem gente no chão!
 
-Não ficara por coragem. Dilma, a mulher, estava no quarto andar do prédio de cima, com a bacia quebrada desde janeiro. Sem elevador e sem equipe para transportá-la, ele não iria embora.
+Os primeiros não ouviram. O homem das chaves repetiu o aviso, voltado para cima, e uma mulher passou a frase ao lance seguinte. A fila recuou o suficiente para Elena alcançar a porta.
 
-O subsolo cheirava a querosene, mofo e óleo velho. Gabo viu a poeira sobre o capô do Cobalt e a marca recente do pano que Otávio passara no para-brisa. A garagem guardara o carro melhor do que a escola pudera guardar sua perna.
+Não era o projeto de incêndio que exigia prender pessoas ali. Havia um ferrolho adicional atravessado no batente, com uma etiqueta de manutenção. A barra antipânico batia nele. O funcionário mostrou a trava a Elena antes de tentar erguê-la.
 
-Elena ajudou na passagem da cadeira para o banco do passageiro. Foram precisos dois movimentos e uma pausa longa. Gabo deixou que ela fizesse sem pedir a chave.
+O peso da multidão a prendia no alojamento.
 
-Quando o motor pegou, a vibração chegou pelo assento antes do som. Cheiro de óleo quente, faróis amarelos, o ventilador tossindo pó. Val entrou atrás e fechou os olhos diante do primeiro sopro de ar.
+— Precisa aliviar a porta — disse ele.
 
-Elena ligou o deck ao alimentador do carro. A bateria começou a receber carga. Elena deixou o telefone no segundo cabo enquanto abriam o porta-malas. Depois Val reconectou o módulo de Aria e aguardou a sequência de partida. Não abriu o projetor; precisavam conservar energia. A câmera do deck ficou voltada para a rua, oferecendo a Aria um recorte da saída.
+Gabo começou a contar devagar. A cada número, quem estava na frente recuava um pouco, apoiado por quem podia ouvir. Na segunda tentativa, Elena e o funcionário levantaram a barra. O outro carregador manteve uma passagem junto de Valéria para que ninguém a pisasse.
 
-— *Perdi o intervalo depois da suspensão* — disse a voz adulta. — *Onde estamos?*
+A porta abriu quase meio metro e encontrou uma mesa do outro lado.
 
-Gabo respondeu garagem, Rua Quatro, oitavo dia. Val ofereceu o registro de tempo do deck. Aria pediu que confirmassem o relógio antes de tratá-lo como referência.
+Uma mulher passou de lado, depois um rapaz. Empurraram a mesa de dentro. Quando o vão aumentou, a fila avançou antes de retirarem a prancha.
 
-— E a cidade? — perguntou ele.
+— Um por vez! — Elena segurou o batente. — Tem ferido aqui!
 
-— *Daqui eu recebo os instrumentos do carro. A cidade você vai ter de me contar.*
+Gabo não podia se pôr entre os corpos. Viu uma sola parar a um palmo de seu rosto. Foi o segundo carregador quem puxou a ponta da prancha para dentro, recebendo um golpe no ombro sem poder largá-la.
 
-Ele ficou ouvindo o motor depois da resposta. Queria ter dito que sentira falta dela; perguntou se a temperatura estava normal. Aria respondeu sobre o carro, sem fingir que não ouvira a pausa.
+Ninguém respondeu sobre a pessoa caída nos degraus acima.
 
-No porta-malas, Elena conferiu o pequeno estojo que guardara desde a recuperação: quatro cartuchos de calibre 12 e um carregador da Glock com seis tiros. Colocou dois cartuchos nos canos da Caronte e guardou os outros dois à parte. A pistola recebeu o carregador.
+O desvio devolveu a fila à escada num pavimento inferior. O funcionário quis saber quem tinha instalado aquela barra. Elena fotografou a etiqueta com o telefone, usando a última carga que guardara. Não tinha sinal para mandar a imagem; tinha lugar para conservar mais um responsável ainda sem nome.
 
-— Quantos desses funcionam? — perguntou Gabo, olhando a garagem.
+Quando alcançaram o térreo, as portas de vidro já estavam quebradas. A chuva entrava até o balcão da recepção. Um pai carregava a filha sobre os ombros, e ela segurava um abajur sem fio, aceso, como quem transporta um animal assustado.
 
-— Onze eu testei — respondeu Otávio. — Tenho chave e consegui dar partida. Nos outros, tem bateria morta, peça faltando e uns que pedem autorização de servidor que não atende. Não é a mesma doença em todos.
+Gabo percebeu a ausência do ruído antes de perceber a rua.
 
-Gabo olhou os carros como veículos de transporte pela primeira vez desde que entrara.
+Os anúncios não zumbiam. Não havia trem sob o piso, ventilação na fachada, vozes de propaganda sobrepostas às buzinas. Restavam o motor distante de um gerador, a chuva e gente chamando por gente. A cidade não tinha ficado muda; tinham retirado dela os sons que sempre venciam os outros.
 
-— Venha com a gente. A gente busca sua mulher.
+Valéria tentou ficar de pé e tornou a sentar.
 
-Otávio indicou a cadeira vazia ao lado da porta.
+— Está girando.
 
-— O senhor não consegue carregar o senhor. A Dilma pesa oitenta quilos e tem a bacia quebrada. Não vou deixar vocês derrubarem minha mulher na escada.
+Elena se agachou ao lado dela. Também estava pálida. Podia ser cansaço, perda de sangue, o que tinham respirado, o golpe na cabeça. Gabo não ia chamar aquilo de abstinência e encerrar o diagnóstico.
 
-Foi buscar um molho de chaves preso num aro de arame. Onze tinham fita azul.
+— Precisamos de atendimento — disse ao homem das chaves.
 
-— Leva. Anota quem vai usar. Tem gente precisando sair de lugar pior.
+Ele indicou a escola do outro lado da avenida. Alguém escrevera TRIAGEM num pedaço de papelão e preso a placa no portão. Havia luz de lampião e uma fila que já dobrava a esquina.
 
-Elena não estendeu a mão imediatamente.
+Um tiro veio de uma rua lateral. Depois outro, mais longe. Os carregadores esperaram atrás da coluna antes de atravessar. Gabo quis saber se os homens precisavam ir procurar alguém. O segundo disse que a mulher trabalhava no 42.
 
-— Os donos autorizaram?
+— Eu só preciso chegar até lá fora — respondeu Gabo.
 
-— Alguns. Outros não vieram buscar nem saber do carro. Eu respondo pela chave que entrego. Vocês vão responder pelo que fizerem com ela.
+— Você precisa chegar até alguém que consiga pegar essa ponta.
 
-Ela escreveu vagas e modelos no verso de uma folha. Não chamou a lista de autorização de quem não tinham ouvido. Gabo prometeu registrar cada retirada.
+No portão da escola, duas pessoas com luvas vieram ajudar. O funcionário esperou que segurassem a madeira antes de soltar. Tinha uma tira de pele arrancada da palma; fechou a mão para esconder o sangue e voltou para a Torre sem dar a Gabo o tempo de encontrar um agradecimento que prestasse.
 
-— O que o senhor quer em troca?
+Pediam nomes, ferimentos e quem acompanhava cada paciente. Ninguém perguntou qual tinha sido a intenção deles no nível 70.
 
-Otávio olhou a porta da rampa antes de responder.
+Valéria entregou a bolsa do deck a Gabo antes de se sentar no colchão indicado. Ele sentiu o módulo de Aria por dentro do tecido. Estava frio. Ao lado da bolsa, Elena pôs as gravações e o crachá de Neide.
 
-— Um médico. Quarto andar do quatrocentos e dez. Ela está pior desde ontem.
+Um voluntário escreveu MORETTI numa ficha e começou a estendê-la para Elena.
 
-Elena perguntou sobre febre, comida e a última visita. Anotou as respostas para entregar a alguém da saúde. Gabo quis dizer amanhã e parou antes de prometer uma hora que ainda não podia cumprir.
+— Dois pacientes com esse nome — disse ela. — E mais uma comigo.
 
-Saíram com Elena ao volante, Otávio erguendo o portão pela corrente manual e o motor roncando alto demais. O endereço ficou no bolso do sobretudo de Gabo. No colo de Val, as onze fitas azuis batiam umas nas outras.
-
-Ele levaria dezenove dias para conseguir cumprir aquele endereço.
-
-Dilma Farias tinha mais um.
+Ele riscou o número um e escreveu três.

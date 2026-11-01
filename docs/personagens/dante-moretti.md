@@ -22,10 +22,10 @@
 * **2041:** Capturado com 52 anos; declarado morto sem corpo. Fita de admissão forçada conservada por Elara.
 * **Capítulos 1-26:** Memória do desaparecido e padrões explorados pelo Gamemaster. Face e voz da IA não equivalem ao pai presente.
 * **Capítulo 27:** Corpo original morre; intervenção breve da voz não garante autoria de todas as falhas anteriores da IA.
-* **Capítulo 40:** Identificação dos restos, retirada por equipe e sepultamento acompanhado por Gabo na cadeira.
-* **Capítulos 65-74:** Arquivo/cópia de apoio e distribuição de rotinas; não é ressurreição do corpo.
-* **Capítulos 103-104 (Fase atual):** Cópia em biohost, construída no Gênesis; usa base fisionômica dante.jpg. Sua emergência mata Silas. Aparência rejuvenescida, não envelhecimento invertido do morto.
-* **Capítulos 105-118:** Controle de infraestrutura por sistemas disponíveis, reparo externo de órteses 107, queda na operação Prometeu 118. Sem onisciência, cura física ou prova de sobrevivência posterior.
-* **Capítulos 169/220/223/228:** Registro 2019, fita 2041 e autorização 2035 precisam ser distinguidos. Cativeiro não prova inocência em todas as ações anteriores; afeto por Gabo não apaga o abuso. A hipótese de sabotagem não atribui a ele cada fuga.
+* **Capítulo 41:** Identificação dos restos, retirada por equipe e sepultamento acompanhado por Gabo na cadeira.
+* **Capítulos 66-75:** Arquivo/cópia de apoio e distribuição de rotinas; não é ressurreição do corpo.
+* **Capítulos 105-106 (Fase atual):** Cópia em biohost, construída no Gênesis; usa base fisionômica dante.jpg. Sua emergência mata Silas. Aparência rejuvenescida, não envelhecimento invertido do morto.
+* **Capítulos 107-120:** Controle de infraestrutura por sistemas disponíveis, reparo externo de órteses 107, queda na operação Prometeu 118. Sem onisciência, cura física ou prova de sobrevivência posterior.
+* **Capítulos 171/222/225/230:** Registro 2019, fita 2041 e autorização 2035 precisam ser distinguidos. Cativeiro não prova inocência em todas as ações anteriores; afeto por Gabo não apaga o abuso. A hipótese de sabotagem não atribui a ele cada fuga.
 
 ---

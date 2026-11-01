@@ -1,149 +1,145 @@
 ---
 layout: doc
-title: "Capítulo 43: Água Negra"
-description: "O Dilúvio não foi só água. Gabo descobre que a enchente foi rota de entrega, e paga por isso com a menina do casaco amarelo."
-image: /cenas/capitulo_43/cena_1.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Elena Moretti, Valéria "Val" Cruz, Dra. Nise, Clara Moretti, Capitão Jonas Vilar
-Localização: "Delegacia Central do Setor 4, terceiro dia de chuva"
+title: "Capítulo 43: O Campo de Refugiados"
+description: "A Delegacia Central vira barco salva-vidas, e Gabo descobre que o pior trabalho do mundo é decidir quem entra."
+image: /capitulo_43.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Elena Moretti, Valéria "Val" Cruz, Capitão Jonas Vilar, Clara Moretti
+Localização: "Delegacia Central do Setor 4, segundo dia de chuva"
 ---
 
-# Capítulo 43: Água Negra
+# Capítulo 43: O Campo de Refugiados
 
-Delegacia Central do Setor 4, terceiro dia de chuva.
-O aviso de Valéria chegou tarde demais para alguns.
+Delegacia Central do Setor 4, segundo dia de chuva.
+A Delegacia Central não era mais um prédio da lei.
 
-Gabo soube disso pelo cheiro antes de saber pelas palavras. A antiga sala de descanso dos oficiais tinha cheirado a pé, café requentado e desinfetante barato por vinte anos, e ele conhecia aquele cheiro do jeito que a gente conhece o cheiro da própria casa — sem nunca ter reparado nele.
+Era um barco salva-vidas de concreto, e como todo barco salva-vidas tinha um problema aritmético que ninguém queria formular em voz alta.
 
-Agora cheirava a metal.
+O saguão estava coberto de colchões, papelão e cobertor de doação. Famílias inteiras ocupavam os corredores em faixas territoriais definidas por mochilas e sacolas de mercado. As celas — esvaziadas e mantidas abertas para abrigar famílias — estavam com nove, doze, catorze pessoas cada uma, e eram as vagas mais disputadas do prédio, porque tinham porta.
 
-Não era sangue. Sangue tem um fundo doce, quase de moeda velha, e ele já tinha sentido esse o bastante para não confundir. Aquilo era mais seco. Mordia o fundo da garganta e ficava lá, como se alguém tivesse aberto uma lata de tinta e uma vala ao mesmo tempo.
+O cheiro batia na cara de quem entrava.
 
-Cinco colchões no chão. Cinco crianças.
+Roupa molhada, antes de tudo: trezentas pessoas ensopadas em ambiente fechado produzem um vapor morno e azedo que gruda no céu da boca. Por baixo, sopa comunitária — o cheiro doce e chato de caldo de legumes feito em panelão. Por baixo dos dois, o desinfetante barato que a Clara mandava jogar de duas em duas horas nos corredores. E, no fundo de tudo, o cheiro que o desinfetante não vencia, e que Gabo levou meio dia para identificar porque nunca o tinha sentido em escala:
 
-Elas vomitavam um líquido preto que não era vômito, e as bacias de plástico ao lado de cada colchão já estavam com o fundo manchado de uma película que não saía com pano. A pele delas tinha ficado da cor do papel que fica muito tempo na gaveta. Sob a pele, as veias apareciam escuras e desenhadas demais, como raízes vistas por baixo do vidro.
+banheiro entupido.
 
-Clara estava de joelhos entre dois colchões, trocando uma compressa, e não levantou a cabeça quando o irmão entrou.
+Trinta e duas horas de enchente. Quatro vasos sanitários para trezentas e sete pessoas. A rede de esgoto tinha parado de aceitar qualquer coisa desde a segunda-feira, porque a rede de esgoto agora era parte do mar.
 
-— Não fica aí parado — ela disse. — Ou você segura a bacia, ou você sai.
-
-Gabo segurou a bacia.
-
----
-
-A Dra. Nise trabalhava numa mesa de canto sob a única lâmpada que o gerador ainda aguentava, com uma lâmina de microscópio na mão e os óculos empurrados para a testa. Chegara com o comboio resgatado depois do cerco e permanecera no atendimento; agora tentava trabalhar entre água contaminada, material escasso e crianças que pioravam depressa.
-
-— Não é cólera — ela disse, sem se virar. — Eu queria que fosse cólera. Uma causa conhecida pelo menos permitiria escolher os recursos de que preciso.
-
-— Então é o quê?
-
-— Suspeito de intoxicação, e ainda não excluí infecção. — Ela ergueu a lâmina contra a lâmpada. — O microscópio mostra partículas; não identifica sozinho um composto ou sua origem. Preciso de análise que não temos e de suporte que está acabando. Não vou dar nome de certeza ao que ainda estou investigando.
-
-Gabo olhou para os colchões. Uma das crianças tinha parado de vomitar e isso era pior.
-
-— A Aeterna — ele disse.
-
-— Nem toda desgraça precisa de sobrenome, detetive.
-
-— Essa precisa. — Ele apontou o queixo para a janela, para o rio marrom que tinha sido a Rua da Alfândega. — Aquela água passou por cima dos tanques de decantação do subsolo da Aeterna. Passou por dentro. E alcançou os recipientes que usamos para recolher chuva. A gente não conferiu os baldes.
-
-Nise finalmente se virou. Os olhos dela eram gentis e não tinham nenhuma piedade sobrando.
-
-— Então trate de conseguir insumos de grau farmacêutico, soros e o material de suporte desta requisição, e trate de conseguir hoje, porque eu não tenho nem uma coisa nem outra e há crianças piorando a cada hora. Não tenho como prometer um prazo.
+Empurraram a cadeira de Gabo pela rampa dos fundos, com uma caixa de suprimentos sob o assento, e a primeira coisa que fez foi contar as pessoas do corredor por hábito profissional, e a segunda foi parar de contar.
 
 ---
 
-Valéria estava no corredor, sentada no chão com o deck no colo e as costas na parede, e não tinha dormido. Dava para ver pela maneira como ela piscava: devagar demais, como quem fecha o olho e considera não abrir mais.
+Elena estava no centro do saguão, em cima de uma escrivaninha virada, sem distintivo.
 
-— Gabo. Senta.
+Ela usava uma braçadeira vermelha feita de um pedaço de bandeira do time do bairro, e Gabo notou — com uma pontada de alguma coisa que não era orgulho, era mais velha e mais triste que orgulho — que as pessoas obedeciam à braçadeira. Não ao distintivo dele. À braçadeira dela.
 
-— Eu estou com pressa, Val.
+— **TRIAGEM MÉDICA NO SEGUNDO ANDAR!** — gritava ela, apontando com o braço inteiro, porque dedo não se enxerga em multidão. — Hipotermia na sala de interrogatório 1! Febre na 2! Quem tem ferida aberta, ferida aberta é a 3, **não misturem**! E alguém consiga mais balde para as goteiras do corredor leste, aquilo já está entrando na parte elétrica!
 
-— Senta.
+Ela viu Gabo e desceu da mesa.
 
-Ele sentou. Ela virou a tela. Um mapa da cidade, em traço fino, com três pontos vermelhos onde ficavam as comportas do Distrito Baixo, e uma linha que descia do primeiro ponto até um retângulo cinza embaixo do Distrito Industrial.
+Trinta e três anos e duas noites mal dormidas. Os olhos dela estavam com aquele brilho errado que Gabo já tinha visto em bombeiro no fim de plantão longo.
 
-— Você me pediu para descobrir quem operou a comporta. Eu não descobri. — Ela esfregou os olhos com a base da mão. — Descobri uma coisa pior. Eu descobri a **ordem**.
+— Como está lá fora?
 
-— A ordem.
+— Pior. — Indicou a caixa sob a cadeira. — A água chegou no Nível 15. A Zona Industrial já era. O viaduto da Norte caiu às sete da manhã com gente em cima.
 
-— As três não abriram juntas. — O dedo dela seguiu a linha na tela. — Abriu a de Leste. Quarenta e um minutos depois, a Central. Vinte e dois minutos depois, a de Oeste. Eu passei a madrugada considerando uma falha em cascata, que uma puxou a outra. Rodei a topografia, mas o modelo não descarta essa possibilidade. — Ela parou. — O levantamento é da própria prefeitura, de quarenta e um, e a vazão eu tirei do marégrafo do Cais Dois, não de notícia de rádio. É modelo, não é laudo. Com os parâmetros disponíveis, essa sequência explica o percurso. Ainda preciso conferir os horários com outro registro e testar as margens. Nessa simulação, com essa ordem, a coluna d'água entra pelo subsolo do complexo da Aeterna, sobe pelos tanques de decantação, e sai pelo lado norte. As outras sequências que testei mudam o escoamento. Isso sustenta investigar uma operação dirigida; não identifica quem operou nem exclui todas as falhas.
+— Quantos?
 
-Gabo demorou a entender, e quando entendeu foi como pisar num degrau que não existia.
+— Não dá para saber. — Ajustou a perna sobre o apoio da cadeira. — E não vai dar nunca. É esse o número que ninguém vai escrever em lugar nenhum.
 
-— Val, você está me dizendo que a enchente foi—
+Elena esfregou a cara com as duas mãos.
 
-— Eu estou dizendo que a hipótese é que usaram a enchente como **caminhão**. — A voz dela saiu fina. — Alguém precisava esvaziar aquele subsolo sem assinar nada. E usou o oceano para fazer a entrega.
+— Aqui dentro tem trezentas e sete pessoas, Gabo. A comida dura dois dias se ninguém repetir. Água potável... talvez um. E não para de chegar gente.
 
-Do outro lado da parede, na enfermaria, uma criança começou a chorar e parou no meio, e o silêncio depois disso foi de um tipo específico.
+— Onde está o Jonas?
 
----
+— No telhado. — Ela apontou para cima com o queixo. — Há seis horas. Tentando consertar a antena de rádio para pedir socorro às Cidades Altas.
 
-A menina do casaco amarelo se chamava Duda e tinha sete anos.
+Gabo riu. Não teve graça nenhuma no som.
 
-Gabo só ficou sabendo do nome ali, no terceiro dia, quando Clara escreveu com caneta esferográfica numa fita adesiva colada na cabeceira do colchão, porque não havia prontuário e porque a Dra. Nise fazia questão de que todo mundo tivesse nome escrito em algum lugar.
+— As Cidades Altas devem estar ocupadas construindo muro para a gente não subir.
 
-Era a mesma menina. O casaco estava pendurado num prego atrás da porta, secando havia três dias, grande demais para ela então e grande demais para ela agora.
-
-Elena estava sentada no chão, ao lado do colchão, com as costas curvadas e a câmera analógica largada a um metro de distância, virada para baixo. Ela não fotografou nada. Ficou segurando a mão da criança com as duas mãos, como quem segura um passarinho, e falando baixo uma coisa que Gabo não ouviu e não quis ouvir.
-
-Duda morreu às quatro e dez da tarde, sem barulho, do jeito que as crianças fazem essas coisas.
-
-Gabo tinha visto duzentos corpos. Tinha carregado alguns. Tinha aprendido, aos vinte e seis anos, a olhar cadáver como quem olha uma peça de um problema, e essa foi a única coisa que a profissão lhe deu de graça. Não funcionou daquela vez.
-
-Porque ele estava lá quando a Elena pulou. Ele lembrava dos vinte segundos, e lembrava do que tinha passado pela cabeça dele durante os vinte segundos, e agora a conta chegava com uma clareza obscena: a Elena tinha entrado num rio para tirar aquela menina da água, e a água tinha ficado com ela assim mesmo. Tinha só levado três dias a mais para cobrar.
-
-Elena não chorou. Ela soltou a mão da criança, se levantou, dobrou o casaco amarelo com um cuidado horrível de assistir e o colocou embaixo do braço.
-
-— Você vai me arrumar o que a Nise pediu — ela disse.
-
-Não foi um pedido, e não foi para ele. A Dra. Nise cobriu o rosto da menina e ficou um tempo com a mão no lugar, do jeito dela.
-
-— Detetive. — Ela falou baixo, para não acordar as outras quatro. — Antes que o senhor saia achando que vai voltar com a cura no colo: mesmo que o senhor traga tudo o que eu pedi, e traga rápido, não posso garantir que os quatro sobrevivam ou sem sequelas. Há sinais de lesão renal grave. Algumas lesões podem deixar dano permanente; carvão ativado não repara um rim lesionado. Pode ser necessário suporte que esta cidade está perdendo; ainda não sei quem conseguirá se recuperar.
-
-— A senhora está me dizendo para não ir?
-
-— Estou dizendo para o senhor ir sabendo o preço. — Ela tirou os óculos. — Eu perdi o hábito de deixar homem nenhum sair daqui achando que existe vitória limpa.
+— Eu sei. — Elena falou baixo. — Deixa ele. É a única coisa que está impedindo aquele homem de encostar a arma no queixo.
 
 ---
 
-Val tinha o endereço em dois minutos.
+Às quatro da tarde, o problema aritmético apareceu na porta.
 
-— Depósito da Alfândega, Cais Três. Eles apreendem carga médica ilegal e empilham lá até prescrever. Está no Nível 20, a água ainda não chegou. — Ela hesitou. — O inventário antigo lista soros, insumos farmacêuticos e material de suporte. Não sei o que continua lá ou em condições de uso.
+A escada da entrada principal virou cais, e o cais estava cheio. Trinta, quarenta pessoas chegando de balsa improvisada, de porta de armário, de caixa d'água virada. E, atrás dessas, mais.
 
-— E o resto da frase? — perguntou Gabo.
+Clara subiu do porão com o rosto duro e uma lista na mão.
 
-— O porto é do Sindicato.
+— A gente não cabe.
 
-O Capitão Jonas Vilar estava na porta havia um tempo, escutando, com a farda amassada de três dias e as mãos nos bolsos porque as mãos tremiam.
+— A gente arruma espaço — disse Gabo.
 
-Cinquenta e cinco anos de idade e trinta e três de corporação. Ele tinha entrado na polícia quando a lei ainda era uma coisa que se citava em voz alta sem constrangimento, e passara os últimos dez anos assistindo a isso virar folclore.
+— Não é espaço, Gabriel, é comida. — Ela empurrou a lista contra o peito dele. — Eu estou distribuindo trezentas e sete rações de um estoque de quatrocentas. Cada pessoa a mais que entra por aquela porta não tira comida de você e de mim. Tira das crianças que já estão aqui há dois dias, e essas eu conheço pelo nome.
 
-— Eu vou com vocês — disse Jonas.
+— Clara—
 
-— Não vai — disse Gabo. — Alguém segura trezentas pessoas aqui dentro, e essa pessoa tem que ter patente para as outras obedecerem. — Ele olhou para o velho e viu o que o velho queria, e deu a ele de outro jeito. — Capitão, eu preciso que essa porta continue de pé quando eu voltar. Isso não é o prêmio de consolação. É o trabalho.
+— Eu não estou pedindo permissão para ser boa. — A voz dela nem subiu. — Eu estou te falando o número, porque alguém tem que segurar a porta, e quem segura a porta precisa saber o número.
 
-Jonas endureceu o queixo e assentiu uma vez.
+Gabo olhou para a irmã. Dezoito anos, mãos rachadas de água sanitária, e absolutamente nenhum tremor.
 
-— Tragam o que a Nise conseguir usar da requisição. Eu seguro as pontas.
-
-Gabo checou a *Caronte* no caminho para a escada. Dois cartuchos. Ele não disse isso para a Elena.
+Pediu que levassem a cadeira até o patamar da entrada.
 
 ---
 
-O bote inflável confiscado estava amarrado na escadaria da entrada, e a escadaria da entrada era o cais agora.
+Ele segurou a porta por duas horas e vinte minutos.
 
-O motor de popa tossiu, engasgou, cuspiu fumaça azul e pegou. Elena sentou na proa com a lanterna e o casaco amarelo dobrado dentro da jaqueta, contra o corpo, porque de alguma forma aquilo ia junto.
+Deixou entrar criança. Deixou entrar quem estava carregando criança. Deixou entrar gente ferida, gente idosa, gente com tosse de água nos pulmões. Empurrou de volta para a chuva quatro homens adultos saudáveis que ele conhecia de vista da rua do peixe e que ele sabia que não iam morrer naquela noite — provavelmente.
 
-Eles saíram para o que tinha sido a Avenida da Indústria. Placas de rua saindo da superfície como lápides mal enterradas. Um semáforo ainda funcionando debaixo d'água, piscando amarelo para ninguém, tingindo dois metros de líquido negro a cada segundo.
+O quarto se chamava Adilson. Vendia peixe frito na esquina da Rua Onze havia vinte anos e uma vez tinha dado comida de graça a um detetive falido no fim do mês.
 
-— Gabo. — Elena não se virou. — Quando a gente descobrir quem operou aquelas comportas.
+— Gabo — disse ele, na chuva, agarrado ao corrimão, com água na altura do peito. — Sou eu.
 
-— Eu sei.
+— Eu sei quem é o senhor.
 
-— Não. — Ela finalmente olhou para trás, e a chuva escorria pelo rosto dela sem que ela piscasse. — Você não sabe, porque você acha que eu vou querer prender.
+— Então abre.
 
-O motor engrossou. Atrás deles, a Delegacia Central foi ficando pequena, com o gerador acendendo uma janela de cada vez. Gabo ia responder alguma coisa e não respondeu, porque reparou na esteira do bote. Havia duas.
+— Não posso.
 
-A que o motor abria, reta e branca — e outra vindo de trás, larga, sem espuma, no ritmo errado. Alguma coisa grande nadava fundo, naquela água que matava criança em trinta horas.
+— Tem lugar aí dentro, eu tô vendo o corredor daqui.
 
-E nadava bem.
+— Tem lugar e não tem comida. — Gabo ouviu a própria voz sair no tom de interrogatório, o tom neutro, e se odiou por ele sair sozinho, sem que ele mandasse. — Vai para a igreja da Rua Doze, seu Adilson. A torre é alta e o padre não conta ninguém.
+
+O homem ficou olhando para ele por três segundos.
+
+Depois soltou o corrimão e foi.
+
+Gabo não soube nunca se ele chegou.
+
+Essa é a parte que ninguém conta sobre catástrofe: não é a água. É que a água transforma um homem comum num sujeito que decide, na porta, com a mão no batente, e depois esse sujeito tem de continuar existindo pelos quarenta anos seguintes.
+
+---
+
+Valéria apareceu às sete e vinte com um tablet de tela rachada e uma expressão que fez Gabo se endireitar na cadeira antes de ela falar.
+
+— Gabo. Elena. Tem um problema maior que a comida.
+
+— O que é maior que morrer de fome?
+
+— Morrer envenenado.
+
+Ela virou a tela. Uma malha de pontos verdes espalhados pelo mapa do Distrito Baixo — a rede *mesh* de sensores caseiros que os moradores instalaram por conta própria depois do escândalo do ar, em quarenta e três. O receptor local a bateria trouxera as leituras. Metade dos pontos não respondia; os restantes indicavam valores fora da faixa, alguns com calibração vencida.
+
+Não vermelho de alerta. Vermelho saturado, o vermelho que um sensor mostra quando a leitura passou do fim da escala e ele não tem mais números.
+
+— Mercúrio. Chumbo. Solvente clorado. — Val foi lendo, e a voz dela ficava mais fina a cada item. — E uns picos que o sensor não sabe classificar, então ele só registra "orgânico não catalogado", que só quer dizer que o aparelho não identificou o composto. Pode haver rejeito industrial; precisamos de análise para saber o que é.
+
+— A água da enchente — disse Elena.
+
+— A água da enchente passou por cima dos depósitos do subsolo industrial. Lavou tudo. — Val engoliu. — Gabo, essa água não é água suja. É rejeito diluído. Não dá para estimar a dose por esse mapa. Mas não podemos tratar essa água como potável, nem prometer segurança com sensores sem calibração.
+
+Gabo se virou devagar para a janela do corredor leste.
+
+Lá embaixo, no pátio interno da delegacia, estavam as lonas azuis que eles tinham esticado entre os postes no primeiro dia. A ideia tinha sido dele. Foi a única ideia boa que ele teve em três dias: coletar água de chuva, porque a da torneira já não vinha e a do rio ninguém ia beber.
+
+A chuva escorria pelas lonas e caía em vinte e dois baldes. Os recipientes tinham sido retirados do pátio depois de o refluxo da enchente alcançá-los. Uma marca marrom passava pelo plástico por dentro. Na urgência, tinham lavado alguns apenas com a água disponível, sem testar o conteúdo antes da distribuição.
+
+E, na fila dos baldes, com as canecas na mão, aguardando a vez com aquela paciência mansa que a fome ensina em quarenta e oito horas, estavam as famílias do segundo andar.
+
+Entre elas, uma menina pequena com um casaco amarelo grande demais, segurando a caneca com as duas mãos.
+
+— Merda — disse Gabo.
+
+Gritou para suspenderem a distribuição. Elena correu até os baldes enquanto um voluntário empurrava sua cadeira. A primeira caneca já voltava vazia.

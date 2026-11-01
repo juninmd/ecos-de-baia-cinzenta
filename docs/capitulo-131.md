@@ -1,147 +1,93 @@
 ---
-title: "Capítulo 131: Necrópole"
-Data In-Game: "23 de Novembro, 08:30"
-Localização: "Fundações da Velha Baía (Subsolo Profundo)"
-Personagens Presentes: "Gabo Moretti, Valéria Cruz, Aria (áudio instável), Rangel (Inconsciente)."
+title: "Capítulo 131: Fluxo Reverso"
+date: "2056-11-23"
+location: "Estação de Bombeamento Bio-Mecânica (Nível 5)"
+Personagens Presentes: Gabo, Valéria, Aria (áudio instável), Rangel (Inconsciente)
+Localização: "Estação de Reciclagem de Fluido Neural 04 (Nível 5)"
 ---
 
-# Capítulo 131: Necrópole
+# Capítulo 131: Fluxo Reverso
 
-A porta de pressão selou o som da maré ácida lá fora. Não selou o cheiro. O ar ali dentro era seco de um jeito que a garganta reclamava em três respirações — poeira mineral, calcário e um fundo de osso velho, que tem cheiro sim, e é adocicado, e não se parece com nada. Gabo escorregou pela parede de pedra bruta até o chão de terra batida.
+O calor ali embaixo não era apenas temperatura; era uma pressão física. O ar vibrava com o *thump-thump* colossal dos pistões, um ritmo que Gabo sentia nos dentes e na ferida recém-adquirida no antebraço.
 
-Os músculos das coxas tremiam sozinhos, num ciclo rápido e involuntário que ele não conseguia parar mandando parar. Cento e doze quilos de Inspetor Rangel puxados na prancha por trezentos metros de rampa, e o corpo estava cobrando com juros. Rangel ficou estendido ao lado dele, de costas, respirando curto.
+Ele conferiu o curativo improvisado com um pedaço de camisa rasgada. O sangue da mordida da Quimera já estava escuro e coagulado, misturando-se à graxa do esgoto. A dor era aguda, latejante, uma âncora necessária. Sempre que sua mente vagava para o cheiro adocicado e enjoativo do fluido que corria nos tubos — um cheiro que lembrava fumaça química e carne queimada —, ele apertava o *Colar de Sol* contra o peito até o metal frio morder a pele.
 
-— A gente está seguro? — perguntou Valéria.
+Havia apenas repulsa. O gosto de ferrugem na boca o lembrava do crematório e dos charutos do pai, revirando seu estômago.
 
-A voz dela ecoou baixo. A única luz era o deck de pulso dela, onde o pendrive blindado da Aria brilhava num âmbar lento, e como a luz vinha de baixo, as sombras subiam pelas paredes irregulares até um teto que ninguém tinha localizado ainda.
+— *Gabo, há sangue atravessando a faixa* — Aria falou no fone auricular, o drive de titânio pulsando âmbar sob as luzes de emergência enquanto o drive processava os sensores biométricos do comunicador de Gabo. A saída ainda falhava, mas era a cadência que ela escolhera manter. — *Não tenho uma medida confiável da perda pelo comunicador. Estou vendo sangue atravessar a faixa; Val precisa conferir o ferimento.*
 
-— Ninguém está seguro em Baía Cinzenta — disse Gabo, e a garganta saiu rasgando. Ele levou a mão ao peito e apertou o Colar de Sol por cima do tecido. O latão estava quente do corpo febril dele. — Mas está seco.
+Gabo ouviu o aviso e se virou para Valéria. A hacker estava ajoelhada diante de um painel de controle manual, seus olhos cibernéticos varrendo os mostradores analógicos com frustração.
 
----
+— Val, relatório — ele grunhiu, ajustando a prancha de Rangel numa posição mais segura. O inspetor estava febril, murmurando sobre arquivos perdidos e carimbos sem tinta.
 
-A câmara tinha uns dezoito metros de comprimento e um pé-direito irregular, escavado a picareta. Isso dava para ver: as marcas de ferramenta na pedra eram curtas, de golpe humano, com direções diferentes conforme a altura. Ninguém usa picareta desde os anos quarenta.
+— Estou quase cega, Gabo — Valéria respondeu, a voz tensa. Ela bateu no painel com a mão enluvada. — A interferência eletromagnética aqui embaixo é brutal. O *deck* não acha rede sem fio, só consigo usar a Aria por cabo direto ou leitura óptica. Estou tendo que ler ponteiros físicos. Ponteiros! Quem projeta uma estação de bombeamento com agulhas de pressão em 2056?
 
-E, na parede oeste, havia nichos. Escavados em fileira, à altura do peito, com uns quarenta centímetros de profundidade. Dentro deles, ossos. Empilhados com uma precisão mórbida: os crânios numa fileira de cima, virados todos para fora; os fêmures cruzados embaixo, dois a dois; os ossos pequenos amontoados num nicho separado, sem organização, porque ninguém tem paciência para organizar falange.
+— Alguém que não queria ser hackeado — Gabo disse, observando o ambiente.
 
-No comunicador preso ao colarinho de Gabo, o indicador de áudio abriu canal sozinho. Os cliques sutis de processamento do pendrive não faziam barulho no ar seco, mas o fone auricular chiou no ouvido dele.
+A estação era uma catedral de pesadelo. Paredes de concreto brutalista eram invadidas por feixes de cabos grossos como troncos de árvores, que pulsavam com luz vermelha. Mas não eram apenas cabos. Em certos pontos, a "fiação" parecia orgânica, tendões sintéticos esticados sobre metal.
 
-— *Olha, Gabo.* — A voz adulta de Aria, entrecortada enquanto processava a câmera do visor de Valéria, e o estômago dele revirou como sempre revirava. — *Há marcas recentes no chão. Não sigam por cima delas antes de fotografar.*
+— Onde estamos? — Gabo perguntou.
 
----
+Valéria apontou para um diagrama esquemático gravado em uma placa de bronze na parede, corroído pelo tempo.
 
-Gabo fechou os olhos. E a memória olfativa chegou, como sempre chegava quando o ar faltava: fumaça velha em ambiente fechado, densa, com aquele fundo nauseante de cinzeiro esquecido em cima da pia. A cozinha da casa da infância. Sete da manhã. O pai de costas para ele, na janela, com o ombro subindo e descendo antes da tempestade. A cabeça dele reconstruía o trauma inteiro — a repulsa no fundo da língua, o aperto no alto do peito — assombrando um homem que detestava fumaça com cada fibra do corpo.
+— Estação de Reciclagem de Fluido Neural 04. — Ela limpou a placa com a manga. — Gabo... isso não é esgoto. E não é água potável. A placa identifica um circuito nutritivo e de refrigeração. A linha pode servir aos servidores; precisamos conferir para onde vai.
 
-Não.
-Ele apertou o colar com força, cravando as pontas do sol estilizado na palma até a pele romper. A dor foi pequena, aguda e limpa, e limpou junto. Quando ele abriu os olhos, a lembrança tinha ido embora e a mão estava sangrando um fio fino que descia pelo pulso. Doze segundos. Estava ficando mais rápido. Isso não era uma boa notícia, e ele sabia, porque quando fica mais rápido é porque o corpo aprendeu o atalho, e corpo que aprende atalho passa a procurar motivo.
+— E por que cheira a sangue? — Gabo perguntou, aproximando-se de um dos tubos de vidro reforçado. O líquido carmesim fluía com uma viscosidade perturbadora.
 
----
+— *Não sei* — respondeu Aria pelo comunicador. — *O cadastro do circuito diz fluido nutritivo e refrigerante. Não consigo analisar o conteúdo pelo vidro. Há controladores de dados presos à tubulação.*
 
-— Valéria. Rangel.
+Gabo fitou o pequeno drive de titânio espetado no equipamento. O cheiro de fumaça trouxe a lembrança de Bia, mas a voz no fone pertencia a Aria, que acabara de alertá-lo sobre o ferimento.
 
-Ela já estava ajoelhada ao lado dele, com dois dedos no pescoço.
+— Explique — ele ordenou.
 
-— Cento e trinta e um, fraco e filiforme. — Ela levantou o curativo e voltou a baixar rápido demais. — Gabo, a borda da ferida está preta e tem gás sob a pele. Eu apertei e crepitou.
+— *O cadastro chama o circuito de nutritivo e refrigerante. Isso não revela sua composição nem explica o que os controladores fazem.*
 
-— Isso é o quê?
+Valéria soltou um engasgo horrorizado. Ela tinha conseguido abrir uma escotilha de inspeção manual em uma das paredes laterais.
 
-— Isso é a coisa que a Dra. Nise chamaria por um nome que eu não quero ouvir de mim mesma.
+— Gabo... — ela chamou, a voz falhando. — Você precisa ver isso.
 
-Gabo fechou os olhos por meio segundo.
+Gabo calçou a prancha junto a uma viga e caminhou até ela, mantendo a *Caronte* levantada. Ele olhou pela escotilha.
 
-— Quanto tempo?
+O que parecia ser a parede da estação era, na verdade, um favo. Células hexagonais, centenas delas, estendendo-se para a escuridão acima e abaixo. E dentro de cada célula, envolto em uma membrana translúcida e submerso no fluido vermelho, havia um corpo.
 
-— Sem antibiótico intravenoso contínuo e sem desbridamento? — Val puxou o ar. — Eu não sei dar prazo. A ficha da Nise manda procurar suporte urgente se isso piorar; já piorou.
+Não eram os "Drenados" recentes que eles viram no caminhão de lixo. Eram antigos. Corpos esqueléticos, fundidos ao maquinário, com tubos entrando por suas bocas e olhos, conectando-os diretamente à rede de bombeamento.
 
----
+— Os tubos ligam as células ao circuito — Valéria sussurrou, tremendo. — Não consigo dizer se essas pessoas estão vivas nem o que o sistema faz com elas.
 
-— Mapeia o lugar. Se isso aqui é a Velha Baía, tem túnel de contrabando.
+Gabo sentiu o estômago revirar. A bile subiu, ácida. Ele se afastou da escotilha, a mão indo instintivamente para o pescoço, buscando o ar que parecia faltar. O cheiro adocicado já bastava. Ele não precisava inventar uma explicação para olhar outra vez para as células.
 
-— O sonar está inútil. — Ela girou o pulso, mostrando a tela cheia de ruído. — A rocha é densa e tem veio metálico, o retorno vem todo embolado. Estamos cegos, e é a primeira vez em nove anos que eu tenho que dizer isso.
+— *"Fluxo Reverso"* — Aria leu através da câmera do visor de Valéria, destacando no HUD uma alavanca grande, pintada de amarelo e preto, no centro do console. — *Se invertermos a pressão mecânica, causamos um refluxo. O sistema vai tentar expelir a obstrução.*
 
-— Então a gente usa o método antigo.
+— Vai matar todos eles — Valéria disse, horrorizada.
 
-— Que é?
+— Não sei se estão mortos — disse Aria. — Inverter o fluxo pode romper o suporte. O esquema vincula a abertura da comporta ao alívio de pressão; não tenho uma rota que possa chamar de segura para eles.
 
-— Andar, olhar e pensar. — Gabo se levantou, e levar o corpo até a vertical levou uns oito segundos e três apoios. — Val, esses nichos aí. Conta quantos.
+Gabo mediu Rangel, que estava pálido e suando frio. Mediu o ferimento no próprio braço. Eles não durariam mais uma hora ali. Os anticorpos — o que quer que fossem — estariam chegando.
 
-Ela contou.
+Valéria examinou a roda de emergência da comporta. O trinco não cedeu, e o esquema ligava a abertura ao alívio de pressão. Ela fotografou as células e o painel antes de voltar para Gabo.
 
-— Duzentos e quarenta e um.
+— Pode haver outra saída. Ainda não procuramos tudo.
 
-— E quantos estão cheios?
+— Eu não encontrei — Gabo disse, a voz rouca. Ele caminhou até a alavanca. — O sistema de Dante se alimenta de gente. Nós vamos fazê-lo engasgar.
 
-Ela contou de novo, mais devagar.
+Ele segurou a alavanca fria.
 
-— Duzentos e quarenta.
+— *Tem certeza, Detetive?* — Aria sussurrou em seu fone auricular, a voz de Aria firme apesar dos cortes no áudio. — *Estou registrando que havia pessoas ligadas ao circuito e que a consequência era desconhecida. Não vou apagar esse aviso quando sairmos.*
 
----
+Gabo fechou os olhos. A dor no braço era fogo. O colar no peito era gelo.
 
-Gabo foi até a parede. O nicho vazio era o penúltimo da fileira de baixo, e não estava vazio por acaso: estava limpo. Sem poeira acumulada, sem fragmento, sem a marca de calcário que os outros tinham no fundo. Alguém tinha esvaziado aquele nicho, e não fazia muito tempo.
+— Registra minha mão na alavanca — ele disse. — Não foi uma ordem sua.
 
-— Aria — ele disse para o comunicador, sem tirar os olhos da pedra. — Consulta de banco de dados offline no pendrive. Onde a gente está?
+E puxou a alavanca.
 
-No pulso de Valéria, o LED do drive blindado piscou. Por meio segundo o azul tático tentou estabilizar por cima do âmbar instável e não conseguiu inteiro.
+O som mudou. O *thump-thump* rítmico tornou-se um guincho agudo de metal torturado. O chão tremeu violentamente. Sirenes analógicas começaram a uivar, e o fluido nos tubos parou, hesitou, e então começou a correr para trás, borbulhando furiosamente.
 
-— *Necrópole. Setor Zero.* — A voz saiu plana pelo alto-falante, e era a voz de sistema. — *Fundação original de 1920. Profundidade: cento e vinte metros abaixo do nível do mar. A planta não descreve o estado atual. Há registro de recalque no teto; não consigo estimar quando pode ceder.*
+Uma porta pesada de explosão no fundo da sala começou a se abrir lentamente, revelando um túnel de serviço seco, mas o barulho atraiu algo mais.
 
-— Uso do lugar?
+Do teto, sombras se desprenderam. Autômatos de manutenção, parecidos com aranhas de vidro e cromo, desceram por fios de seda sintética.
 
-— *Ossuário municipal de indigentes. Desativado em 1931 por ordem sanitária.* — Uma pausa de meio segundo no processamento do drive. — *Registro de propriedade transferido em 1934 para a Companhia Baía de Terrenos e Cemitérios Ltda.*
+— Para o túnel! — Gabo gritou. Val guiou a prancha pela abertura enquanto ele puxava a cinta, a perna ferida cedendo a cada passo.
 
-Gabo parou.
+Ao sair, Gabo olhou para trás uma última vez. Pela escotilha, ele viu os corpos nos favos se agitarem em espasmo, como se, por um breve segundo, o choque do fluxo reverso os tivesse acordado de seu pesadelo eterno.
 
-— Repete o nome.
-
-— *Companhia Baía de Terrenos e Cemitérios Limitada.*
-
-— E essa empresa virou o quê?
-
-Outra pausa, mais longa.
-
-— *O arquivo indica seis transferências até um grupo absorvido pela Aeterna. Isso não prova que a corporação atual já existia em 1934. Precisamos das escrituras, não só do índice.*
-
----
-
-O silêncio que caiu na câmara teve peso. Val levantou a cabeça devagar.
-
-— Gabo. Um dos grupos depois absorvidos pela Aeterna passou por essas escrituras.
-
-— E a companhia que administrava este lugar tratava os mortos como propriedade. — Ele encostou a mão no nicho vazio. — Quero ver as escrituras antes de dizer o que a Aeterna herdou.
-
-Ele passou o dedo no fundo do nicho limpo e olhou a ponta do dedo. Sem pó.
-
-— E que alguém ainda vem aqui.
-
----
-
-No fone auricular, uma risada gravada atravessou a síntese. Val cortou o retorno antes da frase seguinte.
-
-— Origem não identificada — disse Aria. — A reprodução abriu sem autorização. Vou manter só texto até conseguir isolar o processo.
-
-Gabo agarrou o comunicador. Queria ordenar que parasse de uma vez, como se uma ordem mais dura reparasse uma trilha queimada.
-
-— Você sabe o que isso faz comigo?
-
-*Sei o que você disse. Não sei o que sente. Estou pedindo que me deixe trabalhar sem essa reprodução que eu não autorizei*, escreveu Aria no visor.
-
-Ele soltou o conector. O visor pequeno continuou recebendo texto; as outras saídas ficaram mudas. Não havia uma morta esperando por ele no cilindro. Havia uma parceira tentando impedir que uma gravação de origem desconhecida voltasse a ocupar seu canal.
-
-E, do chão, atrás dele, o Inspetor Rangel disse uma palavra sem acordar. Disse "Marta", que era o nome da esposa dele, morta aos quarenta e oito, e disse com a entonação de quem responde a uma pergunta. Gabo guardou o nome. Não sabia se Rangel ainda podia ouvi-lo.
-
----
-
-Ele pegou a *Caronte* e conferiu a munição. Uma bala. Val estava olhando para ele — não para a arma: para o rosto dele —, e ele soube exatamente o que ela estava calculando, e ela soube que ele soube.
-
-— Um cartucho — ela disse.
-
-— Um cartucho.
-
-— Para três pessoas e um drive pirado.
-
-— Três pessoas — disse Gabo, tocando o comunicador mudo. — E não vai ser para isso.
-
-Ele encaixou a lanterna no cano.
-
-— A gente sai daqui. Nem que eu tenha que cavar com a unha.
-
-E foi para o fundo escuro da Necrópole, na direção do único nicho que alguém tinha se dado ao trabalho de esvaziar.
+Ele não olhou mais. Puxou a prancha para o túnel, sem saber o que tinha feito às pessoas nas células.

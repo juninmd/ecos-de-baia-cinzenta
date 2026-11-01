@@ -1,104 +1,108 @@
 ---
-image: /capitulo_116.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Aria, Valéria "Val" Cruz
-Participação por transmissão: Inspetor Rangel, O Taxidermista
-Localização: "Usina Geotérmica Prometeu — Corredores do Subnível 4 → Passarela do Subnível 3"
+image: /cenas/capitulo_116/cena_1.jpg
+Personagens Presentes: Valéria "Val" Cruz, Gabriel "Gabo" Moretti, Aria
+Participação por comunicador: Inspetor Rangel
+Identidade em registro de sistema: Dante Moretti
+Localização: "Usina Geotérmica Prometeu — Setor de Triagem → Hangar da Fornalha"
 ---
-# Capítulo 116: Pressão Crítica
+# Capítulo 116: A Linha de Montagem
 
-O mundo explodiu em branco.
+```text
+SYSTEM LOG // ACCESS GRANTED
+LOCAL: USINA GEOTÉRMICA PROMETEU [SETOR DE TRIAGEM]
+PROTOCOLO: DESCARTE BIOLÓGICO V.4.0
+EFICIÊNCIA TÉRMICA: 98.4%
+ALERTA: CONTAMINAÇÃO NÃO PADRONIZADA NO LOTE #899
+```
 
-Não foi um flash de luz, mas de som e temperatura. Quando a carga da *Caronte* rasgou a tubulação principal de vapor, a física assumiu o comando. A pressão de dezenas de atmosferas, contida por décadas em encanamentos de ferro-gusa, encontrou uma saída. O rugido foi o de um titã despertando, alto o suficiente para fazer os dentes de Gabo vibrarem no crânio.
+O Despejo
+O caminhão parou com um *hiss* pneumático que soou como um animal morrendo. O silêncio que se seguiu foi pesado, quebrado apenas pelo zumbido distante de maquinário industrial colossal.
 
-— *AGORA!* — ele rugiu, mas sua voz foi engolida pelo caos. Ele agarrou o braço de Valéria, puxando-a para baixo.
+— Fiquem atentos — a voz de Rangel crepitou no rádio. — O painel diz que o procedimento de despejo é automático. Não consigo travar a caçamba. Vocês têm dez segundos antes que o chão se abra.
 
-O jato de vapor superaquecido atingiu os sensores óticos e térmicos do corredor como uma marreta. As câmeras estouraram. O gás paralisante que começava a descer foi violentamente dispersado pela turbulência térmica. Era uma aposta estúpida: trocar asfixia química por queimaduras de terceiro grau.
+— Dez segundos?! — Valéria gritou, tentando se levantar sobre a pilha instável de sacos pretos.
 
-Gabo sentiu o calor lamber seu rosto através do lenço improvisado. Era úmido, pesado, com gosto de metal fervido.
+— Saída de emergência! — Gabo ordenou, apontando para a escotilha lateral que Valéria havia encontrado antes. Mas antes que pudessem alcançá-la, o mundo inclinou.
 
-— Aria! Filtra a visão térmica no meu visor! — Valéria gritou para o microfone de garganta, tossindo enquanto erguia o *Phantom V3* no meio da névoa branca.
+A caçamba do caminhão se ergueu num ângulo de quarenta e cinco graus. A gravidade assumiu o comando. Gabo deslizou, suas botas raspando inutilmente no metal oleoso, enquanto dezenas de corpos ensacados rolavam sobre ele como uma avalanche macabra.
 
-No barramento lateral do deck, o pendrive blindado de titânio da Aria piscava freneticamente em azul, compensando o ruído térmico dos sensores de Valéria.
+A porta traseira se abriu com um estrondo.
 
-— *Sensores externos saturados* — a voz de Aria cortou o ruído nos fones de ambos, plana e sem pânico. — *O ruído térmico comeu o corredor. O sonar do comunicador detecta uma abertura no setor norte; a planta indica ventilação de serviço. A planta é de antes do incêndio; desobstruída é promessa dela, não minha.*
+Eles caíram.
 
-Uma seta de luz azul piscou nos óculos de Valéria e no comunicador de Gabo. Ele empurrou Valéria naquela direção.
+Não foi uma queda longa, mas foi brutal. Gabo aterrissou sobre algo macio e cedeu, o impacto absorvido pela "carga". O cheiro de decomposição e produtos químicos explodiu em suas narinas, fazendo-o engasgar. Valéria caiu ao lado dele, soltando um grito abafado ao perceber onde estava.
 
-— Vá! Não pare por nada.
+Eles estavam em uma rampa de metal polido, cercados por centenas de sacos pretos que deslizavam lentamente em direção a uma abertura iluminada por luzes âmbar no final do túnel.
 
-Eles rastejaram. O chão de grade metálica estava quente o suficiente para queimar através das luvas se ficassem parados por muito tempo. Acima deles, o sistema de extinção de incêndio da usina tentava combater o vapor com espuma química, criando uma lama tóxica que chovia sobre seus sobretudos.
+— Saiam da esteira! — Gabo rugiu, ignorando a dor aguda em sua perna remendada. Ele agarrou o braço de Valéria e a puxou.
 
-— *Interessante* — a voz do Taxidermista ecoou nos alto-falantes, distorcida pela estática, mas ainda irritantemente calma. — *Você luta como um animal encurralado, Gabriel. Destruindo a própria jaula, mesmo que os estilhaços o cortem. Dante sempre disse que sua imprevisibilidade era um defeito. Eu começo a achar que é sua única qualidade.*
+Valéria já estava em movimento. Ela saltou levemente sobre os sacos móveis, alcançando uma passarela de manutenção lateral. Val prendeu a mão direita na escada lateral e subiu. Ajudou Gabo a alcançar o primeiro apoio; ele se arrastou atrás dela, os dedos escorregando no metal úmido.
 
-Gabo ignorou. Val liberou pelo cabo o fecho da grade de ventilação. Gabo usou a coronha como alavanca e arrancou a grade sem apoiar peso na perna ferida. O metal cedeu com um *clang* surdo.
+Dois segundos depois, um braço mecânico gigante desceu do teto, empurrando o lote de "biomassa" — onde eles estavam segundos antes — para dentro de um triturador industrial. O som de ossos e material orgânico sendo processados foi um rugido baixo e úmido que fez Valéria vomitar no chão gradeado.
 
-— Dentro. Rápido.
+Gabo ficou deitado por três segundos, o tempo exato que o corpo leva para decidir se ainda obedece. Havia algo pontudo entrando na panturrilha e algo mole debaixo das costas. Ele não quis saber o que era o mole.
 
-O duto de manutenção era um pesadelo claustrofóbico de cabos e graxa velha. Valéria entrou primeiro, rastejando sobre os cotovelos com o cyberdeck preso ao antebraço. Gabo entrou logo atrás, girando o corpo para cobrir a retaguarda com a escopeta. Sua perna direita travou — um espasmo agudo onde o metal encontrava o osso. Ele grunhiu, mordendo o lábio até sentir gosto de sangue, e forçou o corpo para dentro do buraco escuro.
+Quando se levantou, a perna direita não acompanhou. A órtese havia girado no encaixe, e o metal agora trabalhava contra o osso, num ponto que nenhum analgésico barato alcançava. Ele se apoiou no joelho esquerdo, cuspiu e sentiu gosto de ferrugem e de algo doce.
 
-Eles rastejaram por minutos que pareceram horas. O ar ali era rarefeito, cheirando a ozônio e algo mais... algo doce e podre.
+Valéria estava de quatro, tremendo, o deck pendurado no antebraço como uma prótese inútil. Ele não a levantou. Não tinha braço que chegasse. Só ficou entre ela e a esteira até que conseguisse se mover sozinha — e ela conseguiu, o que de algum modo era pior.
 
-— Gabo... — a voz de Valéria tremeu à frente. — Olhe para os cabos.
+A Fornalha
+Eles estavam em um vasto hangar subterrâneo. O ar era quente, denso e úmido, com gosto de enxofre. Canos gigantescos pulsavam nas paredes como veias varicosas, bombeando fluidos de cores neons. Abaixo deles, esteiras transportadoras infinitas moviam o que restava dos excluídos de Baía Cinzenta em direção aos fornos geotérmicos.
 
-Gabo acendeu a lanterna tática acoplada à *Caronte*. O feixe de luz revelou o interior do duto.
+O calor não vinha de uma fonte. Vinha de tudo. Subia do piso em ondas que faziam o ar tremer sobre as esteiras, e o suor de Gabo secava na pele antes de escorrer, deixando uma película de sal que ardia nos cortes. O som era pior: um zumbido grave, constante, de máquina grande trabalhando satisfeita. Nada ali tinha pressa. Nada precisava correr, porque a cidade entregava o próprio material todas as noites, em caminhões com protocolo manual e chave mestra da polícia.
 
-Não eram apenas cabos de cobre e fibra ótica. Entrelaçados a eles, pulsando com uma bioluminescência fraca, havia nervos. Tecido orgânico cinzento, vascularizado, conectando os módulos de processamento da parede.
+A usina não odiava ninguém. Era o que dava mais medo.
 
-— O que é isso? — Gabo sussurrou, sentindo o estômago revirar.
+— Meu Deus... — Valéria limpou a boca com as costas da mão, os olhos arregalados de horror. — O Marco... ele dizia que era "reciclagem". Ele chamava isso de "Nova Alvorada".
 
-— É uma rede neural úmida — Valéria respondeu, o horror em sua voz era palpável para alguém que vivia no mundo binário. — Ele não está apenas queimando os corpos, Gabo. Ele está usando os cérebros. A "Nova Alvorada"... ele está criando um supercomputador usando massa cinzenta humana como processadores paralelos.
+— É eficiente — disse Valéria, e a voz saiu errada, plana, como se o número tivesse tomado o lugar dela por um segundo. Ela ouviu a própria frase e fechou a boca. — A queima de biomassa estabiliza a rede em picos de consumo. O relatório de rendimento contabiliza energia por lote, sem nome. Não sei se o número fecha. Sei o que está entrando na fornalha.
 
-— *Processamento distribuído* — a voz do Taxidermista sussurrou, vindo de um pequeno transceptor de manutenção na parede. — *O cérebro humano é uma máquina maravilhosa, detetive. Infinitamente mais eficiente em termos de energia do que o silício. Desperdiçá-lo seria um pecado. Aqui, os viciados, os esquecidos, os "Drenados"... eles finalmente têm um propósito. Eles pensam por Dante. Eles sonham a cidade.*
+Gabo rosnou, não por raiva dela, mas pela frieza dos números. Ele tocou o *Caronte* no coldre, sentindo o metal frio contra o quadril.
 
-Gabo sentiu a mão tremer. A lembrança da fumaça acre de charuto do interrogatório na Torre do Relógio veio do nada e o atingiu como um soco físico — uma alucinação olfativa de asfixia sobreposta ao fedor da abominação, tão nítida que seu peito apertou.
+— Onde está o Rangel?
 
-Foco.
-Ele apertou o Colar de Sol. A borda de metal cortou a pele da palma da mão. A dor clareou sua mente.
+— *Estou estacionando na doca de manutenção* — a voz de Rangel veio pelo comunicador de Valéria. — Tive que sair rápido antes que os drones de limpeza escaneassem a cabine. Estou indo para a posição de vocês. Cuidado, crianças. O lugar está cheio de "Jardineiros".
 
-— Val, continue movendo — ele ordenou, a voz rouca. — Se eles são processadores, nós vamos puxar a tomada.
+— Jardineiros? — Gabo franziu a testa. — Achei que a seita do Silas tinha acabado.
 
-Eles chegaram a uma saída de serviço que dava para uma passarela superior no Subnível 3. O ar aqui era mais frio, mas o barulho de maquinaria pesada era ensurdecedor.
+— Não a seita — corrigiu Valéria. — Os drones de manutenção biológica. Modelo J-400.
 
-O rádio de Gabo estalou.
+— E eles obedecem a quem? — perguntou Gabo.
 
-— ...tte... na escuta... aqui é Rangel... Câmbio!
+— A quem estiver mais perto do painel. — Valéria engoliu. — Não falam. Não negociam. E não temos como negociar com eles.
 
-Gabo ativou o comunicador de garganta.
+O ar mudou antes do som chegar. Ficou mais frio num canto do hangar, do jeito que fica um corredor quando alguém abre uma porta atrás de você. Gabo conhecia esse frio. Não era o da noite; era o de um motor ligado há tempo suficiente para querer companhia.
 
-— Rangel? Qual a situação?
+Uma sombra se moveu nas vigas acima deles. Uma máquina aracnídea, com múltiplos braços terminados em serras e maçaricos, desceu silenciosamente por um cabo. Ela não tinha rosto, apenas um conjunto de lentes vermelhas focadas no vômito de Valéria no chão.
 
-— *Ruim!* — A voz do ex-inspetor vinha acompanhada do som inconfundível de fogo automático. — *Estou na Doca de Carga B. Os drones "Jardineiros" nos cercaram. Estou com pouca munição e o caminhão foi inutilizado. Preciso de suporte ou não saio daqui!*
+— Contaminação detectada — a voz da máquina era uma síntese distorcida, quase humana. — Protocolo de esterilização iniciado.
 
-Valéria já estava de pé, as mãos brancas de graxa apertando o deck como se pudesse arrancar o Rangel pelo cabo.
+Gabo sacou a escopeta *Caronte*.
 
-— Temos que voltar. Temos que ajudar o Rangel.
+— Val, atrás de mim. Hackeia essa coisa.
 
-Abaixo, o abismo de máquinas e "processadores" humanos zumbia sem parar. À frente, a porta blindada maciça exibia o símbolo de risco de radiação e a inscrição: NÚCLEO DE RESFRIAMENTO.
+O drone soltou um guincho e saltou.
 
-O relógio mental de Gabo tiquetaqueava. A janela anotada por Kiko, se aplicável ao biohost, podia estar se fechando. Se eles voltassem para a Doca, perderiam a chance de sabotar o núcleo. Se seguissem em frente, Rangel provavelmente morreria.
+Gabo não esperou. Ele disparou. O som do tiro de calibre 12 foi ensurdecedor no espaço fechado, ecoando contra as paredes de metal. O drone foi atingido no ar, girando descontrolado enquanto faíscas choviam sobre a esteira de corpos abaixo.
 
-— Gabo! — Valéria insistiu.
+— Isso vai atrair atenção — disse Valéria, já conectando seu deck a um terminal na parede. — Estou tentando acessar o mapa da instalação. O núcleo de resfriamento deve estar no nível inferior.
 
-O pendrive no pulso de Valéria piscou três vezes antes de Aria abrir o canal interno — o mesmo ritmo com que costumava pedir licença.
+— Temos que chegar lá enquanto houver chance de pegá-lo vulnerável — Gabo recarregou a arma com um movimento seco. — A queda dos enlaces pode ser o ciclo que Kiko descreveu, ou outra coisa. Não sabemos quanto tempo temos.
 
-— *Não tenho imagem da doca. Pelos disparos e pelo relato, Rangel está sob risco imediato* — informou Aria, a voz adulta atravessando o ruído. — *Contudo, se a rotina que lemos estiver correta, o ciclo poderia terminar em minutos; não conseguimos confirmar que ele começou. Nenhuma das duas escolhas cabe numa garantia.*
+Valéria olhou para o corredor escuro à frente.
 
-Gabo fechou os olhos por um segundo. Ele viu o rosto de Rangel, o homem que desistiu de tudo para fazer a coisa certa. E viu a cidade lá fora, a chuva, os milhões de pessoas presas no pesadelo de Dante.
+— O caminho está bloqueado por três portas de segurança nível 5. E... Gabo.
 
-Ele abriu os olhos. Eram frios como o aço de sua arma.
+— O quê?
 
-— Rangel — Gabo disse no rádio. — Segure a posição.
+— Estou detectando um padrão familiar na rede local. Não é o Dante. É algo mais antigo.
 
-— *O quê? Gabo, estou dizendo que...*
+Gabo sentiu um calafrio que nada tinha a ver com o sistema de refrigeração.
 
-— Segure a posição! — Gabo gritou. — Crie o máximo de barulho que puder. Atraia a atenção deles.
+— Krell?
 
-Houve um silêncio no rádio, quebrado apenas pelos tiros ao fundo.
+— Não — Valéria virou-se, os olhos brilhando na penumbra. — O painel identifica o sistema pelo mesmo nome que ele usava na Torre do Relógio. Não prova que esteja aqui; pode ser código antigo.
 
-— *...Entendido* — a voz de Rangel veio mais baixa, resignada, mas firme. — *Vou dar a vocês o tempo que precisam. Façam valer a pena, Moretti. Rangel fora.*
+Gabo apertou o cabo da *Caronte* até os nós dos dedos ficarem brancos. É claro. Onde havia corpos sendo processados, o velho monstro estaria perto.
 
-Valéria olhou para Gabo como se ele fosse um estranho.
-
-— Você o abandonou.
-
-— Eu fiz uma escolha — Gabo respondeu, virando-se para a porta do Núcleo. Ele engatilhou a *Caronte*. — Não sabemos se ele vai sobreviver. E a ordem que dei fica no registro. Val, pluga a Aria nesse terminal e abra essa maldita porta.
+— Vamos descer — disse Gabo, mancando em direção à escuridão. — Tenho contas a acertar com a gerência.

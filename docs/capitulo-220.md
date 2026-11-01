@@ -1,121 +1,139 @@
 ---
-Título: A Fita
+Título: O Ar Limpo
 Data In-Game: Pós-Colapso do Sentinel (Noite Eterna)
-Localização: Arca Zero - Arquivo Analógico, Abaixo do Setor 6
+Localização: Arca Zero - Antecâmara de Descontaminação, Abaixo do Setor 6
 Personagens Presentes: Gabo, Valéria, Elias
 ---
 
-# Capítulo 220: A Fita
+# Capítulo 220: O Ar Limpo
 
-Levei alguns minutos para conseguir tocar na lata. Ela ficou ali no centro da mesa esse tempo todo, e eu fiquei olhando. Uma lata redonda de fita magnética, de umas dez polegadas, com a pintura verde descascando na borda e uma mancha de ferrugem na dobradiça. Cheirava a acetato velho — aquele cheiro adocicado e químico de filme guardado, que sobe da lata assim que a vedação cede e que quem tem mais de quarenta anos reconhece sem saber de onde.
+A porta cedeu os últimos centímetros sozinha.
 
-O metal estava frio. Eu passei o polegar na etiqueta e senti a datilografia em relevo, letra por letra, como quem lê braile do nome do próprio pai. Elias a colocou na mesa de leitura e recuou, do jeito que se recua de um cachorro que ainda não decidiu. Valéria montou o carretel na máquina — um gravador de rolo do tamanho de uma mala, todo botão físico e agulha analógica — e depois ficou parada ao lado dele, esperando, sem nunca perguntar se eu queria ouvir.
+Não empurrei. Ela simplesmente continuou, puxada por um contrapeso que alguém havia calibrado antes de eu nascer, e o movimento foi tão silencioso que parecia indelicado. Sessenta anos de espera e nenhum rangido. Fiquei ali segurando o volante como um idiota, com sangue escorrendo pela perna e a respiração saindo em nuvens brancas, enquanto meio metro de chumbo se abria para mim com a cortesia de um mordomo.
 
-Ela não precisou perguntar. Nem precisou me apressar. Ela apenas ficou lá, disponível, com uma paciência que eu não soube interpretar. Desde a clínica, a sobrecarga vinha abafando suas respostas em intervalos cada vez maiores. No portão ainda tinha feito piada; agora parecia gastar tudo para continuar de pé.
+O que veio de dentro não foi som. Foi ausência de som.
 
-— Você quer que eu saia? — Elias perguntou.
+No Hub, os servidores ainda zumbiam. Ali o silêncio era outro. Nos últimos meses, o silêncio de Baía Cinzenta sempre teve textura: goteira, ferrugem se assentando, o estalo distante de alguma coisa orgânica crescendo onde não devia. Aquilo ali era outra categoria. Um silêncio construído, projetado, pago caro. Um silêncio que custou dinheiro.
 
-— Não. — Puxei a cadeira de couro. — Se der ruim, alguém tem que estar sóbrio.
+— Pressão positiva, — Valéria disse atrás de mim. — O ar está saindo, não entrando. O mostrador confirma pressão interna maior agora. Não temos o histórico para dizer que nunca houve uma falha.
 
-— Eu não estou nem um pouco sóbrio, cara.
+— E o que significa a gente entrar?
 
-— Você é o mais perto que eu tenho.
+— Significa que vamos levar sujeira para dentro. Não encostem nos berços.
 
-Ele sentou no chão, encostado na estante, abraçando os joelhos. Coloquei a mão de carne no botão. O ombro latejava em ondas agora, subindo pelo pescoço e batendo atrás do olho direito. Trinta e nove e meio, talvez quarenta. As paredes brancas tinham começado a respirar de um jeito muito discreto, e eu sabia o que aquilo significava, e resolvi que não importava. Apertei. O carretel girou. Houve três segundos de chiado — aquele chiado gordo, quente, que fita magnética faz e que nenhum arquivo digital jamais soube imitar. E então:
+Eu ri. Doeu no ombro, e a risada virou tosse, e a tosse trouxe gosto de moeda velha para a boca. A febre estava subindo desde a passarela; meus músculos continuavam sangrando sob as bandagens após a fixação da fratura pela equipe médica, e agora eu conseguia sentir meu próprio pulso batendo dentro do ferimento, como se houvesse um segundo coração alojado ali, menor e mais raivoso que o primeiro.
 
-"...testando. Está gravando? Ótimo."
-Uma voz de mulher. Profissional. Neutra. Com a idade tirada por dentro do jeito que só as vozes muito treinadas conseguem. A voz me lembrou a mulher que eu vira ser presa diante da mansão dos Vance. Mas eu não podia identificar uma gravação antiga só pela lembrança.
+Atravessei a soleira.
 
-"Sessão de admissão. Inquilino: Moretti, Dante. Comissário. Admissão sob autoridade da diretoria, contrato não assinado pelo indivíduo. Auditora responsável: Vance, E."
-Uma pausa. O som de uma cadeira sendo arrastada.
+O chão do outro lado era liso. Não limpo — *liso*. Epóxi industrial branco, sem uma rachadura, sem uma mancha, refletindo a luz da lanterna moribunda de Elias em um borrão pálido que se estendia por trinta metros. As paredes eram do mesmo branco. O teto tinha luminárias embutidas, apagadas, alinhadas com uma precisão que ofendia.
 
-"Comissário, o senhor entende onde está?"
-E aí o mundo saiu do lugar.
+Depois de meses em dutos, esgotos e galerias de osso, aquele corredor branco me pareceu obsceno.
 
-"Eu entendo que a senhora tem uma máquina de escrever muito boa e um advogado muito ruim."
-Meu pai. Não a simulação. Não o rosto idealizado no monitor de um exoesqueleto. Não a coisa educada e precisa demais que saiu de um túnel descalça e me chamou de Gabriel como se estivesse lendo o nome numa lista.
+— Não, — Elias disse.
 
-**Ele.** Com o barítono rouco lascado nas pontas, com aquela pausa exata de meio segundo antes das palavras difíceis, com o deboche que ele usava exclusivamente com gente que se achava mais esperta do que era.
+Ele estava parado na porta, sem passar. A lanterna tremia na mão dele.
 
-Fechei os olhos. Segurei a beirada da mesa com a mão boa até os dedos ficarem brancos.
+— Não o quê?
 
-"O senhor está sendo desagradável."
-"A senhora vai me guardar num pote. Perdoe a falta de modos."
-"Não é um pote."
-"É um pote, doutora. Um pote caro. Eu li o contrato que a senhora não me deu."
-Silêncio na fita. Longo. Onze, doze segundos. Só o chiado. Depois a voz dela outra vez, e alguma coisa nela tinha mudado de temperatura:
+— Isso não pode estar aqui. — A voz dele saiu fina. — Eu trabalhei quatro anos em manutenção. Eu conheço cada duto do Setor 6. Isso não está em planta nenhuma. Isso não *existe*.
 
-"O senhor leu."
-"Eu passei trinta anos lendo o que ninguém queria que eu lesse. É basicamente a única coisa que eu sei fazer."
-"E o que o senhor entendeu?"
-*"Que vocês não querem me matar. Matar é barato e vocês já teriam feito. Vocês querem me **usar**, e para isso eu preciso continuar pensando, e a senhora está aqui hoje para descobrir se o que eu tenho na cabeça vale o custo de manutenção."*
+— Agora existe. Entra.
 
-Outra pausa.
+— Tem alguma coisa errada com o cheiro.
 
-*"Vale?"*, ele perguntou.
+Eu parei. Porque ele tinha razão, e eu não tinha percebido o que estava me incomodando desde que a porta abriu.
 
-"Sim."
-"Que pena."
-Elias tinha parado de respirar direito do outro lado da sala. Valéria não se moveu um milímetro. A fita continuou. Vinte minutos. Ela fazia perguntas técnicas — memória de procedimento, hierarquia de decisão, resolução de dilema — e ele respondia todas, uma por uma, com aquela precisão de policial velho que catalogou tanta miséria humana que já não se impressiona com nenhuma. Ela estava mapeando o código moral dele. Testando se aguentava carga.
+O cheiro do antisséptico que sentíramos na soleira tinha quase desaparecido.
 
-E ele sabia. Ele parecia saber o que ela estava fazendo e respondia mesmo assim. A fita não me deixava conferir tudo o que ele dizia. Foi aí que eu entendi por que a IA deles funcionou tão bem. Não foi porque roubaram um cérebro bom. Ele respondia sob coerção e ainda procurava interferir no que fariam dele. Responder não era consentir em ser usado. Na marca dos vinte e dois minutos, a voz dela mudou de novo.
+Restava o odor da nossa roupa, mas não havia mofo nem a podridão doce da biomassa dominando o corredor. Eu inspirei fundo, procurando qualquer coisa, e o ar entrou nos meus pulmões como água destilada. Frio. Neutro. Vazio.
 
-"Última pergunta, Comissário. Fora do protocolo."
-"Estou ansioso."
-"O senhor tem dois filhos."
-Chiado.
+E foi aí que eu entendi o verdadeiro impacto daquele santuário.
 
-"Três."
-"O registro diz dois."
-"O registro está incompleto. Ela nasceu depois."
-"O senhor gostaria de deixar alguma instrução a respeito?"
-E o meu pai riu. Uma risada curta, seca, sem alegria nenhuma, a mesma risada que eu ouvi a vida inteira do outro lado de uma porta de escritório trancada.
+Não havia poluição. Não havia o azedume da chuva ácida que corrói Baía Cinzenta desde o berço, nem a fuligem de chaminés corporativas ou o lodo asfixiante do esgoto. Como no Hub, o ar parecia menos agressivo; ali o silêncio também deixava a tosse mais alta. Continuei tossindo, e o tremor não passou.
 
-"Instrução? A senhora vai apagar essa parte da fita."
-"Eu não vou."
-"Vai sim."
-"Comissário, eu não vou apagar."
-E então ele falou, e falou baixo, e a agulha do gravador mal se moveu:
+Encostei a testa na parede fria de epóxi e fiquei ali, respirando devagar, como um condenado que acabava de receber uma trégua inesperada no meio da tempestade.
 
-"Então escreve aí. O mais velho vai me procurar. Não porque ele me ama — ele não me ama, e ele tem razão em não amar. Ele vai me procurar porque ele não sabe fechar uma pasta em aberto, e eu sou a pasta mais aberta que ele tem. Vai levar anos. Ele vai chegar até vocês."
-"E se chegar?"
-"Aí a senhora vai ter um problema que nenhum contrato resolve. Porque eu sou um homem razoável, doutora. Eu negocio. Eu li o papel."
-Uma pausa.
+— Gabo, — a voz de Valéria soou suave ao meu lado. Ela parou a um passo de mim, os olhos prateados analisando meu rosto com uma mistura de alívio e preocupação genuína. Ela tocou a lateral da minha têmpora com a ponta dos dedos enluvados. — Você está quente e confuso. Esse ferimento precisa de atendimento; pelo toque eu não sei sua temperatura nem o que a infecção alcançou. Vamos procurar uma enfermaria. Aqui entra ar filtrado, não oxigênio puro.
 
-"O meu filho não lê nada."
-Clique.
-O carretel continuou girando em fita branca por mais um minuto inteiro, e ninguém na sala se mexeu para desligar. Eu fiquei ali sentado na cadeira de couro rachado, com quarenta graus de febre, o braço quebrado na armação e um ombro em carne viva, no lugar mais limpo do mundo, ouvindo um chiado. Quinze anos de merda e a única coisa que eu consegui pensar foi: *ele falou de mim.*
+— Deixa eu aproveitar o silêncio, Val, — murmurei, abrindo os olhos e encarando o corredor imaculado.
 
-Ele estava sendo enterrado vivo por uma corporação de cemitério e usou os últimos vinte segundos de fita para avisar a mulher que ele **tinha** três filhos, e que um deles ia dar trabalho.
+— Aproveita, mas não apaga, — ela respondeu com um meio-sorriso cansado, olhando para as próprias botas cobertas de lama e óleo. — Esse lugar parece o necrotério mais caro do planeta. Dá até dó de sujar esse chão branco com as nossas carcaças da Zona Baixa. Mas admito que respirar sem tossir fuligem é quase um milagre.
 
-Eu passei a vida inteira convencido de que ele nunca tinha me visto. Que eu era ruído de fundo entre um plantão e outro, uma criança que ele cumprimentava a caminho da porta. Passei quinze anos endurecendo em cima dessa certeza. Construí tudo que eu sou naquela pedra. A pedra continuava lá. Eu não tinha inventado a ausência, o desprezo, as portas que ele fechava na minha cara. Aquela fita não reescrevia a infância.
+Elias finalmente atravessou a porta. Deu três passos, parou e cobriu a boca com a mão.
 
-O que desabou foi outra coisa: a conveniência de fazer dele um homem de uma peça só. Ele me feriu e pensou em mim antes de ser enterrado vivo. Uma verdade não cancelava a outra. Eu usara a primeira como licença para cobrar dos outros; agora nem esse truque servia.
+Achei que fosse vomitar. Não era.
 
-Éder levantara as mãos e eu atirara. Minha infância não apertou aquele gatilho. Eu apertei. Eu não ganhei nada naquela cadeira de couro. Eu perdi a última desculpa que eu tinha. Meus olhos arderam e eu não fiz absolutamente nada a respeito, porque a mão boa estava ocupada segurando a mesa e a outra estava presa à armação que Vasco acoplara ao fixador, e eu não ia usar o ferro de um açougueiro para enxugar isso.
+Ele estava chorando.
 
-— A pasta, — falei, e a voz saiu horrível. — Ele falou pasta em aberto.
+— Ei. — Fui até ele, mancando. — Ei, Elias.
 
-— Sim, — Valéria disse.
+— É limpo. — Ele falou por trás da mão, e a voz saiu quebrada em pedaços pequenos. — Cara, é limpo. Eu esqueci. Eu esqueci que o ar podia ser assim. Eu fiquei trancado naquela sala meses respirando meu próprio... eu esqueci.
 
-— Ele sabia que eu ia chegar aqui.
+Ele encostou nas costas na parede branca e escorregou até o chão, e ficou lá sentado, chorando de forma feia e sem vergonha nenhuma, do jeito que uma pessoa normal chora.
 
-— Ele calculou que você chegaria a algum lugar. Isto aqui é o lugar que sobrou.
+Eu não soube o que fazer com aquilo. Faz muito tempo que ninguém chora perto de mim por um motivo bom.
 
-Ela desligou o gravador. O silêncio construído voltou a ocupar tudo.
+Coloquei a mão de carne no ombro dele. Deixei lá. Não disse nada, porque tudo que eu sei dizer sai como lâmina, e não era hora.
 
-— E tem mais uma coisa, — ela disse.
+Valéria continuou andando.
 
-— Não sei se eu aguento mais uma coisa.
+---
 
-— Você aguenta. — Sem crueldade. Sem calor. Uma leitura. — A Dra. Vance não apagou a fita. Ela tinha autoridade total sobre este arquivo, e a instrução do seu pai continua gravada, arquivada, etiquetada e guardada na estante mais protegida desta instalação.
+O corredor terminava em uma antecâmara hexagonal.
 
-Levantei a cabeça devagar.
+Seis portas. Cinco fechadas, uma entreaberta. No centro, um pedestal de aço escovado com uma placa fundida — não impressa, *fundida*, letras em relevo, do jeito que se faz quando você espera que alguém leia aquilo daqui a quinhentos anos.
 
-— Isso significa o quê?
+INSTALAÇÃO ZERO — CUIDADO PERPÉTUO
+AETERNA S.A.
+"A memória não apodrece."
+Li três vezes.
 
-— O arquivo guardou um registro de que Dante foi admitido contra a vontade. Não sabemos quem preservou a fita nem por quê. Isso não resolve os documentos de 2019 nem todas as escolhas anteriores dele. — Valéria virou o rosto para o corredor branco, na direção da galeria dos berços, e o prateado dos olhos dela cortou o escuro como um farol pequeno e frio. — A fita pode ter servido como prova, como instrumento de controle ou como as duas coisas. Precisamos perguntar a ela.
+— Aeterna, — falei. — Cuidado perpétuo.
 
-— Por quê?
+— É terminologia funerária, — Valéria disse. — Cuidado perpétuo é o contrato pelo qual um cemitério se compromete a manter um túmulo indefinidamente, mediante pagamento único. O termo cai em desuso na década de trinta.
 
-— Essa é a pergunta que vale a pena acordá-la para fazer.
+— Você está me dizendo que a Aeterna começou como cemitério.
+
+— Estou dizendo que a placa é de uma empresa de cuidado perpétuo, e que essa placa tem sessenta e um anos.
+
+Fiquei olhando para o aço escovado por um tempo longo demais.
+
+Sessenta e um anos. Antes do Lázaro. Antes de Krell. Antes do Jardim, do Sentinel, da Praga de Ferro, do Gamemaster usando o rosto do meu pai como máscara de festa. Antes de tudo que eu passei quinze anos tentando entender, tinha um sujeito de terno decidindo que a memória não devia apodrecer, e mandando fundir isso em metal.
+
+Todo o inferno que eu atravessei começou como uma promessa de bom gosto.
+
+— Gabo. — Valéria estava na porta entreaberta. — Você vai querer ver isto.
+
+Fui.
+
+Era uma galeria longa, e nela o branco finalmente cedia. As paredes se abriam em nichos — dezenas, talvez uma centena — dispostos em duas fileiras que se perdiam na escuridão. Cada nicho abrigava uma cápsula de vidro grosso deitada na horizontal, do tamanho de uma pessoa, envolta em serpentinas de cobre e cabos analógicos trançados à mão.
+
+Berços.
+
+Todos apagados. Todos vazios. Vidro limpo, forro branco, nenhuma marca, nenhuma poeira. Cem caixões de luxo esperando ocupantes que nunca chegaram, ou que chegaram e foram embora, ou que — a possibilidade me ocorreu com uma frieza que não tinha nada a ver com a febre — nunca foram destinados a ser pessoas.
+
+Andei pela galeria contando. Cheguei a oitenta e três e parei de contar, porque no fim do corredor havia uma luz.
+
+Um único berço, no último nicho, com o painel aceso.
+
+Verde.
+
+O vidro estava embaçado por dentro. Alguma coisa ali dentro ainda estava quente o suficiente para condensar.
+
+Elias parou no meio da galeria e se recusou a chegar mais perto. Valéria foi até o painel e ficou lendo os mostradores analógicos com aquela calma de metrônomo.
+
+Eu cheguei até o vidro. Limpei a condensação com a lateral da mão de carne.
+
+E o rosto que apareceu do outro lado eu conhecia.
+
+Eu conhecia daquele rosto o suficiente para saber que, se ela estava ali, dormindo limpa e intacta enquanto a cidade inteira apodrecia centenas de metros acima da cabeça dela, então nada — absolutamente nada — do que aconteceu com Baía Cinzenta tinha sido acidente.
+
+— Valéria, — eu disse, e minha voz saiu estranha até para mim. — Me diz que esse painel está quebrado.
+
+— O painel está funcional. Sinais vitais estáveis. Atividade cortical presente e elevada.
+
+— Elevada.
+
+— O painel registra atividade; não diz quanto ela percebe, Gabo. — Valéria virou o rosto para mim, e o prateado dos olhos dela iluminou o vidro entre nós dois. — Seja o que for que esse berço faz, ele não desliga a mente. Pode haver alguém nos ouvindo aí dentro.
+
+E, do outro lado do vidro, a Dra. Elara Vance abriu os olhos azul-gelo e olhou diretamente para mim.

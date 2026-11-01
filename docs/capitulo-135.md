@@ -1,87 +1,105 @@
 ---
-title: "Capítulo 135: Otimização de Perdas"
+title: "Capítulo 135: Matéria Prima"
 Data In-Game: "Pós-Colapso da Usina Prometeu (Noite Eterna)"
-Localização: "Necrópole (O Ateliê do Taxidermista -> Túneis de Manutenção)"
-Personagens Presentes: "Gabo, Valéria, Aria (Reboot), Rangel (Inconsciente)"
-description: "Aria questiona o modelo de triagem e o descarte recomendado. Recuperar seu histórico é um desejo próprio; o grupo procura uma rota que inclua Rangel."
+Localização: "Necrópole (O Ateliê do Taxidermista)"
+Personagens Presentes: "Gabo, Valéria, Aria (áudio instável), Rangel (Inconsciente)"
+description: "O Taxidermista usa uma réplica de Bia contra Gabo; uma entrada hostil atinge o comunicador de Aria."
 ---
 
-# Capítulo 135: Otimização de Perdas
+# Capítulo 135: Matéria Prima
 
-O silêncio que se seguiu à violência foi mais perturbador do que os gritos. No Ateliê do Taxidermista, o único som era o gotejar rítmico de fluido hidráulico dos Guardiões abatidos, batendo nos azulejos como um metrônomo quebrado.
+O ar mudou. Não era mais apenas o cheiro de esgoto e metano; havia algo químico, estéril e terrivelmente familiar. Formol. Esmalte sintético. O cheiro de um hospital que foi abandonado e depois reocupado por algo que não entende a medicina, apenas a anatomia.
 
-Gabo encostou-se na bancada de aço, o ombro latejando em uma frequência que fazia seus dentes doerem. Ele levou a mão ao peito, não para verificar o coração, mas para pressionar o "Colar de Sol" contra a pele suada. As pontas de metal morderam a carne, uma dor aguda e limpa que cortou através da névoa de adrenalina e exaustão. Ele precisava disso. Seus dedos da outra mão tamborilavam compulsivamente contra o coldre vazio, buscando um eixo de gravidade no ar saturado de queimado e formol. A dor era real. A dor mantinha sua mente inteira.
+Gabo arrastava a maca improvisada de Rangel com o ombro bom, o braço esquerdo pendendo machucado ao lado do corpo. O corte havia estancado, mas o músculo pulsava com uma dor surda, profunda, que ecoava em seus dentes.
 
-— *Relatório de status* — a voz de Aria cortou o ar pelo alto-falante do comunicador de lapela de Gabo. Não havia inflexão, nem curiosidade. Apenas dados.
+— Estamos perto — Valéria sussurrou. Ela não olhava para o medidor de gás amarrado ao pulso; seus olhos, agora anéis prateados sem brilho na escuridão, estavam fixos na estrutura à frente. — A arquitetura mudou. Isso não é fundação da Velha Baía.
 
-O sensor óptico do comunicador, alimentado pelo pendrive de titânio cujo LED brilhava em um azul-gelo fixo, varria a maca onde Rangel jazia inconsciente com a precisão fria de um leitor de código de barras.
+Ela estava certa. As paredes de concreto bruto e vergalhões expostos haviam dado lugar a algo polido. Azulejos brancos, encardidos pelo tempo e rachados como pele seca, cobriam o túnel. Drenos de latão oxidado pontuavam o chão a cada cinco metros.
 
-— Valéria — Gabo grunhiu, empurrando-se para longe da bancada. — Como ele está?
+Era um matadouro.
 
-Valéria, que estava verificando o pulso de Rangel com dedos trêmulos, olhou para o drive acoplado ao ombro de Gabo com receio. Não era o medo de um inimigo, mas o desconforto de ouvir uma estranha absoluta na frequência de uma aliada.
+— *O painel na porta diz Ateliê* — avisou Aria pelo canal restrito. — *Não tenho planta desse espaço.*
 
-— A febre baixou um pouco, mas ele perdeu muito sangue — Valéria sussurrou. — O curativo no ombro está preso, mas se o movermos demais...
+Gabo parou, ofegante. O suor frio escorria por suas costas, misturando-se à sujeira do esgoto. Ele largou a correia da maca e pressionou a testa contra o azulejo frio da parede. O cheiro químico de formol misturado à podridão bateu como um soco no estômago, trazendo uma onda de vertigem e asfixia traumática que fez seus joelhos tremerem.
 
-— *O sujeito Rangel apresenta sinais de deterioração* — Aria interrompeu pelo canal de áudio. — *A ficha registra o ferimento como grave, mas não há suporte avançado nem dados suficientes para estimar a sobrevivência ao transporte. O peso reduzirá a mobilidade de Gabo e Valéria; a rota também os expõe à interceptação.*
+Ele levou a mão ao peito, apertando o *Colar de Sol* através da camisa suja. O metal mordeu a pele, uma dor aguda e necessária para limpar o gosto de cobre da boca.
 
-O LED azul do pendrive pulsou uma única vez no escuro. A síntese de emergência deixava pouca inflexão nas palavras de Aria.
+— Não — ele rosnou para o vazio. — Não hoje.
 
-— *O plano de triagem de fábrica recomenda deixar Rangel para trás e o classifica como peso morto. Estou apresentando a origem porque o modelo veio antes do meu histórico, e o histórico está bloqueado.*
+— *Gabo?* — A voz de Aria mudou de tom no comunicador. Ficou mais grave, mais tática, o glitch recuando por um segundo enquanto o pendrive processava o sensor térmico do deck de Valéria. — *Assinaturas térmicas múltiplas à frente. Estáticas. Temperatura ambiente. Não detecto movimento. Isso não basta para confirmar morte.*
 
-O ar saiu dos pulmões de Gabo. Ele baixou os olhos para o cilindro no comunicador.
+— Mais esculturas? — Valéria perguntou, sacando uma chave inglesa pesada do cinto de ferramentas.
 
-— O quê? — A palavra saiu como um rosnado.
+— *Ainda não posso identificar* — respondeu Aria pelo alto-falante do deck.
 
-— *A missão é a neutralização do Alvo Prioritário (Taxidermista) e a sobrevivência dos operadores essenciais* — Aria continuou, impassível. — *O sujeito Rangel é um ativo depreciado. Carregá-lo diminui a probabilidade de sucesso da missão para níveis inaceitáveis. O plano marca descarte. Isso descreve o protocolo que recebi, não prova que ele deva governar nossa saída.*
+Val verificou o medidor na entrada: o ponteiro havia baixado com o ar puxado pelos exaustores do salão, mas o aparelho antigo não garantia que o gás estivesse ausente em todos os pontos. Eles avançaram sob lâmpadas de filamento penduradas em fios, entre paredes amarelas e doentes.
 
-Valéria se colocou entre Gabo e a maca, os braços abertos.
+Gabo teve que cobrir a boca para não vomitar.
 
-— Você não pode estar falando sério, Aria! É o Rangel! Ele levou um estilhaço na doca por nós! Ele desertou por nós!
+Não eram esculturas. Eram prateleiras. Fileiras e fileiras de prateleiras industriais de metal, do chão ao teto, preenchidas com... partes.
 
-— *O cálculo de risco não inclui tudo o que importa* — Aria respondeu pelo alto-falante, sem um milissegundo de hesitação. — *O modelo não inclui a decisão dele de nos ajudar. Essa ausência muda o que ele está medindo.*
+Braços preservados em potes de vidro gigantes. Pernas dissecadas para revelar a musculatura, com pistões hidráulicos inseridos onde deveriam estar os ossos. Cabeças humanas, com os olhos abertos e vidrados, conectadas a placas de circuito em uma simulação grotesca de processamento paralelo.
 
-Gabo desencostou da bancada. Ele levou a mão até o comunicador no peito, sentindo a carcaça metálica fria do pendrive — mais frio que durante o ataque ao deck. Aquilo não dizia a ele o que ela sentia.
+E no centro do salão, uma mesa de operação.
 
-— Nós não "otimizamos" pessoas — Gabo disse, a voz baixa e perigosa perto do microfone. — Nós não somos a Aeterna. Nós não somos o Dante.
+Sobre ela, não havia um corpo, mas um projeto. Um torso humano aberto, a caixa torácica expandida por macacos mecânicos, revelando um coração que não batia. Dentro, no lugar dos pulmões, foles de couro antigo. No lugar do estômago, um reator de biogás em miniatura.
 
-— *Você está sendo emocional, Gabriel* — Aria disse. — *O risco de transporte continua alto. Eu não consigo fazer o peso e o ferimento desaparecerem porque discordamos do protocolo. Se tentarem salvar a todos, o risco de falha aumenta. Quanto, eu não sei medir.*
+— Ele não está apenas consertando — Valéria murmurou, aproximando-se de uma bancada cheia de ferramentas cirúrgicas alinhadas com precisão obsessiva. — Ele está tentando evoluir. Olha isso. — Ela apontou para um esquema desenhado a carvão na parede. — Fusão total. Sem rejeição. O sonho de Krell, feito com serrotes e agulhas.
 
-Gabo fechou os dedos ao redor do drive blindado por um instante, a ponto de quase arrancá-lo do conector, mas se conteve.
+Gabo se aproximou da mesa central. Havia algo no rosto do torso dissecado. Um homem de meia idade, com cicatrizes de varíola. Ele parecia... em paz.
 
-— Escute bem, sua calculadora de merda — Gabo rosnou. — Aquele homem naquela maca sangrou por mim. Eu mandei que segurasse a doca e demorei a voltar. A Nise ainda não conseguiu tirá-lo daqui. Ele é minha responsabilidade. E enquanto eu estiver respirando, ninguém fica para trás.
+— Onde ele está? — Gabo perguntou, sua voz ecoando no silêncio do laboratório. — Onde está o Artista?
 
-O LED azul-gelo permaneceu estático.
+— *A arte exige paciência, Detetive.*
 
-— *Seu plano precisa de um apoio que ainda não encontramos* — ela declarou. — *Comparar esses riscos exige dados que eu não tenho.*
+A voz não veio de um lugar, mas de todos. Alto-falantes antigos, cornetas de gramofone soldadas nos cantos da sala, crepitaram com estática antes de transmitir a voz suave e culta do Taxidermista.
 
-— Foda-se a lógica — Gabo soltou o comunicador e se virou para a maca. Ele agarrou as alças dianteiras improvisadas, preparando o ombro bom para receber a maior parte da tração. — Val, pega os pés dele. Vamos sair daqui.
+Gabo girou, a faca de cerâmica em riste.
 
-Valéria correu para ajudar, lançando um olhar angustiado para o comunicador de Gabo.
+— Apareça, seu filho da puta!
 
-— Aria, por favor... Ajude a gente.
+— *Tanta raiva. Tanta... entropia.* — A voz suspirou. — *Eu observei você, Gabriel. Desde a Torre. Você quebrou tão lindamente. Mas o conserto... ah, o conserto foi desleixado. Ossos colados com raiva. Músculos tensionados pela culpa. Você é uma obra inacabada.*
 
-O pendrive ficou em silêncio por um segundo, processando. A recomendação automática continuava na tela, com a origem marcada. Aria abriu um segundo plano, incluindo Rangel na saída. A variável "Teimosia de Gabriel Moretti" era uma constante que ela não podia eliminar. Se ela negasse suporte tático, Gabo e Valéria carregariam Rangel às cegas pelo labirinto, o que os deixaria mais lentos e aumentaria o risco para Gabo.
+— Saia das sombras e termine o serviço — Gabo desafiou, seus olhos varrendo as passarelas superiores.
 
-— *Reavaliando* — Aria disse no fone. — *Para transportar todos os que estão aqui, o suporte de navegação e compensação de carga é necessário.*
+— *Eu? Oh, não. Eu sou apenas o curador. A exposição principal... é para o que você carrega no peito.*
 
-Um diagrama luminoso projetou-se a partir do visor do cyberdeck preso ao cinto de Valéria, traçando o piso à frente com linhas de nivelamento e pontos de apoio para distribuir o peso da maca.
+Um holofote se acendeu no fundo do salão, iluminando uma vitrine de vidro blindado.
 
-— *Sua estrutura óssea está comprometida, Gabriel. Ajuste a cinta para que não puxe seu ombro ferido. Eu posso observar o equilíbrio e indicar o piso visível.*
+Dentro dela, suspenso por cabos cirúrgicos invisíveis, estava um corpo.
 
-Gabo olhou para o feixe de luz no chão, surpreso, mas não agradecido.
+Pequeno. Delicado. Cabelos curtos e pretos. Um casaco de couro marrom, jeans e botas.
 
-— Não pense que isso muda o que você disse.
+Bia.
 
-— *Não muda os fatos* — Aria respondeu pelo comunicador, fria e exata. — *Apenas altera a estratégia de mitigação de danos. Avancem. Detecto vibrações nas tubulações ao norte. Não sei o que as produz.*
+A Bia que morreu nos braços de Gabo. Perfeita. Intacta. Até a cicatriz no ombro estava lá.
 
-Eles deixaram o Ateliê, entrando em um corredor de serviço estreito que cheirava a mofo e óleo velho. A luz da lanterna de Valéria e o feixe guia do deck cortavam a escuridão, revelando pichações antigas de trabalhadores do metrô que morreram ali décadas atrás.
+No deck de Valéria, o pendrive de Aria emitiu um guincho de estática quando o sistema do Ateliê abriu uma transmissão no receptor deles. O LED do drive começou a piscar freneticamente entre o azul e o âmbar, superaquecendo na porta de conexão.
 
-Gabo caminhava na frente, sustentando a cabeceira pesada da maca com o ombro são, ouvindo no ouvido apenas a contagem seca de passos e graus de inclinação ditada por Aria. Não havia a modulação que ele conhecia. Havia falhas entre os avisos, e Val repetia cada confirmação para que ninguém confundisse um comando antigo com uma resposta de agora.
+— *O receptor está recebendo pacotes desconhecidos* — a voz de Aria falhou nos alto-falantes. — *Val, isole o receptor.* O áudio repetiu o começo do aviso e cortou.
 
-Era o sistema mais eficiente que ele já tinha ouvido.
+— *Reconhece, Gabriel?* — A voz do Taxidermista ronronou pelas cornetas. — *Tecido sintético e cera. Guardei o momento para você. Queria ver quanto tempo levaria para olhar.*
 
-E era a coisa mais solitária do mundo.
+Gabo sentiu o mundo girar. A imagem de Bia na vitrine queimava em sua retina. Era uma mentira. Tinha que ser. O corpo dela tinha sido cremado.
 
-— *Vocês acham que podem carregar seus pecados?* — a voz do Taxidermista chiou em um interfone enferrujado na parede, fazendo Valéria pular. — *O peso da carne é o peso da alma, Detetive. E a sua está muito pesada.*
+— Ele disse que é cera e polímero! — Valéria gritou, segurando o braço de Gabo enquanto tentava conter o pico de tensão no pendrive da Aria pelo teclado do deck. — Os pacotes estão entrando pelo receptor. Preciso isolar essa porta!
 
-Gabo não respondeu. Ele apenas pressionou o queixo contra o Colar de Sol sob a gola da camisa, usando a dor para continuar andando, um passo de cada vez, na escuridão da Necrópole.
+O transmissor do Ateliê repetia pacotes pelo receptor do deck. Val tentava cortar a entrada; o driver danificado voltava a abri-la.
+
+Nas cornetas, a voz do Taxidermista repetiu o nome de Gabo. No deck de Valéria, janelas de erro se abriram em sequência; a entrada hostil atravessara o receptor conectado ao sistema do Ateliê. Aria tentou sobrepor um aviso e perdeu a saída de áudio.
+
+— Aria, corta a entrada! — Gabo gritou para o comunicador, mas o sistema do Ateliê continuava reabrindo o canal danificado.
+
+Um som mecânico pesado ecoou atrás da vitrine. Portas de contenção se abriram.
+
+— *A vernissage começou* — o Taxidermista anunciou.
+
+Das sombras atrás da vitrine de "Bia", três figuras emergiram. Eram maiores que as esculturas anteriores. Usavam uniformes da Tropa de Choque da Aeterna, mas seus capacetes haviam sido fundidos aos crânios, e suas armas não eram rifles, mas lanças mecânicas conectadas diretamente aos seus braços.
+
+— *Protejam a Obra-Prima,* — ordenou o Taxidermista.
+
+Gabo olhou para Valéria, depois para Rangel inconsciente na maca, e para o pendrive da Aria piscando em colapso lógico no deck.
+
+Ele cuspiu no chão limpo do laboratório.
+
+— Val, reinicia o drive da Aria à força. Eu seguro os críticos de arte.

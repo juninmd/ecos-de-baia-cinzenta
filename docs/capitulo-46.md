@@ -1,149 +1,136 @@
 ---
-layout: doc
-title: "Capítulo 46: O Dilúvio"
-description: "Oito unidades partem, duas se perdem na aproximação e seis chegam. O desgaste não as torna inofensivas. Gabo observa da posição a que foi levado com ajuda, sem recuperar as pernas entre cenas."
 image: /capitulo_46.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Capitão Jonas Vilar
-Localização: "Dia oito. Orla Norte"
+Personagens Presentes: Arthur Vance
+Localização: "Ponto Zero — Fossa Oceânica, 200 km da costa. Profundidade: 4.000 metros"
 ---
+<!-- markdownlint-disable MD026 -->
 
-# Capítulo 46: O Dilúvio
+# Capítulo 46: Protocolo N.O.A.
 
-Dia oito. Orla Norte.
-O sismógrafo da estação meteorológica da Rua Onze funcionava desde o ano trinta e um e, em vinte e cinco anos, quase nunca tinha registrado nada além de caminhão passando.
+Ponto Zero — Fossa Oceânica, 200 km da costa. Profundidade: 4.000 metros.
+A quatro mil metros não existe escuro. Existe **peso**.
 
-Havia uma semana ele vinha anotando um ruído de fundo que o plantonista anterior classificou como "obra no porto" e não levou adiante, porque obra no porto, naquela cidade, era a coisa mais normal do mundo. Às 04h51 ele registrou oito coisas.
+A pressão ali é de quatrocentas atmosferas: quatrocentas vezes a mão do mundo empurrando cada centímetro de casco, o tempo inteiro, sem descanso, há vinte e sete anos. O aço da Arca N.O.A. respondia a isso do único jeito que aço responde — gemendo. Um lamento grave e contínuo, abaixo do que ouvido humano registra como som, que os projetistas chamaram de "assentamento estrutural" no relatório e de "a canção" quando estavam bêbados.
 
-Val estava de plantão no rádio quando o gráfico mudou, e passou os primeiros quarenta segundos achando que era falha no sensor, porque a leitura não fazia sentido: oito perturbações separadas, avançando em linha reta, em formação, a onze nós.
+Fora do casco, nada. Nem peixe, nem corrente, nem luz. Lodo cinza cobrindo tudo, caindo devagar como neve que leva mil anos para acumular um centímetro.
 
-Val não identificou uma espécie por aquele gráfico. O que a assustou foi o espaçamento regular dos ecos, confirmado pelo receptor costeiro.
-
-— Gabo. — Ela cutucou o pé dele com a bota, sem se levantar. — Acorda.
-
-— Que horas são.
-
-— Cinco menos dez, e tem oito coisas do tamanho de um prédio deitado vindo do mar aberto.
-
-Gabo abriu os olhos. O braço esquerdo dele estava enfaixado do punho ao cotovelo, e a bandagem tinha uma mancha amarela nova no centro, porque a Nise tinha aberto e limpado a mordida na noite anterior e explicado, com todas as letras, que aquilo ia infeccionar de novo e ele ia perder o braço se voltasse para a água.
-
-Ele pediu ajuda para travar as órteses e passar para a cadeira. A Nise tinha proibido outra saída; ele foi mesmo assim, deixando por escrito para onde o levavam.
-
-— Chama o Vilar.
+E dentro, no escuro absoluto de um corredor de comando que ninguém pisava desde a entrada de Arthur em 2029, uma luz vermelha começou a piscar.
 
 ---
 
-O comunicador da delegacia ganhou vida com um chiado. A voz do Capitão Jonas Vilar chegou distorcida, cortada, com barulho de vento por trás e o inconfundível estampido rítmico de tiro de fuzil ao fundo.
+O sistema não tinha acordado por inteligência. Tinha acordado por ausência.
 
-— *—rla Norte! Repito, todas as unidades, Orla Norte! Tem alguma coisa saindo da—* — estática — *—não são barcos, não são barcos, eu preciso de—*
+A cada seis horas, durante vinte e sete anos, a Torre Aeterna mandava um pulso. Não continha informação: era só um sinal dizendo *ainda estamos aqui*. Trinta e sete bytes. Quase quarenta mil pulsos, um atrás do outro, atravessando duzentos quilômetros de cabo submarino que ninguém sabia que existia.
 
-O rádio morreu. Val tentou reconectar por vinte segundos. Olhou para Gabo, depois voltou ao aparelho, procurando outra forma de alcançar o capitão.
+O pulso das 03h14 não chegou.
 
-— A antena dele caiu?
+O de 09h14 também não.
 
-— Não — disse Val. — Não recebo nem a portadora. Pode ter perdido alimentação, antena ou a repetidora. Vou tentar o canal de emergência.
+O sistema esperou o terceiro, porque o protocolo exigia três, e o terceiro não veio. Depois disso fez o que uma máquina antiga faz com pergunta sem resposta: continuou perguntando. Levou vinte e três dias para aceitar que não havia ninguém do outro lado.
 
----
+> ERRO DE SINCRONIA.
+> TORRE CENTRAL: OFFLINE — 552h.
+> INTERPRETAÇÃO: COLAPSO DA SUPERFÍCIE.
+> PROTOCOLO DE CONTINGÊNCIA N.O.A.: ATIVADO.
+E é aqui que mora a piada, e é uma piada muito velha: a lógica estava correta e a conclusão estava errada. A Torre Aeterna não tinha caído junto com a civilização. Tinha caído porque um detetive de sobretudo bege e uma hacker de vinte e oito anos interromperam o sistema de comando da Torre ao retirar seu núcleo e sabotar a refrigeração, vinte e três dias antes.
 
-O Cobalt não chegava mais à Orla Norte, porque a Orla Norte não tinha mais rua.
-
-Val e dois barqueiros o levaram de bote até o terminal. Puxaram a cadeira por uma cinta até o abrigo do aterro; Gabo ajudou com a mão que conseguia fechar e pagou por isso com sangue na bandagem. Dali viu a baía sem ter de fingir que voltara a andar. A coisa estava a trezentos metros da praia.
-
-Quarenta metros de comprimento. Casco anfíbio de perfil baixo, com uma corcova blindada nas costas e oito pernas articuladas dobradas contra o corpo, do jeito que caranguejo dobra as pernas quando está morto e virado. Saía da água devagar, empurrada pela maré e pelo próprio motor, e ao sair trazia junto trinta centímetros de crosta viva grudada no casco: craca, mexilhão, alga preta, uma barba de mar de vinte e sete anos.
-
-Era branca por baixo de tudo aquilo. Ainda dava para ver, nas partes que a crosta não pegou, a pintura original: branco naval e uma faixa azul, com o logotipo antigo da Aeterna — aquele dos anos trinta, com o A de serifa, que a empresa aposentou porque parecia coisa de governo.
-
-— O que é isso — disse Gabo.
-
-— Isso é um tanque que sabe nadar — disse Val, com a voz muito fina. — E eu diria que é de um projeto anterior ao meu nascimento.
-
-A máquina firmou as oito pernas na areia e tentou se levantar. Conseguiu com seis.
-
-A segunda perna do lado direito subiu meio metro, travou, e ficou tremendo com um chiado agudo de vazamento hidráulico. A quarta não se moveu nunca. Metade dela — literalmente metade, cortada por uma linha limpa de corrosão — tinha ficado no mar em algum ponto dos duzentos quilômetros.
-
-O Leviatã ergueu o corpo, mancando, e ficou de pé na praia da cidade de Baía Cinzenta às cinco e dezenove da manhã. Depois abriu.
+A Arca não sabia disso. A Arca não podia saber nada. A Arca só sabia que o silêncio significava fim do mundo, porque um homem tinha escrito isso num documento em dois mil e vinte e alguma coisa e nunca voltou para revisar.
 
 ---
 
-O ventre da máquina se rachou ao meio e desceu como rampa, e o cheiro chegou ao aterro em quinze segundos, empurrado pelo vento de nordeste: conservante, cobre e uma doçura de fruta guardada tempo demais, um cheiro que Gabo guardaria sem ainda saber a que instalação pertencia.
+A câmara de estase levou onze minutos para abrir.
 
-Eles saíram de dentro. Eram humanoides, e o "eram" precisa ficar bem ali no meio da frase, segurando as duas pontas.
+Devia levar quarenta segundos. Os selos hidráulicos tinham perdido pressão em algum ponto dos últimos vinte e sete anos e o mecanismo teve que forçar três vezes, com um rangido de metal contra sal cristalizado, antes de ceder.
 
-Pele com brilho fosforescente pálido, esverdeada, esticada sobre uma musculatura que tinha sido desenhada por alguém que gostava de anatomia mas não gostava de gente. Sem cabelo. Sem uniforme: eles vieram nus, porque tecido não sobrevive a vinte e sete anos no que quer que fosse aquele líquido, e o efeito disso — soldados nus e brilhando, saindo em fila de uma máquina de guerra — foi a coisa mais obscena que Gabo viu na vida até aquele momento.
+O líquido drenou. Cheirava a conservante, a cobre e a algo levemente adocicado, como fruta guardada tempo demais.
 
-Eram quarenta. Doze caíram na rampa. Simplesmente caíram: o primeiro passo fora do suporte de estase, depois de vinte e sete anos suspensos, e o fêmur não aguentou. Gabo ouviu os estalos daquela distância, secos, um atrás do outro, como galho pisado.
+O homem lá dentro abriu os olhos.
 
-Eles não gritaram. Ficaram no chão se contorcendo em silêncio, tentando levantar com pernas que não existiam mais, e os outros vinte e oito passaram por cima deles sem olhar.
+Parecia um homem de pouco mais de quarenta anos. Tinha entrado ali aos setenta e quatro, depois de tratamentos de rejuvenescimento; somava agora cento e um no calendário. A manutenção biológica e a estase haviam preservado parte do resultado, sem impedir a deterioração. O corpo recebera eletroestimulação, alimentado por sonda, com a musculatura contraída e relaxada por uma máquina em ciclos de noventa minutos durante vinte e sete anos. A pele era branca de mármore, sem uma mancha, sem uma marca de sol, porque não havia sol.
 
-— Val — disse Gabo. — Grava isso.
+Ele levou a mão à garganta e arrancou os tubos com um puxão só, sem hesitar e sem demonstrar dor.
 
-— Eu não sou a Elena.
+Depois tossiu por três minutos, de quatro no chão da câmara, cuspindo conservante nos ladrilhos.
 
-— Grava assim mesmo.
+Quando parou, ficou ali um tempo, apoiado nas mãos e nos joelhos, respirando ar de verdade pela primeira vez em vinte e sete anos.
 
----
+— *Merda* — disse Arthur Vance.
 
-Os vinte e oito que ficaram de pé eram o problema.
-
-Eles se moviam com uma mistura errada de fluidez animal e precisão militar, e atravessaram a areia em formação de assalto, cobrindo um ao outro, ocupando o terreno como quem foi treinado por um manual — e o manual era bom. Ninguém tinha aposentado aquele manual porque ninguém sabia que ele existia.
-
-As viaturas do Capitão Vilar estavam a duzentos metros, atrás de uma barreira de contêineres. O tiroteio começou às cinco e vinte e três.
-
-Os barqueiros ajudaram Gabo a passar da cadeira para o abrigo baixo na crista do aterro, apoiando a perna e evitando o braço enfaixado. Dali, ele assistiu e viu a polícia de Baía Cinzenta acertar quatro deles em oito minutos, o que era muito melhor do que ele esperava. Também viu por que não ia adiantar.
-
-Os bio-soldados não mostravam reação aos ferimentos, e isso é um detalhe que a ficção romantiza e a realidade transforma em geometria: um homem baleado se abaixa, e ao se abaixar deixa de cobrir o flanco do companheiro. Aquelas coisas não se abaixavam. A formação nunca abria. Um deles atravessou o pátio inteiro com o ombro destruído e o braço pendurado por um fio de músculo, e continuou empurrando, e o problema não era ele — era que os outros vinte e sete puderam avançar enquanto quatro policiais gastavam munição nele.
-
-— Eles não estão vencendo pela força — disse Gabo, e a voz saiu estranha porque a frase estava se formando enquanto ele falava. — Eles estão vencendo porque não têm medo, e a gente organiza tudo em cima do medo. Toda tática que eu aprendi pressupõe que o outro lado quer ir para casa.
-
-— E se a gente atirar na máquina em vez de atirar neles?
-
-Gabo virou a cabeça para ela.
-
-— Repete.
-
-Val apontou para o Leviatã parado na areia, com a perna direita ainda tremendo, com o hidráulico ainda vazando um filete escuro que já tinha formado uma poça de dois metros na areia molhada.
-
-— Aquilo tem vinte e sete anos, Gabo. Está caindo aos pedaços sozinho, na nossa frente. — Ela mostrou o tablet: uma leitura térmica em que a corcova blindada da máquina brilhava branca. — E está com o compartimento de força a cento e dez graus. Não sei a temperatura interna nem se o calor vem de um reator. Mas a fuga hidráulica e a perna travada são falhas que conseguimos ver. Se insistirem em avançar, podem perder a sustentação.
-
-— Ele não explode — disse Gabo. — Ele desiste.
-
-— Ele **desiste**.
+E riu. Uma risada rouca, de garganta destreinada, que ecoou no corredor vazio.
 
 ---
 
-Foi então que a máquina falou. Não pelos alto-falantes, embora tivesse alto-falantes. Falou por tudo: pelos rádios das viaturas, pelo comunicador na cintura do Gabo, pelo tablet da Val, pelos receptores costeiros ainda alimentados e sintonizados na frequência de emergência. Aparelhos sem bateria continuaram mudos.
+Ele caminhou nu até o terminal central, pisando descalço no lodo fino que a condensação tinha depositado no chão ao longo das décadas.
 
-A voz era profunda, treinada e absolutamente calma, e usou a mesma entonação com que se pede uma mesa em restaurante.
+O corpo era impecável e não sabia andar. Cada passo era um cálculo. A musculatura estava lá, perfeita, definida pela máquina, mas o cerebelo tinha passado vinte e sete anos sem praticar equilíbrio, e ele se apoiou na parede duas vezes no percurso de vinte metros.
 
-— *Aqui é Arthur Vance.*
+No terminal, ativou a recepção dos relés costeiros de contingência. A linha de pulso da Torre estava morta; aquelas câmeras usavam outro enlace, intermitente e sem retorno de comando.
 
-Val ficou branca.
+E as telas mostraram Baía Cinzenta.
 
-— *Eu volto a assumir o comando da Aeterna Corporation e a administração emergencial desta municipalidade, sob a cláusula de continuidade do Protocolo N.O.A. As unidades em solo não são uma força de ocupação. São uma força de pacificação. Não resistam a elas: elas não sabem distinguir resistência de ameaça, e eu não posso pedir a elas o que não foi construído dentro delas.*
+A enchente. A água cobrindo os diques. Os Níveis Baixos submersos, os prédios com água até o terceiro andar, os pontos de calor dos incêndios que a água não tinha alcançado, a cidade inteira transformada num arquipélago de concreto.
 
-Uma pausa de três segundos. E então, pela primeira vez, alguma coisa entrou naquela voz. Não emoção — pressa.
+Arthur Vance olhou para aquilo por um longo tempo, com as mãos apoiadas no console, e o rosto dele — bonito, simétrico, com implantes de ouro subdérmicos formando uma coroa fina na testa — se abriu num sorriso genuíno de alívio.
 
-— *Onde está o meu filho?*
+— Lindo — ele disse.
 
-Silêncio no rádio.
+A voz era profunda e acostumada a dar ordens que mudavam o destino de nações, e não tinha perdido nada disso no sono.
 
-— *Silas Vance. Diretor do Departamento de Biologia Aplicada. Eu quero falar com o meu filho, e eu quero falar com ele hoje.*
+— Eu falei que ia acontecer. Eu **falei**.
 
-Gabo baixou o comunicador devagar.
+Ele passou a mão pela tela, e a imagem da cidade afogada se moveu sob os dedos dele.
 
-— Val. Quem é Arthur Vance?
+— Dante era mole demais. — Um nome pronunciado com desprezo prático, sem ódio. — E a minha filha era ambiciosa demais.
 
-— O cara que fundou a Aeterna. — A voz dela estava quase inaudível. — A empresa funerária é de 1995. Ele reorganizou o grupo em 2029; é esse fundador que a propaganda põe na estátua. Consta como morto desde então, Gabo. Tem estátua dele na praça do Distrito Alto. Eu passei a infância inteira andando de skate na base daquela estátua.
+Ele parou nessa parte.
+
+Só por um segundo. O sorriso não caiu — mas os olhos foram para outro lugar, para trás dos monitores, e ficaram lá um instante antes de voltar.
+
+— Elara — ele disse, para o próprio reflexo no vidro. — Você devia ter esperado, menina.
 
 ---
 
-Às sete da manhã, o número mudou. Val estava com o sismógrafo aberto no tablet quando duas das trilhas simplesmente sumiram — não pararam: pararam de existir, no meio do canal de aproximação, a nove quilômetros da costa. Uma delas afundou reta.
+O que ele não olhou foi o painel lateral.
 
-A outra encalhou num banco de areia que qualquer carta náutica dos últimos vinte anos mostrava, e que a carta de navegação arquivada na máquina em 2029 não tinha, porque aquele banco se formou depois que ela dormiu. Ficou lá, deitada de lado, com as pernas para fora d'água, batendo contra o próprio casco. Oito viraram seis.
+Estava ali, à esquerda dele, piscando em âmbar desde o momento em que a Arca acordou. Uma coluna de trinta e oito linhas, uma por hangar, com o status de cada um.
 
-— Elas estão morrendo sozinhas — disse Val.
+Onze estavam verdes.
 
-— Não rápido o bastante — disse Gabo.
+Nove estavam amarelos — *"integridade de casco comprometida, unidade operacional com restrição"*.
 
-Lá embaixo, na praia, os vinte e quatro que ainda andavam entraram na primeira rua residencial da Orla Norte, em formação, cobrindo um ao outro, sem pressa, do jeito que um manual ensina.
+Dezoito estavam vermelhos, e ao lado dos dezoito, a mesma frase repetida em maiúsculas de sistema antigo: **ALAGADO — CORROSÃO CATASTRÓFICA — SEM REPARO**.
 
-E, atrás deles, a máquina de quarenta metros firmou as seis pernas boas na areia e começou a subir o aterro em direção à cidade, arrastando a sétima e vazando óleo por todo o caminho, sem saber que estava morrendo, do mesmo jeito que o homem que a mandou não sabia que comandava uma frota sem manutenção para uma guerra que outra pessoa já tinha vencido.
+O aço aguenta quatrocentas atmosferas. As juntas de vedação, não. Elas tinham vida útil projetada de vinte e cinco anos, e ninguém desceu para trocá-las, porque a operação de manutenção prevista nunca retornou. Elara conhecia o projeto; os pagamentos e as equipes que deveriam sustentá-lo tinham sido cortados longe daquele casco.
+
+Arthur Vance não olhou o painel.
+
+Ele digitou a sequência de comando que tinha escrito à mão num caderno vinte e sete anos antes, e que sabia de cor, e que ensaiou mentalmente todas as noites até a estase apagar as noites.
+
+> INICIAR FASE 2: PACIFICAÇÃO.
+> LIBERAR UNIDADES LEVIATÃ.
+
+---
+
+Lá fora, no lodo e no peso, os hangares começaram a abrir.
+
+O protocolo de liberação consumiu dias purgando linhas e equalizando hangares. Arthur transmitiu ordens enquanto os indicadores repetiam falhas. Quando as travas cederam, onze deles abriram limpo, com explosivos de emergência estourando décadas de crosta salina numa sequência de clarões surdos que iluminaram, por três segundos, um pedaço de fundo oceânico que nunca tinha visto luz.
+
+Nove abriram torto, emperraram na metade e ficaram assim.
+
+E dezoito não abriram, porque não havia mais o que abrir do outro lado — só água, ferro dissolvido e o formato do que um dia foi uma máquina de guerra anfíbia de quarenta metros, agora deitada de lado numa cama de própria ferrugem.
+
+Das que saíram, três pararam antes de subir cem metros.
+
+Arthur Vance viu a contagem no monitor principal — **UNIDADES EM TRÂNSITO: 08** — e não achou estranho, e não abriu o inventário que teria mostrado trinta e oito. Preferiu lembrar de "uma frota". Vinte e sete anos de estase não explicavam a escolha de ignorar o inventário. Arthur preferia a frota que lembrava à que tinha.
+
+Ele olhou o próprio reflexo no vidro escuro do console. A coroa de ouro sob a pele da testa captou a luz vermelha do alarme e brilhou.
+
+— Eu sou o dilúvio — disse o Imperador da Aeterna, para ninguém, a quatro mil metros de qualquer ouvido humano. — E eu trago a paz.
+
+Ele apertou **ENTER**.
+
+Muito acima, oito máquinas velhas começaram a subir na direção de uma cidade que, sem ele saber, já tinha sido comida por um predador melhor — um sujeito de terno e bengala que entrou na empresa dele como estagiário do jurídico e nunca precisou de exército nenhum.
+
+A terra tremeu.
+
+E, no painel lateral que ninguém leu, a última linha mudou de âmbar para vermelho.

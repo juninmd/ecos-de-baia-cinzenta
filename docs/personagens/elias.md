@@ -18,14 +18,14 @@
 
 ### ⏳ Linha do Tempo
 
-* **Capítulo 193:** Encontrado trancado numa sala de monitoramento térmico do Nível B desde que "os cadáveres começaram a andar". Rende-se a Gabo e Valéria com uma chave sônica na mão.
-* **Capítulos 194-197:** Guia o grupo pelos dutos de exaustão e pela travessia de biomassa. Atravessa a ponte improvisada primeiro, sob coação de Gabo.
-* **Capítulos 198-214:** Emudece após a ponte. Segue o grupo pelos oitocentos metros de galeria.
-* **Capítulo 215:** Recusa-se a descer ("não foi feito para seres humanos") e desce mesmo assim, dez segundos depois.
-* **Capítulos 216-217:** Colapsa em ataque de pânico claustrofóbico no fundo do Poço de Manutenção. Valéria recomenda sedação; Gabo se recusa e o levanta pela gola.
-* **Capítulo 218:** Ao respirar ar filtrado pela primeira vez em catorze meses, senta no chão e chora sem vergonha nenhuma. É o primeiro gesto humano espontâneo do arco — e serve de contraste direto com o Modo de Segurança de Valéria.
-* **Capítulo 222 (A Escolha) — o ponto alto dele:** Encontra sozinho um elevador de serviço funcional até a superfície e monta a fuga: mochila, água, lanterna de dínamo, rota planejada. Fica com o dedo no botão e **não aperta** — não por heroísmo, mas porque descobre que não sobrou ninguém lá em cima para quem contar, e que os únicos dois seres que confirmam sua sanidade estão morrendo oitocentos metros abaixo. Aperta o botão de **descer**. Gabo lhe diz, pela única vez no livro, o que pensa de verdade sobre coragem.
-* **Capítulos 223-225:** Gira a segunda chave do berço de Elara (sem ele, ela nunca acorda — ele *é* o teste que ela projetou). Faz o trabalho de dois homens no carregamento do arquivo, segura a cabeça de Gabo enquanto Valéria serra as travas da armação de aço presa ao osso fraturado falando besteira no ouvido dele para dar-lhe uma voz humana, e é o primeiro a sair da cápsula na Velha Baía.
+* **Capítulo 195:** Encontrado trancado numa sala de monitoramento térmico do Nível B desde que "os cadáveres começaram a andar". Rende-se a Gabo e Valéria com uma chave sônica na mão.
+* **Capítulos 196-199:** Guia o grupo pelos dutos de exaustão e pela travessia de biomassa. Atravessa a ponte improvisada primeiro, sob coação de Gabo.
+* **Capítulos 200-216:** Emudece após a ponte. Segue o grupo pelos oitocentos metros de galeria.
+* **Capítulo 217:** Recusa-se a descer ("não foi feito para seres humanos") e desce mesmo assim, dez segundos depois.
+* **Capítulos 218-219:** Colapsa em ataque de pânico claustrofóbico no fundo do Poço de Manutenção. Valéria recomenda sedação; Gabo se recusa e o levanta pela gola.
+* **Capítulo 220:** Ao respirar ar filtrado pela primeira vez em catorze meses, senta no chão e chora sem vergonha nenhuma. É o primeiro gesto humano espontâneo do arco — e serve de contraste direto com o Modo de Segurança de Valéria.
+* **Capítulo 224 (A Escolha) — o ponto alto dele:** Encontra sozinho um elevador de serviço funcional até a superfície e monta a fuga: mochila, água, lanterna de dínamo, rota planejada. Fica com o dedo no botão e **não aperta** — não por heroísmo, mas porque descobre que não sobrou ninguém lá em cima para quem contar, e que os únicos dois seres que confirmam sua sanidade estão morrendo oitocentos metros abaixo. Aperta o botão de **descer**. Gabo lhe diz, pela única vez no livro, o que pensa de verdade sobre coragem.
+* **Capítulos 225-227:** Gira a segunda chave do berço de Elara (sem ele, ela nunca acorda — ele *é* o teste que ela projetou). Faz o trabalho de dois homens no carregamento do arquivo, segura a cabeça de Gabo enquanto Valéria serra as travas da armação de aço presa ao osso fraturado falando besteira no ouvido dele para dar-lhe uma voz humana, e é o primeiro a sair da cápsula na Velha Baía.
 * **Atualidade:** Vivo, na superfície, sem nada além do que carrega — e é o único dos quatro que ainda funciona como pessoa normal.
 
 ---

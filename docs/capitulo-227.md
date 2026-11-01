@@ -1,150 +1,147 @@
 ---
-Título: O Estagiário
-Data In-Game: Primeira tarde na Velha Baía
-Localização: Galpão de Impressão, Velha Baía (Superfície)
-Personagens Presentes: Gabo, Valéria, Elias, Dra. Elara Vance, Elena, Duarte
+image: /cenas/capitulo_227/cena_4.jpg
+Título: O Charuto na Sala Limpa
+Data In-Game: Pós-Colapso do Sentinel (Noite Eterna) / Alvorada na Velha Baía
+Localização: Arca Zero - Doca de Carga / Tubo Pneumático até a Velha Baía
+Personagens Presentes: Gabo, Valéria, Elias, Dra. Elara Vance
 ---
 
-# Capítulo 227: O Estagiário
+# Capítulo 227: O Charuto na Sala Limpa
 
-Passamos a tarde conferindo o índice e uma amostra de originais. Uma acusação dessas não se faz com uma pasta; quarenta e sete mil fichas também não se verificam entre o almoço e o pôr do sol. Elias montou uma linha na mesa de carga: abria a caixa, tirava a ficha, lia a linha do segundo aval em voz alta, e passava adiante. Elena anotava. A Dra. Vance conferia a numeração dos originais da amostra contra o registro-mestre aberto na mesa e marcou as divergências para uma segunda conferência. Valéria contava. Elena pediu a Duarte Falcão, operador da rotativa, que rodasse a capa enquanto ela compunha a nota; ele cobriu o interruptor com a mão engraxada. — Se a gente publicar só o total, vão entender que vocês conferiram cada ficha. Ponham os trezentos e a ressalva na página. A prensa espera; quem receber isso precisa saber o que foi verificado. Elena retomou a caneta e escreveu a ressalva antes de liberar o interruptor.
+Carregar quatro toneladas de papel leva dezenove horas quando você tem três pessoas, e uma não anda, e a outra está morrendo em pé.
 
-— Ano vinte e nove: quatrocentas e doze admissões no índice, todas remetendo ao segundo aval de Krell.
+Eu fiz o que pude. Empurrava caixa com o ombro bom, arrastava lata de fita com a garra, sentava quando o mundo escurecia nas bordas e levantava quando parava de escurecer. Elias carregava o que podia, parava para aliviar o tornozelo e voltava. Não reclamou uma vez sequer, o que, no caso dele, era um tipo de milagre. A Vance dirigia o carregamento da cadeira de aço, e ela conhecia aquele arquivo com uma intimidade obscena: sabia qual gaveta continha o quê, em que ordem empilhar, o que podia molhar e o que não podia.
 
-Uma hora depois:
+Valéria carregou o resto no carrinho, uma pilha por vez. Parava para beber água e alongar os dedos da mão direita; a esquerda, presa na luva, só conseguia ajudar a firmar a carga. Na décima sétima hora eu a vi parar na antecâmara hexagonal, no escuro âmbar, sem carga nenhuma nos braços. Ela estava lendo a placa fundida.
 
-— Ano trinta e quatro: mil e oitenta e nove no índice, com o mesmo aval atribuído.
-
-Três horas depois, com o sol descendo do outro lado do galpão:
-
-— Total conferido: **quarenta e sete mil, trezentas e onze admissões marcadas como sem consentimento no índice**, entre 2029 e 2056. — Ela levantou o rosto. — No registro-mestre, todas remetem ao segundo aval de Krell. Na amostra de trezentos originais que abrimos, a rubrica está presente. Isso não autentica cada assinatura nem verifica todos os contratos; vamos publicar a distinção.
-
-O galpão ficou quieto. Quarenta e sete mil admissões registradas. Não é um número que a cabeça segura. A cabeça segura uma pessoa, segura talvez uma família, e depois desiste e vira estatística. Foi isso que eles compraram: a nossa incapacidade de sentir décadas de uma vez.
-
-— O índice diz que ele assinou todas, — falei.
-
-— Diz. A amostra confirma trezentas rubricas presentes, não a autenticidade de cada uma — a Vance corrigiu.
-
-— E se a gente encontrar delegações fora da amostra?
-
-— Teremos que publicar isso também.
-
-Puxei uma banqueta e sentei, porque a perna avisou que ia acabar sentando de qualquer jeito.
-
-— Por quê? — perguntei. — Ele era CEO, doutora. Ele tinha exército, tinha torre, tinha uma cidade inteira na coleira. Por que o homem continua carimbando papel de admissão como um funcionário do segundo escalão?
-
-E a Dra. Elara Vance, que passou décadas auditando aquilo, me deu a única resposta que faz sentido.
-
-— Suspeito que não delegasse o que gostava. Mas a amostra não resolve essa pergunta.
+"A memória não apodrece."
+Ficou lá uns dez segundos. Depois pegou a próxima caixa e continuou.
 
 ---
 
-Ela pediu água. Elias trouxe. Ela bebeu com as duas mãos e continuou.
+A serra foi na vigésima hora. Não vou escrever sobre isso.
 
-— Eu conheci o Viktor no ano da auditoria, — disse. — Ele tinha dezoito anos e o cargo mais irrelevante do prédio: digitalizar contratos de cuidado perpétuo. Uma sala sem janela, no subsolo do jurídico, com uma pilha de papel que ia até o teto e uma cota diária que ninguém conferia.
+Vou escrever que Valéria trabalhou rápido, cortando as hastes externas enquanto o suporte da enfermaria mantinha meu braço imóvel. As fixações clínicas ficaram no osso; tiramos a máquina, não o membro. Quando terminou de enfaixar meu braço, ela pousou a mão no meu peito e esperou eu respirar três vezes antes de tirar. Elias segurou a minha cabeça e ficou falando merda no meu ouvido — sobre um cachorro que ele teve, sobre uma namorada em Setor 9, sobre nada — porque entendeu, sem que ninguém explicasse, que eu precisava ouvir alguém enquanto Val cuidava da serra.
 
-— E?
+Vou escrever que a Dra. Elara Vance virou o rosto. Décadas auditando o horror, e ela virou o rosto.
 
-— E ele leu. — Ela olhou para o próprio arquivo empilhado no galpão. — Todos. Um por um. Ninguém pediu; ninguém teria notado se ele apenas escaneasse. Mas ele leu, e ele entendeu uma coisa que os cinco donos, com quarenta anos de mercado, nunca entenderam.
-
-— O quê?
-
-— Que ninguém estava comprando um túmulo. — Ela me olhou. — As famílias pagavam fortunas por cuidado perpétuo porque queriam que alguém continuasse existindo. O caixão era o meio. Os donos vendiam o meio. O Viktor foi o primeiro a ver que dava para vender o **fim**.
-
-Elena tinha parado de escrever.
-
-— Ele fez uma apresentação para a diretoria? — perguntei.
-
-- Ele fez um memorando de quatro páginas, sem ser convidado. Eu li antes deles. - Um som seco que quase foi risada. - Estava correto. Cada linha. Um estagiário de dezoito anos entregou a tese estratégica mais competente que aquela empresa viu em vinte e nove anos, e a diretoria promoveu ele por isso, e continuou não entendendo o próprio negócio até morrer.
-
-— E a senhora entendeu.
-
-— Eu entendi. — Ela sustentou meu olhar sem piscar. — Foi por isso que eu escrevi que era indefensável. E foi por isso que eu escrevi que, se fossem prosseguir, prosseguissem em escala. Eu sabia que aquele rapaz não ia parar, inspetor. Foi assim que justifiquei minha participação. Eu podia ter denunciado antes. Ter deixado registro não apaga essa escolha.
-
-Olhei para as quatro toneladas de papel.
-
-— A senhora perdeu esse braço de ferro por décadas.
-
-— Perdi. — Nenhuma autopiedade. — E ganhei hoje.
+E vou escrever que doeu. Doeu de um jeito que não tem palavra em português, e eu estava consciente para tudo, apesar do atendimento disponível. Não havia dose de heroísmo que tornasse seguro mexer naquela fratura; o módulo interrompeu o corte duas vezes, e obedecemos.
 
 ---
 
-Elias foi o primeiro a perguntar a coisa óbvia, porque ele é o único de nós que ainda pergunta as coisas óbvias.
+Quarenta minutos antes da partida que combináramos, eu fui até a comporta. A armação estava na bancada, desconectada de mim, com as travas de fixação ainda soltando fumaça. Uma cunha de metal cinza fosco cheia de cicatriz de solda. Do lado de fora do meu corpo, ela era menor do que eu imaginava. Uma peça de sucata. Nem parecia capaz de ter doído tanto.
 
-— Mas... por que ele? — Ele estava com uma ficha na mão, olhando para a rubrica. — Vocês passaram esse tempo todo caçando o Gamemaster, o Jardineiro, o Taxidermista, o pai dele. Esse cara é um contador.
+Elias e Valéria a ergueram juntos e a encaixaram na abertura do came, punho em extensão máxima, exatamente como a Vance desenhou num guardanapo com a letra mais bonita que eu já vi. Faltava travar o hidráulico. E travar o hidráulico exigia um comando neural bruto, e comando neural bruto exigia um sistema nervoso. O meu.
 
-— É por isso, — falei.
+Sentei no chão frio ao lado da comporta. Valéria conectou os cabos de pulso diretamente nos conectores da armação. Um pedaço de mim de novo, pela última vez, pelo tempo de um pensamento.
 
-Todo mundo olhou. Levantei da banqueta. Peguei a ficha da mão dele com a mão esquerda livre, e li o nome em voz alta, e depois falei devagar, porque eu estava organizando aquilo na cabeça pela primeira vez.
+— Quando você mandar, — ela disse, — vai queimar tudo de uma vez. Vai ser a pior dor que você já sentiu.
 
-— O Gamemaster era uma máquina que o Krell ligou. — Coloquei a ficha na mesa. — O Taxidermista era um doente que a cidade do Krell deixou solto porque cadáver modificado não dá processo. O Silas era um fanático usando a tecnologia do Krell. O Marco era um administrador brigando pelos restos do império do Krell. E o meu pai... — engoli — ...o meu pai foi matéria-prima do Krell.
+— Ótimo.
 
-Olhei para a rubrica pequena e firme no canto do papel.
+— Não é ótimo.
 
-— Procurei meu pai durante quinze anos. Neste ano enfrentei máquinas e homens financiados por esta estrutura. Nenhuma delas era ele. Eram ferramentas dele. Eu estava batendo nos braços de uma máquina achando que era a máquina.
+— Val. — Ela não me corrigiu. — É a última vez que essa coisa vai me fazer alguma coisa. Deixa eu ficar de mau humor.
 
-— E ele nunca apareceu, — disse Elena, baixo.
-
-— Ele conseguiu manter boa parte das ordens longe das próprias mãos. — Ri. — Não preciso saber se ele puxou um gatilho para cobrar o que autorizou sentado naquela cadeira.
-
-Bati o dedo na ficha.
-
-— O índice põe o nome dele em todas. Quero saber quantas dessas assinaturas ele fez e quantas alguém pôs ali por ele.
+Fechei os olhos. E ele estava lá.
 
 ---
 
-Foi a Valéria quem fechou a conta, do jeito dela, sem cerimônia nenhuma.
+A sala limpa não tinha cheiro. Eu já falei isso. Sessenta e um anos de ar filtrado, pressão positiva, epóxi branco, zero partículas. E, mesmo assim, a fumaça começou a subir pelo canto esquerdo da minha visão, azulada e densa, com aquele fundo doce e podre de charuto barato queimando devagar.
 
-— Correção de perfil, — ela disse. — Os contratos colocam Viktor Krell no centro da autorização de admissões. Isso não torna cada adversário uma marionete nem prova que ele comandou tudo. Mas dá um alvo concreto à acusação: as ordens que levam seu aval.
+Meu pai estava sentado numa cadeira que não existia, do outro lado da comporta, com o chapéu no joelho e o sobretudo de couro pingando chuva num chão que estava seco.
 
-— Concordo, — disse a Vance.
+— Chega, Gabriel.
+Eu não abri os olhos. Não precisava.
 
-— Concordo, — disse Elena.
+*— Olha o estado disso.* — Ele deu uma tragada. A brasa iluminou o bigode. — *Um braço. Um joelho. Sepse. Você já provou o que tinha para provar. Ninguém está contando ponto. Senta aqui.*
 
-Elias levantou a mão, meio sem jeito, e depois percebeu que ninguém tinha pedido votação e a abaixou.
+E era essa a diferença, dessa vez. Todas as outras vezes ele tinha vindo com desprezo. Com aquela apatia de porta de escritório trancada. Ele vinha para me lembrar de que eu era ruído de fundo, e eu tentava calá-lo com dor. Nem sempre funcionava. Quando minhas mãos não conseguiam segurar uma barra, Val me ajudava a encontrar outro apoio.
 
-— Eu também, — ele murmurou.
+Agora ele estava me oferecendo **descanso**. E estava fazendo isso com carinho. Era a versão mais perigosa que ele já tinha montado.
 
-Olhei para os quatro. A jornalista que passou meses mantendo a rede fora da cúpula montando prensa. A auditora que preservou décadas de registros e passara os últimos meses dentro de um vidro. O técnico de manutenção que não apertou o botão de subir. E Valéria, que continuava ali mesmo quando eu não sabia reconhecer suas respostas, com o módulo de restauração afetiva guardado numa caixa a três metros dali. Ela ainda decidiria se queria usá-lo. Era um exército ridículo. Era o melhor exército que essa cidade já teve.
+*— Você não me deve nada,* — a coisa com o rosto do meu pai disse, muito gentil. — *Deixa a porta. Deixa o arquivo. Deixa a menina de metal, deixa o rapaz, deixa a velha do vidro. Você fez mais do que qualquer um. Descansa, filho.*
 
-— Elena, — falei. — Quanto tempo até a primeira tiragem?
+E eu levei três segundos inteiros para responder, porque puta merda, eu queria.
 
-Ela olhou o relógio de pulso — analógico, corda manual, claro.
+— Você não é ele, — falei.
 
-— Se a gente começar a compor agora, o primeiro caderno de dezesseis páginas sai amanhã de madrugada. Doze mil no primeiro turno; cinquenta mil até sexta, se houver papel.
+— Eu sou o que sobrou dele.
+— Não. — Eu abri os olhos. A fumaça continuou lá; alucinação boa não desiste só porque você a encara. — Você é o que **eu** montei dele, com quinze anos de raiva e um cinzeiro cheio de memória de criança. Eu te construí. Eu te dei a voz, o charuto, o desprezo, tudo. Você é meu.
 
-— Começa pelas fichas de aprovação.
+— Gabriel—
+— O meu pai perguntou o nome da mulher que ia enterrar ele vivo. — Minha voz falhou e eu deixei falhar. — O meu pai gastou os últimos vinte segundos de fita avisando que ele tinha três filhos, e que um deles ia dar trabalho. O meu pai colaborou de propósito com a máquina tentando interferir no que fariam dele. Eu não sei quanto daquela resistência sobreviveu, nem vou chamar sua prisão de um plano perfeito.
 
-— Já é o plano.
+Olhei bem para a coisa na cadeira.
 
-— E põe a rubrica na capa. — Peguei a ficha e entreguei para ela. — Grande, com o número.
+— Ele pensou em mim naquela cadeira. Também me feriu quando podia escolher. Eu não preciso apagar uma coisa para reconhecer a outra. E você não pode mais usar nenhuma delas para falar por mim.
 
-— E com a ressalva — disse Elena. — O índice aponta quarenta e sete mil, trezentas e onze admissões. Abrimos trezentos originais; as rubricas estão presentes, mas ainda não foram autenticadas. Quem vir a capa precisa saber a diferença.
+Silêncio. A fumaça parou de subir.
 
-— Põe tudo.
+— Eu não te odeio, — falei. — Era o que eu tinha dele. Eu agradeço. Mas eu já achei a pasta, e ela não está mais em aberto, e eu não preciso mais de você.
 
-Elena olhou para o papel na mão.
-
-— Que número?
-
-— Quarenta e sete mil, trezentos e onze.
-
-Ela ficou olhando aquilo por um tempo. Depois assentiu, guardou a ficha no caderno com um cuidado que não tinha nada de jornalístico, e foi chamar os caminhões.
+E, pela primeira vez em toda a minha vida adulta, o cheiro sumiu **sozinho**. Sem dor. Sem eu bater em nada. Sem o Colar de Sol cortando a palma da minha mão. Só sumiu, como fumaça faz quando alguém finalmente abre a janela.
 
 ---
 
-Fiquei na porta do galpão vendo o sol acabar de descer atrás da Velha Baía. Daqui dá para ver a cúpula. De longe, no fim da tarde, ela quase parece bonita — uma bolha cinza-esverdeada cobrindo a cidade que me comeu vivo, com as luzes de emergência piscando lá dentro como vaga-lumes num pote.
+— Agora, — eu disse.
 
-Em algum lugar embaixo daquela bolha tem um homem de um metro e trinta e cinco, de terno impecável e bengala de titânio, que hoje ainda não sabe. Amanhã de madrugada, doze mil pessoas vão saber o nome dele. Enrolei o Colar de Sol no punho e apertei até o metal morder a palma — não para cortar alucinação nenhuma, porque aquela já foi embora e não voltou. Só porque é o que eu faço com a mão quando estou decidindo uma coisa.
+E mandei o comando. Foi tudo o que a Valéria prometeu e mais um pouco. O sinal de comando saiu pelos conectores; a força veio do motor alimentado pela bateria de serviço, os servos gritaram num tom de metal esfolado, o came engatou com um estrondo geológico e a comporta de quatro metros travou aberta contra a mola.
 
-— Val, — falei sem virar. — Quanto tempo até eu conseguir andar uma distância longa sem cair?
+O servo queimou no fim do curso. A haste ficou presa contra o batente, uma cunha recebendo a pressão da porta. Valéria esperou o indicador confirmar o bloqueio antes de me desconectar. Eu desmaiei. Sem elegância nenhuma.
 
-— Precisamos de uma equipe para avaliar. O plano da enfermaria fala em semanas de recuperação, acompanhamento da infecção e fisioterapia, sem garantir quanto movimento volta. — Uma pausa. — Sem atendimento, eu não vou estimar nem o próximo dia.
+---
 
-— Então começa chamando uma equipe. Sem adiar para a próxima tiragem.
+Acordei com a Valéria me arrastando pela escotilha e o Elias gritando alguma coisa sobre pressão.
 
-Ela se colocou ao meu lado, olhando para a mesma cúpula, com as lentes brilhando fraco no escuro que chegava.
+A cápsula era escura, apertada e cheirava a papel velho — quatro toneladas de nomes, datas e registros que ainda teríamos de conferir empilhadas até o teto, amarradas com cinta de carga. A Dra. Vance estava presa numa das paredes com o cinto da própria cadeira. Elias havia guardado o mapa com suas anotações num saco fechado, dentro da jaqueta. Segurou minha cabeça no colo. Valéria selou a escotilha apoiando a proteção da mão esquerda no batente enquanto a direita girava o volante interno.
 
-— Registrado, — ela disse.
+Do outro lado do aço, a Arca Zero começou a morrer.
 
-E, se eu não estivesse ouvindo com muita atenção, eu teria jurado que aquela palavra saiu com um pouco de inflexão.
+Trinta e um quilômetros de tubo se abriram para uma instalação que passou sessenta e um anos hermética. O diferencial de pressão veio como um trovão contínuo. Em algum lugar lá atrás, o corredor branco perfeito, a galeria dos oitenta e três berços vazios, a mesa de couro rachado e a placa fundida que prometia que a memória não apodrece — tudo aquilo se enchia de vácuo e escuridão.
+
+Nós tínhamos levado a memória embora. O caixão podia apodrecer sozinho. A cápsula tremeu, engatou nos patins magnéticos e **saltou**. A aceleração me esmagou contra o Elias e o Elias contra as caixas e alguém gritou — acho que fui eu. E aí ficou liso.
+
+Trinta e um quilômetros de escuridão em silêncio quase total, subindo numa inclinação suave, com quatro pessoas e sessenta e um anos de crime empilhados num projétil de aço. Fiquei olhando para o teto da cápsula, respirando.
+
+Foi quando eu vi, amarrado com cinta de carga na parede oposta, entre uma pilha de latas de fita e a caixa de microfilmes do ano trinta e nove: O casco de aço acolchoado. O módulo de restauração da camada afetiva.
+
+Ela tinha carregado aquilo. Nas dezenove horas, entre pilhas de papel no carrinho, ela tinha parado, ido até a enfermaria, desmontado o módulo da bancada e o trazido a bordo.
+
+Olhei para ela. Valéria estava sentada de frente para a escotilha traseira, com as mãos apoiadas nos joelhos, as lentes apagadas para poupar bateria. Impassível. Perfeita. Sem uma inflexão. Ela não tinha usado o módulo. Ela só tinha se recusado a deixá-lo para trás.
+
+— Val, — falei.
+
+Ela não corrigiu.
+
+— Sim.
+
+— Quando a gente chegar lá em cima. — Engoli. A garganta estava em carne viva. — Não precisa ser hoje. Não precisa ser esse ano.
+
+Um tempo.
+
+— Eu registrei o convite, — ela disse.
+
+E foi o suficiente.
+
+---
+
+A cápsula parou vinte e dois minutos depois, com um chiado longo de pressão sendo equalizada, numa doca de recebimento fechada desde a última inspeção registrada.
+
+Elias girou o volante da escotilha com as duas mãos e empurrou. A porta cedeu. E entrou luz. Não neon. Não holograma. Não a luz doente e acobreada que a poluição deixa passar quando está de bom humor.
+
+Luz do sol, baixa e horizontal, cor de latão velho, atravessando um galpão de tijolo arruinado na Velha Baía e batendo em quatro toneladas de papel empilhado dentro de um projétil de aço.
+
+Elias saiu primeiro. Deu três passos no cascalho, levantou a cara para o céu e ficou lá parado, de olhos fechados, respirando um ar sujo, ácido, cheio de partícula e absolutamente livre.
+
+Valéria desceu depois e começou imediatamente a inventariar as saídas. Eu fiquei sentado na borda da escotilha por um tempo, com o braço direito quebrado imobilizado contra o peito, olhando aquilo.
+
+A Dra. Elara Vance parou a cadeira ao meu lado. Ela olhava para a luz com os olhos azul-gelo semicerrados, como quem confere um número que não batia havia muito tempo.
+
+— E agora, inspetor? — ela perguntou. — O senhor tem sessenta e um anos de prova e nenhum tribunal onde apresentar.
+
+Peguei o Colar de Sol do bolso com a mão esquerda livre. O metal estava morno. As bordas do sol estilizado ainda tinham o meu sangue seco. Enrolei a corrente no punho.
+
+— Aí a gente constrói o tribunal, — falei.
+
+E me levantei.

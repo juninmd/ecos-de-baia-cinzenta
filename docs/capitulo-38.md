@@ -1,138 +1,150 @@
 ---
 layout: doc
-title: "Capítulo 38: A Ressaca"
-description: "A cidade sobreviveu à noite e começa a morrer de abstinência. No arquivo morto do porão, Gabo descobre a única rede que a Aeterna nunca conseguiu desligar."
+title: "Capítulo 38: A Linha Azul"
+description: "A delegacia aguenta a noite inteira. O preço aparece de manhã, algemado ao volante de um caminhão."
 image: /capitulo_38.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Elena Moretti, Valéria "Val" Cruz, Capitão Jonas Vilar
-Localização: "Delegacia Central (saguão e arquivo morto do porão)"
+Localização: "Delegacia Central"
 ---
 
-# Capítulo 38: A Ressaca
+# Capítulo 38: A Linha Azul
 
-Amanheceu, mas o sol não apareceu.
+O primeiro coquetel bateu na barricada de concreto às 00h40.
 
-O Smog continuava em cima da cidade, e agora estava pior: os filtros atmosféricos das torres corporativas eram elétricos, e havia oito dias que ninguém lavava o ar de Baía Cinzenta. A luz que chegava ao chão era cinzenta, difusa e doente, e não fazia sombra em lugar nenhum, o que dava a tudo uma aparência de fotografia mal revelada.
+O fogo subiu e, por três segundos, iluminou a avenida inteira — e foi a primeira vez em oito dias que alguém dentro da Delegacia Central conseguiu ver o tamanho do problema. Eram muitos.
 
-Gabo estava sentado nos degraus da entrada limpando a fuligem do cano da escopeta com a barra da camisa.
+Não centenas, como o sargento gritou da janela e como todo mundo repetiu depois. Gabo contou por blocos, do jeito que se conta multidão em manifestação: umas cento e vinte pessoas no primeiro grupo, talvez oitenta atrás, e mais chegando pela Rua Nove.
 
-Cheirava a cordite, borracha queimada e, por baixo, o começo do outro cheiro — o que os corpos da avenida iam ter em mais umas seis horas de calor.
+E não era um exército.
 
-Elena empurrou sua cadeira de volta para dentro.
+Havia motoqueiro do Sindicato, sim, com colete e ferro. Havia mercenário de contrato, dava para reconhecer pelo equipamento e pela disciplina de fila. Mas o grosso daquilo era gente do bairro — de bermuda, de chinelo, com pé de cabra e barra de ferro, e um cara na frente empurrando um carrinho de supermercado com galões.
 
----
+Foi a Val quem falou primeiro, e falou baixo, do lado do Gabo, olhando pela mesma fresta:
 
-Dentro do saguão, a euforia da vitória tinha durado quarenta minutos e virado outra coisa.
+— Gabo, aquele de camisa listrada é o filho do dono da padaria da Onze.
 
-Um sargento de trinta e poucos anos estava sentado no chão, encostado na parede, coçando o antebraço esquerdo onde ficava o plugue neural. Já tinha passado da pele. Tinha uma auréola de carne viva de uns quatro centímetros em volta da porta de acesso, e ele continuava coçando com a unha, num movimento constante e distraído, olhando para o nada.
+— Eu sei.
 
-Outro estava de pé na frente de um monitor desligado, falando com ele.
+— Ele me vendia pão.
 
-Não gritando: falando, no tom educado de quem reclama com um atendente. *Atualiza. Por favor, atualiza. É só carregar o feed. Eu sei que você consegue.*
-
-Um terceiro, o mais novo, estava deitado de lado embaixo da bancada da recepção, em posição fetal, com as mãos entre os joelhos, tremendo de um jeito ritmado e contínuo.
-
-— O que houve com eles? — perguntou Elena, que distribuía água engarrafada e tinha parado no meio do corredor com a caixa nos braços.
-
-— Abstinência — disse Val, saindo da sombra da escada.
-
-Ela estava pálida e com olheiras que iam do olho até o meio da bochecha.
-
-— Passei por uma retirada de conexão. Alguns sinais parecem os mesmos. Mas tem ferido, tem gente sem dormir e gente que ficou sem remédio. — Ela falava com a voz plana, de quem já explicou aquilo antes e cansou. — Esses caras estão há oito dias sem. Pode haver abstinência, mas eu não sou quem vai fechar esse diagnóstico. Precisamos examinar os que estão tremendo e verificar o que usavam antes.
-
-— O que é o pior?
-
-— A convicção absoluta de que existe uma mensagem esperando por eles.
+— Eu sei, Val.
 
 ---
 
-Naquela manhã eles perderam um.
+O megafone estava no arsenal, e devia ter pilha desde antes do Apagão.
 
-Não no tiroteio: o agente Nélson Braz, quarenta e quatro anos, dezenove de corporação, subiu ao terraço às sete e vinte com a arma de serviço, sentou na beira e ficou lá.
+Colocaram a cadeira de Gabo junto do primeiro degrau do saguão. A perna direita continuava apoiada. O sargento assumira o plantão; entregara do arsenal uma caixa de doze cartuchos para repor a reserva da Caronte e registrara a retirada.
 
-Gabo pediu que o levassem ao patamar abaixo do terraço. Dois agentes carregaram a cadeira; ele conversou com Nélson por quarenta minutos, sem conseguir convencê-lo a voltar. Desceram com Gabo depois do disparo.
+Trinta e um policiais olhavam para ele. Nenhum era subordinado dele. A metade estava sem dormir havia dois dias e um terço estava em abstinência da Rede, com tremor nas mãos.
 
-Ninguém no prédio comentou. Todo mundo ouviu.
+E, no canto, encolhido numa cadeira, desarmado, sob a vigilância da Elena, estava o homem que ainda era o Capitão do prédio.
 
-A Dra. Nise ainda não estava naquela delegacia — ela chegou no dia seguinte, resgatada de um comboio médico emboscado —, e Gabo passou os anos seguintes perguntando se outro atendimento teria mudado o desfecho, sem ter como saber.
+— Escutem — disse Gabo, e a voz saiu rouca e cansada, e ele decidiu deixar sair assim. — Vocês têm três informações e todas as três são ruins.
 
-— Você está bem? — ele perguntou a Val, mais tarde, porque não sabia perguntar de outro jeito.
+Ninguém falou.
 
-— Eu sou analógica por necessidade, lembra? — Ela tocou o implante queimado da bochecha com dois dedos, o gesto de sempre. — Me cortaram da Rede quando eu tinha dezenove. Eu passei por isso sozinha, num quarto, sem médico e sem ninguém.
+— A primeira: eles acham que a lei acabou porque a luz apagou. A segunda: o Capitão Vilar tentou negociar a entrega deste prédio, e vocês todos sabem disso, e é por isso que ele está sentado ali e não aqui. — Ele deixou passar dois segundos. — A terceira é que eu não sou o comandante de vocês. Eu sou um inspetor rebaixado com o joelho quebrado que apareceu aqui na terça.
 
-— Quanto tempo levou?
+Um dos rapazes riu, nervoso.
 
-— Cinco meses. — Ela deu de ombros. — Foi o melhor negócio que eu já fiz, e eu não desejo a ninguém.
+— Então por que a gente ia te ouvir? — perguntou um sargento grisalho, sem agressividade, com legítima curiosidade profissional.
 
----
+— Não é para me ouvir. É para olhar para o lado.
 
-Jonas Vilar apareceu ao meio-dia.
+Gabo apontou o megafone para o saguão, para as duzentas pessoas deitadas em colchões nos corredores, para as crianças, para as três velhas sentadas juntas perto da porta do banheiro.
 
-Parecia dez anos mais velho e, curiosamente, não tremia. Não tremia naquele momento. Isso não provava cura, inocência ou mudança permanente; a gravação da negociação continuava guardada.
+— Não tem para onde levar essa gente. Não tem reforço, não tem rádio, não tem Cidade Alta que atenda. A porta é essa. — Ele baixou o megafone e falou sem ele, e por isso todos se calaram para ouvir. — Hoje a gente desenha a linha aqui, ou não desenha em lugar nenhum nunca mais.
 
-Ele parou a três passos de Gabo, na distância exata de quem já foi superior hierárquico e não é mais.
+O que subiu não foi grito de guerra. Foi um murmúrio feio e cansado de homens concordando. Serviu.
 
-— Sobrevivemos. O Sindicato recuou para a Zona Industrial.
-
-— Por enquanto — disse Gabo. — Eles voltam quando a fome apertar, e a fome aperta na sexta.
-
-Os dois ficaram calados um tempo.
-
-— Você vai me prender? — perguntou Vilar.
-
-— Com o quê? Não tem promotor, não tem fórum, não tem cadeia com energia. — Gabo olhou para ele. — E não tem ninguém aqui com autoridade para me dizer que eu posso, o que é exatamente o problema que fez você tentar entregar o prédio.
-
-O velho encaixou o queixo.
-
-— Eu achei que podia negociar uma saída.
-
-— Você pediu lugar para a família. Está gravado — disse Elena.
-
-— Eu sei. E eu não entreguei e morreram dois. — Gabo reajustou a perna sobre o apoio da cadeira. — Guarda essa conta, Capitão, porque um dia ela inverte, e no dia em que inverter eu vou querer você por perto para me dizer isso na cara.
-
-Vilar assentiu devagar.
-
-Foi o momento exato em que os dois começaram a se respeitar, e nenhum dos dois teria admitido isso sob tortura.
+— **POSIÇÕES!** — gritou o sargento grisalho, tomando o comando da defesa. Elena recolheu sua câmera e ficou com a evacuação do corredor. — Atirador no segundo andar, dois por janela, um atira e um observa! Contenção no saguão! Charlie nos fundos, e nos fundos ninguém atira sem confirmar alvo, tem casa colada na parede!
 
 ---
 
-— Preciso dos arquivos físicos — disse Gabo. — Papel. Tudo que tiver sobre o Projeto Lázaro e sobre a Dra. Vance.
+O tiroteio começou às 00h52 e não parou até as 06h10. Não foi uma batalha. Foi mais de cinco horas de trabalho.
 
-— Disseram que destruíram os originais depois da digitalização, em quarenta e sete — disse Vilar. — Era parte do contrato de TI.
+Ondas: eles vinham, apanhavam, recuavam, bebiam alguma coisa, voltavam. Entre uma e outra havia intervalos de vinte minutos em que dava para ouvir a chuva de novo, e nesses intervalos os feridos gritavam dos dois lados da rua, e os dos dois lados gritavam igual.
 
-— Nem todos — disse Elena. — Um funcionário me deixou fotografar o volume de Dante no arquivo morto. Os originais ficaram lá. Não vi os outros armários.
+O saguão cheirava a pólvora queimada, urina e pó de concreto. Cada bala que batia na fachada arrancava uma nuvem fina de cimento que descia e se assentava na boca de quem estava embaixo, e no fim da noite todo mundo lá dentro cuspia cinza.
 
-— Então ainda há uma coleção a conferir — disse Val. — O que sobreviveu pode estar incompleto, ou ter sido alterado depois.
+Empurraram Gabo até a coluna leste, fora da linha direta das janelas. Com a Caronte apoiada numa mesa e ajuda para recarregar os dois canos, disparou onze vezes durante os intervalos do ataque. Cada recuo fazia a mão esquerda abrir; não saiu daquela posição.
 
-Gabo pediu que verificassem a rampa de carga do arquivo antes de descer a cadeira. Não era uma rede secreta descoberta naquele dia. Era o mesmo depósito de onde Elena trouxera as cópias, e agora precisavam saber o que mais tinha resistido.
+Duas pessoas morreram dentro da delegacia.
+
+O primeiro foi o policial Damião Reis, vinte e seis anos, atingido na garganta na janela do segundo andar à uma e onze da manhã. Levou nove minutos e a Dra. Nise ainda não estava naquele prédio, e ninguém ali sabia fazer nada além de apertar.
+
+A segunda foi uma senhora de setenta e dois anos que estava dormindo no corredor e que uma bala perdida encontrou depois de atravessar uma janela e duas paredes de gesso. Ela morreu sem acordar. Foi, de longe, a melhor morte daquela noite, e Gabo pensou nisso na hora e se envergonhou de ter pensado.
 
 ---
 
-O porão tinha um metro e meio de arquivos de aço enfileirados sob uma lâmpada de emergência que a Val religou com uma bateria de moto.
+Às três e quarenta, a Val gritou pelo rádio.
 
-Cheirava a papel guardado — aquele cheiro adocicado de celulose velha, com fundo de mofo e de traça — e, ao abrir a primeira gaveta, subiu uma poeira fina que ficou dançando no facho da lanterna por um minuto inteiro.
+— Gabo! Vibração pesada! Está vindo da Nove, é grande, é muito grande — é caminhão!
 
-Havia trinta e nove mil processos ali.
+Ele olhou pela fresta. Um caminhão de lixo, blindado com chapa de aço soldada por cima da cabine, subindo a avenida vazia em segunda marcha, ganhando velocidade, mirando as portas principais.
 
-Gabo passou a mão pela lombada dos primeiros, e a ficha caiu em algum lugar dentro dele.
+— **ELENA! O LANÇADOR!**
 
-Aquilo não estava na Rede. Nunca esteve. Aquilo não podia ser apagado por um comando remoto. Ainda podia ser falsificado, trocado ou queimado; seria preciso guardar origem e comparar assinaturas. Sessenta anos de crime de Baía Cinzenta, escritos à mão e à máquina, carimbados, assinados por gente morta, em papel.
+O sargento apareceu na varanda interna com o lançador de quarenta milímetros retirado do arsenal. Elena ficou junto dele, vendo o caminhão pela janela.
 
-Ele riu sozinho no escuro, e foi a primeira vez em oito dias.
+— Gás na cabine! — gritou Gabo. — Ele vai desviar sozinho!
 
-— Val — ele chamou, e a voz ecoou no corredor de aço. — Como é que a Aeterna apagou a história dessa cidade?
+O sargento mirou. Elena pediu que esperasse para ver a cabine. O sargento hesitou e disparou antes de conseguir distinguir o motorista.
 
-— Comprando o servidor.
+A granada entrou pela janela lateral quebrada e a cabine encheu de branco em menos de um segundo. O caminhão guinou para a esquerda, derrapou no asfalto molhado, pegou o poste de luz de raspão e o derrubou, e parou de nariz numa vitrine a nove metros da entrada.
 
-— Então eles apagaram tudo que estava ligado. — Ele puxou a primeira gaveta até o batente. — E algumas destas gavetas ficaram fora desse alcance. Isso não prova que ninguém tenha entrado aqui nem que o arquivo esteja inteiro.
+As barricadas aguentaram. Alguém no saguão gritou de alívio.
 
-Elena parou na porta do porão com a lanterna na mão.
+---
 
-— Quanto tempo leva para achar alguma coisa aí no meio?
+O bando recuou às seis e dez, quando o céu começou a mudar de preto para aquele cinza que em Baía Cinzenta faz as vezes de amanhecer.
 
-— Sem índice digital? — Gabo permanecia na cadeira, com a primeira pasta no colo e a perna apoiada. — Semanas.
+Quatro policiais foram verificar o caminhão, mantendo o restante do grupo atrás da barricada. Depois da inspeção inicial, levaram Gabo na cadeira até o ponto de onde podia observar a cabine, sem deixá-lo aproximar da carga.
 
-— A gente não tem semanas.
+A cabine ainda estava com gás dentro. Eles esperaram, abriram a porta com um gancho, e o resto do gás saiu num rolo lento. O motorista estava caído sobre o volante.
 
-— A gente não tem mais nada, Elena. — Ele virou a primeira folha. — Só isso.
+Tinha dezessete ou dezoito anos. Estava sem camisa. E tinha os dois pulsos presos ao aro do volante com abraçadeiras de nylon — quatro delas, apertadas até o plástico entrar na pele, marcando fundo.
 
-Lá em cima, gente sem luz procurava água, remédio e pessoas desaparecidas. No porão, três pessoas começaram a conferir uma gaveta de cada vez.
+Alguém tinha algemado um menino num caminhão, apontado para uma porta e mandado acelerar.
+
+O peito estava comprimido contra o volante. O choque podia ter matado o rapaz; dali, sem exame, ninguém sabia se o gás também contribuíra. As abraçadeiras mostravam que ele não conseguira soltar o volante.
+
+O sargento grisalho olhou aquilo, tirou o boné e ficou com o boné na mão. Gabo não fez nada disso. Ficou olhando as abraçadeiras.
+
+— Chama a Elena — ele disse.
+
+— Inspetor, ela não precisa—
+
+— **Chama a Elena.**
+
+---
+
+Elena e o sargento vieram, olharam e ficaram até acabar de ver. O sargento que disparara manteve o boné nas mãos.
+
+— Eu ia disparar de qualquer jeito — disse ele.
+
+— Eu sei.
+
+— Se eu não disparasse, aquilo entrava no saguão com duzentas pessoas deitadas no chão.
+
+— Eu ouvi a ordem — disse Elena. — E vou registrar quem atirou e o que conseguimos ver.
+
+— Então por que chamou a gente aqui? — perguntou o sargento.
+
+Gabo demorou a responder, e quando respondeu não foi para machucar. Foi a coisa mais parecida com um presente que ele sabia dar.
+
+— Porque hoje eu atirei num rapaz que tinha largado a arma. A Elena me fez olhar. — Gabo manteve as mãos sobre o colo. — Não vou usar o que fiz para esconder o que aconteceu aqui.
+
+Elena não chorou ali. Ela agachou, tirou o canivete do bolso e cortou as quatro abraçadeiras, uma por uma, para tirar o menino do volante com os braços livres. Foi a única coisa que ainda dava para fazer, e ela fez.
+
+---
+
+Quando o sol cinzento subiu de vez, o chão da avenida estava coberto de cápsulas de latão, brilhando na água como um tapete que alguém tivesse derrubado.
+
+Contaram trinta e um corpos do lado de fora. Dois do lado de dentro. Onze feridos sem transporte confirmado, à espera de tratamento que o posto não tinha como fornecer.
+
+A delegacia estava de pé. A linha azul não tinha sido cruzada.
+
+Levaram a cadeira de Gabo até a entrada, com a escopeta descarregada no colo e olhou aquilo tudo, e não sentiu vitória nenhuma. Sentiu uma coisa muito mais perigosa: sentiu que tinha funcionado.
+
+Atrás dele, dentro do prédio, trinta e um policiais começaram a chamá-lo de senhor.

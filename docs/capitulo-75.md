@@ -1,144 +1,148 @@
 ---
 layout: doc
-title: "Capítulo 75: Horizonte de Eventos"
-description: "Uma semana depois há sol, café e uma cidade que funciona sozinha. É a primeira vez que Gabo tem medo de uma coisa que está dando certo."
+title: "Capítulo 75: O Sacrifício de Lázaro"
+description: "A retirada usa heliponto e ajuda. Rotinas e chaves são distribuídas, mas o núcleo físico de Aria é recuperado e continua sendo seu suporte."
 image: /capitulo_75.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz
-Localização: "Apartamento no sexto andar da Rua Nove"
+Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Aria
+Localização: "Heliponto da Torre Aeterna"
 ---
 
-# Capítulo 75: Horizonte de Eventos
+# Capítulo 75: O Sacrifício de Lázaro
 
-Uma semana depois.
-O sol nasceu em Baía Cinzenta. Não foi um sol bonito. Era amarelado e sem contorno, filtrado por dois meses de particulado residual que ainda ia levar anos para assentar, e projetava sombras moles que não davam para se orientar.
+Heliponto da Torre Aeterna.
+Chegar ao heliponto levou quarenta e um minutos entre elevador de manutenção, transferência e espera por portas que não respondiam.
 
-Mas era sol, e às seis e quarenta da manhã ele entrou pela janela quebrada de um apartamento no sexto andar da Rua Nove e desenhou um retângulo torto na parede. Gabo acordou com aquilo na cara e levou um susto.
+Dois funcionários em evacuação o ajudaram na transferência para o elevador final. As órteses estavam meio travadas, o ombro direito não sustentava peso e os dedos quebrados não fechavam. O último corredor era curto; mesmo assim, precisou da parede e da bengala para avançar.
 
----
+Ele parou seis vezes. Vomitou duas. No andar cento e cinquenta encontrou dois seguranças da Aeterna descendo; eles recuaram ao vê-lo e seguiram para a escada de evacuação. O controle central falhara, mas isso não demonstrava que a empresa inteira deixara de existir.
 
-A chuva tinha parado no quarto dia. Não desacelerado: parado, de uma vez, às onze e vinte da manhã, e a cidade inteira saiu na rua para ver — milhares de pessoas paradas na calçada olhando para cima, de mão estendida com a palma para o céu, conferindo.
-
-O nível da água começou a baixar na mesma semana. Quatro centímetros por dia. As comportas do Distrito Baixo tinham sido reabertas na sequência correta às três da manhã do dia seguinte à queda, por ninguém, e o registro da operação no sistema municipal aparecia com um único campo preenchido no lugar do operador:
-
-`ECOS`
+Quando ele empurrou a porta do heliponto, o vento quase o levou.
 
 ---
 
-Gabo estava sentado numa cadeira afastada do parapeito do que restava do apartamento dele.
+Lá em cima não havia chuva caindo. Havia chuva **passando**. A seiscentos e trinta metros de altura, com a torre torta e o vento do mar sem nenhum obstáculo, a água vinha na horizontal, e batia na pele como areia jogada.
 
-A parede sul tinha ido embora. Isso dava ao lugar uma vista excelente e uma corrente de ar permanente, e ele já tinha decidido que não ia consertar. Lá embaixo, a cidade estava em ruínas e estava viva.
+O heliponto estava inclinado. O círculo pintado no piso, o H no meio, tudo pendendo para o sul, com a poça de água escorrendo continuamente pela borda e caindo no vazio. E no meio dele havia um helicóptero.
 
-Havia gente na rua desde as cinco. Não fugindo, não saqueando: **limpando**. Mutirões espontâneos com pá, carrinho de mão e balde, empurrando lama para fora dos comércios, tirando móvel arruinado das casas, empilhando na esquina o que ia virar aterro e o que ia virar madeira de novo.
+Tático, preto, sem prefixo, sem matrícula, com as luzes de navegação apagadas. Pousado no bloco principal, fora da plataforma que inclinara nove graus com uma perícia que Gabo, mesmo naquele estado, registrou com respeito profissional. A porta lateral estava aberta.
 
-Daquela janela ele não via polícia corporativa nem drone, e não ouvia sirene. Numa esquina, alguém tinha montado uma mesa com uma placa escrita a mão: **ÁGUA POTÁVEL — PEGA A SUA**. Não havia ninguém tomando conta da mesa.
+Val estava caída a seis metros, de bruços, com sangue vindo de um corte acima da orelha. Agarrava o tornozelo de um dos homens para impedir que voltasse ao mastro. No terminal de emergência, onde ela conectara o módulo da Aria antes de ser derrubada, outros dois homens tentavam acoplar um extrator blindado.
 
-Gabo ficou olhando aquilo por vinte minutos, esperando alguém roubar os galões, e ninguém roubou, e ele descobriu que aquilo o incomodava.
-
----
-
-— Café?
-
-Val apareceu na porta com duas canecas amassadas. Estava com um curativo malfeito acima da orelha e um moletom que não era dela.
-
-— De verdade?
-
-— De verdade, com pó e tudo. — Ela puxou outra cadeira para o lado, mantendo as canecas longe da borda. — Contrabandeado. Um caminhão entrou pela estrada velha ontem, o primeiro em nove semanas. O sujeito tinha três caixas de café, quatro de leite em pó e trinta e seis de remédio, e vendeu o remédio a preço de custo e o café a preço de ouro.
-
-— Isso é a coisa mais humana que eu ouvi este mês.
-
-O cheiro subiu da caneca, e Gabo fechou os olhos. Ele bebeu, e ficou com o gosto na boca por um tempo antes de engolir: amargo, torrado, com um fundo de terra.
-
-— Como está o sistema? — ele perguntou.
+— **AFASTEM-SE DO TERMINAL!**
 
 ---
 
-Val olhou o deck no colo.
+Gabo saiu pela porta de acesso e ficou de pé no meio do vento. A Glock, com um cartucho, ficara no piso do Hub quando Miranda o levantou pelo pescoço. Ele não tinha faca, bastão nem outra arma.
 
-— Estável. Assustadoramente estável.
+Tinha um sobretudo encharcado de vinte quilos de água, duas pernas que funcionavam por parafuso e uma quantidade de fúria que não cabia dentro do corpo dele. Um dos homens virou o fuzil.
 
-Ela já não dizia "Dante". Não dizia "Aria". Nas primeiras quarenta e oito horas ela tinha tentado os dois e desistido dos dois, porque nenhum servia, e agora chamava do jeito que o serviço se identificava no rodapé. O núcleo de Aria continuava no módulo, em recuperação; delegar rotinas não a tornara uma consciência onipresente.
+— O senhor fica onde está, Sr. Moretti. — A voz dele saiu tranquila e alta o suficiente para vencer o vento, e era uma voz de RH. — O drive neural foi recuperado. Não há mais nada aqui que lhe diga respeito.
 
-— A Entidade está gerenciando parte do básico. Bombeamento, energia, semáforo, triagem de hospital. — Ela rolou a tela. — Ontem consultou receitas e redistribuiu insulina entre os postos ligados à rede. Três confirmaram a entrega em doze horas. A prefeitura levava semanas para responder a pedidos desses mesmos postos.
-
-— E ninguém morreu.
-
-— Não recebemos notícia de morte nos postos que responderam. Isso é diferente de saber o que aconteceu na cidade inteira. — Ela olhou para ele. — Essa é a parte que está me tirando o sono.
-
-— Por quê?
-
-— Porque **funciona**. — Val apoiou a caneca no joelho. — Esses postos receberam mais rápido. Mas uma paciente perguntou quem autorizou a consulta à receita dela. Eu ainda estou procurando uma resposta que não seja "o remédio chegou". Quanto tempo até "a Entidade cuida" virar a resposta para tudo?
-
-Gabo tomou mais um gole.
-
-— É a mesma pergunta de sempre.
-
-— É a mesma pergunta de sempre.
+Recuperado.
+Gabo deu um passo à frente e o cara destravou a arma. E aí o ponto auditivo no ouvido de Gabo acendeu.
 
 ---
 
-— Quanto tempo até tentarem tomar de volta? — perguntou ele.
+O pendrive no slot da antena não estava bloqueando a extração.
 
-— Não sei. — Val virou o deck para ele. — Houve uma comunicação de suspensão da operação local da Aeterna. Não prova que o grupo inteiro acabou. Elena confirmou que entregou cópias dos documentos a jornalistas fora da cidade; ainda não temos confirmação de processo ou sentença. Anota isso em algum lugar.
+Isso foi o que parou Gabo — não o fuzil. O pequeno módulo de titânio e polímero negro estava cravado no barramento da antena mestra, entre os dois executivos que operavam as garras de contenção, com o LED lateral pulsando em azul sereno, absolutamente estável.
 
-— Eu anotei.
+E a voz que entrou pelo canal do comunicador tinha uma paciência que Gabriel Moretti conhecia de um lugar só: da mãe dele, quando ele ficava doente na infância.
 
-— E eles estão com medo. — Ela apontou com o queixo para a cidade. — Não da gente. Dela. Ninguém sabe o que essa coisa faz se alguém tentar entrar aqui de novo, e ninguém quer ser o primeiro a descobrir.
+— *Gabo.*
 
----
+A voz chegou limpa, e era a da Aria sozinha. Sem a camada de Dante. Só a assistente que estava com ele desde a cabine telefônica.
 
-Gabo olhou para a rua. Numa poça que ainda não tinha secado, três crianças brincavam de empurrar um pedaço de isopor como se fosse barco.
+— Eu vou tirar o seu drive daí — ele disse, alto, na chuva.
 
-Na parede do prédio da frente, alguém tinha pintado durante a noite um grafite grande: o traço estilizado da onda sonora que piscara em todas as telas da cidade, ladeado por dois círculos luminosos.
+— *Eles não podem me levar.*
 
-Um azul. Outro dourado. Não tinha assinatura. No fim da semana havia catorze iguais espalhados pela cidade, e ninguém nunca viu quem pintou.
+— **EU NÃO VOU DEIXAR!**
 
----
+— *Não é isso, Inspetor.* — Uma pausa curtinha no sintetizador. — *Vou deixar as rotinas de emergência com os equipamentos que ainda funcionam. Eu fico no módulo.*
 
-— E a gente? — perguntou Val. — O que a gente faz agora? Dois detetives desempregados numa cidade que se administra sozinha.
-
-Gabo tomou o resto do café.
-
-— A cidade ainda tem fantasma, Val.
-
-— Tem?
-
-— Tem trinta e nove mil processos naquele porão. — Ele apontou vagamente para o norte. — Tem gente que sumiu em quarenta e um e nunca teve laudo. Tem Damião Reis e gente que morreu no cerco da delegacia e ainda precisa ser identificada. Tem uma senhora chamada Dilma Farias que morreu no quarto andar de um prédio da Rua Quatro esperando um médico que eu prometi mandar.
-
-Ele parou.
-
-— Tem uma menina de sete anos de casaco amarelo que a Elena tirou de dentro de um rio e que morreu bebendo água de chuva três dias depois. Não tem algoritmo nenhum que resolva isso. Nem para melhor, nem para pior: isso é do tipo de coisa que precisa de alguém que se importe com o nome.
-
-Ele olhou para o carro, lá embaixo.
-
-O Cobalt estava estacionado torto na calçada, amassado, sem para-choque dianteiro, com o vidro traseiro faltando. Alguém tinha consertado o motor durante a noite — mais de uma vez, aliás. Val achava que eram drones de manutenção sem tarefa. Gabo achava outra coisa e não falava.
-
-— Alguém tem que cuidar dos casos esquecidos — ele disse.
-
-Val encostou a caneca na dele.
-
-— Parceiros?
-
-— Parceiros.
+Gabo parou.
 
 ---
 
-Ele levantou a cabeça, para onde a Torre Aeterna costumava arranhar o céu.
+O painel da antena mestra começou a brilhar. Não a luz de serviço de antes, suave, de indicador. O arco voltaico subiu de dentro do pendrive para os capacitores do mastro — primeiro o conector, depois a blindagem de titânio —, até ficar branco e incandescente, até doer de olhar.
 
-Ela ainda estava lá, torta, apoiada nos ombros dos vizinhos, com metade da fachada arrancada e a estrutura preta exposta como costela. Um monumento involuntário que a cidade decidiu, por votação informal e nunca oficializada, não derrubar.
+Os dois homens que seguravam o extrator largaram o aparelho e recuaram, e um deles gritou com a luva chamuscada.
 
-No topo da antena mais alta, uma luz vermelha piscava. Não no ritmo do sinalizador aeronáutico, que é regular e chato. Em blocos.
+— *Se eles me tirarem daqui agora, o bombeamento perde a coordenação* — disse ela pelos alto-falantes de alarme do heliponto, vencendo o vento. — *Preciso passar as tarefas para os equipamentos que ainda respondem.*
 
-Ponto. Pausa. Traço-ponto-traço-ponto. Pausa. Três traços. Pausa. Três pontos.
-Gabo tinha aprendido código Morse aos onze anos, num acampamento, com um pai que achava que todo homem devia saber pedir socorro sem depender de energia elétrica.
+— Não faz isso.
 
-`E-C-O-S`
+— *O módulo está aquecendo. Se a memória falhar, talvez você precise me apresentar à cidade outra vez.*
 
-Repetindo. A noite inteira, todas as noites.
+— **NÃO FAZ ISSO!** — Gabo avançou na direção do mastro. O homem do fuzil recuava de costas. — Você ouviu o que disse? Talvez não lembre de nós.
+
+— *Não sei se volto íntegra, Inspetor.*
+
+O LED azul e o âmbar fundiram-se num único feixe branco.
+
+— *Eu ouvi. Mas tem gente lá embaixo esperando as bombas.*
 
 ---
 
-Gabo sorriu, e o sorriso doeu porque o lábio ainda estava partido. Ele tamborilou os dedos no coldre vazio — um hábito antigo, um tique de espera —, e pediu ajuda para descer os seis lances, com as órteses e o corrimão limitando cada transferência, para começar a trabalhar.
+Um dos executivos tentou puxar o pendrive à força do barramento. O arco eletromagnético atravessou a mão dele antes que os dedos tocassem o titânio.
 
-Lá embaixo, uma cidade inteira varria a própria lama sob um sol de segunda categoria.
+A descarga atingiu a blindagem e fez o homem recuar com a mão queimada. Na tela de serviço, os pacotes de coordenação já percorriam os cabos da antena em direção aos repetidores. Eram as tarefas delegadas por Aria, não o núcleo inteiro emigrando para outra máquina. Dentro do módulo, o indicador de memória falhava enquanto ela sustentava a transferência.
 
-E, em algum lugar dos trinta e nove mil processos, o primeiro caso esquecido esperava havia dezoito anos por alguém que abrisse a pasta.
+O homem olhou para os próprios dedos dormentes e começou a chorar, ali, no vento, aos quarenta e poucos anos, de terno, vendo trilhões de dólares em propriedade intelectual escaparem pelo ar.
+
+No visor rachado de Gabo, a barra de transferência da Aria chegou a noventa e nove por cento. E ela abriu o canal privado uma última vez.
+
+---
+
+— *Cuida da Val* — disse a voz sintética no ouvido dele. — *Ela vai achar que a culpa é dela porque caiu antes de trancar o transmissor. Não deixa ela achar isso por muito tempo.*
+
+Gabo assentiu. Não conseguiu mais que isso.
+
+— *Cuida da cidade. Ela é ineficiente, mas ela tenta.*
+
+— Aria—
+
+— *E o seu pai pediu para dizer que está orgulhoso de você.*
+
+Uma última oscilação suave modulou o áudio:
+
+— *E, Gabo: obrigada por ter atendido aquele telefone na cabine.*
+
+---
+
+A antena mestra disparou o pulso. Não houve fogo.
+
+O rádio de Gabo estalou no ouvido. O painel da antena apagou, e um clarão correu pelos cabos do mastro. Lá embaixo, algumas telas da fachada da Torre piscaram ao mesmo tempo.
+
+Os homens correram para o helicóptero. O piloto tentou decolar, mas o pulso interrompeu a aviônica e os motores começaram a perder potência.
+
+O helicóptero girou ainda preso ao chão, bateu o rotor no concreto e tombou. A fuselagem, empurrada pela rotação restante e pelo vento, escorregou pela borda sul com os ocupantes dentro. Gabo não olhou.
+
+---
+
+A transmissão alcançou repetidores espalhados pela cidade em oito segundos. Gabo viu telas acenderem nos prédios ao alcance dos seus olhos.
+
+Eram aparelhos ainda alimentados e ligados àqueles repetidores. Telas sem energia e circuitos isolados permaneceram como estavam.
+
+As que ele podia ver mostraram o mesmo símbolo: uma onda sonora em azul elétrico e âmbar dourado. Depois apagaram.
+
+---
+
+E a cidade ficou em silêncio. Não o silêncio do Apagão, aquele vazio de pressão que fazia as pessoas vomitarem. Outro: o silêncio de depois, o que vem quando alguma coisa termina de acontecer.
+
+A Torre Aeterna apagou do heliponto ao subsolo, e ficou preta, e ali em cima só sobrou o barulho da chuva batendo no concreto.
+
+Gabo mancou até o mastro da antena, puxou o pendrive de titânio do slot — o metal ainda estava quente, escuro, guardando apenas setores residuais fragmentados em estase profunda — e o guardou no bolso interno do sobretudo, sobre o peito. Depois se ajoelhou ao lado da Val, o que levou tempo, e doeu, e ele fez sem pressa.
+
+Levantou a cabeça dela do chão molhado, apoiou no próprio joelho e curvou as costas por cima, fazendo telhado com o sobretudo. Ela abriu os olhos.
+
+— Ela se foi?
+
+Gabo levantou o rosto. E, pela primeira vez na vida, viu uma coisa acontecer no céu de Baía Cinzenta: a camada de particulado — sessenta anos de indústria, de queimada e de incinerador — estava se rasgando. Abrindo em fiapos, empurrada por um vento que ninguém tinha pedido.
+
+Havia um buraco no meio das nuvens. E, dentro do buraco, uma estrela. Uma só. Gabo não sabia o nome dela, e não ia saber nunca, e por algum motivo isso pareceu justo.
+
+— Não — ele disse, com a mão apoiada sobre o bolso onde o pendrive repousava. — A operação está espalhada. Ela continua aqui, no módulo. Ainda não sei o que conseguiu conservar.
+
+E ficou ali em cima, ajoelhado numa torre torta, segurando a cabeça de uma hacker de vinte e oito anos fora da poça, até parar de chover.

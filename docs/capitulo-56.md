@@ -1,148 +1,136 @@
 ---
-layout: doc
-title: "Capítulo 56: O Preço do Amanhã"
-description: "Sete semanas de reparos e mudanças de refúgio levam ao dia noventa e cinco do Dilúvio. Elena sai com documentos. A data do protocolo anterior às comportas orienta a investigação, sem autenticar toda a hipótese."
 image: /capitulo_56.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Aria
-Localização: "Posto de gasolina abandonado, Zona Industrial"
+Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Isadora e dono do bar
+Participação em relato: Marco Moretti, Roberto Miranda, Elena Moretti
+Localização: "Dia 46 do Dilúvio - Refúgio Subterrâneo"
 ---
+# Capítulo 56: A Tentação de Lázaro
 
-# Capítulo 56: O Preço do Amanhã
+Dia 46 do Dilúvio - Refúgio Subterrâneo
+A dor na coluna de Gabo era um lembrete constante de sua mortalidade. Com as órteses travadas em modo passivo, fazia apenas transferências curtas com ajuda. A bengala de PVC ficava ao alcance para equilíbrio; não substituía a estrutura.
 
-Dia 95 do Dilúvio.
-Sete semanas tinham passado desde a oferta de Isadora. Duas mudanças de refúgio, sessões de fisioterapia interrompidas por falta de transporte, baterias emprestadas para sustentar o que ainda respondia nas órteses. Gabo continuava dependendo de ajuda para as transferências; aprender a administrar a limitação não era curar a coluna. Elena usara o intervalo para reunir provas com outras fontes e preparar a saída. Agora levaria o que tinham conseguido manter fora dos servidores.
+Ele estava sozinho no bar improvisado do esconderijo, tentando afogar a dor em uísque barato, quando ela entrou.
 
-A chuva tinha mudado.
+O bar era um balcão de compensado sobre dois tonéis e uma prateleira de garrafas com o rótulo arrancado. O gerador tossia a cada quarenta segundos, e a cada tossida a luz amarela piscava, e a cada piscada todo mundo levantava os olhos, porque luz que pisca nesta cidade é ensaio de apagão. O uísque tinha gosto de remédio e cheiro de solvente. Gabo bebia devagar, a bengala de cano de PVC atravessada no colo, para que ninguém tropeçasse nela e o derrubasse junto.
 
-Não era mais a parede de água dos primeiros dias, aquela que fazia barulho de aplauso e derrubava marquise. Virou garoa: fina, contínua, gelada, com pingo pequeno demais para escorrer. Não molhava a roupa — atravessava. Em quarenta minutos ao relento uma pessoa ficava encharcada até a pele sem ter sentido nenhuma gota.
+Não era Val, nem Elena. Era uma mulher que ele nunca tinha visto, mas que parecia conhecer cada um de seus pesadelos.
 
-Gabo estava sentado no Cobalt, embaixo da marquise de um posto de gasolina abandonado da Zona Industrial, tomando um café frio de garrafa térmica porque cafeína era a última tecnologia que ainda funcionava nele.
+Ela usava um vestido vermelho que parecia líquido, deslizando sobre curvas perigosas. Seu cabelo platinado capturava a pouca luz do ambiente. O cheiro de jasmim sintético invadiu o ar viciado do porão.
 
-Na outra mão, um papel amassado. Letra cursiva, inclinada para a direita, com o "g" de cauda fechada. Conhecia aquela letra dos anos em que dividiram a casa.
+— Gabriel Moretti — disse ela. A voz era seda e fumaça. — Você parece um homem que carrega o mundo nas costas. E que as costas estão quebrando.
 
-> *Não me procure. O que eu carrego é grande demais para caber num porão. Preciso levar isso para fora da cúpula, para um lugar onde a Aeterna não possa apagar arquivo.*
->
-> *Cuide de você. Sua mãe se foi durante o Dilúvio, mas a culpa não precisa te levar junto.*
->
-> *E, por favor: tenta não morrer. — Elena.*
+Gabo levou a mão à pistola sob a mesa.
 
-Ela tinha ido no comboio das quatro da manhã, misturada aos que vendiam tudo o que tinham por um lugar num caminhão de carga rumo às Terras Altas.
+— Quem é você e como passou pelos sensores?
 
-Era melhor assim. Ela estava com dezoito mil páginas escaneadas dentro de um cartucho de fita, e enquanto ela estivesse na cidade aquilo era uma bala com o endereço dos dois.
+— Isadora. E seus sensores são ótimos para detectar máquinas, mas péssimos para detectar... intenções. — Ela sentou-se à frente dele, cruzando as pernas.
 
-Gabo leu o bilhete três vezes. Depois virou o papel do outro lado, para ver se tinha mais, e não tinha, e essa foi a parte que doeu.
+Ela colocou um frasco pequeno sobre a mesa. O líquido dentro brilhava com um azul elétrico intenso.
 
----
+Lázaro. A droga. A versão pura.
 
-Ele guardou o bilhete no bolso interno do sobretudo, junto com o resto: a chave do Cobalt, o molho de chaves de onze fitas azuis do Seu Otávio, um cartucho de calibre 12 que ele nunca usava e que estava ali desde o ano trinta e nove.
+— Vim te fazer uma oferta, Gabo.
 
-E olhou para o painel do carro.
+— Eu não uso. E se você não sumir em dez segundos, vou te prender. Ou pior.
 
-Espetado na porta de diagnóstico do console central estava o drive neural da Aria — aquele bloco blindado de titânio fosco e polímero negro, do tamanho de um pendrive pesado, que ele encontrara numa cabine telefônica antes do Dilúvio.
+Isadora riu suavemente.
 
-Desde que voltara a receber alimentação no Cobalt, o módulo alternava atividade e suspensão conforme a reserva disponível. As ligações ao deck e aos terminais tinham deixado registros separados; não permanecera preso ao painel durante todas as incursões. O pequeno LED lateral oscilava entre o azul-gelo e o âmbar, lento como um pulso em repouso, aquecendo de leve o plástico rachado do painel enquanto filtrava frequências mortas.
+— Você não entende. Isso não é para ficar "chapado". É um passaporte. — Ela empurrou o frasco na direção dele. — Dentro dessa simulação... eles estão vivos.
 
-Gabo já não estranhava mais conversar com um pedaço de metal espetado no console. Tinha testado desligá-la duas vezes nas primeiras semanas e o silêncio do carro ficava insuportável. Ele agora fazia o que se faz com equipamento de trincheira: mantinha conectado e seguia em frente.
+Gabo congelou.
 
-O indicador luminoso piscou duas vezes em azul. A câmera do carro, conectada ao módulo, mostrava a rua através do para-brisa.
+— O quê?
 
-— Estamos sozinhos no setor, Aria — ele disse para o vidro.
+— Helena. Dante. Até a pequena Clara, feliz e sem dívidas. — Isadora inclinou-se para frente, os olhos verdes perfurando a alma dele. — O Marco tem os backups neurais deles, Gabo. Ele me deu isso. É uma cópia perfeita da consciência da sua família, rodando em um servidor isolado, esperando por você.
 
-No painel, o LED do pendrive estabilizou num brilho contínuo, vigiando a garoa sem gastar um watt a mais do que o necessário.
+— Se é a minha mãe — disse ele, e a voz saiu rouca de um jeito que ele odiou —, me diga o que ela põe no café.
 
----
+Isadora piscou.
 
-O rádio do carro chiou sozinho e cortou o silêncio.
+— Café?
 
-Não era estação: era o sistema municipal de emergência, que ainda funcionava por rádio analógico porque tinha sido instalado no ano vinte e sete e ninguém nunca teve orçamento para modernizar. A voz era sintética, feminina e educada.
+— Açúcar mascavo e uma pitada de sal. Ela faz na frente da pessoa e a pessoa prova e não sente o sal. Trinta anos e eu nunca entendi. — Gabo apoiou as duas mãos na mesa. — Pergunte a ela. Na sua simulação. Pergunte por que o sal.
 
-> *"Atenção, cidadãos. A Zona Industrial Leste foi declarada Área de Reurbanização Prioritária. Todos os residentes devem evacuar imediatamente. Unidades de pacificação estão a caminho. A resistência será classificada como ato terrorista. Repetindo..."*
+O jasmim continuou no ar. A boca de Isadora abriu e fechou sem produzir som.
 
-Gabo abriu a janela. O céu sobre as ruínas estava cheio de pontinhos: enxames de drones de topografia pairando a trinta metros, em grade regular, emitindo lasers vermelhos que varriam o concreto quebrado em passadas lentas e metódicas.
+— Você nunca entrou lá — disse ele. — Está vendendo um quarto que não viu.
 
-Ele ficou olhando aquilo por um bom tempo, e a coisa que estava errada demorou a subir à superfície. Eles não estavam procurando sobrevivente.
+A mão de Gabo tremeu. Ele olhou para o frasco. Uma vida onde a chuva parou. Onde sua mãe estava assando bolo. Onde seu pai estava lendo jornal. Onde ele não era um aleijado perseguido.
 
-Drone de busca voa baixo, irregular, e faz órbita quando acha calor. Aqueles voavam alto, em linha, e não paravam nunca. Eles não estavam procurando gente. Estavam **medindo**.
+— É só beber — sussurrou Isadora. — E você pode ficar lá para sempre. Sem dor. Sem luta. Apenas paz.
 
----
+O frasco tinha o peso de uma bala de revólver. Lá dentro, o azul não se mexia como líquido: subia pela parede de vidro, demorava, voltava. O cheiro atravessava a rolha — doce, metálico, com um fundo de piscina clorada. Cheiro de corredor de hospital. Cheiro de tanque.
 
-A placa holográfica estava instalada sobre os escombros da antiga fábrica têxtil da Rua Vinte e Oito, e era nova. Logotipo minimalista, tipografia leve, três tons de azul.
+Gabo sentiu o desejo. Era uma fome física, avassaladora. Ele estendeu a mão. Seus dedos roçaram o vidro frio.
 
-NOVA BAÍA — O Futuro Começa Aqui.
-Embaixo, uma renderização: prédios brancos com varanda ajardinada, um calçadão, uma criança de bicicleta, uma marina. Nada daquilo tinha vista para o mar antes do Dilúvio, porque antes do Dilúvio o mar ficava a um quilômetro e meio dali e havia quatro quarteirões de cortiço no caminho.
+Isadora sorriu. Um sorriso de vitória.
 
-Ele aproximou o carro até conseguir enquadrar o rodapé com a câmera do comunicador. Ampliou a imagem antes de ler.
+Mas então, Gabo viu.
 
-É sempre o rodapé. Catorze anos de polícia ensinam poucas coisas úteis e essa é uma delas: a mentira mora no título e a verdade mora na letra miúda, porque a letra miúda é escrita por um técnico que não sabe que está sendo cúmplice.
+No pulso de Isadora, sob a manga do vestido, havia uma marca roxa. Uma contusão em forma de dedos mecânicos.
 
-> *Estudo de Viabilidade e Levantamento Planialtimétrico — Consórcio Lázaro / Aeterna Prime.*
-> *Rev. 04 — protocolo municipal 2056/61.*
-> *Data de emissão: 12 de fevereiro de 2056.*
+A mão de Gabo passou pelo frasco e parou junto do pulso dela, sem fechá-lo na mão.
 
-Gabo leu de novo. Doze de fevereiro de 2056. As comportas abriram no dia dezenove de março daquele mesmo ano.
+— Quem fez isso em você? — ele rosnou.
 
----
+O sorriso de Isadora vacilou.
 
-Ele ficou parado por um tempo que não soube medir, com a garoa entrando pela janela, olhando uma criança renderizada andar de bicicleta em looping por cima do lugar onde tinha morrido, entre outras, uma menina de sete anos com casaco amarelo.
+— Não toca.
 
-Trinta e seis dias.
+— Foi o Miranda, não foi? Com aquela mão de metal dele.
 
-Alguém desenhou aquela marina trinta e seis dias antes de a água chegar. Contratou um levantamento planialtimétrico de um terreno que naquele momento ainda tinha quatro mil pessoas morando em cima. Pagou a revisão quatro do estudo. Protocolou na prefeitura, com número, e o número existia porque ninguém tinha achado necessário esconder.
+Isadora recolheu o braço. Gabo afastou a mão para deixá-la cobrir a marca se quisesse. Ele viu o medo nos olhos dela. Não o medo de uma vilã pega, mas o medo de uma vítima.
 
-O estudo antecedia a enchente. Isso não provava quem abrira as comportas.
+— Você veio aqui me vender o paraíso, mas você vive no inferno, não é, Isadora?
 
-Mas a versão de que alguém apenas aproveitara a tragédia começava a parecer generosa demais. O consórcio já estudava o terreno quando os moradores ainda estavam lá.
+A máscara da femme fatale caiu. Isadora relaxou os ombros, derrotada.
 
-Se a água fora o **método**, alguém precisara dar ordens antes de colher o lucro. Era isso que ele precisava encontrar.
+— Ele disse que se eu não fizesse você beber... ele ia me dar para os robôs. — Uma lágrima solitária escorreu pela maquiagem perfeita. — O Marco... ele quer você fora do tabuleiro, mas não quer te matar. Ele quer te possuir. Como um troféu na estante digital dele.
 
-Não se compra quatro mil casas em cortiço. Cada uma tem posseiro, inventário, herdeiro sumido, liminar, associação de moradores e um vereador local que ganha voto defendendo aquilo. Custa dez anos e não sai.
+Gabo recolheu a mão. Pegou o frasco de Lázaro e o jogou contra a parede. O vidro quebrou, e o líquido azul escorreu entre as rachaduras.
 
-Uma área alagada podia ser declarada de risco e desocupada por decreto sanitário. Gabo queria os laudos, as ordens e as condições de venda antes de afirmar quem perdera o quê.
+— Diga a ele que eu recuso a oferta.
 
-Para o consórcio, a água podia ter aberto caminho para limpar o título. Para os moradores, o custo já estava diante dele.
+Isadora olhou para o líquido desperdiçado, depois para Gabo.
 
----
+— Ele vai me matar.
 
-Gabo apoiou a testa no volante. A criança da propaganda continuou pedalando no holograma, acima dos escombros.
+— Senta e me diga como chegar ao Miranda — disse Gabo, firmando a bengala no chão. — Eu quero acabar com ele.
 
-Ele começou a rir. Foi uma risada feia, curta, seca, dessas que assustam quem está por perto — e não havia ninguém por perto, o que só piorou.
+— Por que eu faria isso? Vocês são meia dúzia de ratos contra um exército.
 
-Semanas procurando quem operou uma comporta. A pergunta *quem abriu?* ainda importava: uma ordem não virava ação sem alguém executá-la.
+— Não sei se consigo proteger você. Posso esconder seu nome e tentar arrumar um lugar longe dele. Se quiser ir embora, não vou impedir.
 
-Agora havia outra pergunta: **quanto valia o metro quadrado depois — e para quem?**
+Isadora olhou para a saída. Valéria surgiu na porta com o deck sob o braço, atraída pelo vidro quebrado. Gabo ergueu a mão para que esperasse. Isadora encarou o frasco vazio antes de voltar à mesa.
 
-O rodapé não respondia. Dava a ele um número para procurar, em letras pequenas, numa propaganda que qualquer pessoa podia ver.
+Antes de abrir o salto do sapato, puxou do bolso um recibo térmico dobrado. No cabeçalho, revisão anual; abaixo, “setor familiar”, **REF-0** e **PEDIDO DE COLETA: RECUSADO — MANTER REFERÊNCIA EM CAMPO**. Val reconheceu a chave do verso guardado por Nise. O rodapé identificava um console administrativo, sem nome de operador.
 
----
+— Miranda me fez consultar esse pedido — disse Isadora. — Voltei ao terminal e pedi nova revisão. Recusaram de novo, sem exame nem solicitação clínica. Só essa ordem. Eu devia ter queimado o recibo.
 
-Ele fechou a janela do carro.
+Gabo estendeu a mão. Isadora puxou o papel para si. — A foto basta. O original fica comigo. — Val registrou as duas faces, incluindo a borda com o código do console. Só então Isadora dobrou o recibo e tornou a guardá-lo.
 
-Mudar de posição doeu. Ele puxou as pernas com as mãos para alcançar os apoios; mesmo assim a coluna deu o aviso de sempre. As órteses rangeram, engasgadas de ferrugem e falta de óleo.
+— O Miranda controla os robôs de uma sala no subnível da Prefeitura — disse ela, rápido. — Mas o Marco... o Marco está construindo algo pior na Represa. O "Projeto Dilúvio" não é só água. É um reset.
 
-Na véspera, um mecânico da catedral revisara as travas das órteses com Val e montara controles manuais provisórios no Cobalt, cobrando combustível. Gabo conseguia dirigir sem usar os pedais, mas precisava parar para cada transferência. O reparo não devolvera força à coluna nem tornara os apoios uma armadura.
+Ela tirou um chip escondido no salto do sapato e o colocou na mesa.
 
-Ele precisava de óleo. Precisava de peça, de parafuso, de um torno, de um mecânico que não fizesse pergunta.
+— Aqui estão as plantas. E os códigos de acesso do Miranda.
 
-Precisava, acima de tudo, sair dali antes que a lembrança de Helena o alcançasse, porque ela vinha sempre no mesmo horário e ele conhecia os sintomas.
+Gabo pegou o chip.
 
-No console central, o pendrive de titânio da Aria continuava encaixado na porta de dados.
+— Vou procurar um abrigo — disse Gabo. — Não prometo que aceite você.
 
-A tela monocromática do painel mostrou o número do protocolo municipal capturado pela câmera conectada ao módulo: `2056/61 — PROTOCOLO CAPTURADO; ORIGINAIS A CONFERIR`.
+Ela se levantou, ajeitando o vestido.
 
-Uma projeção breve tomou forma acima do painel: mulher adulta, cabelo branco-platinado, jaqueta grafite de gola alta, um olho azul e outro âmbar. As bordas translúcidas falharam quando ela se voltou para Gabo.
+— Não se engane, Moretti. Eu não sou sua amiga. Eu só quero estar do lado que vai estar vivo amanhã.
 
-— *Isso liga o anúncio a um protocolo. Precisamos dos originais para dizer o que foi aprovado.*
+Ela saiu, deixando para trás o cheiro de jasmim e a promessa de traição.
 
-Aria encerrou o holograma e conservou a captura local. A inteligência continuava na peça de titânio, não na mulher de luz que acabara de desaparecer.
+O velho do balcão não disse nada enquanto a porta fechava. Depois enxugou um copo com um pano que já tinha secado coisa pior e guardou a garrafa de uísque embaixo do balcão, fora de alcance.
 
-— Eu sei, Aria — ele disse para o painel. — Eu vou ler o rodapé, tá?
+— O quarto de cima tá ocupado — disse ele.
 
----
+— O quarto de cima tá vazio desde março.
 
-Os corretores estavam chegando. Em Baía Cinzenta, uma ordem de despejo vem sempre acompanhada de um esquadrão.
+— Agora tá ocupado. — Ele não levantou os olhos. — Eu tenho neta, Moretti. Se aquele cheiro de flor voltar aqui, ela vai junto.
 
-Ele girou a chave. O motor do Cobalt tossiu, engasgou e finalmente rugiu — aquele som feio e metálico de bicho ferido que se recusa a deitar.
-
-— Vamos ver quanto vale o metro quadrado da minha alma — rosnou Gabo.
-
-Engatou a primeira e acelerou para dentro da névoa, na direção do protocolo 2056/61, com um pedaço de papel no bolso escrito com a letra da ex-mulher e a data de doze de fevereiro gravada onde ele guardava as coisas que não deixava esquecer.
+Gabo olhou para a mancha azul na parede. Ele tinha recusado o paraíso. Agora, só restava vencer o inferno.

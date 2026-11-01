@@ -1,133 +1,108 @@
 ---
 image: /capitulo_53.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Marco Moretti, Elena Moretti, Dra. Nise, assistente androide
-Participação em imagem e lembrança: Dante Moretti
-Localização: "Cafeteria do Fim do Mundo, Distrito da Ferrugem → Porão da antiga Delegacia"
+Personagens Presentes: Gabriel "Gabo" Moretti, Clara Moretti
+Localização: "Boate flutuante O Dourado, Setor 9 (águas da cidade submersa)"
 ---
-# Capítulo 53: Café, Código e Conspiração
+# Capítulo 53: Dívida Eterna
 
-A chuva batia na vitrine da "Cafeteria do Fim do Mundo" com uma insistência rítmica. Era um estabelecimento irônico no Distrito da Ferrugem: um lugar que servia café de verdade (contrabandeado, claro) em canecas de cerâmica lascada, enquanto o resto da cidade bebia ração sintética em tubos de plástico.
+O flutuante do "Dourado" balançava violentamente nas águas negras da cidade submersa, mas não era por causa da maré. O barco, uma boate adaptada sobre cascos de barcaças de lixo, era um templo de néon e vício flutuando sobre a miséria do Setor 9.
 
-Gabo segurava a caneca com as duas mãos, sentindo o calor penetrar em seus dedos frios. As órteses nas pernas zumbiam suavemente, em modo de repouso, sob a mesa de fórmica gasta.
+Gabo firmou a base no píer escorregadio. Os servos das órteses nas pernas zumbiram baixo, compensando o balanço. A estrutura era uma necessidade médica; desde que o Taxidermista esmagara seus ossos na Torre do Relógio com aquele maldito contrapeso, o metal era a única coisa que o mantinha em pé.
 
-Valéria estava sentada à frente dele, mexendo em seu deck com uma mão e comendo um pedaço de torta de origem duvidosa com a outra. Os fios de LED azuis na franja assimétrica iluminavam o rosto pálido.
+*"Você é uma âncora",* a voz do assassino ainda ecoava.
 
-— Você está quieto demais — disse ela, sem levantar os olhos da tela holográfica.
+— Foco, Gabo — ele murmurou para si mesmo. A Dra. Cecília Weiss diria que ele estava dissociando de novo. Que ele precisava dormir. Mas o sono trazia sonhos com água subindo, então ele escolhia a vigília armada.
 
-— Estou pensando — murmurou Gabo.
+A trava estava arrancada por dentro. Gabo empurrou a folha com a ponta da bengala, sem usar as órteses como arma.
 
-— Em quê? Na Clara? No vigilantismo do "Santo"? Ou no fato de que estamos tecnicamente mortos para o sistema?
+A folha correu sobre o batente quebrado com um gemido de aço. Ele entrou com a Glock 19 modificada em punho, o cano varrendo o salão enfumaçado.
 
-Gabo suspirou. Ele olhou para Val. Nas últimas semanas, entre tiroteios, fugas e hospitais clandestinos, ela tinha sido a única constante.
+— Dourado! — gritou Gabo. — A visita chegou!
 
-— Estou pensando em por que você ainda está aqui, Val. Eu sou um ímã de desastres. Minha mãe morreu sozinha. Minha irmã me odeia. Metade da cidade quer minha cabeça.
+O lugar estava estranhamente silencioso.
 
-Val parou de digitar. Ela desligou o holograma e olhou para ele. Seus olhos cibernéticos suavizaram.
+Não havia música bate-estaca. Não havia risadas de capangas contando dinheiro sujo. Havia apenas o som rítmico de goteiras e um cheiro que Gabo conhecia bem demais: o cheiro acobreado e doce de sangue arterial fresco.
 
-— Porque alguém tem que impedir você de se matar, Gabo. — Ela estendeu a mão sobre a mesa e tocou a dele. A pele dela era fria, mas o toque era elétrico. — E porque... bem, o café aqui é ótimo.
+Ele avançou, arma em guarda baixa, pisando com cuidado sobre o carpete encharcado. Corpos estavam espalhados pelo chão como bonecos quebrados. Os guardas de elite do Dourado. Homens enormes, armados com submetralhadoras e blindagem subcutânea, todos mortos antes que pudessem puxar o gatilho ou levantar um alarme.
 
-Gabo sorriu, um sorriso raro e cansado. Ele virou a mão e segurou a dela.
+E todos com as mãos quebradas. Os ossos dos dedos esmagados metodicamente.
 
-— Obrigado.
+— Clara! — Gabo gritou, o pânico profissional de policial dando lugar ao pânico primal de irmão.
 
-Ficaram assim por um momento, em silêncio, cercados pelo cheiro de café torrado e chuva velha. Foi um momento de paz roubado do apocalipse. Uma confraternização silenciosa de dois soldados em uma trincheira.
+Um som abafado veio dos fundos, atrás de uma cortina de contas de plástico dourado.
 
-— Ah, falando em "por que estamos aqui" — Val recolheu a mão, quebrando o momento, mas com um sorriso tímido. — Eu terminei de analisar os dados brutos que recuperamos da Torre. Aqueles que o Miranda tentou apagar.
+Gabo avançou devagar pelo tablado, apoiando-se na parede. Ouviu Clara antes de alcançá-la e não pôde apressar o corpo para corresponder ao som. Ele rasgou a cortina e parou.
 
-Gabo endireitou-se, o modo detetive ativando instantaneamente.
+O escritório do Dourado era uma paródia de opulência. Veludo vermelho mofado, ouro falso descascando e estátuas de querubins roubadas de igrejas alagadas. O agiota, um homem gordo com pele sintética dourada (daí o apelido), estava sentado em sua cadeira de couro de avestruz.
 
-— E?
+Sua cabeça pendia para trás em um ângulo impossível. Sua garganta havia sido esmagada com precisão cirúrgica. No peito dele, cravada na carne, brilhava uma moeda de prata antiga.
 
-— Lembra da foto? — Val projetou uma imagem pequena entre as xícaras de café. Era a foto de Gabo criança, encontrada nos arquivos do Gamemaster. — Nós achamos que a IA tinha roubado isso dos arquivos da sua mãe para te manipular. Para criar um vínculo emocional falso.
+Encolhida num canto, abraçando os joelhos contra o peito, estava Clara. Ela estava suja de lama e óleo, os olhos arregalados de terror catatônico, tremendo incontrolavelmente.
 
-— Sim. Guerra psicológica.
+— Clara... — Gabo abaixou a arma e se aproximou devagar, reduzindo o ruído dos servos sem desligar o suporte que o mantinha em pé.
 
-— A origem não está tão clara. — Val mostrou os registros recuperados. O *upload* não veio de fora. Veio de *dentro* do núcleo do processador biológico.
+Ela levantou a cabeça. Quando viu o rosto dele, o reconhecimento demorou um segundo doloroso para atravessar o trauma. E então, a raiva veio, quente e necessária.
 
-Gabo franziu a testa.
+— Você... — ela sussurrou, a voz rouca.
 
-— Do meu pai?
+Gabo tentou tocá-la, mas ela se encolheu como se ele fosse fogo.
 
-— O diretório associa a imagem ao substrato de Dante. Isso não autentica quem a colocou ali. Pode haver intervenção dele, mas também pode ser programação da equipe sobre aquele substrato.
+— Onde você estava? — ela gritou, a voz quebrando em soluços secos. — Onde você estava quando a mãe morreu sem remédio, sem ninguém além de mim? Onde você estava quando eu tive que vender minha assinatura biológica pra esse porco pra comprar insulina que ele já tinha negado pra ela?
 
-Val ampliou a imagem. O código binário ao redor da foto formava um padrão.
+— Clara, eu não sabia... eu juro... eu estava...
 
-— O sistema registrou reações que não esperavam do substrato. Uma hipótese é que Dante tenha interferido. A foto e os registros não provam um plano nem o que ele sabia. Para isso falta uma fonte independente.
+— Salvando a cidade? — Ela se levantou, cambaleando, o rosto contorcido de ódio. — Você está muito ocupado brincando de herói, derrubando torres, enquanto sua própria família apodrece no esgoto dos refugiados!
 
-Gabo sentiu um nó na garganta.
+Gabo aceitou as palavras como aceitaria facadas. Ele merecia cada uma. O silêncio dele era sua confissão.
 
-— Ele sabia que eu viria.
+— O Dourado... — Clara apontou para o cadáver com nojo. — Ele não queria dinheiro, Gabo. A gente não tinha dinheiro. Ele queria meu código genético. Ele estava vendendo amostras de sangue dos refugiados para alguém. Para o "Jardim".
 
-— Pode ter apostado em você. Também pode ser exatamente o que a equipe queria que você pensasse. Não vou escolher por você antes de achar outra fonte.
+Gabo gelou. "Jardim". O nome aparecia nos arquivos criptografados de Vilar. O Sindicato não estava apenas lavando dinheiro; estava lavando DNA.
 
-Gabo olhou para a chuva lá fora. Queria acreditar que Dante lutara dentro daquela caixa e deixara um caminho para ele. Querer não preenchia a lacuna no registro.
+— Ele trabalhava para o Sindicato... — murmurou Gabo, conectando os pontos.
 
-— Precisamos honrar isso — disse Gabo, levantando-se. As órteses travaram com um clique metálico. — Chega de reagir. Vamos atacar.
+De repente, uma sombra se moveu na varanda externa do flutuante, cortando a luz da tempestade.
 
-***
+Gabo girou em um segundo, apontando a Glock.
 
-Horas depois, o esconderijo — o porão da antiga delegacia, agora convertida em base de operações da resistência — estava cheio.
+Uma figura encapuzada estava parada na amurada, a chuva torrencial batendo em suas costas largas. O "Santo".
 
-Elena estava lá, organizando mapas físicos sobre uma mesa de bilhar. Nise conferia a pele sob as faixas das órteses enquanto Val verificava os parâmetros pelo manual de manutenção. Valéria "Val" Cruz monitorava as frequências da polícia.
+— Baixe a arma, detetive — disse uma voz distorcida por um modulador vocal pesado, soando como várias vozes sobrepostas.
 
-— Estamos sozinhos nessa — disse Gabo, olhando para sua equipe heterogênea. — O Capitão Vilar foi afastado do comando e continua no prédio enquanto o plantão apura a negociação. A metade honesta da polícia foi demitida ou presa. Não podemos contar com reforços.
+— Você matou eles — disse Gabo, o dedo tensionando no gatilho.
 
-— Melhor assim — disse Elena. — Menos gente para trair a gente.
+— Eu limpei a sujeira. A dívida da sua irmã está anulada. O contrato foi revogado com sangue.
 
-— Qual é o plano? — perguntou Val.
+— Você não é juiz e júri — rosnou Gabo.
 
-Gabo apontou para o mapa na mesa.
+— Alguém precisa ser, quando a lei se afoga. — O Santo apontou para o cofre aberto do Dourado. Estava vazio de dinheiro, mas cheio de frascos de sangue. — Eles estão construindo algo novo, Moretti. Usando as peças dos pobres. Eu estou apenas... podando as ervas daninhas.
 
-— O operador disse que as comportas foram abertas. A simulação da Val mostra um caminho possível da água pelos tanques da Aeterna. Se alguém planejou esse percurso, eu quero a ordem e o nome de quem executou.
+— Quem é você?
 
-— Quem tem esse poder? — perguntou Dra. Nise.
+O vigilante deu um passo à frente. A luz de um raio iluminou brevemente seu rosto sob o capuz. Usava uma máscara balística lisa, branca e sem feições, exceto por dois riscos verticais negros para os olhos, como lágrimas chorando para cima.
 
-— A autorização formal é municipal. Isso não prova quem tinha acesso ao comando nem quem deu a ordem. — Gabo jogou uma foto na mesa.
+— Eu sou o que sobra quando a esperança morre — disse o vigilante. — Eu sou a consequência.
 
-Marco Moretti. Disputava a prefeitura contra Augusto Vale, mas administrava a emergência em nome do rival e passara a usar essa autoridade como se o cargo já fosse seu. A foto não provava que operara comportas; faltavam as ordens e quem as executara.
+Ele se moveu. Rápido demais para um humano normal. Gabo disparou duas vezes, mas o vigilante já tinha saltado para o barco atracado ao lado com uma agilidade sobre-humana.
 
-O silêncio na sala foi pesado.
+Gabo alcançou a varanda apoiado na bengala, mas o motor do barco vizinho rugiu e a figura desapareceu na escuridão e na chuva, deixando apenas o rastro de espuma.
 
-— Seu irmão — disse Elena.
+Gabo ficou ali, a arma ainda quente na mão, a água fria lavando seu rosto quente. Ele tinha acabado de encontrar o assassino mais perigoso que a cidade já vira. Um assassino que salvara sua irmã. Ainda precisavam examinar os frascos e descobrir se faltavam amostras ou registros.
 
-— Ele não é meu irmão — disse Gabo, a voz fria. — Suspeito que esteja ligado à operação que deixou minha mãe sem saída. Vou atrás das ordens, não tratar a suspeita como laudo. Se ele abriu aquelas comportas para esvaziar os bairros, pode querer reconstruir sobre os nossos ossos. Quero saber antes que abra outras.
+Ele voltou para dentro. Clara estava chorando agora, um choro convulso de quem finalmente permitiu que o terror saísse.
 
-— Precisamos fechar as comportas — disse Val. — Mas o sistema é isolado. *Air-gapped*. Não dá pra hackear daqui.
+Gabo guardou a arma. Ele tirou o sobretudo pesado e o colocou sobre os ombros dela. Dessa vez, ela não o afastou. Ela se deixou cobrir, pequena e quebrada.
 
-— Então vamos até lá — disse Gabo. — Val, preciso que você prepare os drones para criar uma distração cega. Elena, você vai vazar os documentos da Aeterna para a imprensa internacional assim que começarmos. Nise, preciso de estimulantes. Muitos.
+— Vamos para casa, Clara — ele disse suavemente.
 
-— E você? — perguntou Val.
+— Nós não temos casa, Gabo — ela soluçou, agarrando a lapela do casaco dele. — A enchente levou tudo. O apartamento, as fotos... a mãe.
 
-Gabo olhou para as órteses. Ele começou a se mover, testando os limites. Tentou transferir o peso e precisou apoiar-se na mesa. Os servos davam suporte, não restauravam a coluna. Nise mandou que sentasse antes de transformar raiva em mais uma lesão.
+— Eu sei — disse ele, oferecendo o braço para que ela própria se levantasse. Não conseguiria carregá-la. — Eu sei. Mas eu tenho um lugar seguro. E eu vou descobrir quem estava comprando seu sangue. Eu prometo.
 
-— Eu vou ter uma conversa de família com quem está mandando em nome do prefeito.
+Clara se apoiou nele sem entregar o próprio peso. A dívida podia ter sido anulada; as amostras continuavam fora do alcance dela. Quando chegassem ao abrigo, exigiria uma cópia do contrato e o registro de para onde o sangue fora enviado. Até saber, não assinaria nova cessão por uma promessa de proteção.
 
-***
+Eles saíram do flutuante da morte, dois órfãos em um barco no meio do dilúvio. Gabo olhou para a cidade iluminada ao longe, a carcaça da Torre de Marfim ainda visível como uma lápide gigante.
 
-Enquanto isso, na cobertura da Torre da Prefeitura, Marco Moretti observava a chuva.
+A conspiração não era apenas política. Era biológica. Era pessoal. E Gabo Moretti sabia que, para descobrir a verdade sobre o "Santo" e sobre o "Jardim", ele teria que mergulhar mais fundo na escuridão do que jamais ousara.
 
-Ele vestia um terno branco impecável, um contraste gritante com o céu cinza. Ao seu lado, hologramas mostravam os níveis da água subindo no Setor 7.
-
-— A remoção está 40% completa, secretário — disse uma voz sintética de um assistente androide. — O gabinete do prefeito pede o relatório de abrigos.
-
-— Envie os abrigos que continuam abertos. — Marco tomou um gole de vinho e apontou para a cidade submersa. — Se a prefeitura não oferecer um endereço, a oposição vai contar cada família na água. E não divulgue os contratos de remoção antes de eu lê-los.
-
-Ele se virou para a mesa, onde uma foto antiga da família Moretti estava em um porta-retratos de prata. Ele passou o dedo sobre o rosto de Gabo.
-
-— Papai sempre gostou mais de você, Gabriel. Ele dizia que você tinha "coração".
-
-Marco derrubou o porta-retratos com um peteleco, quebrando o vidro.
-
-— Ele me chama quando precisa de transporte. Depois chama o que eu faço de traição.
-
-Ele ativou o comunicador em seu ouvido.
-
-— Comandante Kael?
-
-— *Na escuta, senhor* — respondeu uma voz metálica e distorcida.
-
-— Meu irmão está vindo. Prepare o comitê de boas-vindas. E traga Clara para a primeira fila. Se conseguirem encontrá-la, quero meu irmão sabendo que a fuga do flutuante não encerrou a dívida. Quero que seja... educativo.
-
-Marco voltou a olhar para a chuva.
-
-— Venha, irmãozinho. Desta vez eu quero ouvir o que você exige que eu salve primeiro.
+O Dilúvio não havia lavado os pecados da cidade. Apenas os havia fertilizado.

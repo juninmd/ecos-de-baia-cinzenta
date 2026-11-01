@@ -1,139 +1,54 @@
 ---
-Título: O Ar Limpo
+Título: A Pressão do Vazio
 Data In-Game: Pós-Colapso do Sentinel (Noite Eterna)
-Localização: Arca Zero - Antecâmara de Descontaminação, Abaixo do Setor 6
+Localização: Poço de Manutenção Geológica, Abaixo do Setor 6
 Personagens Presentes: Gabo, Valéria, Elias
 ---
 
-# Capítulo 218: O Ar Limpo
+# Capítulo 218: A Pressão do Vazio
 
-A porta cedeu os últimos centímetros sozinha.
+A descida pela garganta de rocha da cidade parecia uma queda livre em câmera lenta, onde cada segundo era medido pelo rangido violento dos cabos de sustentação. A gaiola de carga de ferro forjado tremia e chacoalhava contra os trilhos verticais chumbados nas paredes basálticas, soltando chuvas de faíscas pálidas que iluminavam o abismo por frações de segundo antes de serem engolidas pelo breu absoluto.
 
-Não empurrei. Ela simplesmente continuou, puxada por um contrapeso que alguém havia calibrado antes de eu nascer, e o movimento foi tão silencioso que parecia indelicado. Sessenta anos de espera e nenhum rangido. Fiquei ali segurando o volante como um idiota, com sangue escorrendo pela perna e a respiração saindo em nuvens brancas, enquanto meio metro de chumbo se abria para mim com a cortesia de um mordomo.
+O vento frio que subia do poço não tinha cheiro de lodo ou esgoto; era um sopro mineral, seco e gélido, com o odor metálico de poeira antiga e chumbo estagnado. A gaiola descia rápido demais para os ouvidos acompanharem; a cada dez metros meus tímpanos estalavam com uma pontada que subia até a raiz do dente.
 
-O que veio de dentro não foi som. Foi ausência de som.
+Apoiei as costas contra as grades de proteção da gaiola, segurando o corrimão central com as garras de ferro da armação instalada por Vasco para alinhar a fratura do braço. A vibração das sapatas de freio ricocheteava pela estrutura e subia pela minha coluna, arrancando espasmos da musculatura lacerada do ombro que continuava sangrando sob as ataduras sujas. Lembro de provações parecidas no Dilúvio, quando a água negra engoliu os distritos e tanta gente morreu afogada nos túneis; desde a queda da Torre Aeterna neste ano, a cidade vinha quebrando nossos corpos em pedaços, deixando cicatrizes que nunca mais se apagariam. A dor e o ruído se misturavam; precisei pedir a Val que repetisse a distância.
 
-No Hub, os servidores ainda zumbiam. Ali o silêncio era outro. Nos últimos meses, o silêncio de Baía Cinzenta sempre teve textura: goteira, ferrugem se assentando, o estalo distante de alguma coisa orgânica crescendo onde não devia. Aquilo ali era outra categoria. Um silêncio construído, projetado, pago caro. Um silêncio que custou dinheiro.
+Elias estava sentado no piso de ripas de aço, com os braços entrelaçados nas próprias pernas e a cabeça encostada nos joelhos. O garoto respirava em arfadas curtas e rápidas, lutando contra a náusea do movimento e da mudança de pressão. O medo do rapaz era legítimo: estávamos caindo no centro da terra, onde a luz do dia nunca havia tocado e onde o silêncio guardava os segredos dos fundadores.
 
-— Pressão positiva, — Valéria disse atrás de mim. — O ar está saindo, não entrando. O mostrador confirma pressão interna maior agora. Não temos o histórico para dizer que nunca houve uma falha.
+— Minha cabeça... parece que vai rachar ao meio, — balbuciou ele, a voz quase abafada pelo ruído ensurdecedor do vento nos cabos. — Meus ouvidos tão zumbindo...
 
-— E o que significa a gente entrar?
+— Engole a própria saliva com força, Elias, — instruiu Valéria, em pé junto à alavanca do freio centrífugo. Os reflexos azuis da franja holográfica dançavam contra a névoa escura do fosso, iluminando a expressão concentrada e atenta da hacker. Ela ajustava a alavanca com a mão direita para reduzir a velocidade da gaiola. — A pressão tá mudando mais rápido do que o seu ouvido consegue acompanhar, Elias. A gente acabou de cruzar mais duzentos metros neste poço. Vou reduzir a velocidade. Se a dor não passar, a gente para; engolir saliva não resolve toda lesão de ouvido.
 
-— Significa que vamos levar sujeira para dentro. Não encostem nos berços.
+— E a gaiola aguenta essa descida toda? — perguntei, observando o cabo de aço trançado de duas polegadas vibrar como uma corda de contrabaixo gigante sobre nossas cabeças.
 
-Eu ri. Doeu no ombro, e a risada virou tosse, e a tosse trouxe gosto de moeda velha para a boca. A febre estava subindo desde a passarela; meus músculos continuavam sangrando sob as bandagens após a fixação da fratura pela equipe médica, e agora eu conseguia sentir meu próprio pulso batendo dentro do ferimento, como se houvesse um segundo coração alojado ali, menor e mais raivoso que o primeiro.
+— O freio segurou no teste curto, Moretti, — ela respondeu. — Isso não garante o cabo nem os trilhos até o fundo. Mas se você quiser descer a pé pela escada de emergência na parede, eu posso puxar a alavanca de emergência e te deixar aí no vácuo.
 
-Atravessei a soleira.
+— Deixa a alavanca quieta, Val, — resmunguei, soltando uma risada rouca que terminou em uma tosse seca provocada pela poeira do poço. — Já passei tempo demais pendurado em cabos esta semana pra querer repetir a dose.
 
-O chão do outro lado era liso. Não limpo — *liso*. Epóxi industrial branco, sem uma rachadura, sem uma mancha, refletindo a luz da lanterna moribunda de Elias em um borrão pálido que se estendia por trinta metros. As paredes eram do mesmo branco. O teto tinha luminárias embutidas, apagadas, alinhadas com uma precisão que ofendia.
+Valéria ergueu a lanterna tática do antebraço e mirou o feixe para fora da grade da gaiola, iluminando as paredes do túnel que passavam voando ao nosso lado.
 
-Depois de meses em dutos, esgotos e galerias de osso, aquele corredor branco me pareceu obsceno.
+O cinza escuro e áspero do basalto vulcânico começou a desaparecer, substituído por um revestimento contínuo, liso e opaco de placas maciças rebitadas. Não era aço comum, nem cimento armado. Era chumbo. Placas de quatro polegadas de espessura, cobrindo cada centímetro da rocha como um casulo impenetrável.
 
-— Não, — Elias disse.
+— Olha isso, Moretti, — Valéria apontou o feixe, os olhos prateados estreitando-se em uma leitura atenta. — Revestimento integral de chumbo naval.
 
-Ele estava parado na porta, sem passar. A lanterna tremia na mão dele.
+Elias ergueu a cabeça devagar, correndo a luz de sua lanterna pelas junções soldadas das chapas que desciam conosco.
 
-— Não o quê?
+— Chumbo maciço... — sussurrou o garoto, o medo dando lugar à curiosidade técnica do engenheiro. — Isso não é reforço contra sismos ou infiltração de água. Pode ser blindagem radiológica. Precisamos de um medidor para saber o que há do outro lado; chumbo não identifica a fonte.
 
-— Isso não pode estar aqui. — A voz dele saiu fina. — Eu trabalhei quatro anos em manutenção. Eu conheço cada duto do Setor 6. Isso não está em planta nenhuma. Isso não *existe*.
+— O que a Aeterna tava escondendo aqui embaixo em mil novecentos e vinte e dois? — perguntei, sentindo um calafrio que nada tinha a ver com a temperatura do ar. — Usinas nucleares nem existiam na época da fundação dos diques.
 
-— Agora existe. Entra.
+— Aeterna comprou obras anteriores a ela, detetive. O livro de manutenção menciona aproveitamento geotérmico. Não data estas chapas, nem prova que havia um reator em 1922. — Valéria reduziu a marcha. O freio cheirou a metal quente. — Primeiro vieram os diques; depois alguém usou a sondagem para esconder outra instalação. Vamos procurar a ordem de reforma antes de inventar um monstro sob a cidade.
 
-— Tem alguma coisa errada com o cheiro.
+— E batizaram de Arca Zero, — Elias completou, engolindo em seco.
 
-Eu parei. Porque ele tinha razão, e eu não tinha percebido o que estava me incomodando desde que a porta abriu.
+— O nome não diz quem foi protegido aqui nem quem ficou do lado de fora, — Valéria corrigiu com o veneno costumeiro na voz. — Mas o sensor do meu cyberdeck tá pegando uma desaceleração no gradiente de descida. Estamos a menos de cinquenta metros do fundo do poço.
 
-O cheiro do antisséptico que sentíramos na soleira tinha quase desaparecido.
+As sapatas de freio rangeram com um uivo prolongado, desacelerando a gaiola de manutenção. O baque surdo de amortecedores hidráulicos comprimindo-se contra a base de concreto ressoou no piso de ferro, jogando nossos corpos ligeiramente para a frente.
 
-Restava o odor da nossa roupa, mas não havia mofo nem a podridão doce da biomassa dominando o corredor. Eu inspirei fundo, procurando qualquer coisa, e o ar entrou nos meus pulmões como água destilada. Frio. Neutro. Vazio.
+A gaiola estacou.
 
-E foi aí que eu entendi o verdadeiro impacto daquele santuário.
+O silêncio monumental do fundo do mundo desceu sobre nós como uma abóbada impenetrável. A quatrocentos metros abaixo de Baía Cinzenta, não havia o som da chuva ácida, nem o zumbido dos neons dos arranha-céus, nem o eco dos combates das gangues nos esgotos. Havia apenas a imensidão muda da pedra primordial e as placas de chumbo que guardavam o segredo mais antigo da cidade.
 
-Não havia poluição. Não havia o azedume da chuva ácida que corrói Baía Cinzenta desde o berço, nem a fuligem de chaminés corporativas ou o lodo asfixiante do esgoto. Como no Hub, o ar parecia menos agressivo; ali o silêncio também deixava a tosse mais alta. Continuei tossindo, e o tremor não passou.
+Valéria destravou a grade pantográfica com um clique metálico límpido e deu um passo para fora da plataforma, erguendo a lanterna sobre um vasto corredor de concreto e portas blindadas que se abria diante de nós no coração do abismo.
 
-Encostei a testa na parede fria de epóxi e fiquei ali, respirando devagar, como um condenado que acabava de receber uma trégua inesperada no meio da tempestade.
-
-— Gabo, — a voz de Valéria soou suave ao meu lado. Ela parou a um passo de mim, os olhos prateados analisando meu rosto com uma mistura de alívio e preocupação genuína. Ela tocou a lateral da minha têmpora com a ponta dos dedos enluvados. — Você está quente e confuso. Esse ferimento precisa de atendimento; pelo toque eu não sei sua temperatura nem o que a infecção alcançou. Vamos procurar uma enfermaria. Aqui entra ar filtrado, não oxigênio puro.
-
-— Deixa eu aproveitar o silêncio, Val, — murmurei, abrindo os olhos e encarando o corredor imaculado.
-
-— Aproveita, mas não apaga, — ela respondeu com um meio-sorriso cansado, olhando para as próprias botas cobertas de lama e óleo. — Esse lugar parece o necrotério mais caro do planeta. Dá até dó de sujar esse chão branco com as nossas carcaças da Zona Baixa. Mas admito que respirar sem tossir fuligem é quase um milagre.
-
-Elias finalmente atravessou a porta. Deu três passos, parou e cobriu a boca com a mão.
-
-Achei que fosse vomitar. Não era.
-
-Ele estava chorando.
-
-— Ei. — Fui até ele, mancando. — Ei, Elias.
-
-— É limpo. — Ele falou por trás da mão, e a voz saiu quebrada em pedaços pequenos. — Cara, é limpo. Eu esqueci. Eu esqueci que o ar podia ser assim. Eu fiquei trancado naquela sala meses respirando meu próprio... eu esqueci.
-
-Ele encostou nas costas na parede branca e escorregou até o chão, e ficou lá sentado, chorando de forma feia e sem vergonha nenhuma, do jeito que uma pessoa normal chora.
-
-Eu não soube o que fazer com aquilo. Faz muito tempo que ninguém chora perto de mim por um motivo bom.
-
-Coloquei a mão de carne no ombro dele. Deixei lá. Não disse nada, porque tudo que eu sei dizer sai como lâmina, e não era hora.
-
-Valéria continuou andando.
-
----
-
-O corredor terminava em uma antecâmara hexagonal.
-
-Seis portas. Cinco fechadas, uma entreaberta. No centro, um pedestal de aço escovado com uma placa fundida — não impressa, *fundida*, letras em relevo, do jeito que se faz quando você espera que alguém leia aquilo daqui a quinhentos anos.
-
-INSTALAÇÃO ZERO — CUIDADO PERPÉTUO
-AETERNA S.A.
-"A memória não apodrece."
-Li três vezes.
-
-— Aeterna, — falei. — Cuidado perpétuo.
-
-— É terminologia funerária, — Valéria disse. — Cuidado perpétuo é o contrato pelo qual um cemitério se compromete a manter um túmulo indefinidamente, mediante pagamento único. O termo cai em desuso na década de trinta.
-
-— Você está me dizendo que a Aeterna começou como cemitério.
-
-— Estou dizendo que a placa é de uma empresa de cuidado perpétuo, e que essa placa tem sessenta e um anos.
-
-Fiquei olhando para o aço escovado por um tempo longo demais.
-
-Sessenta e um anos. Antes do Lázaro. Antes de Krell. Antes do Jardim, do Sentinel, da Praga de Ferro, do Gamemaster usando o rosto do meu pai como máscara de festa. Antes de tudo que eu passei quinze anos tentando entender, tinha um sujeito de terno decidindo que a memória não devia apodrecer, e mandando fundir isso em metal.
-
-Todo o inferno que eu atravessei começou como uma promessa de bom gosto.
-
-— Gabo. — Valéria estava na porta entreaberta. — Você vai querer ver isto.
-
-Fui.
-
-Era uma galeria longa, e nela o branco finalmente cedia. As paredes se abriam em nichos — dezenas, talvez uma centena — dispostos em duas fileiras que se perdiam na escuridão. Cada nicho abrigava uma cápsula de vidro grosso deitada na horizontal, do tamanho de uma pessoa, envolta em serpentinas de cobre e cabos analógicos trançados à mão.
-
-Berços.
-
-Todos apagados. Todos vazios. Vidro limpo, forro branco, nenhuma marca, nenhuma poeira. Cem caixões de luxo esperando ocupantes que nunca chegaram, ou que chegaram e foram embora, ou que — a possibilidade me ocorreu com uma frieza que não tinha nada a ver com a febre — nunca foram destinados a ser pessoas.
-
-Andei pela galeria contando. Cheguei a oitenta e três e parei de contar, porque no fim do corredor havia uma luz.
-
-Um único berço, no último nicho, com o painel aceso.
-
-Verde.
-
-O vidro estava embaçado por dentro. Alguma coisa ali dentro ainda estava quente o suficiente para condensar.
-
-Elias parou no meio da galeria e se recusou a chegar mais perto. Valéria foi até o painel e ficou lendo os mostradores analógicos com aquela calma de metrônomo.
-
-Eu cheguei até o vidro. Limpei a condensação com a lateral da mão de carne.
-
-E o rosto que apareceu do outro lado eu conhecia.
-
-Eu conhecia daquele rosto o suficiente para saber que, se ela estava ali, dormindo limpa e intacta enquanto a cidade inteira apodrecia centenas de metros acima da cabeça dela, então nada — absolutamente nada — do que aconteceu com Baía Cinzenta tinha sido acidente.
-
-— Valéria, — eu disse, e minha voz saiu estranha até para mim. — Me diz que esse painel está quebrado.
-
-— O painel está funcional. Sinais vitais estáveis. Atividade cortical presente e elevada.
-
-— Elevada.
-
-— O painel registra atividade; não diz quanto ela percebe, Gabo. — Valéria virou o rosto para mim, e o prateado dos olhos dela iluminou o vidro entre nós dois. — Seja o que for que esse berço faz, ele não desliga a mente. Pode haver alguém nos ouvindo aí dentro.
-
-E, do outro lado do vidro, a Dra. Elara Vance abriu os olhos azul-gelo e olhou diretamente para mim.
+— Fim da linha, passageiros, — ela anunciou com um meio-sorriso desafiador, enquanto a luz azul da franja riscava o chumbo das paredes. — Bem-vindos ao útero de chumbo. Tirem as armas dos coldres e limpem os olhos, porque o que quer que esteja esperando a gente aqui embaixo não vai pedir identificação policial nem aceitar desculpas esfarrapadas. Estamos no marco zero da história.

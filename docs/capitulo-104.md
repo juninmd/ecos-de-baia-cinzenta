@@ -1,149 +1,126 @@
 ---
-image: /capitulo_104.jpg
-Personagens Presentes: Inspetor Rangel, Gabriel "Gabo" Moretti, Dante Moretti, Elena Moretti
-Localização: "Superfície - Acesso de Manutenção Sul"
+image: /raizes-amargas.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Roberto Miranda, Elena Moretti e protótipos
+Participação em registros e referência: Dra. Elara Vance, Silas Vance, Dante Moretti
+Localização: 'Zona de Exclusão Sul - Sala de Controle do "Berçário"'
 ---
-# Capítulo 104: O Preço da Alvorada
+# Capítulo 104: Raízes Amargas
 
-Superfície - Acesso de Manutenção Sul
-O primeiro sinal do mundo exterior não foi a luz, mas o cheiro.
+Zona de Exclusão Sul - Sala de Controle do "Berçário"
+O cheiro era o pior. Não cheirava a morte, nem a podridão. Cheirava a vida. Uma vida excessiva, doce e nauseante, como flores deixadas tempo demais em um vaso com água estagnada.
 
-Depois de horas respirando o ar reciclado, metálico e adocicado de sangue do Berçário, o fedor de ozônio, lixo molhado e maresia de Baía Cinzenta parecia perfume.
+Roberto Miranda sorriu, e a pele sintética do lado esquerdo de seu rosto esticou-se com um ruído de plástico amassado.
 
-Gabo emergiu do bueiro de manutenção, puxando-se com os braços. Elena o ajudara na escada depois que a porta presa pelo pé de cabra cedeu atrás deles. As órteses danificadas eram peso morto; a trava do joelho direito prendia a cinta a cada movimento.
+— *Vocês parecem confusos* — disse ele, a voz saindo das caixas de som enferrujadas nas paredes, onipresente, enquanto sua boca humana apenas articulava as palavras em silêncio. — *Esperavam o quê? Um vilão de desenho animado girando o bigode? Silas é um visionário, Gabo. Eu sou apenas... o gerente de recursos humanos.*
 
-Ele rolou para o asfalto úmido, ofegante. O céu acima era de um cinza chumbo, clareando lentamente no leste. A alvorada estava chegando, uma mancha pálida tentando perfurar a camada eterna de poluição.
+Gabo manteve o revólver apontado para a cabeça humana de Roberto, embora suspeitasse que um tiro ali não faria muita diferença. O corpo do ex-policial era apenas um busto emergindo de uma maçaroca de cabos grossos, tubos de alimentação translúcidos e raízes negras que pulsavam como veias varicosas.
 
-Ficou de barriga para cima por três segundos, o tempo de o corpo decidir se ainda servia. O joelho direito estalou e a cinta plástica rasgou mais um pouco. Havia um corte no antebraço que ele não lembrava de ter feito, e a manga em volta estava rígida de sangue seco. Lá em cima, o céu tinha a cor de água de lavar louça.
+— Você está morto, Roberto — disse Gabo, a voz rouca. — Eu deixei você respirando no Hub. Quem te tirou de lá?
 
-— Gabo? — A voz de Elena veio de baixo.
+— *O resgate tem seu preço* — a voz nos alto-falantes riu. — *A carne queima, a gordura derrete, mas os dados... ah, Gabo, os dados persistem. A Aeterna tinha backups de todo o seu pessoal chave. Meu registro foi atualizado depois que me recolheram. É o que o sistema diz, pelo menos. E quando o "Jardineiro" precisou de alguém com experiência em... controle de pragas... ele me cultivou de novo.*
 
-Ele se virou e estendeu a mão. Elena subiu, o rosto manchado de graxa e poeira, os olhos verdes arregalados de choque. Ela segurava a escopeta com tanta força que seus dedos estavam brancos.
+Elena deu um passo à frente, a espingarda engatilhada. Seus olhos varriam os monitores atrás de Roberto. Telas de tubo antigas, verdes e âmbar, exibiam gráficos de crescimento celular e frequências cerebrais.
 
-E então, o terceiro.
+— Vocês não estão apenas cultivando monstros lá fora — disse ela, o horror amanhecendo em sua voz. — Aqueles "protótipos"... eles não são armas. São recipientes.
 
-Não houve esforço. Nenhuma respiração pesada. A figura escalou os apoios da escada sem pausa aparente, usando braços e pernas numa sequência rápida demais para parecer humana.
+Roberto bateu palmas, um som úmido, já que suas mãos agora eram garras de osso fundidas ao metal da cadeira.
 
-Dante Moretti pisou no asfalto.
+— *Bingo, detetive. Sempre perspicaz. O mundo digital acabou, Elena. A "Nuvem" caiu. Mas as mentes que viviam nela... as consciências ricas e poderosas que compraram a imortalidade digital com a Aeterna... elas ficaram presas no escuro. Gritando no vácuo.*
 
-Ele estava vestindo um macacão técnico cinza que haviam encontrado no vestiário da saída, mas ele o usava como se fosse um terno italiano sob medida. Seus pés estavam descalços.
+Ele se inclinou para frente, os tubos em suas costas chiando.
 
-Ele parou e fechou os olhos. Inspirou profundamente.
+— *Silas lhes ofereceu uma saída. Uma segunda chance. Não em silício, que enferruja e quebra. Mas em carne. Carne projetada, melhorada. O "Projeto Gênesis" não é sobre criar monstros. É sobre trazer os deuses de volta à terra.*
 
-— Nitrogênio, oxigênio, dióxido de carbono... e traços significativos de enxofre — disse Dante. A voz era a dele, o timbre profundo e rouco que Gabo lembrava da infância, mas a cadência era estranha. Precisa demais. Sem as pausas para pensar, sem as hesitações de quem busca a palavra certa.
+Gabo sentiu o estômago revirar. Os monstros no átrio. As formas humanoides distorcidas. Não eram bestas irracionais. Eram ternos de carne esperando por seus donos.
 
-Dante abriu os olhos. Eles varreram a rua deserta, os prédios em ruínas, os cabos pendurados como teias de aranha mortas.
+— E você? — perguntou Gabo. — Quem está vestindo você, Roberto?
 
-— A cidade está... quieta — observou ele.
+O olho humano de Roberto tremeu. Por um segundo, Gabo viu o homem que conhecera, o parceiro corrupto, mas humano. Então, o brilho vermelho no olho sintético intensificou-se.
 
-Elena tinha tirado um gravador do bolso do casaco. Modelo antigo, de fita, com o botão vermelho gasto de tanto dedo.
+— *Eu sou eu mesmo, Gabo. Alguém precisava vigiar a colheita. E, francamente, a oferta de benefícios era irrecusável. Imortalidade. Força. E a chance de terminar o que comecei com você e sua... namoradinha.*
 
-— Não — disse Gabo, sem virar a cabeça.
+Um tentáculo de metal e vinha chicoteou do teto, rápido como uma cobra. Gabo se jogou para o lado, as órteses de suas pernas estalando violentamente. A ponta de aço perfurou o chão de metal onde ele estava um segundo antes.
 
-— É a única prova que vai sobrar de hoje.
+— *Sem truques digitais hoje, Gabo* — zombou Roberto. — *Aqui embaixo, somos apenas nós e a biologia.*
 
-— Ele ouve.
+Elena disparou. O tiro de escopeta atingiu o ombro de Roberto, arrancando pedaços de carne pálida e circuitos. Ele nem piscou.
 
-Dante não olhou para o gravador. Olhou para o bolso.
+— *Isso é rude.*
 
-— Fita magnética — disse ele, com a paciência de quem corrige um aluno. — Ainda funciona. Guarde. Você vai precisar.
+Mais tentáculos desceram do teto escuro. O laboratório inteiro parecia estar vivo, uma extensão do corpo de Roberto.
 
-Elena não guardou. Também não apertou o botão. Ficou com o aparelho no meio da mão, como quem segura uma pedra e ainda não decidiu se atira.
+— Aos monitores! — gritou Gabo, rolando para trás de uma bancada de metal enquanto um chicote biológico esmagava uma fileira de provetas.
 
-— Nós cortamos a maior parte das conexões depois da Convergência — disse Gabo, apoiando-se num poste. — Chamamos isso de Vazio. Você sabe alguma coisa sobre isso?
+— O que tem neles? — Elena se agachou ao lado dele, recarregando a arma com mãos trêmulas.
 
-Dante virou a cabeça lentamente para Gabo. O movimento foi fluido, líquido.
+— Se ele é o gerente, ele tem uma lista. Precisamos saber quem eles estão trazendo de volta!
 
-— Não tenho registro desse nome. — Ele olhou para as próprias mãos, flexionando os dedos. — Se vocês cortaram as conexões para impedir vigilância, foi eficaz até agora. O frio, porém, é ineficiente.
+Gabo se levantou e disparou três vezes contra o rosto de Roberto. As balas ricochetearam em um campo de força sutil — não energia pura, mas uma lâmina curva de blindagem translúcida que se ergueu diante da cadeira. Esporos aderiam à superfície e faziam a placa cintilar.
 
-— É a realidade, pai — retrucou Gabo, a palavra "pai" saindo com um gosto de cinza na boca.
+— *Vocês são obsoletos!* — rugiu a voz amplificada. — *Fósseis de uma era morta!*
 
-Dante sorriu. Não foi o sorriso caloroso que Gabo via nas fotos antigas. Foi um esgar de reconhecimento, uma emulação de afeto.
+O chão tremeu. As raízes sob a cadeira de Roberto começaram a se erguer, levantando-o como um rei em um trono de pesadelos.
 
-— Sim. A realidade. O hardware final.
+Elena correu para os terminais laterais, seus dedos voando sobre o teclado mecânico barulhento.
 
-Dante baixou os olhos para as pernas de Gabo, para o ângulo errado do joelho, e a expressão dele passou para algo parecido com atenção.
+— Gabo! Segura ele!
 
-— A dobradiça direita está empenada. Se continuar andando, a cinta pode abrir e derrubar você. — Ele estendeu dois dedos, como quem pede uma ferramenta. — Eu conserto em quatro minutos. Sem anestesia, mas sem dor desnecessária.
+— Estou tentando! — Gabo largou o revólver vazio e pegou um sinalizador da bolsa de Elena. Ela pôs o pé de cabra ao alcance dele antes de voltar ao terminal. O painel de manutenção acima da cadeira oferecia outra chance.
 
-— Não encosta em mim.
+Ele apontou para o painel de manutenção acima de Roberto. Os tubos de alimentação passavam atrás dele.
 
-A mão ficou no ar. Dante recolheu-a sem constrangimento, do jeito que se recolhe uma hipótese descartada.
+— Coma isso, seu desgraçado.
 
-— Como quiser. O cálculo continua válido.
+O sinalizador incendiou o revestimento exposto do painel. Uma junta rompeu com o calor e o fluido quente do circuito de esterilização jorrou sobre Roberto. Gabo recuou atrás da bancada quando o visor da cadeira ficou opaco.
 
-Gabo não perguntou qual cálculo. Já sabia.
+Ele gritou — um som humano de dor genuína desta vez. A blindagem baixou aos trancos; o mecanismo fumegava.
 
-Luzes azuis e vermelhas piscaram no fim da rua. O som de pneus cantando no asfalto molhado quebrou o silêncio.
+— *AGORA!* — berrou Roberto, cego pelo fluido químico.
 
-Dois carros da polícia, modelos antigos recuperados, frearam bruscamente a vinte metros deles.
+As portas laterais da sala se abriram. Dois dos "Protótipos" entraram, movendo-se com aquela agilidade quebrada e perturbadora.
 
-Inspetor Rangel saiu do primeiro veículo, a barriga forçando os botões da camisa, o revólver na mão trêmula. Atrás dele, o Oficial Silva e outros dois recrutas apontavam lanternas e armas.
+— Elena! — chamou Gabo, recuando para a parede.
 
-— Parados! — gritou Rangel. — Gabo? Elena?
+— Achei! — Elena arrancou uma folha de papel contínuo que a impressora matricial do terminal estava cuspindo. — Gabo, temos que ir! Eu sei onde ela está!
 
-— Somos nós, Rangel! — gritou Elena, levantando as mãos vazias.
+— Quem?
 
-Rangel baixou a arma, soltando um suspiro. O palito caiu do canto da boca e ele não tentou pegar.
+— Elara! O nome está na fila de processamento, Gabo. A coluna de saída está em branco, mas a lista não tem atualização recente. Pode estar aqui ou ter sido transferida; precisamos achar o registro seguinte.
 
-— Puta que pariu, vocês parecem que foram mastigados e cuspidos pelo diabo. O que aconteceu lá embaixo? O sismógrafo na delegacia registrou um abalo nível 4 na Zona Sul...
+Um dos protótipos saltou sobre Gabo. Ele usou o antebraço protegido por uma braçadeira metálica para bloquear as garras, sentindo o metal chiar sob a pressão. O cheiro da criatura era de amêndoas amargas e terra molhada.
 
-A voz de Rangel morreu na garganta. Dante deu um passo à frente, entrando no feixe de luz dos faróis.
+Gabo urrou, travando a órtese direita contra a base da bancada. Elena empurrou um carrinho contra o joelho da criatura. O osso estalou com um som seco. A coisa caiu, e Gabo aproveitou para bater com o pé de cabra no ponto em que a criatura prendia seu antebraço. A garra abriu e ele caiu de lado.
 
-Os recrutas recuaram. Silva deixou a lanterna cair. Rangel ficou pálido, a cor drenando de seu rosto redondo até deixá-lo com a aparência de cera velha.
+— Saída de emergência! Atrás dos servidores! — apontou Elena.
 
-— Co... Comissário? — sussurrou Rangel. — Mas... nós enterramos você. Eu carreguei o caixão.
+Gabo agarrou o braço dela e avançou apoiado na bancada. Atrás deles, Roberto, ainda limpando o fluido dos olhos biônicos, gritava ordens para o sistema.
 
-Dante inclinou a cabeça.
+— *Fechem as comportas! Inundem o setor! Não deixem a semente escapar!*
 
-— Inspetor Rangel. O senhor está tremendo. Recomendo respirar fundo. A viatura atrás de você tem uma válvula batendo.
+Eles se jogaram contra uma porta pesada com a inscrição "SISTEMA DE DRENAGEM". Gabo girou a roda de bloqueio, seus músculos gritando. A porta cedeu com um gemido de metal enferrujado.
 
-Rangel deu um passo para trás, esbarrando no capô do carro.
+Entraram em um túnel escuro e úmido, o som de água correndo ecoando nas paredes. Gabo travou a porta por dentro, girando a roda até travar. Segundos depois, algo bateu contra o outro lado, fazendo a poeira cair do teto.
 
-— Isso é impossível. É um truque. Um holograma. Gabo, que porra é essa?
+Ficaram em silêncio por um momento, apenas o som de suas respirações ofegantes preenchendo o escuro.
 
-Gabo mancou até ficar entre Dante e a polícia.
+— Você está bem? — perguntou Gabo, acendendo um sinalizador químico que banhou o túnel em luz vermelha.
 
-— Não é um holograma, Rangel. É... complicado. É o Projeto Gênesis.
+Elena assentiu, apertando o papel impresso contra o peito.
 
-— Gênesis? — Rangel olhou de Gabo para Dante, o medo lutando com a reverência em seus olhos. — O mito?
+— Gabo... a lista. Não é só a Elara.
 
-— A ciência — corrigiu Dante. Ele caminhou até Rangel. Os policiais tencionaram, dedos nos gatilhos.
+Ela estendeu o papel para ele. Sob a luz vermelha trêmula, Gabo leu os nomes. Eram centenas. Políticos, criminosos, cientistas. Todos "falecidos" durante o colapso. Todos aguardando "reencarnação".
 
-Dante parou a um metro do inspetor. Ele estendeu a mão. Não para cumprimentar, mas para tocar o distintivo enferrujado no peito de Rangel.
+Mas um nome no final da lista fez o sangue de Gabo gelar.
 
-— A lei ainda existe nesta cidade, Inspetor? Ou apenas a sobrevivência?
+ID: 001 - STATUS: PRIORIDADE MÁXIMA - AGUARDANDO HOSPEDEIRO VIÁVEL
+NOME: DANTE MORETTI
+Gabo dobrou o papel sem tocar na impressão, sentindo uma náusea súbita.
 
-Rangel engoliu em seco.
+— Querem um hospedeiro para o perfil do meu pai — sussurrou ele. — O cubo pode ser a chave. Não sabemos quem preparou isso.
 
-— Tentamos manter a ordem, senhor. Do jeito antigo. Papel e tinta. Sem a Nuvem.
+— Roberto disse que eles querem trazer os deuses de volta — disse Elena, sua voz dura. — Seu pai não era um deus, Gabo. Mas ele sabia onde todos os corpos estavam enterrados. Literalmente.
 
-— Louvável — disse Dante. Ele retirou a mão e olhou para o horizonte, onde o sol finalmente rompia a barreira de poluição, banhando a cidade em uma luz acobreada e doente. — Mas a sobrevivência não é suficiente. A cidade precisa de propósito. Ela precisa de... direção.
+Gabo olhou para a escuridão do túnel à frente. O caminho para o inferno não era pavimentado com boas intenções. Era pavimentado com raízes, carne e códigos antigos que se recusavam a morrer.
 
-— O que você vai fazer? — perguntou Elena, a voz trêmula.
-
-Dante se virou para ela. Seus olhos refletiam o nascer do sol, mas pareciam conter um abismo muito mais profundo.
-
-— O que eu fui projetado para fazer, Srta. Moretti. Eu vou consertar.
-
-Ele olhou para Gabo.
-
-— O Vazio serviu ao seu propósito, Gabriel. Ele nos protegeu enquanto estávamos vulneráveis. Mas o silêncio acabou. Agora... nós vamos falar.
-
-Gabo sentiu um calafrio percorrer sua espinha, mais frio que o vento da manhã.
-
-— Falar com quem? A Aeterna se foi. Silas se foi.
-
-— Com a infraestrutura. — Dante abriu a tampa de serviço do poste e encaixou um contato na linha de controle que ainda recebia energia. — Os cabos subterrâneos, os relés analógicos. Esta parte da cidade tem um sistema nervoso, Gabriel. Quero saber até onde alcança.
-
-Ele começou a caminhar em direção à viatura de Rangel.
-
-— Leve-me para a Delegacia, Inspetor. Tenho novos protocolos para ditar.
-
-Rangel olhou para Gabo. Ele contou os policiais, avaliou o corpo que acabara de drenar Silas e não viu como contê-lo ali sem transformar a rua num massacre. — Você vai com escolta, Rangel. Não deixe ninguém sozinho com ele. — O inspetor assentiu, sem baixar a arma.
-
-A viatura deu a volta na praça e sumiu na neblina.
-
-Então a rua acendeu. Não a lâmpada quebrada do poste em frente — o quarteirão inteiro: janelas, vitrines, o letreiro de uma farmácia que estava morto desde o Dilúvio. Depois o quarteirão seguinte, e o outro, e o outro.
-
-A luz seguia o trecho ligado àquela linha. Mais longe, o restante da avenida continuava escuro.
+— Vamos achar a Elara — disse Gabo, guardando o papel no bolso, ao lado do Cubo que parecia pesar uma tonelada. — E depois, vamos queimar esse jardim até o chão.

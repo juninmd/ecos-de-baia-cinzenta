@@ -1,64 +1,73 @@
 ---
-Título: Ecos de Neon no Submundo
+Título: O Preço da Manutenção
 Data In-Game: Pós-Colapso do Sentinel (Noite Eterna)
-Localização: Catacumbas do Setor 6 (Infraestrutura Legada)
+Localização: Setor 7 (Nível de Subestação B)
 Personagens Presentes: Gabo, Valéria, Elias
 ---
 
-# Capítulo 196: Ecos de Neon no Submundo
+# Capítulo 196: O Preço da Manutenção
 
-A grade circular de exaustão cedeu com um estalo de ferrugem moída quando forcei o punho mecânico contra as travas carcomidas. Caímos de pé numa plataforma de alvenaria maciça, cercados pela amplidão cavernosa das catacumbas do Setor 6.
+Elias escolheu sair conosco. Recolheu a chave, uma cinta de manutenção enrolada e o óleo de sua bancada antes de nos conduzir pelo labirinto de transformadores inativos da Subestação B. O piso de concreto vibrava com um tremor rítmico, os reflexos das explosões distantes no data-center subindo pelas paredes como relâmpagos mecânicos abafados.
 
-O ar ali embaixo era frio, estagnado e cortante, carregado com um cheiro pesado de poeira de concreto, ozônio úmido e água mineral parada em canais profundos. Não havia a fumaça cáustica da estufa em chamas; havia apenas o hálito gélido de uma infraestrutura esquecida que servira de fundação para o coração financeiro de Baía Cinzenta muito antes das corporações erguerem suas torres de espelhos.
+O ar cheirava a poeira metálica aquecida, enxofre e graxa velha, deixando aquele gosto amargo e azedo de fuligem no fundo da garganta. A cada passada pesada, a órtese da minha perna direita rangia alto, e o braço fraturado doía a cada mudança de direção. Eu precisava que Elias repetisse as instruções quando o apito no ouvido esquerdo cobria sua voz.
 
-Acima de nós, pendurados em vigas de sustentação de ferro forjado a dez metros de altura, restos de antigos letreiros de neon piscavam em espasmos febris de luz esmeralda e âmbar. Tubos de vidro quebrado zumbiam alimentados por circuitos parasitas da rede secundária, desenhando sombras compridas e fantasmagóricas no chão ensopado: *'Banco Comercial da Baía'*, *'Crédito Atlântico'*, *'Seguros Fênix S.A.'*.
+— A torre principal de exaustão perdeu a pressurização quando vocês romperam os dutos de amônia lá embaixo — Elias explicava num sussurro esganiçado, correndo com as costas curvadas e olhando para trás a cada dez passos. — O fogo do núcleo tá sugando o oxigênio do fosso mestre. Se a gente tentar subir pelos poços normais de elevador, o ar superaquecido cozinha nossos pulmões antes do terceiro lance de escadas.
 
-Fiquei parado um instante, ouvindo o lugar. Não era silêncio. Era uma soma de coisas pequenas: gota caindo em água funda, zumbido de tubo de neon meio morto, o estalo de dilatação de uma viga de ferro que não esquentava de dia há anos. E por baixo de tudo, muito baixo, um coro de água correndo em canos que ninguém usava mais.
+— A gente não vai subir pelo fosso mestre, Elias — Valéria cortou com firmeza, conferindo a telemetria do cyberdeck preso ao peito. — O scanner térmico tá mostrando que a temperatura da laje abaixo dos nossos pés já bateu oitenta graus. Não consigo ver como estão as vigas por dentro. Você conhece outra saída?
 
-Os letreiros ainda vendiam. Crédito, seguro, confiança. Anunciavam para um salão vazio com a insistência de quem não sabe que morreu. A cidade tinha erguido o dinheiro em cima daquele buraco e depois jogado o buraco fora com tudo dentro.
+Elias engoliu seco, os dedos encardidos apertando a alça da máscara de respiração no peito.
 
-Elias rolou para fora do duto logo atrás de nós, caindo de joelhos no piso cimentício, tossindo e engasgando como se tivesse engolido cinza fria. Ele ergueu os olhos amarelados para os neons crepitantes e soltou um suspiro trêmulo de alívio.
+— Conheço um duto, mas não sei quanto tempo a estrutura aguenta.
 
-— As catacumbas do Distrito Comercial... — Elias murmurou, passando a mão encardida no rosto manchado de graxa. — Nós conseguimos cruzar a fronteira subterrânea. Aquele fogo do Nível B não passa pelas comportas de chumbo. Estamos a salvo da fornalha.
+— Mostra o caminho — pedi, ajustando o correame de *Caronte* por baixo do sobretudo rasgado.
 
-— A salvo de virar churrasco, talvez — Valéria ajustou a alça do cyberdeck depois de me ajudar a sair do duto. Ela ergueu a lanterna tática, varrendo o salão colossal com os olhos prateados atentos. — Mas 'salvo' é uma palavra que não existe no dicionário dessa cidade, Elias. Olha pra aquela galeria de escoamento ali na frente.
+Elias virou à esquerda num corredor de paredes espessas de chumbo, parando diante de uma escada helicoidal de ferro fundido que subia em direção ao teto abobadado.
 
-Apontei o cano de *Caronte* na direção que ela indicava.
+— Aqui. Os dutos de refrigeração forçada — ele apontou com a ponta da ferramenta para uma escotilha circular de um metro e meio de diâmetro chumbada na parede superior. — Esse conduíte foi construído pela Aeterna durante a expansão industrial de trinta anos atrás. Ele contorna o fosso de exaustão principal e deságua direto nas catacumbas sob o Distrito Comercial do Setor 6. Uma galeria completamente isolada da rede de esgoto da baixa.
 
-Cortando o centro do salão de concreto, um canal de drenagem pluvial de quatro metros de largura conduzia um líquido espesso, escuro e lento em direção ao oeste. Nas bordas de cantaria corroída, onde a lama se acumulava sobre os tijolos seculares, raízes translúcidas e bioluminescentes azuladas rastejavam como varizes pulsantes de um organismo subterrâneo.
+— E qual é o problema dele? — Valéria perguntou, estreitando os olhos ópticos prateados ao mirar o maquinário.
 
-— O Jardim... — Elias recuou dois passos, o pânico voltando a estalar em sua voz esganiçada. — Ele nos seguiu pelo duto?!
+— O problema é aquela maldita roda de alívio — Elias subiu os primeiros degraus da escada com agilidade de rato.
 
-— Não viaja, mecânico — Valéria caminhou até a margem do canal, agachando-se com a sonda de teste em punho sem encostar na matéria orgânica. — Essas raízes já estavam aqui. Olha a calcificação em volta dos eletrodos. A grossura não me dá uma data, mas não nasceram enquanto cruzávamos o duto. Não sabemos até onde chegaram.
+Subimos logo atrás dele. A temperatura subia a cada degrau, e o cheiro sufocante de metal aquecido tornava o ar cada vez mais áspero para respirar.
 
-Perto da margem, alguém tinha montado acampamento. Quatro carrinhos de supermercado amarrados com arame formavam uma parede baixa, e atrás deles havia cobertores apodrecidos, latas vazias e uma fogueira que já era só mancha de fuligem no cimento. Na parede, escrito com giz de obra, um risco e um número: três.
+No patamar superior, a escotilha circular estava lacrada por uma válvula mecânica monumental. Uma roda de ferro fundido de um metro de diâmetro, presa a um fuso roscado da grossura da minha coxa, completamente incrustada por trinta anos de ferrugem, cal e salitre seco.
 
-— Três dias? — perguntei.
+Valéria encostou a mão enluvada no volante, tentando forçar a rotação no sentido horário. O metal nem sequer vibrou.
 
-— Três pessoas — Elias corrigiu, e a voz falhou no meio. — É assim que a gente marcava embaixo. Quem escreve não volta pra riscar.
+— Tá congelada — ela praguejou entre dentes, os LEDs da franja piscando em vermelho de advertência. — A rosca parece presa pela corrosão. Se a gente forçar de uma vez, pode quebrar o volante e perder o acionamento.
 
-— A estufa do Setor 7 era só o viveiro de processamento — falei, sentindo o peso da armação no braço quebrado tracionar contra a atadura elástica que Valéria havia feito. O sangue parara de pingar, mas a dor surda na carne dilacerada me lembrava a cada segundo de que nossos recursos estavam no osso. — Pelo menos uma colônia já estava fora da estufa.
+— Deixa eu tentar com o torque da armação — dei um passo à frente, erguendo a estrutura industrial pesada.
 
-Valéria cravou a ponta de prova num terminal de telemetria fixado num pilar ao lado do canal. O display do cyberdeck desenrolou linhas de código em cascata rápida, acompanhadas por bipes ritmados.
+— Espera, Moretti! — Valéria pôs a mão direita na armação para me deter. — Se forçar de uma vez, pode quebrar o volante ou puxar seu fixador. Elias, como você trabalhava nessa rosca?
 
-— As raízes tão drenando corrente dos cabos subterrâneos dos bancos — ela ergueu a cabeça, os traços jovens endurecidos pela constatação tática. — A rede biológica tá usando a energia residual dos geradores dos prédios comerciais lá em cima pra manter a pulsação viva. Há corrente nesses cabos, mas não consigo identificar de onde vem ou se existe um comando perto do entroncamento.
+— Com óleo e vibração curta — disse Elias. — Nunca consegui força para terminar o giro sozinho.
 
-— Onde fica o elevador de carga industrial, Elias? — perguntei, virando-me para Elias.
+Ele mostrou a conexão gasta da chave. Valéria ofereceu a saída auxiliar do deck; Elias aceitou e acompanhou enquanto ela prendia a presilha.
 
-Elias apontou o dedo trêmulo para a galeria escura que se abria ao longo do canal, onde a iluminação dos neons agonizantes perdia a força contra as sombras absolutas.
+— Vamos tentar soltar a rosca antes de pôr peso nela — disse Val. — Se o metal ceder ou aquecer demais, a gente para.
 
-— Oitocentos metros naquela direção. O Poço de Elevação Três. Ele ligava os depósitos de lingotes dos bancos direto aos trilhos de carga subterrâneos. É um poço blindado com guinchos manuais e gaiola de aço naval. Se a gente alcançar aquele poço, a gente contorna o labirinto dos esgotos e sobe direto pro nível do Hub Principal.
+Elias sacou uma lata amassada de desengripante industrial do cinto e esguichou um jato espesso sobre o fuso oxidado.
 
-— Oitocentos metros em linha reta acompanhando esse canal cheio de raízes — Valéria guardou a sonda e checou o carregador da pistola com um clique seco. — Um passeio no parque, considerando que a gente acabou de escalar uma chaminé em chamas.
+Valéria encostou a ponta da chave sônica no centro da porca mestre e acionou o gatilho.
 
-— Mantém a lanterna baixa, Val — avisei, ajeitando o sobretudo sobre a coronha de *Caronte*. — Não sabemos a que essas trepadeiras reagem. A gente se move pelas passarelas laterais de serviço, onde o lodo é mais raso.
+Um zumbido agudo, quase imperceptível ao ouvido humano mas doloroso nos dentes, ecoou pela câmara. O metal do volante começou a vibrar violentamente, e uma nuvem fina de ferrugem avermelhada se esfarelou das ranhuras da rosca, borbulhando junto com o óleo penetrante.
 
-— E se a gente topar com alguma daquelas carcaças reanimadas no caminho? — Elias perguntou, engolindo em seco, os nós dos dedos brancos de tanto apertar a chave sônica no peito.
+— Mexeu um pouco — disse Elias, tocando o volante depois que Val desligou a ferramenta. — Tenta devagar, Gabo. Se a roda entortar, larga.
 
-Valéria olhou para Elias com aquele meio-sorriso cínico e destemido que sempre desarmava o desespero:
+Aproximei-me da plataforma, posicionei minhas botas nas travessas de ferro e envolvi a roda com a garra mecânica da armação. Travei os motores hidráulicos no limite máximo de compressão. Meus dentes bateram, o fixador repuxou meu braço ferido quando forcei o giro com o peso do meu tronco inteiro como alavanca.
 
-— Se topar com zumbi corporativo, Elias, você se abaixa e deixa o Moretti e a escopeta dele explicarem a política de demissão sem justa causa da Aeterna Corp. Vamos andar logo antes que os transformadores lá em cima apaguem de vez.
+CREEEEAAAAK.
+O metal gemeu num grito estridente de atrito vencido. O salitre cedeu, a graxa ferveu nas ranhuras e o volante completou o primeiro quarto de volta.
 
-Contei os cartuchos no bolso do sobretudo enquanto andava. Faziam um barulho de dentes batendo. Não era muito, e dali em diante cada um ia ter que justificar a própria existência. A mão direita ainda formigava onde a fita apertara demais; avisei Val e ela conferiu a faixa sem soltar a tala.
+Mais um tranco. As engrenagens internas estalaram, liberando o contrapeso de duas toneladas com um estrondo mecânico que fez o ar tremer. A comporta circular pesada deslizou para dentro do batente, revelando a escuridão ampla e fria do duto de ventilação do Setor 6.
 
-Avançamos pela passarela elevada ao lado do canal, o eco ritmado dos nossos passos e o chiado mecânico da minha armação marcando a cadência firme da nossa marcha através das catacumbas esquecidas do Setor 6.
+Uma corrente de ar fresco, sem fumaça e sem calor, soprou contra nossos rostos suados.
+
+Valéria devolveu a chave a Elias. Ele conferiu a bobina antes de guardá-la no cinto.
+
+— Belo trabalho — ela disse, olhando primeiro para Elias e depois para mim.
+
+— Obrigado pela chave, Elias — falei, recuperando o fôlego enquanto aliviava a pressão da garra. — Agora vamos entrar antes que essa subestação desmorone de vez.
+
+Elias foi o primeiro a saltar para dentro do duto, seguido por Valéria e por mim. Selamos a escotilha às nossas costas bem no instante em que o piso inferior da subestação colapsava num rugido de fogo e concreto triturado, deixando para trás a sepultura do Jardim e avançando firmes rumo ao coração do Setor 6.

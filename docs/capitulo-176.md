@@ -1,73 +1,66 @@
 ---
-image: /cenas/capitulo_176/cena_4.jpg
-Título: O Peso da Ferrugem
+Título: O Açougueiro de Cobre
 Data In-Game: Indeterminada (Pós-Colapso da Aeterna)
-Localização: Ruas do Distrito 4
-Personagens Presentes: Gabo, Valéria
+Localização: Clínica Clandestina de Vasco, Distrito 4
+Personagens Presentes: Gabo, Valéria, Vasco, Dra. Nise e equipe
 ---
 
-# Capítulo 176: O Peso da Ferrugem
+# Capítulo 176: O Açougueiro de Cobre
 
-A chuva ácida do Distrito 4 não limpava nada; ela apenas dissolvia as bordas do mundo, transformando o concreto em lama cinzenta e os neons quebrados em poças de sangue luminoso. Quando a porta de aço reforçado da clínica de Vasco bateu às nossas costas, o som foi engolido imediatamente pela tempestade constante.
+A clínica de Vasco não tinha placa na porta. O que sinalizava sua existência, espremida entre uma lavanderia industrial abandonada e um ferro-velho, era a leve trepidação contínua do asfalto, proveniente de geradores a diesel contrabandeados e enterrados profundamente no subsolo. Para alguém como eu, que conhecia o ritmo do submundo, aquele tremor soava como o bater de um coração cansado.
 
-Dei meu primeiro passo na calçada podre e quase fui ao chão.
+Empurrei a pesada porta de chumbo e metal enferrujado. O sino não tocou — estava quebrado desde que eu conheci o lugar —, mas o ar dentro mudou instantaneamente. O cheiro constante de lixo e ácido da rua foi bloqueado, substituído pelo aroma cáustico de antisséptico barato, ozônio estagnado e metal aquecido. Não havia fumaça. Vasco não permitia cigarros perto de seus preciosos e voláteis tanques de oxigênio. Para mim, era o ambiente mais próximo de um santuário.
 
-A armação industrial que Vasco acoplara ao fixador instalado pela equipe não era apenas feia; tinha a sutileza de uma bigorna presa ao meu tronco. Vinte quilos distribuídos pelo arnês e pela cintura ainda puxavam meu centro de gravidade para a direita. Cada movimento transmitia tração ao ombro ferido. A faixa impermeável raspava no sobretudo; eu precisava mantê-la fechada mesmo quando a pele coçava sob o curativo.
+Valéria tropeçou ao cruzar o batente. O som de seus joelhos batendo no chão de azulejos sujos foi um baque seco. Ela não conseguiu se levantar.
 
-— Segura a onda aí, Frankenstein — uma mão magra e firme engatou sob o meu cotovelo esquerdo, antes que meu joelho cedesse no lodo.
+Do fundo do corredor mal iluminado por lâmpadas halógenas piscantes, uma figura rotunda emergiu. Vasco vestia um avental de borracha manchado com fluidos inidentificáveis e usava um visor óptico duplo no olho direito que o fazia parecer um ciclope hiperativo.
 
-Olhei de lado. Valéria estava encharcada até os ossos em menos de dez segundos. Os fios de LED azul na franja curta dela piscavam em intervalos irregulares sob a chuva. Os olhos prateados, no entanto, estavam vivos — estreitos, irritados e atentos a cada sombra entre os prédios condenados.
+Os braços mecânicos dele brilhavam de graxa até o cotovelo. Atrás dele, as prateleiras de frascos rotulados em kanji e cirílico pareciam um alfabeto de coisas que podiam matar ou salvar, dependendo da dose. O gerador sob o piso batia como um coração fora de ritmo, e a cada batida as lâmpadas halógenas tremiam.
 
-— Eu consigo andar — rosnei, puxando o ar pesado. O ar cheirava a esgoto destampado, enxofre e plástico queimado.
+— Porra, Gabo — Vasco grunhiu, ajeitando o visor enquanto limpava as mãos em um pano já imundo de graxa. — Vocês parecem ter sido atropelados pelo Maglev expresso. De novo.
 
-— Ah, com certeza consegue — Valéria retrucou, sem soltar o apoio até ter certeza de que meus pés acharam tração no paralelepípedo irregular. — Só tá pendendo trinta graus pra direita feito um navio cargueiro fazendo água no casco. Se bater um vento forte daqui da baía, você tomba na sarjeta e a gente vai precisar de um guincho pra te desvirar.
+Ele não esperou resposta. Foi até a porta de chumbo, empurrou o ferrolho e encostou o ouvido na chapa antes de girar a trava de segurança.
 
-— O peso compensa a força.
+— Tem gente na rua perguntando o que explodiu — disse, sem se virar. — Pirata de rádio falando em ataque. O Sindicato mandando gente pra cima do Distrito. — Voltou-se, e a lente biônica zumbeou ao me focar. — Se você saiu daqui buscando ajuda e voltou com a cidade apagada nas costas, então me deve mais do que uma consulta, detetive.
 
-— O peso compensa a idiotice de vocês dois — ela bufou, ajeitando o cyberdeck debaixo do braço como quem protege um recém-nascido sob a jaqueta de couro surrada. — O Vasco devia ter calibrado o contrapeso de mercúrio na junta do ombro, mas o desgraçado é preguiçoso demais pra abrir um manual de balística corporal. O meu HUD tá projetando um vetor de marcha que parece uma montanha-russa quebrada.
+— Eu sei quanto eu devo.
 
-Caminhamos em meio aos escombros. O Distrito 4 parecia um cemitério a céu aberto após o colapso dos servidores centrais da Aeterna. Sem os drones de manutenção nas alturas e sem a vigilância das câmeras da rede, a podridão da cidade havia transbordado para a superfície. Carcaças de furgões de entrega da corporação apodreciam nas esquinas, desossados até as rodas por saqueadores desesperados.
+— Você não faz ideia.
 
-Na esquina de uma mercearia saqueada, onze pessoas esperavam por água. Não havia torneira, nem caminhão, nem vendedor: a fila esperava por hábito, porque uma fila é a última instituição que sobrevive ao fim de tudo. Uma mulher de uniforme de enfermagem me viu passar com o braço de ferro e cuspiu no chão — sem raiva, com método.
+— Precisamos de estabilização — eu disse. Minha voz saiu mais rouca e frágil do que eu pretendia. Minha visão estava escurecendo nas bordas. — Valéria está exausta, com a mão ferida e os implantes falhando. E eu...
 
-— O senhor apagou a cidade — disse. Não era pergunta.
+Levantei meu braço direito. A fratura sob as ataduras rasgadas ainda pingava sangue no chão do doutor clandestino.
 
-— Apaguei.
+Os olhos por trás da grossa lente de Vasco se arregalaram levemente. Ele se adiantou, rápido para um homem de seu tamanho, ignorando-me inicialmente para examinar a interface e as feridas de Valéria.
 
-— Minha filha faz diálise na máquina do posto. — Ela apontou o queixo para a fila, como se a fila fosse a filha. — Três vezes por semana. A máquina ficou sem luz na terça.
+— Os implantes primários dela estão fritos — ele murmurou, a voz assumindo o tom clínico que sempre o separava da escória comum do Distrito 4. — A interface neural está em alimentação de emergência. Vou isolar a entrada da rede e medir a fonte antes de trocar peça. Não sei o que é falha de circuito e o que é lesão do corpo dela. Traga-a para a maca dois.
 
-Não havia nada para dizer. Passei. Atrás de mim, alguém perguntou baixo se eu era o herói, e a enfermeira respondeu por mim. A resposta não me acompanhou até o fim da quadra. Valéria não olhou para a mulher. Continuou andando com os olhos na rua, a mandíbula travada, e não abriu a boca — o que, na língua dela, era a única misericórdia disponível.
+Ajudei Vasco a erguer Valéria e a deitamos na maca fria. Ela consentiu com o exame da interface; Vasco limpou o conector e verificou a alimentação antes de ligar o cabo de diagnóstico.
 
-O silêncio era o que mais incomodava. Não havia o zumbido ubíquo da Nuvem nos ouvidos, nem o feed de notificações que costumava infestar os implantes de quem cruzava a calçada. Havia apenas o som monótono dos pingos pesados na lataria enferrujada e o ranger da minha nova armação de ferro.
+— E você — ele se voltou para mim, apontando uma lanterna clínica forte diretamente nos meus olhos. Tive que desviar o rosto, a luz rasgando minha retina acostumada com as trevas corporativas. — Você está pálido e perdeu sangue. Como ainda está de pé?
 
-— Como está a mão? — perguntei, observando um tremor involuntário nos dedos da mão direita dela.
+— Teimosia — murmurei, sentindo as pernas cederem. Caí sentado em uma cadeira de rodinhas próxima, que rangeu protestando contra meu peso.
 
-Valéria apertou a mandíbula, cuspindo uma mecha molhada que colara nos lábios.
+Vasco não perdeu tempo. Ele me empurrou para a maca um e começou a trabalhar com a brutalidade eficiente de um mecânico consertando um motor velho. Ele pediu apoio pelo rádio da clínica. Nise respondeu do posto e, ao ouvir a localização, mandou que eu ficasse deitado. Vasco conteve o que conseguia e manteve o braço imobilizado até a chegada da equipe; não tentou transformar álcool e ferramenta de oficina numa cirurgia.
 
-— Continua rígida. A luva ajuda a segurar coisa grande, mas não devolve o tato. E os alertas da interface continuam pipocando no canto do meu olho esquerdo. Avisos idiotas de fábrica: *'Nível de energia baixo'*, *'Serviço em nuvem desconectado'*, *'Ambiente operacional hostil'*. Dá vontade de enfiar uma chave de fenda na minha própria orelha só pra silenciar as notificações.
+Fechei os olhos com força, cravando os dentes no próprio lábio até sentir o gosto de ferro. A dor era excruciante, mas familiar. Ela varria os pensamentos persistentes das profundezas da Aeterna Corp, empurrava a lembrança do pendrive de Aria derretendo no terminal para longe, afastava o eco do silêncio ensurdecedor da rua. A dor física era um botão de reset, a única coisa mantendo minha sanidade no lugar.
 
-— Se silenciar o sistema, você perde a telemetria do deck.
+— O que quer que tenha acontecido na torre... — Vasco disse enquanto conferia o curativo e a equipe preparava o espaço de atendimento — ...vocês trouxeram metade do inferno junto. O noticiário pirata não fala de outra coisa. A rede principal está fora. Ninguém sabe quem está no controle.
 
-— Eu sei, gênio — ela resmungou, com um alívio áspero na voz. — É só que... depois de ver a Aria morrer no terminal do Arquivo, ouvir esses relatórios automáticos parece um deboche. Ela discordava da gente. Ela escolhia. Isso que sobrou na minha cabeça é só código de segurança de fábrica que a Aeterna vendeu a granel.
+— Ninguém está — eu ofeguei através dos dentes cerrados.
 
-Parei sob a marquise quebrada de uma antiga farmácia popular para ajustar o correame do sobretudo sobre o metal da armação externa. O aço frio estava roubando o calor do meu tronco com uma rapidez assustadora, deixando minha pele com um tom azulado de geada.
+Vasco parou por um segundo, olhando para o meu rosto pálido. Ele não perguntou mais nada. Pegou gaze hemostática e um enxerto de derme sintética e aplicou grosseiramente sobre os rasgos da fratura, contendo o sangramento temporariamente.
 
-— Ela escolheu queimar os circuitos pra gente não ficar naquele buraco — eu disse, a voz baixa, quase sumindo sob o barulho do temporal.
+— Seu braço precisa de avaliação e fixação por uma equipe médica, Gabo. Depois eu posso adaptar um suporte externo, se eles disserem que é viável. — A equipe assumiu a estabilização quando chegou. Val contou à Nise onde havíamos deixado Rangel e descreveu a tentativa de reanimação. Mostrou os marcos registrados no deck. Nise disse que procuraria uma equipe quando houvesse acesso; não prometeu uma busca imediata. A mudança que senti não tornou o braço funcional; permitiu que eu parasse de lutar para continuar sentado.
 
-— Eu sei que escolheu — Valéria me encarou. A luz dos LEDs da franja banhou o rosto dela com um tom azul espectral. Os lábios dela tremiam de frio, mas o olhar era duro. — E é exatamente por isso que a gente não vai morrer na lama desse distrito imundo, Moretti. Ela não se sacrificou pra você ficar desfilando essa armação de cemitério por aí feito um mendigo com arma pesada.
+— Não temos créditos — falei, minha voz finalmente ganhando alguma firmeza à medida que a adrenalina baixava e o estabilizador químico agia.
 
-— Temos que sair da linha dos dutos primários. A praga biológica que o Silas plantou ainda pode estar subindo pelas galerias pluviais.
+— Eu sei. — Vasco suspirou, virando-se para o monitor que exibia os sinais vitais erráticos de Valéria. — Considerem isso uma dívida. Mas vocês não podem ficar aqui por muito tempo. A Aeterna pode estar no escuro, mas os abutres já estão circulando. Se o Sindicato descobrir que o responsável pelo blecaute está aqui, meu humilde estabelecimento vai virar pó.
 
-— O subsolo tá infectado até a raiz, isso eu já sei — Valéria bateu com a ponta da bota no bueiro mais próximo, onde um vapor leitoso e esverdeado borbulhava entre as grades de ferro. — O calor geotérmico da usina virou uma estufa praquela podridão. Pelo mapa que tenho, podemos cortar pelas ruínas fabris até o entroncamento do metrô abandonado no Setor 6. Não sei se ainda está livre. Se os trilhos ainda estiverem secos, a gente ganha terreno sem disputar espaço com os ratos de sarjeta.
+— E tem mais uma coisa — ele continuou, limpando a lente com a ponta do avental. — Eu preciso saber o que aconteceu lá embaixo. Não por curiosidade. Porque daqui a duas semanas alguém vai bater nessa porta oferecendo dinheiro pela versão de vocês, e eu vou precisar saber se a mentira que eu contar é grande o bastante.
 
-— E se tiver saqueador bloqueando o túnel?
+— Ninguém está no controle — repeti.
 
-Valéria deu um sorrisinho torto, apontando com o queixo para a estrutura de liga metálica maciça que envolvia meu braço direito.
+— Isso não é resposta, é diagnóstico. — Ele assobiou, longo e sem humor. — Tá certo. Vai custar.
 
-— Aí a gente procura outro caminho antes de usar o suporte do seu braço como martelo. Mas tenta não quebrar o próprio pescoço no recuo, tá legal? Não tenho peças de reposição pra carregar um detetive inteiro nas costas.
-
-Ajeitei o peso do braço, sentindo a agulhada elétrica nos nervos como um lembrete implacável de que a trégua havia acabado.
-
-— Vamos andando, Val. A chuva só tá piorando.
-
-— Piorando? — ela ironizou, puxando o capuz da jaqueta e saltando uma vala de lodo químico com agilidade felina. — Isso aqui é garoa perto do que a gente passou na Necrópole. Para de enrolar e anda logo, Moretti.
+Olhei para Valéria na maca ao lado. O rosto estava relaxado, pálido demais sob a luz da clínica, numa paz que eu sabia não ser real. O zumbido dos cabos de alimentação preenchia a sala.

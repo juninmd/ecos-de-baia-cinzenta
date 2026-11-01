@@ -17,8 +17,8 @@ def test_real_dossier_keeps_characters_and_phases_after_split():
     assert characters['Gabriel "Gabo" Moretti']['image'] == '/personagens/gabo.jpg'
     assert 'Vestuário:' in characters['Valéria "Val" Cruz']['description']
     timelines = linhas_do_tempo(dossier)
-    assert any(p['inicio'] == 225 for p in timelines['Gabriel "Gabo" Moretti'])
-    assert any(p['inicio'] == 167 for p in timelines['Aria'])
+    assert any(p['inicio'] == 227 for p in timelines['Gabriel "Gabo" Moretti'])
+    assert any(p['inicio'] == 169 for p in timelines['Aria'])
 
 
 def test_relative_nested_includes_preserve_order(tmp_path):

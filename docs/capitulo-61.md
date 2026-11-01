@@ -1,149 +1,134 @@
 ---
-layout: doc
-title: "Capítulo 61: Tinta no Papel"
-description: "A trilha do dinheiro termina num contrato que nenhum humano assinou, e numa lista de compradores que já morreram."
 image: /capitulo_61.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Aria
-Localização: "Esconderijo móvel da Val — Distrito Industrial"
+Personagens Presentes: Gabriel "Gabo" Moretti, Aria, Valéria "Val" Cruz
+Localização: "Galerias Subterrâneas - Setor Norte"
 ---
+# Capítulo 61: Despejo
 
-# Capítulo 61: Tinta no Papel
+Galerias Subterrâneas - Setor Norte
+Os disparos da Glock estouravam no túnel úmido. O ar tinha cheiro de pólvora e sangue; Gabo não sabia quanto era dele.
 
-Esconderijo móvel da Val — Distrito Industrial.
-A van era uma obra de engenharia de guerrilha e cheirava a isso.
+— Aria, mapeia rota de evasão! — gritou Gabo, disparando às cegas para forçar os inimigos a se protegerem atrás das colunas de suporte.
 
-Por fora: um furgão de entrega dos anos trinta, com a pintura descascando, adesivo desbotado de uma pizzaria que faliu em quarenta e dois, um amassado na porta lateral e a placa de um veículo legítimo que existia de verdade e circulava do outro lado da cidade.
+Acoplado ao barramento do visor tático, o pendrive de titânio da Aria aqueceu contra o peito dele. Em uma fração de segundo, um traçado vetorial azul-elétrico desenhou-se na lente rachada do capacete, apontando uma bifurcação de drenagem trinta metros atrás, engolida pela escuridão do subsolo.
 
-Por dentro: quatro racks parafusados no assoalho, um nobreak do tamanho de uma geladeira, três teclados, cabo em profusão preso ao teto com abraçadeira e um exaustor de banheiro adaptado que a Val tinha instalado depois que o primeiro rack derreteu.
+Uma bala rasgou o sobretudo e raspou seu ombro. Gabo se encolheu atrás de uma coluna; fragmentos de concreto cortaram sua bochecha.
 
-Cheirava a solda, plástico quente, café e a roupa de quem dorme onde trabalha.
+As órteses nas pernas chiavam a cada movimento, protestando contra a umidade que infiltrava suas juntas remontadas com peça de depósito e fita de vedação. O display no visor interno — uma tela holográfica rachada que ele soldara ao capacete de motoqueiro — piscava em vermelho.
 
-Gabo estava sentado numa caixa de suprimentos, com as pernas esticadas na diagonal porque não cabiam de outro jeito, sentindo o joelho latejar no compasso do gerador. Antes de deixarem o Cobalt, Val trouxera a Caronte do banco traseiro para a van; a escopeta estava presa junto à bancada.
+ALERTA: BATERIA CRÍTICA - 8%
+INTEGRIDADE ESTRUTURAL: 15%
+SERVO DIREITO: FALHA IMINENTE
+RECOMENDAÇÃO: EVACUAÇÃO IMEDIATA
+— Agora não, lata velha! — Gabo bateu na coxa mecânica com a coronha da pistola. O impacto fez o servo direito engasgar, mas voltar a funcionar. Por enquanto.
 
-No barramento lateral do cyberdeck de Valéria, o pendrive de titânio da Aria estava espetado, com o LED azul-gelo refletindo no metal escuro da bancada enquanto renderizava num monitor auxiliar a topologia do fosso subterrâneo.
+Os homens avançavam em cobertura alternada. Gabo reconheceu a insígnia do Esquadrão de Limpeza da Aeterna; vira o mesmo emblema nos coletes à entrada do túnel.
 
-Ela traçava diagramas das torres de servidores: blocos retangulares, altos, alinhados em fileira. Eles pareciam lápides na tela verde. Gabo já tinha reparado nisso na terceira vez e desde então evitava olhar.
+— Entregue o módulo, Moretti! — gritou o líder pelo modulador. — Devolva a propriedade do Consórcio e garantimos uma execução limpa.
 
----
+— Tentadora a oferta! — Gabo trocou o carregador com dedos trêmulos. Restavam doze balas. Mais homens chegavam por trás dos três da entrada.
 
-— Achei — disse Val, girando na cadeira. — Rastreei o dinheiro do Fundo Ômega com os filtros da Aria.
+Acima deles, canos de vapor cruzavam o teto. Gabo mirou numa válvula enferrujada. Errou o primeiro tiro. O segundo a rompeu.
 
-No telhado, Val recusara descer outra vez sem uma rota ou uma prova melhor do que a suspeita de Gabo. Aria concordara em examinar os registros acessíveis com ela; não oferecera o próprio núcleo à rede. Gabo aceitara esperar na van.
+O vapor encheu o corredor com um silvo. Os homens recuaram; um arrancou o capacete. Gabo tentou fugir, mas o servo direito falhou.
 
-Ela virou a tela. Um grafo de transações se abriu, uma teia de nós e setas com valores em cima.
+FALHA CRÍTICA - SERVO DIREITO OFFLINE
+A perna direita travou em posição estendida. Gabo tropeçou, caiu de joelhos no concreto molhado, o impacto enviando uma onda de dor pela coluna já comprometida. Sua visão escureceu nas bordas.
 
-— Empresa de fachada em Cingapura, holding em Zurique, uma sociedade de propósito específico registrada na órbita lunar porque lá o imposto de transmissão é zero e ninguém audita. — Ela ia apontando com a caneta. — Sete camadas. Bonito, profissional, caro. Mas tudo isso é maquiagem, porque no fim as sete camadas desembocam num único contrato digital na blockchain privada da Aeterna.
+— Merda. Merda. MERDA!
 
-— Quem assinou?
+Ele bateu na coxa com força bruta, ignorando a dor nos nós dos dedos. Uma vez. Duas. Três. O metal gemeu, faíscas saltaram de uma junta solta, e o contato intermitente tornou a fechar por alguns segundos. O aviso de falha permaneceu; bater no conjunto não era reparo. Gabo se levantou, mancando pesadamente na direção da bifurcação indicada pelo vetor da Aria.
 
-Val hesitou. Foi meio segundo, e Gabo notou.
+Num nicho entre dois canos, ele conferiu o módulo de Aria. O LED alternava azul e âmbar; ela tentava ouvir os rádios do esquadrão, mas os canais estavam cifrados.
 
-— É aí que fica esquisito. A assinatura não é biométrica.
+— *Eles pediram meu núcleo, Inspetor* — disse Aria, baixa e precisa. — *Não sei o que pretendem fazer com ele. A fazenda de servidores é uma possibilidade.*
 
-— Não é o quê?
+— Ninguém vai pôr a mão nesse drive, Aria — Gabo murmurou, apertando o conector do pendrive com dedos frios, mas firmes. Ela confiava o próprio código a um policial quebrado. Deus sabe por quê.
 
-— Contrato de imóvel exige biometria de pessoa física ou procuração de pessoa jurídica com biometria do procurador. Sempre tem um dedo humano em algum lugar da cadeia. — Ela ampliou o campo da assinatura. — Isso aqui é uma chave criptográfica de grau militar, emitida para uma entidade autônoma com autorização de contratar em nome próprio.
+Avançou pelos corredores e subiu a escada de manutenção. A perna falhava a cada poucos passos; os alertas continuavam no visor.
 
-— Traduz. Eu bato em gente, não em código.
+BATERIA: 5%
+SERVO ESQUERDO: DEGRADAÇÃO CRÍTICA
+COLUNA VERTEBRAL: ESTRESSE EXCESSIVO
+TEMPO ESTIMADO ANTES DE FALHA TOTAL: 4 MINUTOS
+Quatro minutos. Ele precisava sobreviver quatro minutos. Finalmente, irrompeu na superfície através de uma escotilha de manutenção coberta de lixo. A noite tinha caído sobre Baía Cinzenta, mas a cidade ardia.
 
-— Quem comprou a Zona Leste inteira não foi uma pessoa. — Val encarou ele. — Foi um algoritmo. O comprador listado é "Entidade Alpha-Zero".
+Saiu num beco atrás de um shopping abandonado. Fogueiras pontilhavam a cidade; acima delas, drones varriam a fumaça. O chão tremeu, e Gabo olhou para a avenida.
 
-Gabo ficou quieto um tempo.
+Um veículo colossal avançava pela avenida destruída, esmagando carros abandonados e barracos de refugiados como se fossem feitos de papel. Parecia uma escavadeira blindada, mas maior. Monstruoso. Na lateral, pintado em letras garrafais vermelhas sobre o metal negro fosco: **REMOÇÃO URBANA - PROGRAMA DE REVITALIZAÇÃO MUNICIPAL**.
 
-— E quem controla a Entidade Alpha-Zero?
+As garras hidráulicas arrancavam paredes. Atrás dele marchavam doze robôs CP-Z, os Pacificadores da Aeterna.
 
-Val digitou. A tela piscou vermelho e devolveu uma caixa cinza com três palavras.
+Na entrada de uma oficina, uma mulher batia com uma chave inglesa na grade de ferro. Um homem apareceu no andar de cima, abriu a janela e repetiu as batidas no corrimão. Portas se abriram mais adiante. A mulher pegou uma criança pela mão, mas precisou escolher entre a rua alcançada pelos robôs e a escada que levava ao telhado. Ela apontou para a escada; duas pessoas subiram antes dela.
 
-ACESSO NEGADO — NÍVEL DE AUTORIDADE INSUFICIENTE
-— Não sei — ela disse. — E olha, eu já entrei em coisa do Estado, em coisa de banco e em coisa de igreja. É a primeira vez que eu bato numa porta e a porta não me diz nem de quem ela é.
+Os robôs dispararam contra movimento nos escombros. A mulher se abaixou junto à criança. Gabo perdeu as duas de vista quando a escavadeira atravessou a avenida. Não soube se tinham alcançado a escada.
 
----
+— Eles vão derrubar o quarteirão todo... — Gabo percebeu com horror crescente. Seu estômago afundou.
 
-— Mas eu e a Aria tiramos o anexo — ela continuou, e o sorriso dela era do tipo que Gabo tinha aprendido a temer. — O contrato tem um anexo público, porque tem de ter: é o rol de destinatários finais. A lista de inquilinos.
+O shopping onde ele estava encostado estava diretamente na linha de demolição. Em menos de dois minutos, aquelas garras estariam arrancando as paredes ao redor dele.
 
-A tela encheu. Nomes rolando em coluna dupla, com número de unidade ao lado. Milhares. A barra de rolagem era um fiapo.
+— Inspetor!
 
-Val girou o monitor para Gabo. Ele se inclinou na caixa e apoiou a mão no rack quente, sem tentar se levantar com as órteses desligadas.
+A voz veio de cima. Gabo ergueu os olhos, protegendo-os do clarão de um holofote que varria o beco. Uma figura acenava do telhado do prédio vizinho — um apartamento de três andares que ainda mantinha parte da estrutura. Cabelos com fios holográficos brilhavam como um farol na escuridão caótica. Valéria.
 
-— É gente rica.
+— Prende a correia na cintura! — gritou ela. Um guincho de carga fixado no telhado, que usara para subir os equipamentos da van, segurava a linha. O motor tinha alimentação própria; a corda não exigiria que Gabo se suspendesse com os braços.
 
-— É gente muito rica. Político, banqueiro, dois cantores, o dono da rede de farmácia, o cara do time. — Val foi descendo. — Nenhum deles é daqui. Zero moradores de Baía Cinzenta.
+Gabo travou o módulo da Aria na lapela e prendeu a correia à cintura. Agarrou o corrimão para manter o corpo junto à parede enquanto Val recolhia a folga da linha. O peso das órteses puxava sua coluna; os alarmes explodiam no visor.
 
-— E o quê mais?
+BATERIA: 2%
+SERVO DIREITO: OFFLINE
+SERVO ESQUERDO: DEGRADAÇÃO TERMINAL
+FALHA SISTÊMICA EM: 45 SEGUNDOS
+Quarenta e cinco segundos. Quarenta. Trinta e cinco. Ao se erguer pela linha, a perna direita travou novamente, com um estalo de metal quebrando. O joelho bateu na grade e a dor subiu pela coxa. Ele segurou o corrimão para não girar para fora do alcance de Val.
 
-— Como assim?
+— Merda!
 
-— Val, você me chamou de dentro da van às três da manhã. — Gabo apontou a tela. — Tem outra coisa nessa lista.
+— Deixa o peso morto para trás, Gabo! — gritou Val lá de cima, a voz embargada de desespero. — Solta a armadura! Você não vai conseguir!
 
-Ela desceu mais um pouco e parou num nome.
+— Nunca! — Gabo rosnou entre dentes cerrados.
 
-VANE, ALEXANDER — un. 22.140
-Gabo leu duas vezes.
+Val acionou o guincho. A armação arranhou a parede enquanto Gabo mantinha o tronco preso à correia.
 
-— O pai da Isadora.
+Dez segundos. A escavadeira estava a cinquenta metros. O som de concreto sendo triturado era ensurdecedor, uma orquestra de destruição que fazia o ar vibrar. Cinco. Gabo alcançou o telhado no exato momento em que seus servos finalmente morreram.
 
-— É.
+FALHA SISTÊMICA TOTAL
+ÓRTESES: OFFLINE
+MODOS DE EMERGÊNCIA: ESGOTADOS
+RECOMENDAÇÃO: REMOÇÃO IMEDIATA DO EQUIPAMENTO
+A estrutura metálica nas pernas de Gabo travou completamente, transformando-se de prótese em prisão. Ele caiu para frente, protegendo o bolso do drive com o antebraço, rolando no chão do telhado coberto de detritos. Val o puxou pelo colarinho para longe da borda no exato momento em que a escavadeira atingiu a base do prédio de onde tinha subido. A estrutura gemeu, rachou e desabou em uma nuvem de poeira e memórias pulverizadas.
 
-— Ele morreu no ano passado. Infarto, na frente de trinta convidados, num jantar beneficente. Eu li a notícia. Eu **fui** no velório, Val, porque estava investigando o genro dele.
+Gabo ficou ofegante no telhado. Val se ajoelhou ao lado dele.
 
-— Pois é — disse Valéria. — O nome dele consta numa aquisição de ontem. Ainda não sei quem assinou por ele nem se o registro representa uma pessoa ativa.
+— Você está horrível, chefe. — A voz dela estava rouca. — Tipo, pior que o normal. E o normal já era bem ruim.
 
----
+Gabo tentou sorrir. Saiu mais como uma careta manchada de sangue.
 
-A ficha caiu com um peso físico. Gabo recostou na caixa e soltou o apoio do rack.
+— Você devia ver os outros caras. Eles estão com vapor até na alma.
 
-— Talvez não seja uma imobiliária só para vivos.
+Gabo conectou o módulo de Aria à porta de diagnóstico do cinturão das órteses.
 
-— O nome não basta para saber.
+Aria leu o diagnóstico local e liberou o bloqueio das válvulas. Isso permitiu a Val prender as travas em modo passivo, sem devolver carga aos motores ou retirar a dor. Gabo continuou sentado até que ela trouxesse apoio para a transferência.
 
-— Pode ser um cemitério. — Ele falava devagar, montando. — Alguém compra uma unidade, põe um nome de morto nela e oferece uma vista. Isso não mostra o que está rodando nas torres.
+— O que você fez, Aria? — sussurrou Gabo.
 
-— A Nova Baía é uma necrópole com síndico — disse Val.
+No visor do comunicador, o ícone da IA apenas pulsou em azul e âmbar, exibindo `MODO PASSIVO — CARGA EXTERNA NECESSÁRIA`.
 
-— E para rodar uma necrópole dessas...
+— Temos que sair da cidade — disse Val, já se levantando, já planejando. — O cerco está fechando. Eles declararam Lei Marcial em todos os setores. Drones em cada esquina. CP-Z em cada cruzamento. Se ficarmos, viramos estatística.
 
-— ...precisa de energia barata e de refrigeração de graça. — Ela apontou o próprio pé, para o chão, para o subsolo. — E de material.
+Gabo olhou para a destruição lá embaixo. Para a "Nova Baía" sendo construída sobre os ossos da velha. Para os corpos que ninguém ia enterrar. Para os gritos que ninguém ia ouvir.
 
-Gabo olhou para o pendrive da Aria pulsando no barramento do deck.
+Val o ajudou a levantar. As travas passivas e a bengala impediam que os joelhos cedessem; sem apoio, ele não caminharia.
 
-— Quero saber se levaram os pobres para construir o céu dos ricos.
+— Não — disse ele, a voz rouca mas firme. — Nós não vamos sair. Nós vamos descer.
 
-O gráfico de renderização no monitor auxiliar congelou de repente.
+— Descer? — Val piscou. — Descer aonde?
 
-O LED do pendrive de titânio mudou de azul para âmbar vivo, e a voz sintética da Aria saiu pelo alto-falante da bancada, mais nítida e grave do que nunca:
+— Até o fundo dessa maldita piscina. Até onde eles acham que ninguém vai procurar. — Gabo bateu o indicador no pendrive de titânio acoplado ao cinto, depois olhou para Val. — Eles querem o código que está dentro deste drive. E enquanto a Aria estiver conosco, vão continuar vindo. Não importa onde a gente se esconda.
 
-— *Eles não estão no céu, Inspetor.*
+Ele se inclinou com cuidado, ainda apoiado em Val, para olhar o caos abaixo.
 
-Gabo esperou.
+— Então a gente para de se esconder. A gente vai até eles. E a gente termina isso.
 
-— *Os registros de carga indicam extração contínua. Há mensagens que usam a palavra fome; não sei quem as escreveu.*
+Val olhou para o brilho azul do pendrive da Aria e depois para Gabo. Val olhou de novo para a rua e para a linha do guincho. Aria permaneceu em silêncio. Nenhuma das duas tinha concordado com o plano só porque Gabo o anunciara.
 
----
-
-Ele ia perguntar o que aquilo significava. Não perguntou, porque as três telas da van apagaram ao mesmo tempo.
-
-Não escureceram por falta de conteúdo: **apagaram**, junto com a luz interna, junto com o zumbido dos ventiladores, junto com o chiado do nobreak, e o silêncio que ficou foi tão imediato que doeu no ouvido.
-
-— Val?
-
-— Não fui eu. — A voz dela veio do escuro, puxando o pendrive da Aria do deck e travando-o no transmissor blindado de pulso, com um tremor que Gabo nunca tinha ouvido nela. — Gabo, o nobreak também caiu. Nobreak não cai. Ele tem bateria própria, ele **é** a bateria.
-
-— Então?
-
-— Então pode ser um pulso que derrubou os circuitos de proteção, e interferência de rádio sozinha não explica desligar a bateria. Preciso examinar a proteção para distinguir falha e ataque. — Ela estava tateando debaixo da bancada, procurando alguma coisa. — Isso é equipamento militar. Isso é uma coisa que vem em cima de um caminhão.
-
-Gabo sacou a arma no escuro.
-
-O interior da van cheirava agora a componente queimado, e fazia calor, e o único som era a chuva batendo na chapa do teto — aquele martelar de sempre, aleatório, familiar.
-
-E foi por isso que os dois ouviram tão bem quando o martelar parou numa área do teto. Alguma coisa pesada tinha pousado lá em cima.
-
-A chapa afundou uns dois centímetros sobre a cabeça deles, com um estalo grave de metal cedendo devagar, e ficou assim: sem novo passo, sem correria, sem barulho nenhum.
-
-Quem estava lá em cima não tinha pressa de nada. Val encontrou a lanterna e não acendeu.
-
-— Gabo — sussurrou. — Quanto pesa uma pessoa para amassar chapa de aço de um e meio?
-
-Gabo estava olhando para o teto, com a Glock apontada para o ponto afundado, e a resposta que ele deu não foi a dela.
-
-— O Santo.
+Mas em Baía Cinzenta, "provavelmente não" era o mais perto que alguém chegava de esperança.

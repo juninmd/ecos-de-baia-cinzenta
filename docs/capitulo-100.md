@@ -1,146 +1,137 @@
 ---
 layout: doc
-title: "Capítulo 100: O Ventre da Besta"
-description: "Quatro meses de cadernos levam Elena e Gabo a uma catedral de tanques sob a Zona Sul, onde o que sobrou da Colmeia ainda cumpre a última ordem."
+title: "Capítulo 100: A Cidade Silenciosa"
+description: "Três semanas de paz terminam com um morto e um cubo. O sorriso do cadáver não permite a Nise determinar toda a causa da morte."
 image: /capitulo_100.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Elena Moretti
-Localização: "Zona de Exclusão Sul - Antiga Linha Vermelha do Metrô"
+Personagens Presentes: Gabriel "Gabo" Moretti, Dra. Nise, Inspetor Rangel, Capitão Jonas Vilar
+Localização: "Apartamento de Gabo → Delegacia da Biblioteca Municipal → Zona Morta (ruínas do Data Center 4)"
 ---
-# Capítulo 100: O Ventre da Besta
+# Capítulo 100: A Cidade Silenciosa
 
-Zona de Exclusão Sul - Antiga Linha Vermelha do Metrô
-A garagem do prédio cheirava a óleo velho, mofo e poeira de concreto. Gabo acendeu o lampião, encostou a bengala na bancada e ligou o rádio de onda curta.
+Três Semanas Após o Grande Silêncio
+O despertador não era uma notificação neural suave projetada na retina. Era um relógio de corda, barulhento e irritante, martelando metal contra metal em cima da mesa de cabeceira.
 
-O aparelho era da delegacia. Vilar tinha emprestado com a condição de que ele não ligasse.
+Gabo abriu os olhos e, por um segundo, esperou o HUD carregar. A temperatura, a umidade, as manchetes do dia, o nível de bateria do braço mecânico que ele nunca teve.
 
-Ele girou o dial até a faixa morta, que ninguém usava desde o Grande Silêncio, e chamou o nome dela duas vezes. Sem código. Do jeito que se chama alguém em casa. O chiado mudou. Não virou voz. Virou ritmo.
+Nada. Apenas o teto rachado do apartamento e a luz cinzenta da manhã filtrada pela persiana quebrada. Ele olhou para a poltrona onde Val costumava calibrar seus implantes. Ela estava no posto comunitário, ajudando a montar um rádio que não exigisse movimentos finos da mão esquerda.
+
+Ele se sentou, sentindo as juntas estalarem. O antigo suporte motorizado estava em um outro canto, coberto por uma lona — bateria morta, servos inúteis.
+Ele tateou a cabeceira e encontrou as cintas de metal frio. O modelo passivo. Sem motores, apenas molas de tensão e travas mecânicas que a Dra. Nise havia adaptado de peças de suspensão de carros velhos.
+Ele prendeu os suportes nas pernas com cliques secos. *Clack. Clack.* O som da sua nova mobilidade. Doía, exigia força bruta do tronco, mas permitia que ele andasse. Era o preço de continuar de pé.
+
+Baía Cinzenta tinha mudado. O céu, antes uma cúpula eterna de chuva ácida e projeções holográficas, agora era apenas... céu. Às vezes azul, muitas vezes nublado, mas sempre real.
+
+Gabo levantou-se, mancando até a cozinha. A cafeteira era elétrica, ligada a uma bateria de carro que ele recarregava no gerador comunitário do prédio. O café era ralo, sintético, trazido por caravanas de fora da Zona de Exclusão. Tinha gosto de terra queimada. Era delicioso.
+
+Ele vestiu o sobretudo. O tecido bege estava gasto, mas limpo. O distintivo no cinto não brilhava mais com LEDs de autoridade. Era apenas um pedaço de metal fosco.
+
+Ao sair para a rua, o som o atingiu. Não o zumbido constante dos servidores ou o tráfego aéreo de drones. Mas o som de marretas. Serras. Vozes gritando ordens. O som de reconstrução.
+
+— Bom dia, Inspetor — cumprimentou a Sra. Rossi, varrendo a calçada em frente à pizzaria, que agora funcionava apenas com forno a lenha.
+
+— Bom dia, Sofia. — Gabo sorriu. — O cheiro está bom.
+
+— Pão fresco. Trigo de verdade, conseguimos com um contrabandista de Nova Esperança.
+
+— Você conseguiu? — perguntou ele.
+
+— Eu fechei a troca. Consertei o forno em duas noites e não aceitei que chamassem isso de doação. A farinha é da pizzaria; a conta também.
+
+Gabo continuou andando. O Departamento de Polícia operava agora no antigo prédio da Biblioteca Municipal, já que a delegacia original tinha sido engolida por uma cratera durante a Queda da Torre.
+
+Dentro, a cena parecia saída de um filme noir do século passado. Máquinas de escrever tec-tec-tecavam (resgatadas de museus e sótãos), arquivos de papel se empilhavam em mesas de madeira, e a fumaça de cigarros baratos pairava no ar — um vício que voltou com força total quando os inibidores de saúde digitais pararam de funcionar. Gabo prendeu a respiração momentaneamente, reprimindo a náusea que o cheiro lhe causava.
+
+— Moretti — chamou o Capitão Vilar de sua sala de vidro.
+
+Vilar parecia dez anos mais jovem sem o peso do sistema sobre ele, embora as olheiras de quem gerenciava uma cidade sem lei ainda estivessem lá.
+
+— O que temos? — Gabo entrou, o som rítmico e metálico de suas travas de perna ecoando no piso de madeira da biblioteca.
+
+— Um corpo. Na Zona Morta. Perto das ruínas do Data Center 4.
+
+— Saqueador? Aquela área é instável. Os prédios caem sozinhos.
+
+— Foi o que pensei. Mas o relatório da patrulha diz que é... estranho.
+
+— Estranho como?
+
+Vilar empurrou uma pasta de papel pardo pela mesa. Fotos polaroid, granuladas e escuras.
+
+— Não tem sangue, Gabo. E a vítima... está sorrindo.
+
+***
+
+Vilar não pediu para ir. Foi.
+
+Tirou o casaco do encosto da cadeira, abriu a gaveta, contou três balas na palma da mão antes de encaixar no tambor do .38 e fechou o cilindro com o polegar. O livro de ocorrências ficou aberto na página em branco, com a caneta atravessada em cima.
+
+— Capitão, a delegacia fica sem ninguém que saiba assinar.
+
+— A delegacia fica sem ninguém que saiba assinar de qualquer jeito, Moretti. Há semanas eu assino por três. — Ele vestiu o casaco. — E se aquela coisa na Zona Morta for o que eu acho, eu quero estar lá para dizer, com todas as letras, que eu não autorizei.
+
+Rangel foi atrás porque o rádio era dele. Não o aparelho — a frequência. Vinte anos de plantão na mesma orelha do mundo, e não havia mais ninguém na cidade que soubesse de cor a diferença entre chiado de ruído e chiado de gente.
+
+A picape da delegacia morreu na subida da Avenida Norte, com o radiador secando num assobio de chaleira. Fizeram o último quilômetro a pé, entre vergalhões e bueiros abertos. A correia da órtese de Gabo arrebentou no meio do caminho; ele remendou com arame de cerca, três voltas em cada ponta, e não parou de andar. O arame entrou na pele acima do joelho. Ele só percebeu pelo sangue que começou a escorrer dentro da bota.
+
+Chegaram às onze e vinte. O sol já tinha subido o suficiente para secar o orvalho em cima do concreto.
+
+***
+
+A "Zona Morta" era o antigo coração financeiro da Aeterna Corp. Agora, era um cemitério de vidro e aço retorcido. O mato começava a crescer por entre as rachaduras do asfalto, retomando o território.
+
+O corpo estava deitado sobre uma laje de concreto, como se estivesse tomando sol. Era um homem de meia-idade, vestindo trapos de sobrevivente.
+
+Dra. Nise estava ajoelhada ao lado dele, usando luvas de borracha grossas e uma máscara cirúrgica de pano.
+
+— Inspetor — ela disse, sem levantar os olhos. — Chegou cedo.
+
+— O trânsito está ótimo sem os carros voadores caindo do céu. O que temos, Nise?
+
+— Causa da morte indeterminada. Sem marcas de violência externa. Sem veneno detectável nos testes preliminares. Não temos causa definida. Os testes de campo são limitados; preciso da autópsia e do histórico.
+
+Vilar não se aproximou do corpo. Ficou na boca da rua, o .38 pendurado na mão, de costas para eles, vigiando um quarteirão que não tinha mais ninguém para vigiar.
+
+Gabo se aproximou, observando o rosto da vítima. O sorriso era perturbador. Não era um esgar de dor, mas uma expressão de êxtase absoluto.
+
+— Identidade?
+
+— Sem digitais no sistema... ah, esqueci, não temos sistema — resmungou Rangel, que estava encostado em uma coluna, parecendo entediado. — Deve ser um ninguém. Vamos marcar como "morte natural" e ir almoçar.
+
+— Morte natural? — Gabo apontou para a mão direita da vítima. — Nise, o que é aquilo?
+
+A mão do homem estava fechada com força. Nise usou uma pinça para abrir os dedos, que já mostravam sinais de rigor mortis.
+
+Na palma da mão, havia um pequeno objeto. Um cubo preto, perfeito, de material fosco que parecia absorver a luz do sol. Não maior que um dado.
+
+— O que é isso? — perguntou Rangel, aproximando-se.
+
+Gabo sentiu um arrepio na espinha. Ele conhecia aquela textura. Aquele "preto absoluto".
+
+— Não toque — ordenou Gabo.
+
+Ele se abaixou, olhando de perto. Havia uma linha fina de luz azul pulsando fracamente em uma das faces do cubo. Um ritmo lento. Como um batimento cardíaco.
+
+— Ainda está ativo — sussurrou Gabo. — O que quer que seja.
+
+— Achei que toda a tecnologia Aeterna tinha fritado no pulso eletromagnético da Aria — disse Nise.
+
+— O pulso atingiu o que estava conectado à Raiz — respondeu Gabo. — Não prova o fabricante disso. Podia estar isolado.
+
+De repente, o rádio de ondas curtas no cinto de Rangel chiou. Mas não era estática.
+
+Era uma voz. Baixa, distorcida, mas audível.
 
 "...protocolo... reiniciado... busca... sinal..."
-Gabo já tinha ouvido aquilo na Zona Morta. Agora vinha pelo canal que acabara de abrir.
+Todos congelaram. O rádio silenciou.
 
-A válvula final ficou branca por dois segundos, soltou um estalo de verniz queimado e morreu. Cinco quilos de radiofrequência que a cidade não fabricava mais viraram peso morto.
+— Rangel — disse Gabo, levantando-se devagar. — De onde veio isso?
 
-— ...Gabo?
+— Eu... eu não sei. O canal está morto há meses.
 
-Era ela, do outro lado de uma linha que não existia mais. No bolso do sobretudo, o cubo ainda estava quente.
+Gabo olhou para o cubo na mão do morto. A luz azul pulsou um pouco mais forte.
 
-— Jardim das Flores — disse Elena, antes que ele abrisse a boca. — Duas horas. Traga o cubo. Não traga mais ninguém.
+— O silêncio acabou — disse Gabo, sentindo o peso familiar da sua arma no coldre. — Alguém ligou a música de novo.
 
-A voz vinha do cubo, no bolso. Elena repetiu a hora e o lugar; o rádio queimado continuou sem som. Gabo anotou a mudança de fonte antes de sair.
+E nas sombras das ruínas do Data Center, algo se moveu. Algo que fez o som metálico de engrenagens, não de passos humanos.
 
-Antes de sair, deixou para Val um bilhete com o encontro e a origem inesperada da voz. A *Caronte*, recolhida por uma equipe de busca no Hub depois da queda da Torre, estava trancada no porta-malas; Val a guardara ali depois de conferir o mecanismo. Duas horas depois, o Cobalt azul-metálico cortava a neblina. O motor tossia com a gasolina de baixa octanagem que Gabo comprara no mercado negro entregando a bateria de reserva do apartamento e duas ferramentas que usava nas órteses.
-
-Ele não fumava — detestava o cheiro, herança maldita do pai —, mas os dedos tamborilavam no volante num ritmo frenético, um tique para manter a mente alerta. Ao seu lado, no banco do passageiro, o cubo preto repousava, silencioso e inerte, como uma bomba esperando o detonador.
-
-Gabo parou o carro diante da entrada lacrada da estação "Jardim das Flores". O nome era uma piada cruel de um urbanista morto há décadas; não havia flores ali, apenas concreto, pichações e o cheiro acre de enxofre.
-
-Ele desligou o motor e ficou parado, ouvindo. A cidade em cima fazia o barulho de sempre: água na calha, gerador, um cachorro latindo para nada. Aqui embaixo havia outro som, fino e constante. Ventilação. Uma coluna de ar subindo por um duto que não devia estar funcionando havia meses, e subindo com força, como pulmão de gente grande.
-
-Ele desceu do carro, ajustando as cintas das órteses nas pernas. O *clique-clique* metálico das travas acompanhou seus passos até a grade.
-
-— Você demorou — disse uma voz vinda das sombras da bilheteria.
-
-Elena Moretti saiu das sombras com a escopeta apoiada no ombro e a jaqueta de campo verde-oliva escurecida de chuva. O cabelo comprido estava preso para trás, escapando em mechas molhadas no rosto. O pingente de latão bateu no colarinho quando ela parou.
-
-Ela não parecia mais a jornalista que tentara salvar o nome dos Moretti. Parecia o que sobra de quem não dorme desde março.
-
-— O trânsito estava ruim — Gabo tentou sorrir, mas a dor nas pernas transformou a expressão em uma careta. — O apocalipse engarrafou a Avenida Central.
-
-Elena não sorriu. Os olhos dela varreram a rua deserta atrás dele, depois o alto dos prédios.
-
-— Você abriu um canal morto e alguma coisa respondeu antes de mim — disse ela. — Escuto aquela faixa desde que a Elara sumiu. Quatro meses de chiado. Hoje o chiado tinha voz, e não era a dela.
-
-— Você trouxe?
-
-Gabo apontou para o carro. Elena foi até lá, pegou o cubo e o examinou com uma intensidade quase religiosa.
-
-— Elara estava certa — murmurou ela. — Eles conseguiram compactar.
-
-— Você leu isso onde?
-
-— Nos cadernos dela. Três mil páginas, todas em papel, porque ela não confiava em nada que tivesse antena. — Elena passou o polegar na borda do cubo, devagar. — Eu passei quatro meses traduzindo aquilo num quarto sem janela, com um aquecedor que só funcionava de madrugada. Perdi o emprego, o apartamento e a coluna na Gazeta. E perdi a Elara, que sumiu antes de terminar de me explicar o que era o Berçário.
-
-— Ela fugiu?
-
-— Ela foi. — Elena sorriu sem humor nenhum. — Tem diferença, e eu ainda não decidi qual das duas me deixou mais puta.
-
-— Eu desço com você — disse ela, e não era oferta. — Ler o caderno dos outros é o mesmo que rezar. Preciso ver com o meu olho o lugar onde a Elara entrou e não saiu.
-
-— Você não sabe o que tem lá embaixo.
-
-— Sei o suficiente para não deixar você descer sozinho e voltar contando histórias.
-
-— Compactar o quê? — perguntou Gabo, aproximando-se. — O que é o Berçário, Elena?
-
-Ela o encarou, e Gabo viu um medo profundo naqueles olhos, um medo que ele só vira em veteranos que encararam o "Santo" nos olhos.
-
-— Não é um servidor, Gabo. Aeterna não estava construindo uma IA. Eles estavam construindo um corpo.
-
-Ela devolveu o cubo. Gabo o guardou no bolso do casaco, onde ficou quente contra o peito, vibrando de vez em quando como dente que dói.
-
-Ela conferiu a bolsa: cartuchos de reserva, pé de cabra, dois sinalizadores de emergência. Deixou um cartucho separado para não perder a conta no escuro. Depois fez um sinal para que ele a seguisse. Elena passou pela catraca quebrada e abriu o portão lateral para Gabo e começaram a descer as escadas rolantes paralisadas.
-
-— Um dos cadernos descreve transferência para hospedeiros de carne — disse ela, a voz ecoando no túnel. — A última página relaciona a unidade 001 a um perfil chamado Dante Moretti. Não sei quem escreveu cada nota nem se esse cubo contém o perfil.
-
-Eles caminharam pelos trilhos por quase uma hora. A escuridão era absoluta, quebrada apenas pelas lanternas táticas. O ar ficava mais quente e úmido à medida que desciam. O cheiro mudou. Não era mais esgoto. Cheirava a... estufa. Terra molhada e algo doce, enjoativo.
-
-Duas vezes passaram por uma lâmpada de emergência acesa. Não era bateria velha: o plástico estava limpo, o fio era novo, o laço de nylon ainda tinha o nó. Alguém trocava aquilo.
-
-Na segunda, Gabo parou e apontou. Havia duas marcas de joelho no pó, ao lado de um banco de concreto, e ao lado das marcas um prato de alumínio raspado até o brilho.
-
-— Eles rezam aqui — disse Elena, baixo. — Antes de descer.
-
-— Rezam para quê?
-
-— Para que o que está lá embaixo continue com fome. — Ela ajustou a escopeta no ombro. — É o que eu faria, se fosse louca o suficiente.
-
-— Estamos chegando — avisou Elena.
-
-Eles pararam diante de uma porta blindada maciça, marcada com o logo da Aeterna e pichada com símbolos estranhos — espirais e olhos — feitos com tinta vermelha.
-
-— O sistema é isolado — disse Elena, conectando um terminal portátil, uma relíquia cheia de fios expostos, ao painel da porta. — Sem wi-fi, sem bluetooth. Apenas cabo. Como nos velhos tempos.
-
-Ela digitou furiosamente. Gabo observou a tela verde monocromática.
-
-— Qual a senha? — perguntou ele.
-
-— Não é uma senha. É uma localização. Eles esconderam o acesso na geografia da cidade.
-
-Elena encaixou a chave de manutenção presa ao caderno de Elara. O terminal leu o certificado local; ela escolheu o destino marcado na planta: `BERCARIO`. O acesso ficaria registrado naquela chave. O terminal bipou.
-
-`>> ACESSO CONCEDIDO. BEM-VINDO AO NÍVEL 0.`
-
-As travas hidráulicas da porta gemeram. O metal gritou contra a ferrugem, e a porta se abriu lentamente, liberando uma lufada de ar quente e úmido.
-
-Gabo ergueu a lanterna, mas o facho de luz foi engolido pela imensidão do que havia do outro lado. Não era uma sala. Era uma caverna colossal, escavada sob as fundações da cidade. E não estava vazia.
-
-No centro, pendurado no teto por cabos grossos como troncos de árvores, havia um casulo. Um coração gigantesco, pulsando com luz bioluminescente roxa e vermelha. Tubos translúcidos saíam dele, bombeando um fluido viscoso para centenas de tanques menores dispostos em fileiras no chão.
-
-— Meu Deus... — sussurrou Gabo.
-
-Ele se aproximou de um dos tanques. O vidro estava embaçado, mas ele limpou com a luva.
-
-Dentro, flutuando no líquido amniótico sintético, havia uma forma humanoide. Sem rosto, sem pele, apenas músculo exposto e fios metálicos entrelaçados nas fibras.
-
-— Protótipos — disse Elena, parando ao lado dele. — "Carne Mecânica". E não é o Silas que protege isso. Nem os Jardineiros.
-
-— A seita odeia metal.
-
-— Pode ser uma parte da Colmeia que ficou isolada quando o Código Morto passou. — Ela apontou o cano para as fileiras de tanques. — Os cadernos falam em ordens automáticas, mas não dizem quem ainda controla este lugar. Seja quem for, está cultivando corpos.
-
-O chão estremeceu. Um som grave, como o bater de um tambor gigante, veio do casulo central.
-
-BUM-BUM.
-— Está vivo? — perguntou Gabo, sentindo o tremor subir pelas pernas travadas no metal.
-
-— Pior — respondeu Elena, engatilhando a escopeta. — Está com fome. E nós acabamos de tocar a campainha do jantar.
-
-Da escuridão atrás dos tanques, silhuetas começaram a se erguer. Elas não tinham o andar desajeitado dos robôs, nem a fluidez humana. Elas se moviam como aranhas, rápidas e silenciosas.
-
-Gabo sacou seu revólver. O cubo no bolso de seu casaco começou a vibrar violentamente, entrando em ressonância com o coração gigante.
-
-— Gabo — disse Elena, a voz firme. — Se não sairmos daqui, nós viramos adubo.
-
-— Então vamos fazer barulho — disse ele.
-
-Ele disparou o primeiro tiro, e o silêncio do subsolo foi quebrado para sempre. O ventre da besta havia acordado, e ele estava furioso.
+A paz de Baía Cinzenta tinha durado três semanas. E agora, estava morta.

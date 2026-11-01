@@ -1,113 +1,91 @@
 ---
-title: "Capítulo 123: Protocolo de Sombra"
-Data In-Game: "23 de Novembro, 04:30"
-Localização: "Distrito 4 (Zona Comercial Abandonada / Clínica de Vasco)"
-Personagens Presentes: "Gabo Moretti, Vasco (Traficante de Implantes), Saqueadores (Antagonistas)."
+title: "Capítulo 123: Fios Desencapados"
+Data In-Game: "23 de Novembro, 01:00"
+Localização: "O Fliperama (Esgotos / Subnível do Distrito Industrial)"
+Personagens Presentes: "Gabo Moretti, Valéria Cruz, Inspetor Rangel (Crítico), Aria (Offline), mulher e menino resgatados."
+description: "Val impede a solda na ferida de Rangel. O grupo cobre o ferimento e procura atendimento; a mulher resgatada no porto encaminha o pedido de ajuda."
 ---
 
-# Capítulo 123: Protocolo de Sombra
+# Capítulo 123: Fios Desencapados
 
-A tampa do bueiro pesava uma tonelada. Gabo empurrou o metal enferrujado com o ombro, sentindo os músculos protestarem, e o som de atrito ecoou como um grito abafado na rua deserta.
+O caminhão de reboque morreu com um suspiro engasgado junto à entrada de serviço do esgoto. Eles o deixaram escondido e levaram Rangel pela passagem estreita até o Fliperama. O silêncio que se seguiu foi pesado, quebrado apenas pelo som de metal esfriando e pela respiração irregular de Rangel.
 
-Quando ele emergiu, a primeira coisa que o atingiu não foi o frio, mas a ausência. Baía Cinzenta sempre fora uma cacofonia de luz e som — o zumbido constante dos anúncios holográficos, o chiado dos drones de vigilância, o pulsar do neon. Agora, havia apenas o som da chuva batendo no asfalto quebrado e o cheiro acre de incêndios químicos não controlados.
+Gabo firmou a órtese antes de vencer o último desnível do túnel. O ar ali embaixo tinha gosto de cobre e mofo antigo. *O Fliperama*. O santuário de Kiko Vibe.
 
-O cheiro o enjoou. Cinzas sintéticas. Lembrava o fumo barato que seu pai costumava acender antes de bater na mãe. O odor grudou no fundo da garganta de Gabo, trazendo uma onda de náusea que nada tinha a ver com a fome ou o cansaço. Era uma repulsa física, visceral, que retorcia seu estômago.
+— Valéria, luzes — ordenou, abrindo a porta do carona.
 
-O Distrito 4 estava morto. Sem a "Voz" de Dante para coordenar a rede elétrica, os prédios eram monólitos negros recortados contra um céu cor de hematoma. A única iluminação vinha de fogueiras em latões de lixo e dos ocasionais faróis de veículos blindados patrulhando à distância.
+Rangel estava pálido, a cabeça pendendo sobre o ombro de Gabo. O curativo de emergência no ombro estava encharcado.
 
-Gabo ajustou o sobretudo, sentindo a umidade penetrar nas bandagens improvisadas sob a roupa. A ansiedade era uma coceira elétrica sob a pele, exigindo movimento, exigindo violência. Ele apertou o *Colar de Sol* até o metal morder a pele da palma. A dor física era sua única âncora contra o caos mental. O colar queimava frio contra sua mão, lembrando-o de quem ele era. Não o filho do comissário corrupto. Mas algo mais duro.
+— Não tenho interface sem fio com o sistema daqui — disse Valéria, trêmula, enquanto procurava um interruptor com a mão direita.
 
-Missão. Rangel. Aria. Sobreviver.
-Ele se moveu pelas sombras, evitando as avenidas principais. O caos já havia se instalado. Vitrines estilhaçadas vomitavam manequins e eletrodomésticos na calçada. Corpos — alguns recentes, vítimas do pânico inicial — jaziam ignorados nas sarjetas.
+Gabo praguejou e tateou a parede até encontrar a caixa de disjuntores. Ele empurrou a alavanca principal com força.
 
-Gabo virou em um beco estreito atrás de uma lavanderia industrial. O cheiro de produtos químicos e sangue velho era forte ali, mascarando o odor insuportável de queimado da rua principal. Ele parou diante de uma porta de aço reforçada, marcada apenas com um símbolo de risco biológico pintado com spray vermelho.
+Com um zumbido grave, lâmpadas de filamento no teto piscaram e acenderam, banhando o bunker em uma luz amarela e doente. O lugar parecia um museu de tecnologias mortas: servidores torre, monitores CRT volumosos, e emaranhados de cabos que pareciam intestinos de máquinas estripadas.
 
-Ele bateu. Três vezes. Pausa. Duas vezes.
+O mofo ali tinha idade. Cheirava a papel molhado, a poeira quente de válvula e a um resto de tempero que nunca mais ia sair das panelas. A luz amarela não melhorava nada: só dava contorno às coisas e deixava o resto no escuro, do jeito que um lugar fechado há anos prefere ser visto.
 
-Uma fresta se abriu no metal. Um olho cibernético, girando em foco vermelho, o analisou.
+— Me ajude com ele — Gabo ajustou o apoio de Rangel. O inspetor era pesado, um peso morto de carne e culpa.
 
-— Estamos fechados — uma voz metálica e distorcida soou. — Volte quando a energia voltar. Ou seja, nunca.
+Eles o arrastaram até uma mesa de metal no centro da sala, empurrando teclados e xícaras de café fossilizadas para o chão.
 
-— Abra, Vasco — Gabo disse, a voz rouca. — Eu tenho crédito.
+O Fliperama tinha dono uma vez. Restavam as provas espalhadas: uma jaqueta de LEDs pendurada num gancho, apagada, com os painéis rachados; um pôster plastificado de um garoto de cabelo verde-limão sorrindo para uma câmera que não existia mais; e, na parede, dezenas de recortes impressos com a mesma cara. Kiko Vibe não estava ali. Kiko Vibe não estaria em lugar nenhum nunca mais, e o bunker continuava esperando por ele com a paciência idiota das coisas.
 
-— Crédito da Aeterna? — Vasco riu, um som de estática. — Papel higiênico vale mais hoje em dia, detetive.
+— Ele deixou tudo — Valéria disse baixo, os olhos nos recortes. — A trava ainda estava escondida atrás dos tijolos.
 
-Gabo encostou a testa na porta fria.
+— Não tinha para onde levar. Ninguém ia roubar um garoto morto. — Gabo disse isso para os recortes na parede, não para ela, e a frase ficou no ar com cheiro de poeira quente.
 
-— Não é crédito corporativo. É uma dívida antiga. O caso do Porto. Aquele carregamento de "olhos" que a polícia nunca encontrou.
+— Ele está perdendo muito sangue — Valéria disse, suas mãos pairando sobre o ferimento no ombro de Rangel. Seus olhos cibernéticos giravam, processando dados que não podia usar. — Não sei o que o estilhaço atingiu. Gabo, precisamos de alguém que saiba tratar isso.
 
-Houve um silêncio. O mecanismo da porta destravou com um *clank* pesado.
+— Não tem autodoc aqui — Gabo rasgou a camisa de Rangel. A ferida era feia, bordas rasgadas pelo estilhaço. — Kiko não planejava se machucar, só se esconder.
 
-O interior da clínica de Vasco era um pesadelo de esterilização falha. Mesas cirúrgicas manchadas, braços robóticos pendurados no teto como carcaças em um açougue, e prateleiras cheias de frascos com rótulos em kanji e cirílico. A única luz vinha de um gerador portátil barulhento no canto.
+Ele olhou ao redor, buscando algo útil. Havia uma caixa de ferramentas enferrujada e um kit de primeiros socorros industrial na parede. Ele mancou até lá. Bandagens secas, antisséptico vencido e...
 
-Vasco, um homem atarracado com metade do rosto substituído por uma placa de cerâmica barata, limpava uma serra óssea com um pano sujo. Ele segurava um palito de fumo apagado entre os dentes de metal, mastigando-o nervosamente.
+Ele olhou para o ferro de solda da bancada eletrônica.
 
-Gabo recuou um passo instintivamente, o estômago revirando.
+Val viu antes de ele tocar no cabo.
 
-— Tire essa merda da boca, Vasco.
+— Não. Você não sabe o que está aberto aí. Não vai enfiar uma ferramenta de oficina no peito dele.
 
-O traficante olhou confuso, depois sorriu, revelando gengivas sintéticas.
+— Então me diz o que fazer.
 
-— Está apagado, Moretti. Economizando para o fim do mundo. Você parece um cadáver. O que você quer?
+Ela ficou imóvel. A mão esquerda rígida não ajudava; a direita tremia. Não tinha uma cirurgia escondida na memória, nem uma resposta que pudesse carregar no deck.
 
-— Material de emergência lacrado. Um cirurgião que possa ir ou uma linha para o hospital. E uma ponte de silício com microprocessadores série-K, se tiver.
+Rangel abriu os olhos.
 
-Vasco assobiou.
+— Chama... alguém que saiba.
 
-— Pedido caro. Ponte neural série-K? Para o quê? Aquele drive militar da Aeterna que você carrega no bolso?
+Gabo recuou da bancada. O rosto do inspetor estava cinzento, e havia sangue suficiente no pano para não deixar espaço para orgulho.
 
-Gabo ignorou a provocação e focou na negociação, tentando bloquear a visão do charuto úmido.
+Usaram o material lacrado do kit para substituir a camada encharcada do curativo. Não retiraram o estilhaço. Val manteve o registro dos sinais, e Gabo ficou ao lado da mesa, sustentando a compressa enquanto procuravam ajuda pelo cabo de serviço do esconderijo. A linha do hospital só devolvia ocupado.
 
-— O preço, Vasco.
+A mulher que tinham retirado do porto surgiu na passagem com o menino pela mão. Tentara seguir pela rota que conhecia, mas encontrara a rua bloqueada e voltara ao esconderijo quando ouviu o motor do caminhão. Ajudou a acomodar o filho no banco e pôs a manta sobre ele. Ela olhou o telefone, entendeu a resposta e pediu o endereço da clínica mais próxima. Gabo escreveu a mensagem com hora, ferimento e localização. Não mandou que saísse; perguntou se conseguia levar aquilo ao posto da rua, sem voltar ao porto.
 
-O homem largou a serra e cruzou os braços mecânicos.
+Ela guardou o papel dentro da roupa e saiu. Val anotou o caminho combinado para que não virasse mais uma pessoa desaparecida em nome de uma urgência.
 
-— A moeda mudou. Informação. O que aconteceu na Usina? Por que as luzes apagaram? Meus clientes estão nervosos. Dizem que a "Voz" calou.
+Rangel não acordou quando a porta fechou. Respirava rápido demais. Gabo pensou no ferro que não usara e no tempo que ainda podiam perder. Deter a mão fora fácil. Esperar que alguém chegasse não era.
 
-— A Usina caiu — Gabo disse, omitindo os detalhes sobre Dante. — Sobrecarga. Não sei quanto tempo vai levar para voltar. Quem tiver geradores e remédios vai cobrar o que quiser.
+Gabo limpou as mãos num pano sujo de graxa. Ele olhou para a bancada eletrônica no canto, onde Valéria havia deixado o pendrive blindado da Aria sobre um pano antiestático, com o polímero negro chamuscado e o LED completamente apagado.
 
-Vasco ponderou, os olhos biônicos zumbindo.
+— E a Aria? — perguntou, acenando com a cabeça para o drive de titânio.
 
-Gabo pediu uma linha para o posto da rua e deu a Vasco os dados de Rangel. Vasco levou a mensagem ao rádio de serviço da clínica, por uma frequência diferente da usada na usina. O posto respondeu: a mulher do porto chegara, Nise recebera o endereço e saíra com uma equipe de transporte. Gabo pediu que repetissem a localização antes de acreditar.
+Valéria limpou a boca e se aproximou da bancada. Ela abriu a carenagem lateral do pendrive com uma chave de precisão e espetou o conector universal em um barramento de diagnóstico ligado ao seu cyberdeck.
 
-— Certo. Leve os kits lacrados da prateleira três. Mas me deve uma. Se a segurança da Aeterna vier bater aqui, eu digo que você me roubou.
+— Parte do armazenamento responde — disse Valéria, sua voz voltando ao tom analítico, uma defesa contra o horror que acabara de presenciar. — Ainda não consigo avaliar o resto. — Mas os circuitos de contenção e a matriz de voz... ela se fragmentou para aterrar o feedback da rede neural de Dante.
 
-Gabo encheu uma mochila impermeável com os frascos e caixas de componentes eletrônicos. Ele sabia que "dever uma" a Vasco significava sangue futuro, mas Rangel não tinha tempo para negociações éticas.
+— Dá para consertar?
 
-— Feito.
+— Os barramentos físicos? Sim, se eu conseguir uma ponte de silício nova. O software? — Valéria hesitou, olhando para as trilhas de cobre trincadas dentro do pendrive. — Ela separou os enlaces mantendo o suporte ativo pelo barramento de controle. Alguns índices ligados aos arquivos de origem e à voz estão danificados. Se eu religar o drive, não sei quais registros ela conseguirá separar da própria voz. Primeiro faço uma leitura sem execução, depois uma inicialização isolada.
 
-Ele estava saindo quando o som de vidro quebrando veio da rua. Vozes. Gritos excitados.
+Gabo assentiu. Ele se sentou no chão, encostado na mesa onde Rangel respirava superficialmente. As mãos voltaram a tremer, agora que não havia mais nada em que ocupá-las. Ele entrelaçou os dedos, forçando-os a parar.
 
-— Merda — Vasco praguejou, apagando o gerador e mergulhando a loja na escuridão total. — Abutres. Eles sentem o cheiro de remédio.
+— O apagão pode ter atrasado quem vinha atrás de nós — disse ele, fechando os olhos. — Não sei por quanto tempo.
 
-Gabo sacou a Glock. Três balas. Ele checou a *Caronte* no coldre das costas. Dois cartuchos.
+— Por enquanto — corrigiu Valéria, sentando-se diante da bancada e tocando o invólucro frio de titânio do pendrive da Aria.
 
-— Saída dos fundos? — Gabo sussurrou.
+O som da chuva gotejando de algum cano estourado marcava o tempo. *Tap. Tap. Tap.*
 
-— Bloqueada — Vasco respondeu, pegando uma espingarda de cano serrado debaixo do balcão. — Vamos ter que dançar.
+Gabo puxou o colar debaixo da camisa e o segurou firme. O metal estava quente com o calor do seu corpo.
 
-A porta da frente explodiu para dentro com o impacto de um pé de cabra. Três figuras entraram, lanternas táticas cortando a escuridão. Eles usavam máscaras de gás improvisadas e roupas cobertas de arame farpado. Lázaros.
+Eles estavam vivos. Quebrados, sujos, e cercados de fantasmas. Mas vivos.
 
-— *Limpa tudo!* — um deles gritou.
-
-Gabo não hesitou. Ele não podia gastar munição. Ele esperou o primeiro passar pela entrada e avançou das sombras.
-
-O cabo da Glock atingiu a têmpora do invasor com um *crack* seco. O homem caiu sem um som. Gabo caiu atrás da bancada quando o segundo homem disparou uma pistola de pregos.
-
-*Tack-tack-tack.* Os pregos atravessaram o forro da bancada. Um atingiu a perna do homem caído; Gabo ouviu o grito e não pôde alcançá-lo.
-
-Vasco disparou sua espingarda. O flash iluminou a sala como um relâmpago, revelando o caos. O tiro acertou o terceiro invasor no peito, jogando-o contra as prateleiras de vidro.
-
-O segundo homem, em pânico, tentou recarregar. Gabo empurrou o carrinho de instrumentos contra as pernas do invasor. Vasco manteve a arma apontada enquanto ele afastava a pistola de pregos com a ferramenta. O homem caiu sobre o vidro e continuou gritando. Não era uma vitória limpa.
-
-O silêncio voltou à loja, agora pontuado pelos gemidos dos feridos.
-
-— Você ainda é bom nisso — Vasco disse, ofegante, a fumaça da pólvora misturando-se ao cheiro de mofo.
-
-Gabo pegou a mochila do chão. Ele olhou para os homens. Eram apenas desesperados. Como todos eles.
-
-— Tranque a porta, Vasco. E reforce as dobradiças.
-
-Gabo saiu para a chuva, o peso da mochila em um ombro e o peso da cidade no outro. Ele tinha os remédios. Tinha as peças. Agora, só precisava voltar para o buraco onde sua "família" quebrada o esperava, antes que a própria noite decidisse engoli-lo.
-
-Lá fora, o ar estava limpo de fumaça por um momento. Ele respirou fundo, sentindo a chuva fria lavar o gosto amargo da memória de seu pai. O colar em sua mão já não doía tanto.
+— Por enquanto — repetiu Gabo.

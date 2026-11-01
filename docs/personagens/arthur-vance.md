@@ -41,9 +41,9 @@ A obra tem duas famílias destruídas pela decisão de um pai, e elas se reflete
 * **1995:** Aos 40, funda a Aeterna S.A. funerária com mais quatro sócios. Elara nasce 1990, Silas 1996.
 * **2024:** Elara 34 audita o Lázaro; Krell 18 entra no jurídico. Arthur autoriza infraestrutura e programas que depois serão ampliados; não é inocentado por dormir.
 * **2029:** Aos 74, reorganiza o grupo, entra na Arca N.O.A. a 4.000 m, com 38 unidades e pulso de presença de seis em seis horas. Há cápsula de ascensão operacional.
-* **Capítulo 45:** Depois de 23 dias sem pulso da Torre, desperta. Vinte e sete anos de sono, corpo de aparência 43 e manutenção deteriorada. A liberação dos hangares consome dias. Oito unidades partem.
-* **Capítulos 46-48:** Chegada no oitavo dia do Dilúvio. Duas unidades se perdem na aproximação, seis chegam. Não confundir essas máquinas com o lançador Leviatã abandonado 25.
-* **Capítulo 72:** Ataque orbital desviado para o setor oceânico atinge a infraestrutura de Ponto Zero. Não há confirmação de ocupantes recuperados.
-* **Capítulo 233:** Série de transmissões termina no dia 96 após o despertar, coincidente com o ataque 72. Arthur rejeitou sair como refugiado. Última mensagem tenta absolver Elara; ela pede publicação integral e recusa. Não há seis anos adicionais, parada cardíaca atestada ou corpo preservado recuperado.
+* **Capítulo 46:** Depois de 23 dias sem pulso da Torre, desperta. Vinte e sete anos de sono, corpo de aparência 43 e manutenção deteriorada. A liberação dos hangares consome dias. Oito unidades partem.
+* **Capítulos 47-49:** Chegada no oitavo dia do Dilúvio. Duas unidades se perdem na aproximação, seis chegam. Não confundir essas máquinas com o lançador Leviatã abandonado 25.
+* **Capítulo 73:** Ataque orbital desviado para o setor oceânico atinge a infraestrutura de Ponto Zero. Não há confirmação de ocupantes recuperados.
+* **Capítulo 235:** Série de transmissões termina no dia 96 após o despertar, coincidente com o ataque 72. Arthur rejeitou sair como refugiado. Última mensagem tenta absolver Elara; ela pede publicação integral e recusa. Não há seis anos adicionais, parada cardíaca atestada ou corpo preservado recuperado.
 
 ---

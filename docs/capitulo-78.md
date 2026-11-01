@@ -1,150 +1,147 @@
 ---
-layout: doc
-title: "Capítulo 78: O Jardim de Concreto"
-description: "Um cadastro antigo descreve um armazém vazio. Lá dentro, Gabo e Vilar encontram um jardim e pessoas presas às raízes."
 image: /capitulo_78.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Capitão Jonas Vilar e homem de macacão
-Participação em referência: Dra. Nise
-Localização: "Zona Leste, antigo Distrito Industrial — 10h"
+Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Aria
+Localização: "Zona Norte, Ruínas do Distrito de Prata. 12:00 PM"
 ---
 
-# Capítulo 78: O Jardim de Concreto
+# Capítulo 78: A Sombra do Meio-Dia
 
-Zona Leste, antigo Distrito Industrial — 10h.
-A luz do sol não perdoava nada. Durante quinze anos, a chuva e o neon tinham feito o serviço de maquiagem de Baía Cinzenta: escondiam a rachadura, engoliam o mofo, transformavam a sujeira em textura. Agora, sob um sol amarelo e direto, a cidade parecia o que sempre foi — um corpo em decomposição adiantada, fotografado com flash.
+Zona Norte, Ruínas do Distrito de Prata. 12:00 PM.
+Três meses depois da queda da Arca de superfície, o problema com o sol, Gabo concluiu, era que ele não sabia guardar segredo. Durante cinquenta anos Baía Cinzenta viveu de mentir debaixo da chuva. A água borrava a borda da pobreza, transformava ferrugem em reflexo, fazia de qualquer beco uma passagem. O sol não. O sol era um detetive ruim: chegava na cena e apontava para tudo ao mesmo tempo. A luz batia na lataria do Cobalt e não perdoava nada: cada arranhão, a poeira acumulada desde que a chuva parou. Gabo limpou o suor da testa com as costas da mão suja de graxa. Odeio suar. Na era da chuva, você ficava molhado ou com frio, nunca suado.
 
-Gabo estacionou o Cobalt e a chapa azul já estava quente ao toque. Ele ajustou os óculos escuros, um objeto que tinha comprado quatro dias antes e que ainda o irritava, porque olho acostumado a penumbra permanente não aprende a lidar com sol em uma semana.
+— Você está resmungando com a injeção de novo?
 
-— Você me disse que era ocorrência de vandalismo — falou, saindo do carro.
+Gabo não se virou. Reconheceria o som daquelas botas em qualquer lugar, mesmo sem o zumbido dos servos.
 
-O Capitão Jonas Vilar estava parado na frente de um armazém da antiga Aeterna Corp, com o uniforme desbotado de suor e uma expressão que Gabo já tinha visto nele duas vezes na vida.
+— Injeção é honesta, Val. Funciona ou não funciona. Não tem crise existencial e não tenta governar a cidade.
 
-— Era vandalismo — disse Vilar. — Até a gente abrir.
+Ele fechou o capô e se virou. Valéria Cruz estava encostada no batente, com os LEDs azuis da franja apagados e óculos escuros grossos. Ela apertou os olhos mesmo atrás das lentes.
 
-Ele mostrou a Gabo uma mensagem recebida pelo rádio: Nise estava a caminho. O paciente do quarto 304 permanecia em observação; a amostra da seringa seguia para análise. Ela também pedia que a delegacia comparasse os desaparecidos com as impressões do homem do beco. Ainda não tinha nome para entregar à família.
+— O sol está fritando meus sensores ópticos — disse ela, ajeitando a armação. — Sobrevivemos ao apocalipse digital para sermos derrotados pelos raios UV.
 
----
+— Café?
 
-A porta de correr, de chapa de aço com quatro metros de altura, estava retorcida. Gabo se aproximou e passou os dedos pela deformação, e a informação chegou antes da conclusão: as bordas estavam **para fora**. Não tinha sido arrombada. Tinha sido empurrada por dentro.
+— Preciso de algo mais forte. E você também.
 
-— Com o quê? — perguntou ele.
+O tom fez Gabo parar. O novo normal de Baía Cinzenta era uma paz frágil, com serviços administrados pelo sistema que a cidade chamava de Entidade. Aria continuava no módulo, ligada a parte dessa rede. Se Val estava pedindo bebida ao meio-dia, alguma coisa tinha quebrado a rotina. Gabo puxou uma garrafa de uísque de baixo de uma pilha de panos e serviu dois dedos.
 
-— É o que eu queria saber. — Vilar cuspiu no chão. — Não tem marca de ferramenta nem corte de maçarico. A chapa dobrou sem rasgar. Pode ter cedido sob carga, mas só de olhar eu não sei se levou meses ou uma pancada.
+— O que a Entidade perdeu? Val tomou tudo de uma vez e estremeceu.
 
----
+— Um corpo. Beco atrás da estação de triagem, aqui no Distrito de Prata.
 
-O ar mudou quando eles entraram. De fora fazia trinta e um graus e estava seco. Três passos para dentro, ficou úmido, morno e pesado, com aquela densidade de estufa que faz a camisa grudar imediatamente. E o cheiro.
+— A Entidade acessa parte das câmeras e dos sensores, Val. Esse beco estava coberto?
 
-Terra molhada, mato cortado, e por baixo — inconfundível para quem já esteve num necrotério sem refrigeração — uma doçura de decomposição, que nesse caso não estava sozinha: vinha misturada a alguma coisa quase floral, e a mistura das duas era pior que qualquer uma separada.
+— Não esse. — Ela puxou um tablet antigo do bolso do casaco e deslizou sobre a bancada. — Nada nos logs. Nada nas câmeras térmicas. Nenhum registro de áudio. Para o sistema, aquele beco estava vazio o tempo todo.
 
-Gabo parou de andar. O armazém tinha sido um depósito de peças de servidor. Era isso que constava no registro: quatro mil metros quadrados de estante metálica com rack, fonte e placa. Agora era uma selva.
+O tablet era de tinta eletrônica e não tinha rede; Val copiara para ele o resultado das consultas feitas em outro terminal. Na tela, uma foto revelada na máquina da própria delegacia: um homem de meia-idade, roupa corporativa barata, caído de lado no cimento. Onde deveria estar a cabeça, havia uma coisa vermelha e achatada.
 
----
+— Quem é?
 
-Trepadeiras da grossura de um braço subiam pelas colunas e pelas paredes até o vão da estrutura metálica, quinze metros acima. Não eram verdes. Eram cinza-esverdeadas, com uma superfície fosca de couro, e pulsavam devagar — dava para ver, se ficasse olhando: uma contração a cada quatro ou cinco segundos, subindo do chão para o teto, como peristaltismo.
+— É a pergunta. — Val girou o tablet. — Sem carteira, sem chip, sem tatuagem, sem cicatriz de implante. Consultei três bancos de dados. Nenhuma correspondência; isso não prova que ele nunca teve registro.
 
-Do teto pendiam flores. Do tamanho de uma cabeça humana, pretas, sem brilho, com pétalas grossas e carnudas. Cada uma gotejava um líquido viscoso e claro que caía num pingo lento e formava poças no piso de concreto. O piso não era mais piso. E no centro de tudo havia uma árvore.
+Gabo olhou para a foto por um tempo.
 
----
-
-Ela tinha rompido a laje de dentro para fora — a laje de concreto armado de vinte e cinco centímetros do piso industrial —, e as bordas do rompimento estavam para cima, como pele em volta de uma ferida. O tronco tinha uns dois metros de diâmetro. E não era madeira.
-
-Era uma amálgama fundida de cabo de fibra óptica, resina, alguma coisa fibrosa que parecia tendão, e osso. Osso de verdade, aparecendo aqui e ali na superfície: um pedaço de costela, o que parecia meio ilíaco, uma clavícula inteira integrada à casca como um nó de árvore.
-
-— Meus homens acharam dois saqueadores aqui — disse Vilar, apontando com o queixo para a base.
-
-Gabo se aproximou. Os dois corpos não estavam apenas mortos. Estavam **integrados**: raízes finas como fio de costura entravam pelos ouvidos, pelas narinas e pela boca dos dois, e saíam por trás do crânio, e costuravam os corpos ao tronco em pontos regulares, com um espaçamento de uns doze centímetros.
-
-Os rostos estavam preservados. E os dois tinham a mesma expressão, e não era terror. Era êxtase. A cara que uma pessoa faz quando entra na água quente do banho depois de um dia muito frio.
-
-Gabo olhou aquilo por um tempo comprido, e a coisa que ele sentiu não foi medo. Foi **inveja**, por um segundo e meio, e depois um horror imenso de ter sentido isso.
+— Mataram um homem e os cadastros não sabem dizer quem ele era. — Ele empurrou o tablet de volta. — Isso não faz dele menos existente.
 
 ---
 
-— A Nise já viu?
+O beco tinha três metros de largura, paredes de tijolo e um cheiro que não combinava com o calor: ferro, e por baixo, alguma coisa doce. O corpo estava de lado, com o ombro contra a parede, como se tivesse se sentado para descansar e desistido no meio do movimento. A cabeça era uma depressão de osso e cabelo. Ao lado dela, no chão, um martelo de construção, cabo de madeira sujo de graxa antiga. Moscas. O zumbido delas era o único som do beco. Gabo desceu a rua com as órteses rangendo. O metal pressionava as coxas, o joelho reclamava, e ele ainda tinha que agachar.
 
-— Está a caminho. — Vilar hesitou, e essa hesitação foi o que estragou a manhã de vez. — Mas o terminal devolve um cadastro antigo como se fosse leitura de agora.
+— Quanto tempo ele está aqui?
 
-— Como assim, não existe?
+— O sistema não tem hora para este beco. — Val estava de cócoras ao lado do cadáver, o deck aberto no chão. — Nenhum registro de entrada ou saída. Nenhum pico cardíaco. Nenhum som de luta.
 
-— Eu perguntei três vezes, Gabo. — Vilar mostrou o terminal de pulso. — Segundo o último registro recebido, este armazém está **vazio**. Vinte e nove graus, umidade de quarenta por cento, zero atividade biológica, zero consumo de energia, sem alteração desde a última inspeção em cinquenta e um.
+Gabo se agachou com cuidado. A dor subiu pelo quadril e parou nas costas, do jeito que sempre parava. O sangue sob o corpo estava escuro e coalhado. Ele olhou para a parede.
 
-Gabo pegou o terminal e leu com os próprios olhos. O calor úmido grudava a camisa nas costas dele, e havia uma árvore de osso no meio do prédio. A consulta mostrava um galpão vazio e seco; o registro de 2051 não dizia o que havia ali naquela manhã.
+O SILÊNCIO VOLTOU.
+— Val, me dá a lanterna. Ela deu. Ele inclinou o facho para o pescoço do homem, depois para o ombro, depois para o martelo.
 
-— Ponto cego — disse Gabo.
+— Pode ter morrido antes do martelo. A distribuição do sangue não fecha para mim; precisamos conferir feridas, posição e possível limpeza.
 
-— Ponto cego.
+— A cabeça está esmagada, Gabo.
 
----
+— E quase não há respingo na parede. — Ele apontou com o facho. — Pode ter sido golpeado em outro lugar, depois da morte, ou a cena pode ter sido limpa. Quero o exame antes de escolher.
 
-Ele estendeu a mão e encostou o dedo numa folha cinzenta. A reação foi imediata, e foi rápida demais.
+— Vou fotografar o chão e a parede antes que mexam.
 
-A folha se enrolou em torno do dedo dele com a velocidade de uma armadilha de mola — não a lentidão de uma dormideira, que leva dois segundos: aquilo levou um décimo. Gabo puxou a mão por reflexo puro e a folha fechou no vazio e ficou fechada, esperando.
+— E olha atrás da orelha. — Havia um ponto vermelho do tamanho de uma cabeça de alfinete.
 
-Na ponta do dedo dele havia uma marca vermelha em anel.
+— Pode ser uma perfuração — disse Val.
 
-— Ela reagiu — ele disse. — Ao toque, ao calor, não sei. Não testem com o corpo.
+— Pode. — Ele se endireitou, e as costas protestaram. — Se a cabeça foi esmagada aqui para encenar alguma coisa, o martelo pode ser parte da mensagem.
 
-Ele limpou o dedo na calça, e a marca continuou.
+— Assinatura de quem?
 
-— Vilar, ouve o que eu vou falar e depois me fala se eu enlouqueci.
+— De quem quer que a cidade leia isso como um louco com um martelo. — Gabo apontou o queixo para a parede. — E não como alguém que mata com uma agulha e não deixa rastro.
 
-— Fala.
+Ele já tinha visto encenação assim, na Torre do Relógio, e não gostou de lembrar. Val passou o sensor sobre o ponto.
 
-— A cidade acordou. — Gabo olhou em volta, para o galpão inteiro. — Ela passou sessenta anos engolindo tudo o que a Aeterna despejou nela: rejeito, biogel, esporo, aquilo que veio dos tanques de decantação no Dilúvio. E ela metabolizou. Pode ser um ataque. Ou uma coisa que cresceu no rejeito e agora se comporta como sistema imunológico.
+— O sensor não identifica toxinas por essa leitura. Precisamos de coleta e análise. — Ela franziu a testa. — O banco de toxinas da Aria é de antes do Apagão. Isso pode ser qualquer coisa que cresça num quintal.
 
-— De quem?
+— Analógico — murmurou Gabo.
 
-— Do chão. — Gabo apontou para a árvore. — E a gente é a infecção.
+— O quê?
 
----
+— Pode ser o método. — Ele olhou o beco: o cimento rachado, o martelo, o sangue seco. — Alguém pode ter usado coisas que não dependem de rede. Quero saber antes de descartar qualquer outra hipótese.
 
-Um som veio do fundo do armazém. Alguma coisa se movendo entre as trepadeiras. Pesada. Molhada. Sem cadência de passo — um arrasto, uma pausa, um arrasto. Vilar sacou a arma.
+Val se levantou e limpou as mãos na calça.
 
-— Guarda isso — disse Gabo.
+— Tem mais uma coisa. — Ela apontou. — O beco está coberto de lama seca desde a chuva, e os sapatos do homem estão limpos.
 
-— Gabo—
+Gabo olhou os sapatos. Pretos, baratos, sem um respingo.
 
-— Guarda. — Ele não tirou os olhos do fundo. — Não sabemos o que espalha quando rompe. Só atira se vier para cima da gente.
-
-A folhagem se abriu.
-
----
-
-O que saiu de lá tinha sido um homem. Vestia trapos que ainda dava para identificar como o macacão azul-claro do corpo técnico da Aeterna, com o retângulo bordado onde ia o nome, agora ilegível.
-
-A pele estava coberta por uma camada fina e uniforme de musgo cinza — não em manchas: **uniforme**, como veludo, inclusive no rosto, inclusive nas pálpebras.
-
-Ele avançou três passos e parou, e virou a cabeça na direção de Gabo com um atraso de meio segundo, do jeito que se vira quando se está ouvindo e não vendo. Abriu a boca.
-
-— O silêncio... — A voz vinha de uma garganta cheia de líquido, e cada sílaba borbulhava. — Ele está crescendo.
-
-— Quem é você? — perguntou Gabo, dando um passo à frente. — Qual é o seu nome?
-
-O homem pareceu procurar. E, por um instante, alguma coisa acendeu ali dentro — a cabeça se endireitou, os ombros baixaram, e por meio segundo aquilo foi um sujeito de macacão azul querendo responder uma pergunta simples.
-
-— Eu... — ele disse.
-
-E parou. O peito dele se abriu no meio, sem sangue e sem grito, como uma fruta madura demais. De dentro, brotou uma flor preta.
-
-Ela levou quatro segundos para se abrir por completo, e quando abriu o corpo caiu de joelhos e depois de lado, e a flor ficou de pé, virada para a porta. Virada para o sol.
+— Podem ter trazido ele para cá. Não sabemos quando nem como.
 
 ---
 
-Vilar estava com a arma apontada e a mão firme e o rosto sem nenhuma cor.
+A voz veio do módulo no comunicador de Gabo, usando o enlace local com o deck de Val. Aria recebera as imagens da câmera; não observava o beco sem um sensor conectado.
 
-— Gabo.
+— *Gabo. Val. Há uma anomalia.*
 
-— Eu vi.
+— Que tipo de anomalia? — perguntou Val.
 
-— Isso vai acontecer na cidade inteira?
+— *A sombra do corpo. Ela não corresponde à posição do sol.*
 
-Gabo olhou para o pedaço de céu azul que aparecia pela porta retorcida, lá longe, do outro lado de quatro mil metros quadrados de mato que não existia em registro nenhum. Ele tirou os óculos escuros e guardou no bolso, porque ali dentro eles não serviam.
+Gabo olhou para o chão. A sombra do cadáver se esticava para o norte, comprida e fina, atravessando a lama até a parede oposta. Todas as outras — a do martelo, a da própria Val — apontavam para o sul, curtas, do jeito que sombra de meio-dia tem que ser. Ele deu um passo para bloquear o sol com o corpo. A sombra continuou lá.
 
-— Vilar, chama a Dra. Nise pelo rádio. Rádio, não terminal.
+— Val.
 
-— Por quê?
+— Eu estou vendo. Ele piscou. A sombra estava no lugar certo, apontando para o sul com as outras.
 
-— Porque a partir de agora a gente não fala mais nada que a cidade possa ouvir. — Gabo já estava andando para a saída, mancando entre as raízes. — E, quando ela chegar, manda ela trazer luva de trinta centímetros. Ela vai querer levar uma dessas flores.
+— Você viu isso? — perguntou ele.
 
-Atrás deles, quatro mil metros quadrados de nada continuaram respirando.
+— Vi.
+
+— O que era?
+
+— Não sei. — Val já estava com o tablet na mão. — Mas a Aria também viu, e Aria também registrou uma anomalia. Precisamos comparar a captura original, não transformar duas leituras no mesmo aparelho em duas testemunhas independentes.
+
+Ela apontou o tablet para o chão. O obturador fez um clique seco, de máquina velha. A imagem levou dois segundos para aparecer. O beco estava lá como eles o encontraram: a parede de tijolo, o sangue coalhado, o martelo, o corpo de lado com a cabeça esmagada. O corpo não tinha sombra. Nem comprida, nem curta, nem no lugar errado. Nenhuma. Gabo olhou do tablet para o chão. A sombra estava ali, teimosa, real.
+
+— Isso é o ângulo — disse Val, sem convicção. — O sensor é ruim. A luz é forte.
+
+— É — disse ele.
+
+Não era. Ele pegou o tablet da mão dela, desligou a tela e guardou o aparelho no bolso interno do sobretudo, contra o peito.
+
+— Não manda isso para a rede.
+
+— Gabo, a Aria precisa da imagem para cruzar com o banco de...
+
+— Não manda. — Ele olhou para ela. — Não achamos registro desse homem. Se alguém estiver apagando dados, pode atingir a foto também.
+
+— E a parede? — perguntou ela. — O que eu faço com aquilo?
+
+Gabo olhou para as três palavras mais uma vez. O sol batia nelas de cheio, e mesmo assim pareciam mais escuras do que o resto do beco.
+
+— Não põe no sistema. A gente precisa entender primeiro quem consegue mexer nele. — Ele se virou para a rua.
+
+— Vou guardar uma cópia local e anotar a frase no meu caderno. — Val recolheu o tablet da mão dele. — E vou chamar Nise para examinar o corpo. Você não decide sozinho o que acontece com a prova.
+
+Gabo olhou para o homem no chão. Adiar a rede não precisava significar deixá-lo ali.
+
+— Peça que ela venha pelo rádio. A foto fica com você até termos uma cópia para a perícia.
+
+O Cobalt estava na esquina, o capô ainda morno. Gabo abriu a porta, parou com a mão no teto e olhou o beco uma última vez. O sol batia no cimento nu e não encontrava nada para esconder.
+
+Era mentira. Tinha uma sombra ali, e ela não estava no chão.

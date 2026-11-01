@@ -1,149 +1,138 @@
 ---
 layout: doc
-title: "Capítulo 39: Dossiê Vance"
-description: "Sem rede, a verdade volta a ser feita de papel. E o homem que executou um rapaz rendido na semana passada precisa impedir uma multidão de linchar uma assassina."
+title: "Capítulo 39: A Ressaca"
+description: "A cidade sobreviveu à noite e começa a morrer de abstinência. No arquivo morto do porão, Gabo descobre a única rede que a Aeterna nunca conseguiu desligar."
 image: /capitulo_39.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Dra. Elara Vance, Elena Moretti, Valéria "Val" Cruz, Capitão Jonas Vilar
-Localização: "Porão da Delegacia Central → Mansão dos Vance"
+Personagens Presentes: Gabriel "Gabo" Moretti, Elena Moretti, Valéria "Val" Cruz, Capitão Jonas Vilar
+Localização: "Delegacia Central (saguão e arquivo morto do porão)"
 ---
 
-# Capítulo 39: Dossiê Vance
+# Capítulo 39: A Ressaca
 
-Na segunda semana após a queda, a busca pelos números de procedimento finalmente reuniu o material. Elena cruzou o registro clínico que tinham fotografado, cópias de apreensão e duas impressões de correspondência encontradas no arquivo. Conservou as folhas inteiras e anotou a origem de cada uma antes de preparar o resumo.
+Amanheceu, mas o sol não apareceu.
 
-Não havia internet para vazar documento.
+O Smog continuava em cima da cidade, e agora estava pior: os filtros atmosféricos das torres corporativas eram elétricos, e havia oito dias que ninguém lavava o ar de Baía Cinzenta. A luz que chegava ao chão era cinzenta, difusa e doente, e não fazia sombra em lugar nenhum, o que dava a tudo uma aparência de fotografia mal revelada.
 
-Não havia telejornal, portal, agregador, nem aquele ecossistema inteiro de gente que ganhava a vida explicando notícia para quem não leu a notícia. A Mídia tinha morrido às 03h14 do dia primeiro, junto com todo o resto, e ninguém sentiu falta nas primeiras setenta e duas horas porque havia problemas mais urgentes.
+Gabo estava sentado nos degraus da entrada limpando a fuligem do cano da escopeta com a barra da camisa.
 
-Então eles fizeram do jeito velho.
+Cheirava a cordite, borracha queimada e, por baixo, o começo do outro cheiro — o que os corpos da avenida iam ter em mais umas seis horas de calor.
 
----
-
-A impressora offset da delegacia era de mil novecentos e noventa e alguma coisa e tinha sido mantida por pura inércia orçamentária: nunca deu baixa porque dar baixa exigia um formulário que exigia uma assinatura de um cargo que foi extinto.
-
-Ela pesava seiscentos quilos, funcionava com um motor de indução que aceitava a corrente suja do gerador a diesel, e o Inspetor aposentado que sabia operá-la ainda estava vivo e morava a quatro quarteirões. Rodaram durante trinta e uma horas.
-
-O barulho era ensurdecedor, um bate-estaca ritmado que fazia o piso do porão vibrar, e o cheiro de tinta de impressão — solvente, óleo, alguma coisa quase de pão — grudou nas roupas de todo mundo e não saiu por uma semana.
-
-Saíram catorze mil folhas. Frente e verso, papel jornal ruim, tinta preta que borrava no polegar. O resumo do Dossiê Vance em nove parágrafos, porque a Elena brigou até conseguir cortar de vinte e dois para nove.
-
-Fotos dos experimentos, granuladas na retícula grossa. Em folha separada, Elena incluiu o relato de Éder, com as testemunhas e o estágio da apuração. Gabo não autorizava o que podia ser dito sobre ele.
-
-A planilha. Aquela que dizia, em três colunas, quanto custava manter um "sujeito de estudo" vivo, quanto rendia processá-lo, e a diferença.
-
-E dois e-mails da Dra. Elara Vance, com data, assunto e assinatura corporativa, em que ela usava a expressão "gestão populacional em faixa de baixo retorno" — e depois, no segundo e-mail, com a cordialidade de quem confirma um almoço, aprovava.
+Elena empurrou sua cadeira de volta para dentro.
 
 ---
 
-Distribuíram de mão em mão.
+Dentro do saguão, a euforia da vitória tinha durado quarenta minutos e virado outra coisa.
 
-Colaram em poste com cola de farinha. Enfiaram por baixo de porta. Jogaram de cima dos viadutos em maços de duzentas, e as folhas desciam girando na chuva fina e se espalhavam na água parada da avenida como pétalas sujas.
+Um sargento de trinta e poucos anos estava sentado no chão, encostado na parede, coçando o antebraço esquerdo onde ficava o plugue neural. Já tinha passado da pele. Tinha uma auréola de carne viva de uns quatro centímetros em volta da porta de acesso, e ele continuava coçando com a unha, num movimento constante e distraído, olhando para o nada.
 
-E aconteceu uma coisa que ninguém previu. As pessoas **paravam para ler**.
+Outro estava de pé na frente de um monitor desligado, falando com ele.
 
-Não passavam o olho: paravam, encostavam num muro, liam do começo ao fim, e depois liam de novo. Uma mulher no ponto de ônibus da Rua Onze leu em voz alta para nove pessoas, e quando terminou uma delas pediu para ela ler outra vez.
+Não gritando: falando, no tom educado de quem reclama com um atendente. *Atualiza. Por favor, atualiza. É só carregar o feed. Eu sei que você consegue.*
 
-Val ficou olhando aquilo com uma expressão que Gabo não soube identificar.
+Um terceiro, o mais novo, estava deitado de lado embaixo da bancada da recepção, em posição fetal, com as mãos entre os joelhos, tremendo de um jeito ritmado e contínuo.
 
-— Eu não entendo — ela disse. — É o mesmo conteúdo que a gente tentou publicar três vezes na Rede. Três vezes, Gabo. Eu botei no ar, foi desindexado em quarenta minutos, botei de novo, virou "conteúdo sensível", botei de novo e a minha conta foi banida por "manipulação coordenada".
+— O que houve com eles? — perguntou Elena, que distribuía água engarrafada e tinha parado no meio do corredor com a caixa nos braços.
 
-— E agora?
+— Abstinência — disse Val, saindo da sombra da escada.
 
-— E agora é um papel sujo de tinta e as pessoas estão **acreditando**.
+Ela estava pálida e com olheiras que iam do olho até o meio da bochecha.
 
-— Porque ninguém pode desindexar um papel na mão de um sujeito — disse Gabo. — Ele existe. Ele suja o dedo. E tem uma coisa que a Rede tirou de todo mundo sem ninguém perceber: quando você segura o papel, o papel é seu. Ninguém decide por você o que aparece depois dele.
+— Passei por uma retirada de conexão. Alguns sinais parecem os mesmos. Mas tem ferido, tem gente sem dormir e gente que ficou sem remédio. — Ela falava com a voz plana, de quem já explicou aquilo antes e cansou. — Esses caras estão há oito dias sem. Pode haver abstinência, mas eu não sou quem vai fechar esse diagnóstico. Precisamos examinar os que estão tremendo e verificar o que usavam antes.
 
-— "Projeto Lázaro: Colheita Humana" — leu o homem no ponto, para o grupo, com a voz falhando no meio. — Eles... eles usavam a gente como bateria.
+— O que é o pior?
 
----
-
-No terceiro dia, a multidão foi até o Distrito de Prata.
-
-Não foram avatares. Foram pessoas de carne, com tocha de verdade, feita de cabo de vassoura e pano com querosene, e pedra de verdade arrancada do calçamento. Eram umas quatro mil.
-
-A segurança privada da mansão dos Vance abandonou o posto às onze da manhã. Eles também tinham lido o panfleto. Um deles inclusive ajudou a arrastar o portão.
-
-Gabo estava na cadeira, atrás do cordão que acompanhava Vilar sob comando do sargento. Nise já chegara com a equipe do comboio; pedira que ele não tentasse apoiar a perna. Ele perguntou pela mulher retirada da fábrica. — Entreguei a outra equipe antes da emboscada — disse Nise. — Ela pediu que o nome não circulasse. Desde então, não tive notícias. O portão caiu.
-
-Viu quando arrancaram a Dra. Elara Vance de dentro da casa.
-
-Ela gritava, e implorava, e os implantes estéticos do rosto dela estavam falhando sem manutenção — a pele repuxava em lugares errados a cada dois segundos, revelando por baixo uma mulher de sessenta e seis anos aterrorizada e sem maquiagem.
-
-A multidão a colocou de joelhos no jardim.
+— A convicção absoluta de que existe uma mensagem esperando por eles.
 
 ---
 
-E aí Gabo Moretti fez a coisa mais difícil da vida dele até aquela data. Pediu que aproximassem a cadeira do cordão e ergueu o megafone para dizer que aquela mulher não morreria ali.
+Naquela manhã eles perderam um.
 
-— **ELA VAI SER PRESA!**
+Não no tiroteio: o agente Nélson Braz, quarenta e quatro anos, dezenove de corporação, subiu ao terraço às sete e vinte com a arma de serviço, sentou na beira e ficou lá.
 
-— PRESA POR QUEM?! — gritou alguém, e a pergunta era boa. — NÃO TEM CADEIA! NÃO TEM JUIZ!
+Gabo pediu que o levassem ao patamar abaixo do terraço. Dois agentes carregaram a cadeira; ele conversou com Nélson por quarenta minutos, sem conseguir convencê-lo a voltar. Desceram com Gabo depois do disparo.
 
-— Então a gente inventa um! — berrou Gabo. — Vocês querem justiça ou querem uma tarde boa?
+Ninguém no prédio comentou. Todo mundo ouviu.
 
-— **QUEREMOS AS DUAS!**
+A Dra. Nise ainda não estava naquela delegacia — ela chegou no dia seguinte, resgatada de um comboio médico emboscado —, e Gabo passou os anos seguintes perguntando se outro atendimento teria mudado o desfecho, sem ter como saber.
 
-E a multidão riu — aquela risada horrível, unida e sem humor, que multidão dá quando já decidiu. Vilar chegou com dezenove policiais e formaram um cordão. Não em volta da casa: em volta da mulher.
+— Você está bem? — ele perguntou a Val, mais tarde, porque não sabia perguntar de outro jeito.
 
-Dezenove homens cansados, de braços dados, com as costas para uma assassina em massa e a cara para quatro mil vítimas dela, sabendo perfeitamente de que lado estava a razão.
+— Eu sou analógica por necessidade, lembra? — Ela tocou o implante queimado da bochecha com dois dedos, o gesto de sempre. — Me cortaram da Rede quando eu tinha dezenove. Eu passei por isso sozinha, num quarto, sem médico e sem ninguém.
 
-Foi a coisa mais parecida com Estado que Baía Cinzenta produziu naquele mês.
+— Quanto tempo levou?
 
----
-
-Vilar leu o mandado em voz alta.
-
-Tinha sido datilografado numa Olivetti que a Val achou no arquivo morto, com duas vias e carbono, registrado pelo plantão, com fundamentos e relação das peças, para apresentação à autoridade judiciária assim que fosse possível. A assinatura de Vilar não substituía a decisão de um juiz.
-
-E funcionou. Isso é o que ninguém entende sobre a lei: ela nunca foi o servidor. Sempre foi o teatro, e o teatro estava sendo encenado com convicção.
-
-— Elara Vance, a senhora está presa.
-
-Ela cuspiu no chão. As mãos tremiam tanto que ela teve de fechá-las.
-
-— Vocês são animais. — A voz saiu com sotaque de escola cara. — Eu dei o paraíso a vocês. Vocês tinham conexão gratuita, medicina preditiva, uma cidade que **funcionava**—
-
-— A gente prefere a realidade — disse uma mulher na frente do cordão.
-
-E jogou a pedra. Acertou a testa da Vance acima da sobrancelha esquerda. Sangue de verdade escorreu, vermelho e comum, e um silêncio breve caiu sobre o jardim, porque ninguém ali tinha visto sangue sair daquele rosto antes.
-
-Gabo não prendeu a mulher que jogou. Ele registrou o rosto e a posição dela na multidão. Naquele momento, não sabia seu nome.
+— Cinco meses. — Ela deu de ombros. — Foi o melhor negócio que eu já fiz, e eu não desejo a ninguém.
 
 ---
 
-Colocaram Elara Vance na viatura. Ela sentou no banco de trás com as mãos algemadas na frente, ereta, com o sangue escorrendo até o queixo, e olhou pela janela até encontrar Gabo. E manteve o olhar nele.
+Jonas Vilar apareceu ao meio-dia.
 
-Não havia ódio ali. Havia uma avaliação — a mesma que ela devia dar num relatório trimestral. Ela conseguiu dizer uma frase antes de fecharem a porta, e disse baixo, para ele:
+Parecia dez anos mais velho e, curiosamente, não tremia. Não tremia naquele momento. Isso não provava cura, inocência ou mudança permanente; a gravação da negociação continuava guardada.
 
-— Você acabou de me salvar, detetive.
+Ele parou a três passos de Gabo, na distância exata de quem já foi superior hierárquico e não é mais.
 
-— Eu sei.
+— Sobrevivemos. O Sindicato recuou para a Zona Industrial.
 
-— Eu li o relato da Avenida da Indústria que sua jornalista publicou junto das denúncias. Você matou um rapaz que se rendeu. — Ela sorriu, e o sorriso fez o sangue mudar de caminho. — E foi você que segurou a multidão. Pensa nisso quando tiver dificuldade para dormir. Eu vou pensar.
+— Por enquanto — disse Gabo. — Eles voltam quando a fome apertar, e a fome aperta na sexta.
 
-A porta bateu.
+Os dois ficaram calados um tempo.
+
+— Você vai me prender? — perguntou Vilar.
+
+— Com o quê? Não tem promotor, não tem fórum, não tem cadeia com energia. — Gabo olhou para ele. — E não tem ninguém aqui com autoridade para me dizer que eu posso, o que é exatamente o problema que fez você tentar entregar o prédio.
+
+O velho encaixou o queixo.
+
+— Eu achei que podia negociar uma saída.
+
+— Você pediu lugar para a família. Está gravado — disse Elena.
+
+— Eu sei. E eu não entreguei e morreram dois. — Gabo reajustou a perna sobre o apoio da cadeira. — Guarda essa conta, Capitão, porque um dia ela inverte, e no dia em que inverter eu vou querer você por perto para me dizer isso na cara.
+
+Vilar assentiu devagar.
+
+Foi o momento exato em que os dois começaram a se respeitar, e nenhum dos dois teria admitido isso sob tortura.
 
 ---
 
-— Acabou, Gabo — disse Elena, tocando o ombro dele.
+— Preciso dos arquivos físicos — disse Gabo. — Papel. Tudo que tiver sobre o Projeto Lázaro e sobre a Dra. Vance.
 
-— A Vance caiu. — Ele olhou o jardim destruído, as tochas apagando na chuva, as quatro mil pessoas se dispersando devagar e sem saber o que fazer com o resto do dia. — A Aeterna é maior que ela. Isso aqui não foi a queda de nada. Foi a demissão de uma diretora.
+— Disseram que destruíram os originais depois da digitalização, em quarenta e sete — disse Vilar. — Era parte do contrato de TI.
 
-Val se aproximou com um jornal impresso às pressas, quatro páginas, feito por um pessoal da gráfica da Rua Nove que resolveu copiar a ideia. A manchete ocupava metade da capa:
+— Nem todos — disse Elena. — Um funcionário me deixou fotografar o volume de Dante no arquivo morto. Os originais ficaram lá. Não vi os outros armários.
 
-O FIM DA ILUSÃO
-E, embaixo, em corpo menor: *"O detetive que trouxe a verdade de volta."*
+— Então ainda há uma coleção a conferir — disse Val. — O que sobreviveu pode estar incompleto, ou ter sido alterado depois.
 
-— Eles estão te chamando de herói — disse Val.
+Gabo pediu que verificassem a rampa de carga do arquivo antes de descer a cadeira. Não era uma rede secreta descoberta naquele dia. Era o mesmo depósito de onde Elena trouxera as cópias, e agora precisavam saber o que mais tinha resistido.
 
-Gabo olhou a própria foto no papel, mal impressa, o rosto duro e desfocado.
+---
 
-— Herói morre no fim — ele disse, e dobrou o jornal em quatro. — Eu sou só o sujeito que ainda está de pé.
+O porão tinha um metro e meio de arquivos de aço enfileirados sob uma lâmpada de emergência que a Val religou com uma bateria de moto.
 
-Eles voltaram para o Cobalt. O motor pegou de primeira.
+Cheirava a papel guardado — aquele cheiro adocicado de celulose velha, com fundo de mofo e de traça — e, ao abrir a primeira gaveta, subiu uma poeira fina que ficou dançando no facho da lanterna por um minuto inteiro.
 
-E, no jardim vazio da mansão dos Vance, o vento empurrou catorze mil folhas de papel jornal encharcado contra a grade caída — todas com o mesmo rosto de mulher impresso na segunda página, todas ilegíveis, porque a tinta borra na chuva.
+Havia trinta e nove mil processos ali.
 
-Papel é a única rede que não pode ser desligada.
+Gabo passou a mão pela lombada dos primeiros, e a ficha caiu em algum lugar dentro dele.
 
-Também é a única que apodrece.
+Aquilo não estava na Rede. Nunca esteve. Aquilo não podia ser apagado por um comando remoto. Ainda podia ser falsificado, trocado ou queimado; seria preciso guardar origem e comparar assinaturas. Sessenta anos de crime de Baía Cinzenta, escritos à mão e à máquina, carimbados, assinados por gente morta, em papel.
+
+Ele riu sozinho no escuro, e foi a primeira vez em oito dias.
+
+— Val — ele chamou, e a voz ecoou no corredor de aço. — Como é que a Aeterna apagou a história dessa cidade?
+
+— Comprando o servidor.
+
+— Então eles apagaram tudo que estava ligado. — Ele puxou a primeira gaveta até o batente. — E algumas destas gavetas ficaram fora desse alcance. Isso não prova que ninguém tenha entrado aqui nem que o arquivo esteja inteiro.
+
+Elena parou na porta do porão com a lanterna na mão.
+
+— Quanto tempo leva para achar alguma coisa aí no meio?
+
+— Sem índice digital? — Gabo permanecia na cadeira, com a primeira pasta no colo e a perna apoiada. — Semanas.
+
+— A gente não tem semanas.
+
+— A gente não tem mais nada, Elena. — Ele virou a primeira folha. — Só isso.
+
+Lá em cima, gente sem luz procurava água, remédio e pessoas desaparecidas. No porão, três pessoas começaram a conferir uma gaveta de cada vez.

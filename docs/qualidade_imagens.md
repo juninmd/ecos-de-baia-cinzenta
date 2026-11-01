@@ -22,9 +22,9 @@ Nenhuma imagem reprovada. 🎉
 | Imagem | Motivo |
 |---|---|
 | `docs/public/cenas/capitulo_3/cena_6.jpg` | faixa horizontal suspeita de texto queimado (3.7x a mediana) |
-| `docs/public/cenas/capitulo_31/cena_3.jpg` | faixa horizontal suspeita de texto queimado (2.5x a mediana) |
-| `docs/public/cenas/capitulo_40/cena_1.jpg` | faixa horizontal suspeita de texto queimado (3.4x a mediana) |
-| `docs/public/cenas/capitulo_43/cena_2.jpg` | faixa horizontal suspeita de texto queimado (2.7x a mediana) |
+| `docs/public/cenas/capitulo_32/cena_3.jpg` | faixa horizontal suspeita de texto queimado (2.5x a mediana) |
+| `docs/public/cenas/capitulo_41/cena_1.jpg` | faixa horizontal suspeita de texto queimado (3.4x a mediana) |
+| `docs/public/cenas/capitulo_44/cena_2.jpg` | faixa horizontal suspeita de texto queimado (2.7x a mediana) |
 | `docs/public/cenas/capitulo_9/cena_2.jpg` | faixa horizontal suspeita de texto queimado (4.0x a mediana) |
 
 ## Cobertura

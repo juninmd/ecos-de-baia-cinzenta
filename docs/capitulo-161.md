@@ -1,5 +1,5 @@
 ---
-title: "Capítulo 161: Estática e Cinzas"
+title: "Capítulo 161: Servidores de Carne e Silício"
 date: "Pós-Colapso da Usina Prometeu (Noite Eterna)"
 location: "Servidores Centrais (Subnível 3.0 - Acesso Central)"
 characters: ["Gabo", "Valéria", "Aria"]
@@ -8,52 +8,63 @@ Localização: "Servidores Centrais (Subnível 3.0 - Acesso Central)"
 Personagens Presentes: "Gabo, Valéria, Aria (Reboot)"
 ---
 
-# Capítulo 161: Estática e Cinzas
+# Capítulo 161: Servidores de Carne e Silício
 
-O isolamento dos controladores tinha encerrado os comandos naquele trecho, e o silêncio que sobrou tinha textura de vácuo auditivo - o tipo de silêncio que se segue a uma explosão ensurdecedora. Havia corpos e biomassa entre os racks; não cinza suficiente para transformar a violência numa limpeza sem restos.
+O Subnível 3.0 era um matadouro com ar-condicionado.
 
-O cheiro era o único indício do inferno que acabara de ocorrer. Uma mistura acre de silício derretido, pó de cerâmica e a pungência seca de cinzas orgânicas. Para Gabo, era preferível. Qualquer coisa era melhor do que o cheiro sufocante de cigarro barato que ainda ameaçava vazar das rachaduras de sua sanidade exausta.
+Enquanto Gabo puxava o próprio peso para fora do túnel estilhaçado, o choque térmico quase o nocauteou. Depois do calor vulcânico da explosão do vagão, o ar aqui em cima era denso, resfriado artificialmente, e carregava um odor estéril de ozônio misturado ao inconfundível cheiro adocicado de cobre e sangue velho.
 
-Ele estava caído contra a lateral gelada de um terminal principal, o sangue escuro empapando o que restava de suas roupas, colando o tecido à carne ferida de seu abdômen. A dor irradiada de seu braço direito quebrado — agora mais castigado pelas colisões do que pelas fraturas e queimaduras iniciais das grades — era uma fornalha constante, mas necessária. Ele focou na queimação aguda, imaginando as pontas nervosas gritando em estática. Era a dor que o mantinha ali, a dor que queimava as alucinações de tabaco antes que elas pudessem tomar forma em sua garganta.
+A fumaça.
 
-— Você devia estar morto. — Valéria quebrou o silêncio, a voz rouca, sem força. Ela não se aproximou dele. Ficou caída perto de onde havia injetado o código da purga, os olhos fixos na poça escura de sangue sob Gabo.
+O fantasma rastejou novamente pelas suas narinas. Não a fumaça rala de cinzas, mas o cheiro espesso e alcatroado de um maço inteiro de cigarros queimando em um cinzeiro imundo anos atrás. O gatilho disparou em seu cérebro, acompanhado da náusea familiar e de um gosto amargo de bile na língua. A lembrança sufocante do escritório de Dante piscou por trás de suas pálpebras.
 
-— O relógio ainda tá marcando. — Gabo forçou as palavras por entre os dentes semicerrados. Cada sílaba era uma lixa arranhando sua garganta seca. Ele tentou se arrastar, mudando o ângulo do corpo. O simples atrito das calças sujas contra a grade de metal do chão enviou um relâmpago de agonia pelas pernas. Ele grunhiu, engolindo a alucinação de fumaça que tentou se instalar na onda de náusea.
+Não aqui. Agora não.
+Gabo jogou o ombro contra a quina de um dos gigantescos racks de servidores inativos. O impacto sacudiu o exoesqueleto fatigado, mas o que ele buscava era o choque no osso fraturado de seu braço direito. O braço falhou. Gabo quase caiu de joelhos; Val o puxou para a prancha de inspeção e mandou que parasse de testar uma fratura contra os móveis. A lembrança do cheiro continuava, sem uma porta que ele pudesse fechar pelo impacto.
 
-— *Você mal consegue se manter em pé,* — Aria falou pelos alto-falantes do comunicador de gola, com pouca inflexão e nenhuma avaliação clínica confiável. O pendrive blindado repousava acoplado de volta ao barramento lateral do cyberdeck *Phantom V3* no antebraço de Valéria; onde antes seu indicador luminoso pulsava em estroboscópios furiosos durante a guerra cibernética no console central, agora brilhava com uma luz azul-gelo fria e contínua no meio de um cemitério de cinzas. — *O pulso continua acelerado e você está piorando. O desmaio vem antes de você perceber.*
+— Você vai acabar quebrando a própria espinha antes de chegarmos ao topo, — murmurou Valéria. Ela emergia do buraco logo atrás dele, o rosto cinzento de exaustão, os olhos focados na vastidão escura da sala de servidores enquanto o pendrive de Aria pulsava em seu pulso.
 
-— Você tem um jeito péssimo de dar consolo, lata velha. — Gabo rebateu, a ironia banhada no cansaço metálico da própria voz.
+— Se eu não quebrar, o Taxidermista quebra, — Gabo rosnou, a voz áspera como lixa. Ele se afastou do rack, avaliando o ambiente.
 
-— *Consolo é uma abstração emocional sem eficácia hemostática, Detetive,* — retrucou a inteligência artificial a partir do módulo no pulso da hacker. — *O pulso está acelerado e a pressão cai nas leituras do deck. A laceração abdominal continua aberta. Val precisa conter o sangramento agora; o desmaio não avisa.*
+O lugar era colossal. Fileiras intermináveis de monólitos negros de silício estendiam-se pela penumbra, iluminadas apenas por raras luzes de emergência desde o colapso da superfície. Esta fora a espinha dorsal de processamento da Aeterna Corp. Agora, parecia um cemitério de gigantes.
 
-— Cala a boca um segundo, Aria, eu já tô indo — murmurou Valéria.
+Mas havia algo errado.
 
-A hacker finalmente encontrou forças para rastejar até ele sobre as grades cobertas de detritos. As mãos dela estavam sujas da fuligem preta das Esculturas pulverizadas e tremiam pelo refluxo da descarga neural que sofrera no painel mestre. Ela puxou a bolsa de suprimentos — o pouco que havia sobrado após a queda na estação e o massacre nas docas — e abriu o curativo de trauma que restara no kit da estação e pediu que Gabo mantivesse o tronco apoiado. A cobertura conteve parte do sangramento externo; não fechava uma lesão interna nem substituía o atendimento que continuavam sem alcançar. O grito de Gabo foi seco, espremido pelos dentes trincados até o esmalte estalar, e a dor subiu como um soco de ferro fundido no estômago. O cheiro lembrado continuou enquanto ele tentava acompanhar a voz de Val. Ele bateu a nuca contra o metal frio do terminal, a visão se dividindo em dezenas de manchas brancas e borradas enquanto o suor ácido escorria pelas têmporas. O tecido começou a escurecer nas bordas. Val manteve a pressão e procurou uma rota para atendimento.
+Entre os racks, grossas ramificações de uma substância escura e fibrosa — parecida com tendões musculares e raízes expostas — serpenteavam pelo chão e subiam pelas paredes de metal. As veias orgânicas pulsavam suavemente, emitindo um fraco brilho bioluminescente que coloria o ar de um vermelho doentio. O Taxidermista havia transformado o coração digital da corporação em um pulmão de carne.
 
-— Tá respirando? — Valéria perguntou, mantendo a pressão sobre o curativo. Ela apoiou a mão enluvada no ombro dele, sentindo o tremor involuntário dos músculos exaustos.
+No braço erguido de Valéria, o pendrive blindado de Aria aquecia enquanto varria os corredores com o feixe laser do *Phantom V3*.
 
-— Tô... — Gabo arfou, cuspindo saliva grossa com gosto de ferrugem no chão. — Tô inteiro o suficiente. O que sobrou da sala?
+— *Análise estrutural concluída,* — Aria falou pelo comunicador de gola de Gabo, sem nenhum traço de humanidade na voz. — *A biomassa está integrada diretamente aos barramentos de dados primários da Aeterna. O Taxidermista não destruiu os servidores. Ele os parasitou. A arquitetura de rede agora é quimérica.*
 
-— *O curativo está escurecendo nas bordas. Isso não confirma que a lesão esteja resolvida nem me permite estimar mais minutos de marcha,* — Aria relatou pelo comunicador, com a mesma neutralidade com que reportaria a cotação de ações da Aeterna Corp antes do Dilúvio. — *Os controladores locais continuam sem retorno. Ainda não conferimos os corredores laterais. No entanto, a varredura acústica e magnética realizada pelos sensores do deck indica que a rota de acesso às docas superiores e aos arquivos executivos permanece selada.*
+Valéria se aproximou de um dos racks, o olho cibernético ajustando o foco. Ela estendeu a mão, hesitando antes de aproximar o sensor do deck da massa orgânica que envolvia os cabos de fibra ótica.
 
-— Acha que a purga fritou o sistema das portas também? — Valéria perguntou, limpando o suor manchado de fuligem da testa com o dorso do pulso, onde a carcaça metálica do pendrive de Aria ainda irradiava o calor residual da sobrecarga.
+— Ele está usando o hardware para processar... o quê? — ela sussurrou, enojada. — O Rangel morreu na passarela daqueles tanques... nós passamos pelo inferno... para esse psicopata ter um servidor rodando carne?!
 
-— *Negativo, Valéria Cruz. A infraestrutura do Taxidermista é parasitária, baseada no sequestro da velha malha lógica da Aeterna Corp. A purga de íons desestabilizou o controle motor de suas unidades biológicas neste anel, mas a arquitetura mestre do complexo opera por camadas independentes. A comporta blindada ao norte é um firewall puramente mecânico.*
+— Ele chamava de 'A Grande Obra', — Gabo respondeu, os dentes cerrados, forçando a dor a mantê-lo ancorado. — Ele acha que está aperfeiçoando a cidade. Esculpir dor em dados, exatamente como a Aeterna fazia na Torre.
 
-— Então ele continua ouvindo lá de cima. — Gabo disse, a voz ainda vacilando enquanto tentava respirar sem mover o curativo no abdômen. Ele forçou o olhar cinzento para a vasta escuridão além dos corredores purgados, onde os cabos rompidos pendiam do teto como cipós carbonizados.
+O pendrive mudou subitamente para um estroboscópico de alerta máximo, interrompendo a reflexão com precisão cirúrgica. — *Movimento detectado no sonar do deck. Múltiplas assinaturas térmicas convergindo pelos corredores laterais. Padrão comportamental de predação cooperativa. Esculturas.*
 
-A dor das queimaduras recentes nos punhos era uma lembrança constante, pulsando em sincronia com a artéria carótida. Ele olhou para o salão em ruínas. Pilhas de tecidos escurecidos e estilhaços de cerâmica cirúrgica eram tudo o que restava das "Esculturas" que haviam tentado despedaçá-los minutos antes. A poeira escura de biomassa calcinada rodopiava lentamente no ar estéril, iluminada apenas pelas centelhas ocasionais das torres de resfriamento mortas.
+Das sombras entre os corredores de servidores, as abominações começaram a se desenrolar. Não eram os drones desajeitados do poço de ventilação ou os abortos grotescos do Estúdio. Estas 'Esculturas' eram ágeis, bípedes, compostas por uma fusão nauseante de polímeros balísticos da Aeterna e músculos enxertados superdesenvolvidos. Onde deveriam ter rostos, havia apenas placas lisas de cerâmica blindada, cravejadas com sensores óticos vermelhos.
 
-— Ele perdeu os olhos e os dedos neste setor — murmurou Valéria, erguendo o antebraço para que o feixe laser do *Phantom V3* varresse a imensa porta blindada no fundo da galeria, cujo aço liso e desgastado pelo tempo não refletia luz alguma. — Mas trancou a tampa do caixão antes da linha cair.
+Elas se moviam em completo silêncio, a não ser pelo leve som de garras metálicas clicando contra o chão de grade de aço. Eram cinco. Seis. Sete.
 
-— *Sua análise é estatisticamente provável,* — Aria confirmou pelo alto-falante, o pendrive piscando duas vezes enquanto processava os ecos de sonar no concreto. — *Ele perdeu a telemetria ativa do Subnível 3.0, mas seus nós logísticos superiores permanecem intactos além deste anteparo. Sugiro deslocamento imediato antes que protocolos secundários de expurgo térmico ou inundação química sejam acionados manualmente.*
+— *Combate direto expõe vocês a múltiplos alvos,* — declarou Aria pelo fone. — *O terminal oferece o comando de parada aos controladores enxertados. Algumas unidades podem ignorá-lo. Precisamos de abrigo físico enquanto isolamos a alimentação do anel.*
 
-- Deslocamento imediato. Fácil falar quando você pesa quarenta e cinco gramas e viaja de carona no braço dos outros - resmungou Gabo, apoiando as costas contra a carcaça do servidor para alavancar o tronco.
+— Val, — Gabo chamou, a voz tensa, os olhos fixos nas silhuetas vermelhas que os flanqueavam. — Algum terminal limpo onde você possa espetar a Aria? Alguma coisa que não esteja engolida por essa carne?
 
-Valéria ajudou Gabo a transferir o peso para a prancha de inspeção. Cada centímetro que ele se afastava do terminal era um castigo medieval; os joelhos tremiam, quase falhando sob o peso do próprio corpo, sustentados por nada mais do que teimosia pura e uma rejeição visceral à derrota.
+Valéria estava digitando freneticamente no teclado holográfico do pulso enquanto Aria filtrava as frequências. — Estou tentando! O nível de criptografia biológica é insano, é como tentar hackear um fígado... mas... espere! A Aria achou uma sub-rotina de manutenção de emergência da Aeterna que ainda pulsa no hardware profundo do console central ali na frente. Ela não está contaminada pela rede de carne!
 
-— Eu ainda posso ajudar — ele disse, mantendo a mão esquerda na cinta da prancha, a agonia pulsando como um tambor de guerra nos membros mutilados. Mas a dor mantinha o foco afiado, limpando a mente de qualquer hesitação diante do perigo. Era apenas a cruel, mas inegável, realidade da sobrevivência em um mundo quebrado.
+— O que ela faz? — Gabo firmou a prancha com a perna boa, mantendo o braço direito preso à tala.
 
-- Cala a boca e pisa firme, detetive. - Valéria suspirou pesadamente e guiou a prancha com a mão direita. A pistola ficou no coldre.
+— Se eu conectar o pendrive da Aria direto no barramento daquele terminal central... nós duas podemos acionar a rotina chamada Purga de Íons. O nome está no painel; ela isola e descarrega os controladores do anel. Pode interromper as Esculturas ligadas a ele, mas não vai evaporar tecido nem selecionar quem merece viver. Mas preciso de dois minutos de acesso físico ininterrupto no painel!
 
-À frente, o corredor negro engoliu a lanterna. As cinzas das abominações rangiam sob suas botas como vidro quebrado.
+As Esculturas aceleraram o passo. Não havia rosnados, não havia hesitação. Apenas a ordem fria do Taxidermista sendo executada.
+
+— Você e a Aria têm os seus dois minutos, — disse Gabo, apoiando a Caronte no suporte da prancha e mantendo a mão esquerda no gatilho. Só restava um cartucho. Val empurrou a barreira móvel de manutenção para estreitar a passagem diante dele; o lado direito ficou imobilizado junto ao peito.
+
+Ele puxou a barreira para estreitar o corredor entre as abominações e o terminal onde Valéria conectava o drive. Com o braço direito quebrado e as mãos feridas sob as ataduras, suas opções eram brutais e curtas. Ele era apenas o obstáculo mais teimoso da cidade.
+
+— *Sua ação é ilógica, Detetive,* — Aria pontuou pelo comunicador na gola dele enquanto Valéria espetava o pendrive de titânio no console central às costas de Gabo e ligava o emissor direcional do deck para dar suporte. — *Você não consegue recarregar sozinho. Confirmo o único cartucho da Caronte e a barreira móvel. Não saia de trás dela para seguir um marcador que eu perca de vista.*
+
+— Não preciso de manuseio fino, Aria! Só trava os servos delas pelo sinal quando chegarem perto! — Gabo rosnou, observando a primeira Escultura saltar em direção a ele, as garras abertas. Ele flexionou os joelhos, preparando o ombro blindado e o cano de Caronte preso ao antebraço para o choque que esmagaria o resto de seu exoesqueleto. — Eu só preciso ser o prego no pneu.
+
+Aria não argumentou. O processador dentro do pendrive cravado no terminal aceitou a variável e disparou um pulso agudo de interferência pelas antenas locais. No instante em que a primeira Escultura vacilou no ar com os sensores piscando em estática, Gabo atirava o peso do próprio corpo e a fúria do aço contra a criatura, o barulho de carne, cerâmica e dor enchendo os corredores outrora silenciosos do Subnível 3.0.

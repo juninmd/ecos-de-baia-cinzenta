@@ -1,54 +1,70 @@
 ---
-title: "Capítulo 164: O Cofre de Concreto"
+title: "Capítulo 164: Engrenagens Cegas"
 date: "Pós-Colapso da Usina Prometeu (Noite Eterna)"
-location: "Subnível 2.0 - O Arquivo Executivo"
+location: "Servidores Centrais (Subnível 3.0 - Acesso Central)"
 characters: ["Gabo", "Valéria", "Aria"]
 Data In-Game: "Pós-Colapso da Usina Prometeu (Noite Eterna)"
-Localização: "Subnível 2.0 - O Arquivo Executivo"
-Personagens Presentes: "Gabo, Valéria, Aria"
-description: "O arquivo permite ler a regra antiga de autovalidação do Sentinel. Aria reconhece uma possibilidade de exploração que cobrará risco de seu próprio histórico."
+Localização: "Firewall Mecânico dos Servidores Centrais (Subnível 3.0)"
+Personagens Presentes: "Gabo, Valéria, Aria (Reboot)"
 ---
 
-# Capítulo 164: O Cofre de Concreto
+# Capítulo 164: Engrenagens Cegas
 
-O silêncio do Subnível 2.0 não era como o dos andares inferiores. Não havia o eco úmido de goteiras ou o zumbido distante de maquinário canibalizando a si mesmo. Era um silêncio acústico, opressor, projetado para absorver som e segredos. O elevador de manutenção rangeu uma última vez antes de travar no lugar com um baque seco que reverberou pelos ossos exaustos de Gabo.
+A imensa porta blindada do setor erguia-se como uma lápide de aço escovado. Sem luzes de energia, sem painéis de controle digitais; era uma relíquia brutalista da Aeterna Corp, selada por um firewall puramente mecânico. A purga de íons de Valéria fritara o controle biológico do Taxidermista na sala dos servidores, mas aquela barreira física não se importava com eletricidade ou fantasmas no código.
 
-À frente deles, as portas de aço escovado do Arquivo Executivo da Aeterna Corp estavam entreabertas, travadas por detritos acumulados ao longo das décadas. A luz de emergência piscava em um ritmo arrítmico, banhando o saguão de recepção em tons doentios de âmbar.
+Gabo encostou a lateral do corpo na parede fria do corredor, deixando a textura áspera do concreto raspar contra o que restava de seu casaco carbonizado. O curativo em seu abdômen repuxava a cada lufada de ar superficial que ele ousava tomar. A dor contínua de seu braço fraturado, imobilizado pelas ataduras de Valéria, era o metrônomo que ditava seu ritmo cardíaco.
 
-Valéria foi a primeira a pisar fora da plataforma. Seus coturnos levantaram pequenas nuvens de poeira cinza e fina, intocada desde o colapso. Ela ergueu a pistola, varrendo o ambiente com movimentos lentos e econômicos.
+E era exatamente dessa dor que ele precisava.
 
-— Limpo — murmurou ela, a voz saindo áspera. O cansaço pesava em seus ombros como uma armadura de chumbo. — Parece um túmulo.
+O ar estagnado ali cheirava a poeira antiga e ozônio residual, mas a mente exausta de Gabo tentava injetar algo pior. O fantasma sufocante do tabaco, o odor azedo de cinzeiros transbordando da antiga sala do Comissário Dante, rastejava pelas beiradas da sua sanidade. Gabo manteve o braço fraturado junto ao corpo e contou as ranhuras da porta, sem conseguir afastar o cheiro lembrado.
 
-Gabo forçou-se a seguir, cada passo uma negociação brutal com a dor. O curativo no abdômen e a tala do braço quebrado puxavam a cada passo. Ele sentia os ossos partidos e as mãos em carne viva latejando sob as ataduras, em uma agonia em surdina. O cheiro nauseante de fumaça de cigarro, azedo e pegajoso, ameaçou invadir suas narinas novamente, e ele tentou firmar o braço junto ao corpo. A dor não afastou o cheiro.
+— *A infraestrutura da porta possui um override de manutenção,* — Aria reportou, sua voz sintética cortando o silêncio fúnebre a partir do comunicador de gola. No pulso de Valéria, o pendrive piscava em azul-gelo enquanto o feixe laser do cyberdeck *Phantom V3* mapeava meticulosamente as ranhuras do aço. — *No entanto, a alavanca de destravamento manual localiza-se na câmara de engrenagens superior. O único acesso é um duto de descompressão de quarenta e cinco por sessenta centímetros.*
 
-*O cheiro do velho.* A lembrança do escritório de Dante o enojava visceralmente. Ele não deixaria aquela alucinação dominá-lo, mesmo que custasse cada fibra de sanidade que lhe restava.
+Valéria, sentada no chão coberto de cinzas com os joelhos puxados contra o peito, soltou um riso sem humor. O suor sujo manchava seu rosto pálido de exaustão.
 
-No antebraço de Valéria, o pendrive blindado de Aria emitia um zumbido térmico quase imperceptível enquanto filtrava os sinais eletromagnéticos do ambiente através das antenas passivas do *Phantom V3*. O brilho azul-gelo do seu indicador luminoso recortava o rosto tenso da hacker na penumbra enquanto ela erguia o braço para escanear a arquitetura austera do local. Fileiras infinitas de servidores massivos e cofres de fita magnética formavam corredores perfeitos, erguendo-se do chão de linóleo negro até o teto escuro revestido de placas acústicas. O cheiro predominante era de silício velho, ozônio adormecido, freon seco e poeira estática.
+- Quarenta e cinco centímetros? - Ela murmurou, a voz áspera. - Já passei por um pior. Mas não com o colete, o cyberdeck no braço e a bateria nas costas, e quase apagando de fadiga térmica.
 
-— *A planta descreve blindagem perimetral neste setor,* — Aria declarou pelo comunicador, a voz sintética cortando o silêncio sem qualquer modulação emocional. — *A blindagem de chumbo nas paredes perimetrais e os inibidores passivos de frequência podem reduzir sinais de rádio. A blindagem pode ter sido rompida em algum ponto do perímetro. A Aeterna Corp projetou este nível para resistir a um pulso eletromagnético de classe militar ou a um colapso sísmico da torre. É um cofre estéril.*
+— *Sua análise de viabilidade biométrica está correta,* — Aria confirmou pelo alto-falante, o indicador luminoso do pendrive pulsando com frieza matemática. — *E como opero exclusivamente confinada a este módulo de hardware sem atuadores físicos autônomos, não possuo meios de interagir com a alavanca. Posso mapear o acesso pela planta, mas a câmera não mostra seu interior. Não vou chamar uma passagem estreita de saída garantida.*
 
-— Então pode ser difícil pedir ajuda por rádio — Gabo disse, a voz rouca raspando na garganta seca. Ele se escorou em um balcão de mármore sintético rachado logo na entrada do saguão, fechando os olhos por um segundo que pareceu uma eternidade. O frio do andar começava a infiltrar-se pelas roupas rasgadas, fazendo seus músculos tremerem de hipotermia incipiente e perda sanguínea. A exaustão cobrava um preço extorsivo a cada minuto.
+Gabo desencostou da parede, o curativo do abdômen puxando sob a jaqueta. Ele olhou para o pequeno duto retangular de ventilação posicionado a dois metros de altura, quase escondido pelas sombras densas.
 
-— Não tenha tanta certeza sobre estarmos seguros, Gabo — Valéria retrucou, caminhando com cautela até uma série de terminais apagados atrás do balcão de triagem. Ela limpou a tela de vidro estilhaçado de um monitor com a manga da jaqueta de couro e tentou acionar a chave de ignição mecânica, sem resposta. — Se o Miranda, o seu pai ou o que sobrou da diretoria quiseram guardar alguma coisa crítica longe dos olhos do mundo e fora do alcance dos tentáculos do Taxidermista, esse seria o lugar exato. E cofres executivos não costumam depender só de portas trancadas.
+— Eu não tenho equipamento preso nos braços, só um braço quebrado e uma mão em carne viva. — Gabo cuspiu as palavras com a aspereza de papel lixa. — Você não consegue tracionar com a mão esquerda. Eu consigo me empurrar com as órteses se mantiver o braço direito preso à tala. Preciso que fique aqui para me puxar de volta se eu travar.
 
-— *Observação pertinente, Valéria Cruz,* — interveio Aria, o LED azul do pendrive pulsando em cadência analítica. — *Os protocolos de custódia de nível executivo da Aeterna previam redundância letal autônoma em caso de perda de comunicação com a superfície. Não vemos contaminação biológica neste trecho. Isso não prova que o isolamento nunca foi violado; a porta está entreaberta e há rastros de manutenção no piso.*
+Valéria ergueu a cabeça rapidamente, os olhos prateados arregalados em um choque genuíno.
+— Gabo, não. Você mal consegue respirar sem abrir o curativo. Se você engatar naquele duto enferrujado e tiver uma hemorragia interna, você morre afogado no próprio sangue e eu não tenho como te puxar de volta.
 
-Gabo abriu os olhos, o olhar cinzento e injetado de sangue focado no labirinto geométrico de servidores à frente. A disposição dos racks monumentais de dados não era aleatória; eles formavam anéis concêntricos de aço escovado que convergiam para um núcleo central invisível a partir da recepção.
+— Se ficarmos aqui, o Taxidermista nos enterra assim que a energia primária reiniciar. — Gabo rebateu, a voz perigosamente baixa. Ele cravou os dentes no próprio lábio até sentir o gosto ferroso de sangue, forçando a mente a se concentrar na única saída viável. — Val, arrasta aquela caixa de junção e me dá um pé.
 
-— Precisamos encontrar a sala de controle primária desse andar — instruiu Gabo, respirando fundo o ar seco e gelado, grato por estar temporariamente livre do fedor de carne podre e formol dos andares inferiores. — Se existe algum arquivo físico não corrompido ou um terminal com acesso direto à espinha dorsal da torre para entendermos o que o meu pai e o Silas realmente armaram antes da queda... está guardado lá no fundo.
+— *Sua intenção desafia a lógica de autopreservação básica, Detetive Moretti. Seus sinais vitais indicam exaustão crítica,* — alertou Aria pelo ponto de áudio, seu tom permanentemente clínico. — *O esforço pode agravar a lesão abdominal. Seu corpo já está no limite que mede.*
 
-— E como a gente acha uma agulha num palheiro de cinco mil metros quadrados no escuro? — Valéria perguntou, batendo levemente com a ponta do dedo no corpo metálico do pendrive acoplado ao seu pulso. — Aria, você tem o mapa desse andar nos seus bancos de memória?
+— Eu não pedi uma segunda opinião, pendrive. Valéria, me levanta. — Gabo ordenou, caminhando até abaixo do duto.
 
-— *O acesso à planta arquitetônica detalhada do Arquivo Executivo era restrito ao Conselho Diretor e não está acessível no estado de emergência em que acordei no Ateliê,* — Aria informou com frieza cirúrgica. — *No entanto, os sensores infravermelhos do seu cyberdeck indicam um gradiente térmico anômalo no setor alfa-sete, a quatrocentos metros ao norte. Enquanto a temperatura média deste salão é de cinco graus Celsius, há uma fonte estacionária dissipando calor constante no centro do bloco. Uma pequena porção do hardware ainda opera em modo de hibernação profunda, alimentada por uma linha residual de energia geotérmica.*
+Xingando baixinho entre dentes, Valéria levantou-se e empurrou um gabinete de relés até a parede. Passou uma cinta pelo suporte superior e testou a fixação. Gabo usou o gabinete como degrau e a cinta como apoio para alcançar a boca do tubo; Val segurou a ponta livre com a mão direita.
 
-— Energia geotérmica independente — murmurou Valéria, olhando para Gabo. Um entendimento mudo e sombrio passou entre os dois sobreviventes: em um complexo morto e congelado, onde há calor, há memória viva. E, invariavelmente, há armadilhas.
+O interior do duto era um pesadelo de ferrugem, graxa velha e escuridão claustrofóbica. Assim que Gabo espremeu os ombros lá dentro, usando os joelhos e cotovelos doloridos para se impulsionar para frente no espaço apertado de metal, o isolamento acústico o engoliu. O som da própria respiração raspando na garganta seca soava como uma lixa.
 
-— Quanto tempo de bateria ainda temos no seu deck, Val? — perguntou Gabo, forçando o quadril contra o mármore para desencostar do balcão. O puxão no curativo do abdômen arrancou-lhe um grunhido baixo, mas serviu para manter a mente alerta.
+Ele rastejou como um verme no escuro. Centímetro por doloroso centímetro. A ferrugem desprendia-se e caía em seus olhos e boca. O ambiente apertado e a escassez de oxigênio cobravam um preço atroz de cada músculo. O ar estagnado cheirava a poeira antiga e óleo mineral oxidado, e cada empurrão com os joelhos exigia um esforço monumental para não ceder à claustrofobia.
 
-— Vinte e dois por cento. O suficiente para manter o scanner térmico e o processador da Aria rodando por mais uma hora se eu não precisar fritar mais nenhuma fechadura eletrônica — respondeu ela, destravando o coldre e mantendo a pistola em posição de retenção.
+Ele trincou os dentes, ignorando a agonia nos membros enfaixados que raspavam na chapa metálica. Continuou avançando pelo ferro áspero, usando o ritmo metódico da própria respiração para afastar o pânico e manter a rota até a câmara de controle.
 
-— *Recomendo conservar a carga para diagnóstico de interface,* — disse Aria pelo alto-falante. — *Se o terminal no setor alfa-sete utiliza arquitetura legada da primeira geração da Aeterna, a conexão de serviço pode oferecer leitura sem executar o protocolo de exclusão magnética. Precisamos consultar o índice antes de aceitar qualquer autenticação. O manual antigo também vincula uma intrusão nesse terminal à autopurga do controlador Sentinel; não sabemos se isso ainda está ativo.*
+A luz fraca da câmara de engrenagens finalmente brilhou à frente. Ele se arrastou até a borda e se jogou para baixo, caindo de forma desajeitada em um piso de grade sobre um mar imenso de engrenagens de bronze paradas. O impacto sacudiu seu abdômen ferido, arrancando-lhe um gemido reprimido.
 
-— Então guia a gente pelo corredor, lata velha — Gabo murmurou, dando o primeiro passo claudicante para dentro do cânion de metal negro.
+Levantou-se lentamente, a respiração saindo em jorros ásperos. A câmara estava parcialmente iluminada por faixas de luz de emergência mortas, mas algo não estava certo. Um odor sutil de formol cruzou o ar frio.
 
-Valéria caminhou ao lado dele, mantendo o feixe estreito da lanterna e o sensor do cyberdeck apontados para as sombras compridas entre os monólitos. A cada passo rumo ao coração gelado do Arquivo Executivo, o silêncio acústico parecia ficar mais denso, engolindo o som das botas e o próprio compasso da respiração. Eles haviam escapado das abominações de carne e cerâmica dos níveis inferiores, mas agora adentravam o domínio puro e implacável do silício esquecido.
+Ele não estava sozinho.
+
+Apoiado e enraizado na grande alavanca de liberação manual da porta — o objetivo principal — estava um apêndice grotesco. Uma massa de músculos vermelhos entrelaçada com fios de cobre e sensores ópticos. Era um sentinela biológico em estágio de casulo. As raízes do parasita prendiam a alavanca firmemente.
+
+A poça de carne reagiu à aproximação de Gabo. Um sensor óptico do tamanho de um punho se abriu no centro da massa de músculos, acompanhado por um som úmido e asqueroso. Fios de cobre começaram a se esticar como tentáculos defensivos. O cheiro de podridão e cigarros velhos encheu o ar.
+
+Gabo não hesitou. Ele não tinha mãos livres para desarmar. Nem armas para atirar.
+
+Ele rugiu contra o silêncio frio da câmara. Tomando impulso nas pernas doloridas, Gabo se apoiou no trilho de inspeção. Usou a haste lateral da órtese contra a base já solta da alavanca, mantendo o braço direito preso ao peito. O sensor do sentinela virou para ele; uma garra abriu mais um rasgo no casaco antes de o trinco ceder e o contrapeso assumir a carga.
+
+A biomassa estourou em um guincho agudo e repulsivo. Fluido amniótico cinza espirrou no rosto de Gabo. A dor da colisão nos nervos do seu braço foi transcendental, um abismo escuro onde apenas o som do seu próprio batimento cardíaco existia. Ele sentiu as garras de cobre da criatura arranharem seu casaco, mas já era tarde. Com o impacto, seu corpo forçou a gigantesca alavanca de metal para baixo. O som das garras metálicas se partindo soou junto com o estrondo profundo abaixo.
+
+As engrenagens gigantes sob o piso rangeram em protesto depois de décadas dormindo e começaram a girar, triturando as raízes do parasita que ainda as agarravam.
+
+Gabo rolou para o lado no chão gelado, ofegante, ensanguentado e consumido pela dor. Ele engoliu a saliva com gosto de poeira. A alucinação da fumaça havia sumido por completo.
+
+Abaixo, no corredor central, o barulho ensurdecedor da porta blindada recuando ecoou como um trovão. Ele havia aberto o caminho. As engrenagens cegas ainda giravam, alheias ao sangue e à agonia de um detetive que se recusava a morrer no escuro.

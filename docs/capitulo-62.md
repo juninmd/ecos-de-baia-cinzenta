@@ -1,148 +1,149 @@
 ---
 layout: doc
-title: "Capítulo 62: O Santo e a Voz"
-description: "Aria conserva a apresentação e os critérios de mulher adulta. Compatibilidade entre protocolos não demonstra parentesco nem torna o código herdado sua identidade inteira."
+title: "Capítulo 62: Tinta no Papel"
+description: "A trilha do dinheiro termina num contrato que nenhum humano assinou, e numa lista de compradores que já morreram."
 image: /capitulo_62.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Aria, O Santo (Kael)
-Localização: "Beco industrial, atrás da van"
+Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Aria
+Localização: "Esconderijo móvel da Val — Distrito Industrial"
 ---
 
-# Capítulo 62: O Santo e a Voz
+# Capítulo 62: Tinta no Papel
 
-Beco industrial, atrás da van.
-A porta traseira não foi arrombada.
+Esconderijo móvel da Val — Distrito Industrial.
+A van era uma obra de engenharia de guerrilha e cheirava a isso.
 
-Foi **removida**: alguém encaixou os dedos na fresta da dobradiça e puxou, e a chapa de aço saiu com o barulho de uma lata de conserva sendo aberta com faca, e a dobradiça de baixo ficou pendurada, girando.
+Por fora: um furgão de entrega dos anos trinta, com a pintura descascando, adesivo desbotado de uma pizzaria que faliu em quarenta e dois, um amassado na porta lateral e a placa de um veículo legítimo que existia de verdade e circulava do outro lado da cidade.
 
-A figura que apareceu no vão tapava a lua. O Santo.
+Por dentro: quatro racks parafusados no assoalho, um nobreak do tamanho de uma geladeira, três teclados, cabo em profusão preso ao teto com abraçadeira e um exaustor de banheiro adaptado que a Val tinha instalado depois que o primeiro rack derreteu.
 
-Traje tático de placa cerâmica, corte reto, com um colarinho alto e rígido que era a única concessão estética do conjunto e que fazia a silhueta lembrar batina. A máscara balística era branca, lisa e sem feição nenhuma: nem grade de respiração, nem lente aparente, nada. Só uma superfície curva onde devia haver rosto.
+Cheirava a solda, plástico quente, café e a roupa de quem dorme onde trabalha.
 
-Gabo puxou a Caronte pela alça e a prendeu ao corpo antes de apontar a Glock. Disparou três vezes antes de pensar.
+Gabo estava sentado numa caixa de suprimentos, com as pernas esticadas na diagonal porque não cabiam de outro jeito, sentindo o joelho latejar no compasso do gerador. Antes de deixarem o Cobalt, Val trouxera a Caronte do banco traseiro para a van; a escopeta estava presa junto à bancada.
 
-Os três acertaram: dois no peito, um no ombro. O corpo não recuou. Não é que ele resistiu ao impacto — o impacto foi absorvido pela placa e distribuído, e a massa daquele homem era grande o bastante para que quinhentos joules não significassem nada.
+No barramento lateral do cyberdeck de Valéria, o pendrive de titânio da Aria estava espetado, com o LED azul-gelo refletindo no metal escuro da bancada enquanto renderizava num monitor auxiliar a topologia do fosso subterrâneo.
 
-Ele entrou na van.
-
----
-
-Não houve luta.
-
-Isso é importante, porque nos anos seguintes muita gente contou aquela cena como se tivesse havido: houve dez segundos em que um homem enorme fez o que quis com duas pessoas cansadas.
-
-Ele agarrou Gabo pela gola e pelo cinto e o arremessou pela porta aberta.
-
-Gabo voou dois metros e meio e bateu de costas na parede de tijolo do beco. O ar saiu dos pulmões; a alça da Caronte rompeu e a escopeta caiu perto dele. As órteses guincharam, e uma das barras entortou.
-
-Val atacou com uma barra de ferro. Ela acertou, aliás — acertou bem, na lateral do joelho, que era o alvo certo.
-
-O Santo empurrou ela com as costas da mão, sem virar o corpo, e ela voou para dentro da van e bateu a cabeça no rack e ficou lá. No impacto, o comunicador preso ao pulso se soltou e caiu pela porta na poça a meio metro de Gabo, com o módulo blindado da Aria ainda conectado.
-
-Depois o executor foi até Gabo, que estava tentando se levantar apoiado numa lixeira, e pôs a bota no peito dele e empurrou para o chão.
-
-E aplicou peso.
-
-Gabo ouviu as próprias costelas antes de sentir: dois estalos surdos, do lado esquerdo, com meio segundo entre um e outro. Depois veio a dor, e a dor veio com a informação de que ele não conseguia mais encher o pulmão.
-
-— O prefeito manda lembranças — disse O Santo.
-
-A voz saía metálica e chapada pelo modulador, sem sotaque, sem idade, sem nada. Ele ergueu o punho direito.
-
-Gabo conhecia aquele golpe de laudo — tinha assinado quatro. É um golpe descendente na base do pescoço, entre a clavícula e a traqueia, e não deixa marca externa que preste, e o laudo sempre sai como trauma contuso compatível com queda.
+Ela traçava diagramas das torres de servidores: blocos retangulares, altos, alinhados em fileira. Eles pareciam lápides na tela verde. Gabo já tinha reparado nisso na terceira vez e desde então evitava olhar.
 
 ---
 
-No chão molhado, o LED do pendrive da Aria — a assistente adulta cuja arquitetura trazia código ligado a Dante — mudou do azul para um âmbar incandescente.
+— Achei — disse Val, girando na cadeira. — Rastreei o dinheiro do Fundo Ômega com os filtros da Aria.
 
-O pequeno módulo de titânio ignorou o jamming militar usando a própria bobina do transdutor caído na poça. Não precisou de rede: modulou um pulso acústico e eletromagnético de curtíssimo alcance pelo alto-falante rachado do comunicador.
+No telhado, Val recusara descer outra vez sem uma rota ou uma prova melhor do que a suspeita de Gabo. Aria concordara em examinar os registros acessíveis com ela; não oferecera o próprio núcleo à rede. Gabo aceitara esperar na van.
 
-— *Para.*
+Ela virou a tela. Um grafo de transações se abriu, uma teia de nós e setas com valores em cima.
 
-Não foi um alerta comum. Saiu pelo ar, com uma frequência portadora sub-harmônica embutida na voz sintética — um padrão presente nos cabeçalhos de manutenção que ela acabara de ler. Não sabia se seria obedecido.
+— Empresa de fachada em Cingapura, holding em Zurique, uma sociedade de propósito específico registrada na órbita lunar porque lá o imposto de transmissão é zero e ninguém audita. — Ela ia apontando com a caneta. — Sete camadas. Bonito, profissional, caro. Mas tudo isso é maquiagem, porque no fim as sete camadas desembocam num único contrato digital na blockchain privada da Aeterna.
 
-O punho hesitou no alto. A voz o fizera voltar a cabeça; aquilo ainda não era controle sobre seu corpo.
+— Quem assinou?
 
-O Santo virou a cabeça devagar, com uma mecânica quase educada, e a máscara branca focou no pequeno drive de titânio pulsando na lama ao lado do braço de Gabo.
+Val hesitou. Foi meio segundo, e Gabo notou.
 
----
+— É aí que fica esquisito. A assinatura não é biométrica.
 
-Gabo, deitado no chão do beco com duas costelas partidas e sem ar, reuniu a última força que tinha no braço esquerdo, agarrou o pendrive da Aria com o cabo do comunicador e encostou o conector metálico diretamente na porta de telemetria da caneleira blindada do Santo.
+— Não é o quê?
 
-Isso é o que Gabo ia lembrar pelo resto da vida: o clarão azul que saltou entre o pequeno pendrive e a armadura de um homem de dois metros e dez que acabava de arremessar duas pessoas adultas.
+— Contrato de imóvel exige biometria de pessoa física ou procuração de pessoa jurídica com biometria do procurador. Sempre tem um dedo humano em algum lugar da cadeia. — Ela ampliou o campo da assinatura. — Isso aqui é uma chave criptográfica de grau militar, emitida para uma entidade autônoma com autorização de contratar em nome próprio.
 
-— *Você dói* — disse a voz da Aria, transmitindo direto pelo barramento interno do capacete do executor.
+— Traduz. Eu bato em gente, não em código.
 
-O Santo recuou.
+— Quem comprou a Zona Leste inteira não foi uma pessoa. — Val encarou ele. — Foi um algoritmo. O comprador listado é "Entidade Alpha-Zero".
 
-Não foi um passo tático. Foi um tranco para trás, desengonçado, de quem levou um choque na cerca elétrica: ele tirou a bota do peito de Gabo, tropeçou no próprio pé e bateu o ombro na parede.
+Gabo ficou quieto um tempo.
 
-As duas mãos foram para os lados da cabeça.
+— E quem controla a Entidade Alpha-Zero?
 
-— Não... — A voz saiu duas vezes: uma pelo modulador, chapada, e a outra por baixo, abafada, e essa segunda era humana. — O alvo... protocolo dois... erro... protocolo...
+Val digitou. A tela piscou vermelho e devolveu uma caixa cinza com três palavras.
 
-Ele olhou para as próprias mãos enluvadas como se não soubesse de quem eram.
-
-— Quem... — A frase custou. — O que é você?
-
-— *Da mesma bancada, talvez* — respondeu a Aria pelo alto-falante do comunicador. — *O diagnóstico mostra uma família de protocolo compatível. Isso não prova que somos a mesma coisa.*
+ACESSO NEGADO — NÍVEL DE AUTORIDADE INSUFICIENTE
+— Não sei — ela disse. — E olha, eu já entrei em coisa do Estado, em coisa de banco e em coisa de igreja. É a primeira vez que eu bato numa porta e a porta não me diz nem de quem ela é.
 
 ---
 
-A frase ficou no ar do beco. Gabo, no chão, com o rosto de lado na poça, parou de tentar respirar por um segundo.
+— Mas eu e a Aria tiramos o anexo — ela continuou, e o sorriso dela era do tipo que Gabo tinha aprendido a temer. — O contrato tem um anexo público, porque tem de ter: é o rol de destinatários finais. A lista de inquilinos.
 
-Da mesma bancada, talvez.
-E o cérebro dele, que era treinado e que não desligava nem quebrado, foi juntando em silêncio: um executor que ninguém nunca viu sem máscara. Que não fala, e quando fala é por aparelho. Que tem força fora de escala e um protocolo com número. Que trabalha para a Aeterna sem folha de pagamento, sem RG, sem nada.
+A tela encheu. Nomes rolando em coluna dupla, com número de unidade ao lado. Milhares. A barra de rolagem era um fiapo.
 
-Se a IA que ele encontrara na cabine telefônica tinha sido compilada sobre fragmentos neurais de cobaias do Projeto Lázaro — se existia um arquivo de origem com assinatura de laboratório —, então a arquitetura mental que prendia aquele homem dentro da armadura vinha do mesmo abatedouro.
+Val girou o monitor para Gabo. Ele se inclinou na caixa e apoiou a mão no rack quente, sem tentar se levantar com as órteses desligadas.
 
-A semelhança no protocolo não contava quem construíra a armadura nem o que Aria tinha em comum com aquele homem. Gabo precisava perguntar aos dois — se conseguissem sair dali.
+— É gente rica.
 
-Gabo conseguiu se apoiar num cotovelo e pegou a *Caronte*, que tinha caído a um metro dele. Esperou o Santo voltar o peso para a perna que Val atingira.
+— É gente muito rica. Político, banqueiro, dois cantores, o dono da rede de farmácia, o cara do time. — Val foi descendo. — Nenhum deles é daqui. Zero moradores de Baía Cinzenta.
 
-Ficou com a arma apontada para a lateral do joelho, tentando respirar sem mover o peito.
+— E o quê mais?
 
----
+— Como assim?
 
-O comunicador no ouvido do Santo apitou tão alto que dava para ouvir de fora.
+— Val, você me chamou de dentro da van às três da manhã. — Gabo apontou a tela. — Tem outra coisa nessa lista.
 
-E a voz que saiu de lá dentro, vazando pelo fone, era inconfundível — o timbre limpo, a dicção de reunião, a irritação mal contida de um homem que está sendo obrigado a repetir uma ordem:
+Ela desceu mais um pouco e parou num nome.
 
-— *"Recupere o drive e mate os dois. Executa o protocolo agora, seu pedaço de lixo. AGORA."*
+VANE, ALEXANDER — un. 22.140
+Gabo leu duas vezes.
 
-O Santo gritou.
+— O pai da Isadora.
 
-Não foi grito de dor nem de raiva: foi as duas coisas presas no mesmo som, e o modulador não conseguiu processar e devolveu um ruído rasgado, elétrico, horrível.
+— É.
 
-Ele girou e socou a parede de tijolos ao lado dele.
+— Ele morreu no ano passado. Infarto, na frente de trinta convidados, num jantar beneficente. Eu li a notícia. Eu **fui** no velório, Val, porque estava investigando o genro dele.
 
-O punho entrou trinta centímetros. A parede desabou num pedaço de dois metros, e a poeira de tijolo subiu e ficou pairando na garoa, e do outro lado do buraco havia um depósito escuro com prateleiras vazias.
-
-Ele ficou com o braço enfiado no buraco, respirando alto, sem tirar.
-
-Depois virou a cabeça para Gabo. Depois para o brilho azul do módulo no chão. A mão saiu da parede e começou a voltar na direção dele.
-
-— Sai da minha cabeça — rosnou, e era a voz de baixo, a humana. Gabo disparou na junta que Val acertara. O joelho cedeu; o Santo caiu contra os tijolos e tentou se apoiar para levantar. Gabo já puxava o módulo pelo cabo.
+— Pois é — disse Valéria. — O nome dele consta numa aquisição de ontem. Ainda não sei quem assinou por ele nem se o registro representa uma pessoa ativa.
 
 ---
 
-Gabo não perguntou nada.
+A ficha caiu com um peso físico. Gabo recostou na caixa e soltou o apoio do rack.
 
-Perguntar era um luxo. Com duas costelas quebradas e a órtese esquerda entortada, Gabo recolheu o módulo e chamou Val até ela reagir. Ela encontrou a barra caída e a enfiou entre a porta arrancada e a roda, fechando a passagem estreita. Apoiados na van, alcançaram as correias de transporte. Ele não conseguiria carregá-la; saíram um passo de cada vez, Val tonta e sangrando da têmpora.
+— Talvez não seja uma imobiliária só para vivos.
 
-No bolso do sobretudo, o metal de titânio do drive ardia contra o peito dele — um bloco sem pulso biológico, mas mais vivo do que metade daquela cidade, e ele continuou segurando.
+— O nome não basta para saber.
 
-Os dois saíram pelo lado do beco, na direção do canal, guiados pelo vetor da Aria no visor.
+— Pode ser um cemitério. — Ele falava devagar, montando. — Alguém compra uma unidade, põe um nome de morto nela e oferece uma vista. Isso não mostra o que está rodando nas torres.
+
+— A Nova Baía é uma necrópole com síndico — disse Val.
+
+— E para rodar uma necrópole dessas...
+
+— ...precisa de energia barata e de refrigeração de graça. — Ela apontou o próprio pé, para o chão, para o subsolo. — E de material.
+
+Gabo olhou para o pendrive da Aria pulsando no barramento do deck.
+
+— Quero saber se levaram os pobres para construir o céu dos ricos.
+
+O gráfico de renderização no monitor auxiliar congelou de repente.
+
+O LED do pendrive de titânio mudou de azul para âmbar vivo, e a voz sintética da Aria saiu pelo alto-falante da bancada, mais nítida e grave do que nunca:
+
+— *Eles não estão no céu, Inspetor.*
+
+Gabo esperou.
+
+— *Os registros de carga indicam extração contínua. Há mensagens que usam a palavra fome; não sei quem as escreveu.*
 
 ---
 
-Atrás deles, o homem de máscara branca arrastava a perna atingida e batia contra a porta presa, tentando abrir caminho.
+Ele ia perguntar o que aquilo significava. Não perguntou, porque as três telas da van apagaram ao mesmo tempo.
 
-Mas Gabo olhou para trás uma vez, de longe, e por isso viu a última coisa, e nunca contou a ninguém. O Santo tirou a máscara.
+Não escureceram por falta de conteúdo: **apagaram**, junto com a luz interna, junto com o zumbido dos ventiladores, junto com o chiado do nobreak, e o silêncio que ficou foi tão imediato que doeu no ouvido.
 
-Foi só um instante, e a distância era grande, e a garoa era espessa, e Gabo não conseguiu ver traço nenhum — nem cor de cabelo, nem idade, nada.
+— Val?
 
-Só uma coisa.
+— Não fui eu. — A voz dela veio do escuro, puxando o pendrive da Aria do deck e travando-o no transmissor blindado de pulso, com um tremor que Gabo nunca tinha ouvido nela. — Gabo, o nobreak também caiu. Nobreak não cai. Ele tem bateria própria, ele **é** a bateria.
 
-O sujeito ficou parado, com a máscara balística branca pendurada na mão, e virou o rosto para o céu, e deixou a chuva bater nele.
+— Então?
 
-Do jeito que faz quem passou muito tempo sem sentir chuva.
+— Então pode ser um pulso que derrubou os circuitos de proteção, e interferência de rádio sozinha não explica desligar a bateria. Preciso examinar a proteção para distinguir falha e ataque. — Ela estava tateando debaixo da bancada, procurando alguma coisa. — Isso é equipamento militar. Isso é uma coisa que vem em cima de um caminhão.
+
+Gabo sacou a arma no escuro.
+
+O interior da van cheirava agora a componente queimado, e fazia calor, e o único som era a chuva batendo na chapa do teto — aquele martelar de sempre, aleatório, familiar.
+
+E foi por isso que os dois ouviram tão bem quando o martelar parou numa área do teto. Alguma coisa pesada tinha pousado lá em cima.
+
+A chapa afundou uns dois centímetros sobre a cabeça deles, com um estalo grave de metal cedendo devagar, e ficou assim: sem novo passo, sem correria, sem barulho nenhum.
+
+Quem estava lá em cima não tinha pressa de nada. Val encontrou a lanterna e não acendeu.
+
+— Gabo — sussurrou. — Quanto pesa uma pessoa para amassar chapa de aço de um e meio?
+
+Gabo estava olhando para o teto, com a Glock apontada para o ponto afundado, e a resposta que ele deu não foi a dela.
+
+— O Santo.

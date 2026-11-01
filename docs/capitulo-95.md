@@ -1,149 +1,149 @@
 ---
 layout: doc
-title: "Capítulo 95: Sacrifício Necessário"
-description: "Uma flor roxa brota no pulso da Val a trezentos metros do fim. E, no fundo do bunker, um homem fundido a uma árvore explica por que ele é a cura."
+title: "Capítulo 95: Fome"
+description: "O Hospital Central vira ilha. Lá fora a Colmeia ronca de fome; lá dentro Vilar chega com vinte e seis sobreviventes e uma confissão."
 image: /capitulo_95.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Silas Vance ("O Jardineiro"), Aria
-Localização: "Bunker do Projeto Gênesis — Salão Principal"
+Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Dra. Nise, Capitão Jonas Vilar
+Localização: "Arredores do Hospital Central"
 ---
 
-# Capítulo 95: Sacrifício Necessário
+# Capítulo 95: Fome
 
-Interior do bunker do Projeto Gênesis.
-O ar lá embaixo era quente, úmido e tinha corrente. Essa era a parte difícil de aceitar: havia uma brisa morna subindo pelo túnel a cada sete segundos e descendo nos sete seguintes. Não era ventilação. Era respiração. Parecia que andavam por dentro de um pulmão. A corrente quente acompanhava a vibração das paredes.
+Arredores do Hospital Central.
+O cerco começou de madrugada e ninguém percebeu na hora, porque cerco vegetal não chega: **aparece**. Ao amanhecer, o Hospital Central era uma ilha de concreto branco num mar preto e verde.
 
-As paredes de concreto do bunker original ainda estavam lá, e por cima delas crescia uma camada contínua de carne — não metáfora: tecido, com vascularização visível, com temperatura, com aquele brilho de superfície mucosa. A maca tinha ficado nos primeiros vinte degraus, com as rodas destruídas.
+As raízes já tinham subido três andares pela fachada norte e estavam trabalhando as janelas — não quebrando: procurando. Cada gavinha percorria o caixilho de alumínio milímetro a milímetro procurando fresta, e quando não achava, recuava, e vinha outra.
 
-Val soltara a prancha da maca para usá-la como trenó. O berço estava preso sobre ela. Desciam de lado, pagando a cinta pelo corrimão e freando o peso a cada degrau; Gabo não conseguiria carregá-lo.
-
----
-
-— Gabo.
-
-Val parou no meio de um lance. Ela largou a alça devagar, apoiou o berço de carga no degrau e ficou olhando para o próprio pulso esquerdo. Havia uma flor ali.
-
-Pequena, com quatro pétalas, roxa. Tinha brotado no meio de um arranhão de dois dias — aquele que ela levou no muro do túnel de serviço e que ela lavou com álcool e esqueceu. O caule saía de dentro da pele.
-
-— Não — disse Gabo.
-
-— É.
-
-— Val, a Nise tem o coquetel, a gente volta e—
-
-— **Gabo.** — Ela levantou a mão esquerda, onde a flor crescera. Os dedos estavam abertos e não fechavam mais que a metade. — Pode ter atingido o nervo. Perdi o movimento há uns quarenta minutos e não falei nada porque a gente ainda tinha ladeira.
-
-Ela sentou no degrau.
-
-— Eu não vou conseguir descer isso aí carregando peso. E eu não vou conseguir subir de jeito nenhum.
+Havia uma paciência ali que dava mais medo do que violência.
 
 ---
 
-Gabo largou a alça e sentou ao lado dela. Não disse nada por uns dez segundos, porque não tinha, e porque a Val teria detectado qualquer coisa falsa em dois.
+Lá dentro, seiscentas e poucas pessoas.
 
-— Você vai me atrasar — ele disse, por fim.
+Refugiados do enclave leste, funcionários do próprio hospital, gente do bairro, e os pacientes que não podiam ser movidos e por isso ficaram, e por causa deles ficou todo mundo.
 
-— Vou.
+A comida durava dois dias contando errado, e a Dra. Nise contava certo, então durava um e meio.
 
-— Isso é você me falando ou é você tentando facilitar para mim?
-
-— Os dois, seu idiota. — Ela riu, e a risada saiu com um eco duplo — a voz dela e uma segunda por baixo, meio tom abaixo, vegetal. Os dois ouviram e nenhum comentou. — Gabo, a Convergência é daqui a pouco. Se o Código Morto não rodar, eu viro planta de qualquer forma e você também, e a gente vai virar planta **juntos**, o que não melhora nada.
-
-Ela sacou a pistola com a mão direita e conferiu o carregador.
-
-— Eu seguro a retaguarda. Está vindo coisa pelo túnel desde que a gente entrou. Você não ouviu porque você está com a audição esquerda prejudicada desde a Torre e é orgulhoso demais para falar.
+A água estava racionada em novecentos mililitros por pessoa por dia, o que dá para viver e não dá para trabalhar. Mas não era a comida. Era o som.
 
 ---
 
-Gabo olhou para ela.
+Do lado de fora, a Colmeia roncava.
 
-Valéria Cruz. Vinte e oito anos agora. A melhor hacker que aquela cidade produziu, que foi cortada da rede aos dezenove e passou cinco meses sozinha num quarto, que remontou um comunicador com peça de sucata e reza, que caiu trinta metros em cima de um exoesqueleto sem gritar na descida, que matou três homens num corredor aos vinte e oito e escreveu os nomes deles com a mão tremendo.
+Não era rugido, não era grito. Era o som de estômago vazio — aquele gorgolejo grave e íntimo que a barriga da gente faz de madrugada — amplificado por alguma coisa do tamanho de uma cidade.
 
-A parceira dele. A amiga dele.
+Milhões de gargantas, cada uma fazendo um ruído baixo demais para ser ouvido sozinho, somando num rumor contínuo que entrava pelo piso e pelas paredes e não dava para tapar com nada.
 
-— Obrigado — ele disse.
+Ele tinha começado sete horas depois do meio-dia da chuva preta, e não tinha parado desde então. Nise tinha três casos de crise de pânico por hora, e não tinha mais ansiolítico desde terça.
 
-E foi tudo o que ele conseguiu, e ela entendeu o tamanho daquilo, porque ela o conhecia.
+— Eles estão com fome — ela disse, no terraço, olhando por cima do parapeito.
 
-— Me faz um favor, cowboy. — Ela sorriu, e uma lágrima desceu por um rosto que já estava ficando cinza nas maçãs. — Quando o mundo reiniciar, garante que tenha café bom. Não aquela porcaria solúvel vencida. Café **de verdade**.
+Gabo estava ao lado, refazendo a bandagem do braço com uma mão só.
 
-— Está bom.
+A mancha tinha chegado ao ombro na noite anterior. Nise tinha conseguido segurar o avanço com um coquetel antifúngico experimental que ela mesma formulou e que doía mais que o problema — mas segurou.
 
-— E, Gabo. — Ela verificou a trava da pistola com o polegar direito. — Não desce achando que isso aqui é despedida. Eu não estou morrendo. Eu estou **endurecendo**, que é diferente, e a Nise disse que atividade cerebral persiste. Se um dia der para me tirar daqui, você me tira.
+A dor era constante e ele já não comentava.
 
-— Eu tiro.
+— Eles gastaram muita energia com a Praga de Ferro — disse Gabo. — Acelerar a oxidação de todo o aço do Distrito Industrial num raio de dois quilômetros custa. Metabolismo alto por seis horas, e agora eles precisam repor.
 
-— Promete com o nome inteiro.
+— Repor com o quê?
 
-— Eu, Gabriel Moretti, prometo.
+— Com a gente, doutora. — Ele apertou o nó da bandagem com os dentes. — Não é para nos matar. É para absorver. Somos a única concentração de biomassa disponível a menos de quatro quilômetros do Sol Negro.
 
-— Anota na tua lista.
+Nise ficou um tempo olhando o mar verde.
 
-Ele tirou o caderno do bolso, ali mesmo, no degrau, com uma coisa descendo pelo túnel e três minutos no relógio, e anotou.
-
-Valéria Cruz — pendente
+— Eu passei quarenta anos dizendo aos meus alunos que a medicina é a arte de tornar um corpo humano menos apetitoso para o resto do universo — ela disse. — Nunca imaginei que fosse literal.
 
 ---
 
-Ele destacou o pendrive blindado de titânio da Aria do berço pesado, guardou-o no bolso tático sobre o peito e passou a cinta do trenó pelo corrimão do lance seguinte.
+Val apareceu na porta do terraço. Ela estava com dois dias sem dormir e com aquela leveza esquisita de quem passou do cansaço.
 
-Oitenta e nove quilos de bateria e condensador. Ele não levantou: deixou o peso descer um degrau por vez, travando a cinta no metal. A descida queimou as palmas, arrancou pele e demorou mais do que o relógio permitia. Nos últimos degraus ele sentou, passou o freio para o outro lado do corrimão e puxou a prancha para o piso.
+— Consegui contato com o Vilar.
 
-Atrás dele, os tiros da Val começaram. Primeiro espaçados, depois em série. Depois o som de carne rasgando, e ele não soube de quem. Ele não olhou para trás.
+Gabo se virou.
 
----
+— Ele está vivo?
 
-O Salão Principal era circular, com uns quarenta metros de diâmetro, e devia ter sido a sala de máquinas do bunker. No centro, onde ficava o mainframe original, havia uma árvore.
+— Está vivo e está a duzentos metros, no túnel de serviço da Rua Nove. Chegando com o que sobrou dos Puros. — Ela hesitou. — Vinte e seis pessoas contando Vilar. Entre elas, vinte e cinco Puros; Peçanha ficou entre os mortos.
 
-Ela subia até o teto e o atravessava, e o tronco tinha uns oito metros de diâmetro, e não era de madeira nem de carne: era feito de **nervo**. Feixes brancos e brilhantes de tecido nervoso trançados em cabo, milhões deles, com impulsos correndo pela superfície em ondas de luz que subiam do chão para o teto.
+— De duzentas e quarenta.
 
-E, fundido ao tronco a uns três metros de altura, havia um homem. O tórax e a cabeça saíam da árvore. O resto era árvore. Os braços se abriam para os lados e se dissolviam em galho na altura do cotovelo.
+— De duzentas e quarenta. — Val engoliu. — E ele disse que trouxe convidados.
 
-O rosto estava intacto, e Gabo o reconheceu do laboratório branco da visão.
+— Convidados?
 
-— **Você demorou, detetive.**
+— Um Profeta novo e mais uns setenta. — Ela olhou para os dois. — Eles não estão atacando. Estão sentados em volta das três saídas do túnel. Sem armas. Sem fazer nada.
 
-A voz não veio da boca. Veio das paredes, do chão, do tronco, e vibrando no esterno do Gabo.
+— Esperando o quê?
 
-— **Trouxe o presente?**
-
----
-
-— Trouxe uma proposta — disse Gabo, arriando a bateria de pulso no chão. Manteve o módulo da Aria escondido sob o sobretudo, com o cabo pronto junto à mão.
-
-O homem-árvore riu, e a risada fez a luz do tronco acelerar.
-
-— **Proposta.** — Silas Vance inclinou a cabeça. — **Detetive, eu sou a cura. A morte é a doença, e ela é a única que nunca teve tratamento. Vocês construíram uma civilização inteira de analgésico e nenhum de vocês teve coragem de atacar a causa.**
-
-— A causa.
-
-— **Eu resolvi o problema mais antigo da espécie e vocês me chamam de infecção.** — Ele abriu os braços de galho. — **Olhe para eles.**
-
-As raízes na base do tronco se moveram. E Gabo viu. Rostos.
-
-Milhares, encaixados na madeira nervosa, em camadas, com os olhos fechados e expressão de sono profundo. Ele reconheceu, sem procurar, três: o Marco, com aquela ruga do meio da testa que ele fazia quando não concordava; um rosto de Roberto Miranda, sem nada de titânio; e, mais abaixo, quase na raiz, um homem de cinquenta e dois anos com o rosto cansado de quem chegava em casa cheirando a café velho.
-
-Gabo teve de segurar no próprio joelho. Enterrara o corpo do pai. O rosto na árvore podia ser uma reprodução, uma lembrança usada contra ele; não aceitaria aquilo como devolução.
-
-— **Todos juntos** — disse Silas. — **Todos eternos. Ninguém com fome, ninguém com medo, ninguém sozinho. Me diga com todas as letras o que exatamente há de errado com isso, porque até hoje ninguém conseguiu.**
+— Não sei. — Val respirou fundo. — Gabo, o Vilar quer falar com você antes de subir. Pelo rádio, agora, não quando chegar. Ele insistiu nisso três vezes.
 
 ---
 
-Gabo se endireitou. Ele olhou o pai por uns três segundos e depois desviou, porque olhar mais tempo custava coisa que ele ia precisar.
+Gabo desceu ao subsolo e pegou o rádio.
 
-— Eu vou te dizer o que há de errado — ele falou, e a voz saiu rouca. — Ninguém escolheu.
+— Vilar.
 
-— **Escolha é um mecanismo de sofrimento.**
+— *Moretti.* — A voz do velho estava rouca de poeira. — *Antes de eu botar o pé aí dentro, eu preciso te falar uma coisa, e eu preciso falar por rádio porque eu não sei se eu consigo olhando na tua cara.*
 
-— Escolha é a única coisa que a gente tem. — Gabo manteve a mão sob o sobretudo, perto do conector. — Você não curou a morte, doutor. Você achou que sabia o que era melhor para todo mundo e teve poder suficiente para não perguntar.
+— Fala.
 
-Ele acoplou o cabo da bateria ao módulo, escondendo o movimento atrás do corpo. Uma raiz avançou sobre o cabo; Gabo sacou o revólver e disparou contra o ponto em que ela se prendia ao tronco. A raiz recuou, abrindo por um instante a passagem até a interface.
+Silêncio de quatro segundos.
 
-— Isso aqui não é um jardim. É um homem que não aceitou ouvir não.
+— *Faz nove dias eles me ofereceram água e ar por uma geração em troca de você.*
 
-— **E o senhor vai me responder o quê?**
+Gabo fechou os olhos.
 
-— Não.
+— E o senhor não entregou.
 
-Gabo deslizou o módulo da Aria até a interface na base do tronco e encaixou o conector antes que a raiz tornasse a fechar. A IA retomou o canal de áudio.
+— *Eu não entreguei, e eu não contei para ninguém que tinham oferecido.* — A voz do Vilar não tremeu, e era pior assim. — *Duzentas e catorze morreram ontem de manhã. Peçanha está entre elas. Nenhuma das pessoas que perdi soube da ameaça. Elas não foram consultadas, Moretti. Eu escolhi por elas, sozinho, num morro, e desci calado.*
 
-— Agora.
+— Capitão—
+
+— *Deixa eu terminar.* — Uma pausa. — *Eu não estou te pedindo perdão, porque não é a ti que eu devo. Eu estou te avisando, porque agora você vai me deixar entrar aí com vinte e seis pessoas e você tem o direito de saber com quem está lidando.*
+
+---
+
+Gabo ficou com o rádio na mão por um tempo.
+
+Ele pensou numa porta de delegacia, na chuva, com água na altura do peito, e num sujeito chamado Adilson que vendia peixe frito na esquina da Rua Onze.
+
+— Vilar.
+
+— *Estou aqui.*
+
+— O senhor tinha duzentas e quarenta pessoas para ouvir. Escondeu delas. Eu também já escondi o custo de uma escolha. — Gabo apertou o botão com força. — Sobe. E, quando chegar, escreve os duzentos e catorze nomes num papel e me entrega. Vai levar a noite inteira e o senhor vai fazer mesmo assim.
+
+Silêncio longo do outro lado.
+
+— *Por quê?*
+
+— Porque não quero que o número substitua as pessoas. Os vinte e seis sobreviventes vão precisar ouvir o resto, Capitão. A lista não substitui a prestação de contas. — Ele soltou o botão e apertou de novo. — Não conserta. Funciona.
+
+---
+
+No terraço, Gabo puxou o revólver do coldre e conferiu o tambor por hábito.
+
+Era uma peça velha de família, aço inoxidável de qualidade alta, e ficara guardada no hospital, fora do ataque ao enclave — mas não tinha resistido inteira: havia agora um véu de corrosão fina no cano, e ele sabia que aquilo ia piorar.
+
+Val e Nise vieram atrás dele.
+
+— O berço de injeção está pronto? — perguntou.
+
+— O Código Morto está carregado no pendrive da Aria — disse Val. — Compilado, testado no que dá para testar, empacotado nos setores que sobraram do drive de titânio. — Ela cruzou os braços. — Mas, Gabo, ele não dispara daqui.
+
+— Por quê?
+
+— Porque a Raiz não aceita instrução por rádio, e os testes de transmissão falharam na aproximação do Sol Negro. — Ela apontou o horizonte, onde a esfera pulsava por cima do Memorial, maior do que na véspera. — O pendrive tem que ser espetado na interface neural da fonte, com contato físico e descarga de alta tensão.
+
+Gabo assentiu devagar.
+
+— Então a gente leva o pendrive e as baterias de pulso até lá.
+
+— **Até o Memorial?** — Val arregalou os olhos. — Gabo, o conjunto de baterias e condensadores pesa oitenta e nove quilos. São quatro quilômetros de zona ativa, seiscentas pessoas dependendo da gente e um homem que não anda direito!
+
+— Então é melhor a gente começar a treinar.
+
+Ele fechou o tambor com um estalo.
+
+— Porque a gente vai entregar uma bomba no colo de Deus, e o Deus mora a quatro quilômetros daqui, e ele está com fome.

@@ -1,149 +1,93 @@
 ---
-image: /capitulo_117_pro.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Dante Moretti, Aria, Valéria "Val" Cruz
+image: /cenas/capitulo_117/cena_1.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Aria, Valéria "Val" Cruz
 Participação por transmissão: O Taxidermista
-Localização: "Usina Geotérmica Prometeu — Núcleo de Resfriamento"
+Localização: "Usina Geotérmica Prometeu — Subnível 4"
 ---
-# Capítulo 117: Zero Absoluto
+# Capítulo 117: O Arquiteto da Carne
 
-A porta do Núcleo não se abriu com um silvo hidráulico, mas com o estalo seco de gelo se partindo.
+O calor não era apenas temperatura; era uma pressão física. O ar no Subnível 4 tinha a consistência de sopa quente, engordurada pelo cheiro adocicado e nauseante de biomassa alimentando a geração elétrica.
 
-Quando a chapa de metal de trinta centímetros de espessura deslizou para o lado, o ar que saiu não era apenas frio; era uma agressão física. Gabo sentiu a umidade em suas roupas, remanescente do vapor do corredor anterior, cristalizar instantaneamente. O tecido do sobretudo endureceu, transformando-se numa armadura quebradiça de gelo sujo.
+Gabo limpou o suor que escorria para dentro dos olhos com as costas da mão suja de graxa. Sua perna direita, aquela que Dante havia remendado com sucata e parafusos industriais, protestava a cada passo sobre o gradeado de metal. *Click-clack, click-clack*. O som irregular de seus passos era o único ruído humano na sinfonia de pistões e turbinas.
 
-— *Máscaras. Agora* — alertou Aria pelo comunicador tático. Sua voz sintética chiou no fone de ouvido enquanto os sensores do deck de Valéria sofriam com o choque térmico brusco. — *Vazamento de gás criogênico no poço. A leitura de oxigênio junto ao piso está caindo. Filtro não resolve falta de ar; usem os conjuntos autônomos do armário de serviço.*
+— *A temperatura da tubulação está subindo* — Aria cortou o zumbido pelo comunicador tático no colarinho de Gabo. Acoplado ao cyberdeck de Valéria logo à frente, o pendrive da assistente de IA piscava em âmbar rápido, processando os sensores infravermelhos contra o vento quente que subia das fossas de magma abaixo.
 
-Val abriu o armário indicado na planta. Vestiram as capas térmicas e os dois conjuntos autônomos de manutenção, verificando o ar restante antes de abrir a segunda porta. A máscara de Gabo apertou a pele queimada. O visor dava minutos, não uma passagem segura.
+Gabo ouviu a inflexão final da frase no fone. O retorno cortou uma sílaba e voltou carregado de estática. Aria repetiu o aviso, mais devagar. Ele sentiu gosto de bile; os dedos tamborilaram contra a coronha da *Caronte* antes de subirem para o bolso interno do sobretudo.
 
-Eles entraram.
+Seus dedos encontraram o metal frio do Colar de Sol de sua mãe. Ele apertou o pingente até a borda de metal morder a palma da mão. A dor era melhor. A dor era limpa e mantinha sua mente ancorada no presente.
 
-O mundo lá dentro era o oposto polar do inferno de onde vieram. Se o corredor era caos e ruído, o Núcleo era silêncio e estase. Um domo gigantesco, escavado na rocha viva, forrado com painéis de isolamento térmico brancos e imaculados. No centro, suspenso sobre um abismo escuro por passarelas de vidro fosco, pulsava um monólito de cristal e cromo.
+O corredor era uma fornalha com paredes. A cada dez passos o teto baixava meio metro e o ar engrossava, e Gabo tinha que curvar a cabeça como quem pede desculpa a um lugar que não perdoa. O metal da órtese esquentava contra a pele; num certo ponto ele percebeu que o cheiro de churrasco subindo das fossas não vinha de porco, e parou de tentar identificar as coisas.
 
-A temperatura no display do comunicador de Gabo despencava: A passarela marcava doze graus negativos. A sonda voltada ao poço lia muito menos; Aria separou os dois canais antes que Gabo confundisse a temperatura do fluido com a do caminho.
+Seus passos eram o único som ali que não pertencia à máquina. *Click-clack.* Ele tentou acertar o ritmo, distribuir o peso, mas o pé direito sempre chegava tarde.
 
-— *Bem-vindos ao inverno eterno* — a voz do Taxidermista não vinha de alto-falantes aqui, mas parecia vibrar nas próprias paredes, transmitida pelos transdutores presos à estrutura. — *A entropia é o destino final de tudo, Gabriel. O calor é apenas uma agitação temporária. A ordem... a verdadeira ordem... é fria.*
+— Val — Gabo grunhiu, forçando a atenção a sair daquele eco vocal no comunicador. — Quanto falta para o núcleo de resfriamento?
 
-Gabo avançou pela passarela. O vidro estalava sob suas botas pesadas. Abaixo deles, a neblina de nitrogênio rodopiava como fantasmas presos.
+Valéria estava conectada a um painel de parede, seus olhos prateados dançando com dados invisíveis. Ela parecia pálida, o nariz sangrando um filete fino e escuro, sequela do esforço neural excessivo.
 
-— Onde ele está? — Gabo rosnou, a voz abafada pela máscara.
+— Estamos perto. Mas... — ela hesitou. — O código mudou. A arquitetura da rede aqui embaixo não segue os protocolos do Dante. É... orgânica.
 
-— No centro — Valéria apontou para o monólito. Ela tremia violentamente, apesar do traje térmico improvisado que haviam retirado do armário de serviço. Seus dedos, digitando freneticamente no terminal de pulso onde o pendrive blindado da Aria irradiava um calor febril contra a geada, estavam ficando azuis. — Gabo... meus implantes. O frio está desacelerando a condutividade neural. Estou ficando lenta.
+— O Taxidermista — Gabo cuspiu o nome como se fosse veneno.
 
-— Aguente firme. — Ele não olhou para trás. Não podia. Se olhasse, veria o medo nos olhos dela, e o medo era contagiante.
+— Sangra de novo — ele disse, apontando o queixo para o nariz dela.
 
-Um silvo agudo cortou o ar.
+— Eu sei que sangra. — Valéria limpou com as costas do punho, sem pressa, como quem já fez as contas. — Neural não é de graça. Cada porta que eu abro sai do meu córtex, não do seu.
 
-— *Atenção* — avisou Aria no fone auricular. — *Protocolo de Contenção Criogênica ativado.*
+— Então para de abrir porta.
 
-Jatos de gás branco explodiram das laterais da passarela, não aleatoriamente, mas com precisão cirúrgica, bloqueando o caminho. Gabo recuou um passo quando uma coluna de ar super-resfriado congelou a grade de proteção ao seu lado, que se estilhaçou como vidro barato segundos depois.
+— Então me dá outro caminho.
 
-— *Vocês são impurezas neste sistema* — continuou o Taxidermista, com aquela calma clínica que fazia o estômago de Gabo revirar. — *Bactérias febris tentando infectar um corpo saudável. O sistema imunológico deve responder.*
+Gabo não tinha. O silêncio entre os dois durou o bastante para o corredor engolir o som dos passos dele — o *click-clack* que a perna boa tentava disfarçar e a ruim denunciava. Valéria fungou, engoliu o sangue e voltou a digitar.
 
-Mais jatos. Eles formavam uma parede móvel, empurrando-os de volta para a entrada.
+Como se respondendo ao chamado, os monitores ao longo do corredor, que até então exibiam gráficos de eficiência energética, piscaram em uníssono. O ruído estático foi substituído por uma imagem granulada: um relógio de bolso antigo, balançando hipnoticamente.
 
-— Ele está nos pastoreando — disse Valéria. — Não podemos passar.
+— *Tick-tock, Detetive* — a voz veio de todos os lugares e de lugar nenhum. Era suave, culta, com aquele tom de avô que conta histórias de terror para crianças. — Você está atrasado. O tempo não espera por ninguém, muito menos por homens quebrados.
 
-Gabo olhou para os emissores nas paredes. Eram pequenos, discretos, rotativos.
+Gabo ergueu a *Caronte*, apontando a escopeta para a tela mais próxima.
 
-— Aria, pode hackear isso pelo deck da Val?
+— Apareça, seu filho da puta. Vou terminar o que a enchente começou.
 
-— *Negativo* — respondeu a IA. — *O sistema de disparo é analógico. Válvulas de pressão mecânicas. Sem interface sem fio.*
+Uma risada seca ecoou.
 
-— *Analógico.* — Gabo sorriu por baixo da máscara. Um sorriso sem humor. — Então ele fala a minha língua.
+— *Tanta raiva. Tanta... ineficiência. Veja ao seu redor, Gabriel. Veja o que construí.*
 
-Ele ergueu a *Caronte*. A escopeta estava coberta de geada. Ele rezou para que o percursor não estivesse congelado.
+As telas de alta definição embutidas nas paredes mudaram de imagem. Gabo viu o interior das caldeiras. Não era carvão que queimava lá. Eram corpos. Milhares deles. A "Nova Alvorada" não era reabilitação; era combustível.
 
-— Val, calcule o intervalo dos jatos.
+— *Dante queria ordem* — a voz do Taxidermista continuou. — *Eu lhe dei a perfeição. A carne humana é um recurso desperdiçado. Eu apenas fechei o ciclo. O lixo da cidade se torna a luz da cidade. É poético, não acha?*
 
-— O quê?
+Valéria engasgou, recuando.
 
-— O padrão! Usa a Aria pra calcular o maldito padrão!
+— O esquema mostra uma linha da fornalha para o suporte do biohost. Não sei quanto da energia vem dela. Mas vi o que entrou na esteira.
 
-Valéria piscou, sincronizando seus olhos cibernéticos com o coprocessamento do pendrive da Aria. O HUD dela sobrepôs linhas de tempo sobre o caos branco.
+Na parede, o gráfico de eficiência subia em degraus verdes. Cada degrau era um lote. Gabo fez a conta que não queria fazer: a linha podia sustentar o biohost. Sem uma leitura atual, cortar a usina inteira também poderia atingir outras pessoas ligadas à rede.
 
-— Esquerda, direita, centro, pausa de dois segundos. Repete.
+— Se a gente derrubar isso — ele disse, a voz saindo estranha, sem raiva —, a gente derruba o velho junto.
 
-— Dois segundos. — Gabo engatilhou a arma. O som foi alto e metálico no silêncio. — É tudo o que eu preciso.
+— Não é o velho. — Valéria não desviou os olhos da tela. — O velho é o nome que você dá pra ele quando precisa de um motivo. A coisa que está lá em cima é a mesma que mandou os caminhões. E está sendo alimentada por gente que tinha nome.
 
-No próximo intervalo, Gabo avançou apoiado na grade.
+— E as outras pessoas ligadas à rede?
 
-Não foi uma corrida elegante. A órtese externa da perna direita rangia contra o frio; a cinta pressionava a ferida a cada passo. A dor era uma lança de fogo em um mundo de gelo.
+— Não sabemos o que acontece com elas se você cortar tudo. — Ela ergueu o queixo. — Por isso precisamos ler o painel antes de quebrar qualquer coisa.
 
-*Esquerda.* O jato passou a centímetros de seu ombro, congelando a manga do sobretudo.
-*Direita.* Ele perdeu o apoio e bateu o joelho no vidro; agarrou a grade antes de cair.
+Gabo sentiu o mundo inclinar. A perna doía, a cabeça girava. Ele se lembrou da Torre do Relógio. Do som de seus ossos quebrando. O Taxidermista não era apenas um serial killer; ele era o engenheiro do inferno.
 
-Ele viu a junção do cano que alimentava os emissores, com uma etiqueta de manutenção vencida e corrosão sob o gelo.
+— Abra a porta, Val — Gabo ordenou, sua voz baixa e perigosa.
 
-— *GABO, AGORA!* — gritou Valéria.
+— Gabo, o firewall é...
 
-Gabo se lançou os últimos metros, deslizando pelo chão liso. Ele ergueu a *Caronte* e disparou à queima-roupa contra a junção do cano que alimentava os emissores da passarela.
+— ABRA A PORTA! — Ele rugiu, batendo com a coronha da arma no painel.
 
-BOOM.
-O tiro de chumbo grosso não perfurou o cano reforçado, mas a força cinética, combinada com a fragilidade do metal super-resfriado, fez o serviço. A junção corroída se abriu no ponto marcado pela etiqueta de manutenção vencida. O nitrogênio vazou descontroladamente para o abismo abaixo, criando uma nuvem branca que engoliu a base da plataforma.
+Valéria arrancou o pendrive blindado da Aria da lateral do deck e o espetou diretamente na porta de serviço do console da comporta. Faíscas azuis saltaram do conector universal retrátil enquanto o drive de titânio aquecia instantaneamente.
 
-A parede de jatos cessou.
+— *Detectando anomalia lógica no barramento* — alertou a voz de Aria pelo alto-falante do painel, com sua cadência interrompida pelos avisos do controlador. — *O sistema prioriza a eficiência. O controlador marcou nossa conexão como invasão. Há uma rotina de contenção sendo acionada.*
 
-Gabo se levantou, ofegante. O cano da *Caronte* exalava vapor, o calor residual derretendo a geada sobre o metal.
+As luzes do corredor ficaram vermelhas. As portas de segurança atrás e à frente deles se fecharam com estrondos metálicos. Do teto, aberturas se abriram. Não eram armas de fogo. Eram pulverizadores.
 
-— Caminho limpo — ele disse.
+Um cheiro químico acre, de formol e amônia, começou a preencher o espaço.
 
-Valéria alcançou Gabo e o ajudou a chegar ao monólito. Valéria conectou o cabo extensor do *Phantom V3* ao painel de acesso, deixando o pendrive da Aria assumir a criptografia diretamente. Desta vez, a interface digital estava presente.
+— *Gás paralisante* — a voz do Taxidermista sussurrou. — *Vamos ver se seus ossos curaram bem, Gabriel. Tenho novos relógios que precisam de ponteiros.*
 
-— *Desbloqueando matriz primária...* — O LED do pendrive da Aria piscou em alta frequência, derretendo os cristais de gelo ao redor do conector. — *Acesso concedido.*
+Gabo puxou Val para longe dos bicos. O pano que levantou para cobrir o rosto não tornava aquele ar respirável enquanto Valéria puxava o pendrive da Aria de volta para o cyberdeck.
 
-As placas de cromo do monólito se abriram como as pétalas de uma flor mecânica.
+— Val, usa a Aria pra achar uma saída no mapa! — ele gritou abafado. — Eu vou comprar tempo.
 
-E lá estava ele.
-
-Dante Moretti não estava em um trono. Ele não estava conectado a cabos grossos como em um filme de ficção científica barato.
-
-Ele estava flutuando.
-
-Um cilindro de vidro transparente, cheio de um fluido viscoso e translúcido, mantinha o corpo do Comissário em suspensão. Mas não era o Dante que Gabo lembrava. Nem a projeção holográfica perfeita que governava a cidade.
-
-A pele era translúcida, revelando veias que pulsavam com luz azul — o mesmo azul dos processadores de "wetware" que viram nos dutos. Seu corpo era uma colagem de cicatrizes cirúrgicas e enxertos sintéticos. Mas o mais perturbador eram os olhos. Estavam abertos.
-
-Cegos, brancos, sem íris. Olhando para o nada. E ainda assim, vendo tudo.
-
-— *Pai* — a palavra saiu da boca de Gabo como um insulto.
-
-A voz do Taxidermista silenciou. O zumbido da usina parecia ter parado.
-
-Dante virou a cabeça dentro do tanque. Lentamente. Os olhos brancos focaram em Gabo através do vidro e do líquido.
-
-— *Gabriel* — a voz não veio do ambiente, nem dos ossos. Veio pelo canal de áudio aberto de seus comunicadores, como uma intrusão direta facilitada pela proximidade. — *Você chegou cedo. Meu ciclo de resfriamento está em 89%.*
-
-Gabo apontou a *Caronte* para o vidro.
-
-— Acabou, Dante. A cidade não é sua bateria. As pessoas não são seus processadores.
-
-Dante sorriu. Não foi um sorriso de vilão. Foi o sorriso cansado de um pai vendo um filho cometer o mesmo erro pela milésima vez.
-
-— *Você ainda pensa pequeno. Pensa em indivíduos. Eu penso na Espécie. A dor deles... é o combustível da ordem. Sem mim, eles voltariam ao caos. À lama. Eu sou a represa que segura o dilúvio.*
-
-— Você é o dilúvio — retrucou Valéria, a arma tremendo nas mãos. — Mandou suas máquinas atrás de Rangel. E chama o que fez com os Drenados de ordem.
-
-Os olhos cegos de Dante se voltaram para o pequeno drive conectado ao painel através do cabo de Valéria.
-
-— *Eu usei o que esta cidade já descartava. Seu pequeno oráculo também conhece o valor de uma escolha calculada.*
-
-No painel, o LED de Aria oscilou do azul para o âmbar. Ela cortou a estática e respondeu com a própria voz: — Você escolheu por pessoas que não podiam recusar. Eu não.
-
-— Saia do tanque — ordenou Gabo. — Ou eu quebro o vidro e deixo você derreter no chão.
-
-— *Se você me desligar, a rede neural entra em colapso,* — disse Dante, a voz calma. — *Os milhares de "Drenados" conectados ao sistema... seus cérebros fritarão instantaneamente. O choque sináptico matará todos eles. Incluindo, talvez, a Srta. Cruz, cujos implantes estão perigosamente sincronizados com a minha frequência agora.*
-
-Gabo travou. Valéria levou a mão à cabeça, gemendo baixo.
-
-— É um blefe — disse Gabo, mas o suor frio escorria por suas costas.
-
-— *É um cálculo,* — corrigiu Dante. — *O Dilema do Bonde, Gabriel. Puxe a alavanca, mate o monstro, mas sacrifique os inocentes nos trilhos. Ou não faça nada, e deixe o monstro continuar a "salvar" a cidade à sua maneira distorcida.*
-
-O dedo de Gabo pairou sobre o gatilho. O ar estéril do laboratório irritava sua garganta, mas não era a asfixia química que o incomodava. Era a pureza artificial. Ele apertou o Colar de Sol sob o sobretudo, sentindo o metal morder a pele do peito. A dor aguda era sua única âncora, a única coisa real num mundo de vidro e mentiras.
-
-— Rangel me disse para fazer valer a pena — Gabo sussurrou.
-
-Ele olhou para Valéria. Ela estava pálida, sangue escorrendo do nariz — o sinal de sobrecarga neural.
-
-— *O tempo acabou,* — disse Dante. — *A temperatura estabilizou. O despertar começou.*
-
-O líquido no tanque começou a borbulhar.
+Ele apontou a *Caronte* para as tubulações de vapor acima das telas. Se o bastardo queria eficiência, Gabo lhe daria o caos.

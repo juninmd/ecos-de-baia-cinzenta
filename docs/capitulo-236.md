@@ -1,106 +1,155 @@
 ---
-Título: A Terra Vermelha
-Data In-Game: Sétima tarde na Velha Baía
-Localização: Terreno Atrás do Galpão de Impressão, Velha Baía
-Personagens Presentes: Gabo, Valéria, Elias, Dra. Elara Vance
+Título: Fé Pública
+Data In-Game: Sexta tarde na Velha Baía
+Localização: Posto de Controle da Estrada da Serra, Velha Baía
+Personagens Presentes: Gabo, Valéria, Elias, Marco Moretti
+Participação por rádio: Elena, Dra. Elara Vance
 ---
 
-# Capítulo 236: A Terra Vermelha
+# Capítulo 236: Fé Pública
 
-Voltamos ao galpão depois que Elias e dois trabalhadores examinaram a drenagem sob o prédio. Não acharam fogo nem sinais de descarga naquele trecho; o restante da linha ainda precisava de inspeção.
+O posto de controle era uma guarita de concreto, dois cavaletes pintados de branco e um drone velho pendurado num fio, balançando com o vento como um enforcado pequeno. Não tinha cerca. Não tinha saco de areia. Tinha um homem sentado numa cadeira dobrável, no meio da estrada, com uma pasta no colo.
 
-A terra da Velha Baía não é preta como a do interior. É vermelha, pesada de minério de ferro e sal, daquele tipo que gruda na pá e pesa o dobro a cada golpe.
+O vento da serra cheirava a resina e a papel molhado, e o frio entrava pela manga da camisa antes de chegar ao osso. O drone zumbia baixo, sem entusiasmo, como máquina cumprindo tabela.
 
-Enterramos Elena ao lado do monte de pedras de Duarte, atrás do galpão de impressão, onde a encosta de barro desce suave até encontrar as poças de óleo da praia morta. Dois montes de terra fresca separados por quatro metros de capim cinzento. Duas pessoas que pagaram a conta da mesma tiragem.
+Elias parou o jipe a trinta metros e desligou o motor, e a serra ficou quieta do jeito que só fica depois de explosão. Desci com o braço bom, porque o direito continuava quebrado e a tipoia não perdoava tranco de estrada. Val desceu depois, com a *Caronte* pendurada no ombro por educação.
 
-Elias cavou a maior parte, parando para aliviar o tornozelo antes de recomeçar.
+Andamos os trinta metros. Marco não se levantou. Não levou ninguém, também: nem guarda, nem motorista, nem um drone que prestasse. Isso foi o pior.
 
-Eu tentei ajudar com a pá curta, usando apenas o braço esquerdo enquanto o ombro direito ardia na tipoia a cada impulso do quadril, mas o joelho emperrado pela órtese falseava no barro mole. No sexto golpe, a pá escapou dos meus dedos e caiu na vala com um estalo oco. O gosto amargo de bile e ferrugem subiu à minha garganta.
+— Você veio sozinho — falei.
 
-Fiquei de pé na beira da cova, respirando pelo nariz, sentindo a chuva bater no meu rosto.
+— Vim com o ato — ele disse. — Homem armado negocia com o que tem na mão. Eu negocio com o que tenho no papel.
 
-Não era a chuva ácida da cidade baixa. Era água fria, limpa pela primeira vez desde que o Dilúvio abriu as comportas meses atrás, descendo das nuvens cinzentas que começavam a se abrir no horizonte leste.
+Ele olhou a arma no ombro de Val, olhou a estrada atrás de nós, e não se mexeu.
 
-Valéria deu dois passos à frente. Ajoelhou-se na lama vermelha e usou a pá de Elias com a mão direita; a proteção da esquerda só servia de apoio no cabo. Tirou a terra solta, devagar, sem forçar os dedos que não obedeciam. O barro cobriu o cromado dos antebraços dela e manchou as juntas de cerâmica sintética.
+Estava mais magro do que na Torre. Desde o Dilúvio eu não o via de perto, e o que sobrou dele era um homem de terno sem vinco, sentado numa cadeira de alumínio que devia estar gelada. A cicatriz das raízes subia do maxilar até a têmpora, fina como rachadura em vidro.
 
-— Profundidade atual: um metro e setenta — disse Valéria. Os olhos prateados dela piscaram com uma luz fraca, sem estabilidade. — A cota fica acima da marca das marés que Elias encontrou. Vamos reforçar o monte contra a chuva.
+— A papelada está pronta — ele disse, e abriu a pasta. — Ato de certificação de acervo. Reconhece o índice de retenções como registro administrativo, com fé pública, para todos os efeitos. Assinado por mim, com o selo da Diretoria de Administração. Sem isso, o que vocês têm é uma pilha de folhas com números.
 
-— Obrigado, Val — falei.
+— E com isso?
 
-Ela parou com as mãos mergulhadas na terra. Ficou olhando para os próprios dedos mecânicos manchados de barro vermelho.
-
-— Há uma inconsistência no registro — ela murmurou. O tom não era o do Modo de Segurança. Era mais lento, hesitante, como se faltasse uma palavra. — Encontramos Elena sem sinais de circulação. Eu sei o que aconteceu com o corpo. Mas continuo esperando que ela entre pela porta para corrigir uma data. Esse atraso não aparece no relatório do berço.
-
-Olhei para a ciborgue. Para o rosto jovem de pele pálida, onde duas faixas de LED azul estalavam com ruído estático.
-
-— Isso se chama luto, Valéria — disse a Dra. Vance, que permanecia na cadeira de rodas improvisada, apoiada no parapeito de madeira da doca. — Os engenheiros da Aeterna chamavam de resíduo emocional não quantificável. Meu pai chamou o sofrimento alheio de falha para justificar o que fez. Nenhum implante precisa explicar por que a ausência dela dói.
-
-Valéria não respondeu. Fechou os punhos cobertos de terra e saiu da vala com um salto curto, sem olhar para nenhum de nós.
+— Com isso vocês têm uma pilha de folhas com números **e um carimbo**. — Ele fechou a pasta. — A cidade pode continuar negando. Mas vai ter que negar por escrito, e por escrito é mais difícil.
 
 ---
 
-Trouxemos o corpo de Elena enrolado em uma lona de algodão cru, daquelas usadas para cobrir os fardos de papel das prensas. Não havia caixão de madeira na Velha Baía, e nem faria sentido arranjar um: Elena sempre odiou caixas fechadas. Ela passou a vida arrombando arquivos e abrindo portas seladas para deixar o vento entrar.
+Val pegou o ato e leu. Levou o tempo que ela leva. Depois virou a folha para mim.
 
-Descemos a lona com as cintas de poliéster que sobraram do caminhão de Elias.
+— O texto reconhece a existência do acervo e a competência da diretoria para certificá-lo — disse. — Não atesta a veracidade das admissões, nem a autoria de cada rubrica. O carimbo prova que o ato existe. Não prova que alguém vai cumprir.
 
-Quando a lona assentou no fundo da cova vermelha, a Dra. Vance se aproximou na cadeira de rodas até a beira. Tirou do bolso do casaco o crachá de repórter de Elena — um pedaço de plástico laminado com uma foto desbotada tirada no saguão da prefeitura, antes de a cidade rachar ao meio.
+— Ninguém cumpre nada numa cidade sem tribunal — respondeu Marco, sem se ofender. — O carimbo é o que sobra quando não existe tribunal. É a diferença entre uma denúncia e um boato.
 
-A doutora soltou o crachá. O plástico caiu sem ruído sobre o peito coberto de lona.
+Eu olhei para ela. Ela sustentou o olhar um segundo mais do que precisava.
 
-— Há sessenta e um anos, a Aeterna prometia cuidar dos mortos. Depois aprendeu a conservar mentes vivas em cofres e chamá-las de patrimônio corporativo — a voz da velha ressoou com a clareza de uma sentença judicial. — Essa mulher enterrou o silêncio da Aeterna antes que pudessem colocá-la numa gaveta. Se existir alguma justiça na história que sobrou desta praia, o nome dela vai ser lido muito depois de a última torre de vidro ruir.
+— Você tá falando igual a ela — falei.
 
-Elias começou a jogar a terra de volta.
+— Alguém tem que falar — respondeu Val, e voltou para a folha.
 
-O som do barro caindo sobre a lona crua bateu como pedradas no meu estômago. *Tump. Tump. Tump.*
+---
 
-Cada pá de terra cobria um pedaço da mulher que me conheceu antes de eu ser o detetive mutilado que a cidade usou como aríete. Cobria a garota que apagava o cigarro antes de se sentar ao meu lado, porque eu me recusava a fumar nas escadarias do porto; a jornalista que me chamou de estúpido quando eu tentei desarmar uma carga de fósforo branco com as próprias mãos; a mulher que cruzou a cerca de arame farpado com quatro cadernos de anotações no peito para montar a imprensa que nos libertaria.
+Marco apoiou as mãos nos joelhos e esperou.
 
-Fiquei até a terra nivelar.
+— Qual é o preço — perguntei.
 
-Quando Elias colocou a última pedra sobre o monte, o sol da tarde finalmente rompeu a cortina de fumaça da Orla Norte.
+— Meu nome fora da tiragem. E o texto dizendo que o programa foi do Krell. Não da administração. Não da minha.
 
-Era uma luz fraca, dourada e amarga, que fazia a lama brilhar como cobre polido.
+— O programa foi seu também.
 
-Passei a mão esquerda pelo pescoço. Tirei o cordão fino de latão do bolso da camisa e o passei pela cabeça, deixando o pingente redondo repousar no meu peito, logo ao lado do "Colar de Sol" que minha mãe Helena tinha deixado comigo antes do Dilúvio.
+— O programa foi **assinado** por mim. — Ele disse a palavra como quem limpa vidro. — Eu aprovei unidades de acolhimento. Eu não ordenei coleta, eu não escolhi família, eu não renovei rubrica de ninguém. Eu escrevi "os endereços vêm depois" numa minuta, e Krell pôs os endereços depois.
 
-Dois metais frios batendo contra o osso do meu esterno a cada batida do meu coração cansado.
+— Você tem noção do que está dizendo?
 
-— E agora, inspetor? — perguntou a Dra. Vance, olhando para o sul, onde a carcaça da cúpula de Baía Cinzenta ainda projetava sua sombra de ferro sobre o mar.
+— Tenho. — Ele ergueu o queixo. — É o que todo administrador diz. É por isso que administrador é uma profissão e não um crime. Alguém tem que assinar o que os outros fazem, senão a cidade para.
 
-— Agora a gente termina a tiragem — respondi. A voz saiu limpa, sem a tremedeira dos últimos três dias. — O rádio da Elena abriu o caminho, mas o papel precisa chegar nas mãos de quem não tem antena. Doze mil cópias hoje. Amanhã, o que as prensas e o papel permitirem.
+Fiquei olhando para ele e vi a coisa que eu não tinha visto na Torre, porque na Torre ele ainda era o irmão que queria o lugar do pai. Ali, na cadeira dobrável, ele era outra coisa: um homem que tinha aprendido a viver dentro da máquina e agora defendia a máquina como quem defende a própria casa.
 
-Elias limpou o suor da testa com o antebraço sujo de graxa.
+— A Elena já rodou — falei. — Seu nome está na página três.
 
-— Os caminhões do Setor 4 chegam antes das nove, Gabo. O capitão Vilar mandou dizer que a estrada da serra está aberta. Ele não vem; com um braço só não faz a serra de noite, mas mandou a rota conferida.
+Marco ficou muito quieto.
 
-— Avisa a eles para carregarem até o teto — falei. — E que a Clara pegue a carga do Setor 9. Ela sabe com quem falar sem assustar ninguém.
+— Rodou quantas?
 
-Elias tirou do bolso o mapa protegido em plástico. No verso, a localização dos três trabalhadores da galeria ainda estava legível. Copiou a localização para outra folha e a entregou ao operador do rádio, para que pedisse ao pessoal do Setor 4 uma verificação quando houvesse acesso; guardou o mapa. Não sabíamos os nomes nem se uma equipe conseguiria chegar ao nicho. Depois ele foi até o rádio, poupando o tornozelo.
+— Doze mil. Hoje saem mais doze.
 
-Virei as costas para a cova.
+Ele esticou a mão. Não pediu. Só esticou, com dois dedos, como quem pede um documento numa repartição. Val olhou para mim. Eu assenti.
 
-O joelho doeu quando forcei a perna direita na subida da rampa, e a pontada no braço fraturado me lembrou que a *Caronte* estava guardada com as coisas de Elena. Senti falta da voz de Aria, da maneira como discordava antes de me ajudar a enxergar a próxima esquina. Eu era um homem manco, com um braço preso na tipóia e gente demais para lembrar.
+Ele leu a página três inteira. Duas vezes. Na segunda, o dedo parou numa linha do rodapé, onde o índice listava os classificados por prioridade de coleta.
 
-A pasta ainda existia. Eu não precisava aceitar o lugar que ela tinha reservado para mim.
+— "Cooperativo. Baixa prioridade." — Ele leu em voz alta, sem ironia nenhuma. — Eles me mediram, Gabriel. Passaram vinte e um anos medindo todo mundo nesta família e, quando chegou a minha vez, eu fui barato.
 
-Entrei no galpão.
+— Barato é o que dá para carregar.
 
-A rotativa de Elena já estava ligada, batendo no seu ritmo surdo e honesto, *tchunc-tchunc-tchunc*, cuspindo as páginas que precisavam chegar aos assentamentos antes do meio-dia de amanhã.
+— É. — Ele dobrou a página no meio, com cuidado, e devolveu. — Você entendeu errado uma coisa. Eu não vim pedir para ser escondido porque tenho vergonha. Vim porque, se o meu nome estiver nessa capa, ninguém no Distrito 4 lê a página quatro. Eles param no sobrenome.
 
-Puxei o primeiro caderno ainda quente de tinta. Na capa, ao lado do número de admissões, estava a ressalva que Elena exigira. Passei o polegar pela frase até borrar uma letra.
+— Então o problema não é o sobrenome. É o que você fez com ele.
 
-Na primeira página, embaixo do índice, o retângulo do selo continuava vazio, e a linha miúda que Elena tinha mandado compor dizia: *certificação solicitada e recusada nesta data*. Meu irmão não assinou. Não fechou a estrada também. Era o mais perto de justiça que aquele papel ia chegar, e o papel saía assim mesmo, com o buraco no lugar da assinatura.
+— Talvez. — Ele olhou a estrada. — Mas você não vai resolver isso com doze mil cópias.
 
-Valéria entrou depois de mim. Trazia a caixa com o disco que Elena escondera na coronha.
+---
 
-— A doutora pode tentar ler isto quando terminar de registrar as fitas — disse. — Quero uma cópia de trabalho e o original lacrado. O repetidor pode apontar para um iate; não prova quem estava nele.
+— Tem uma coisa — ele disse, e a voz mudou de lugar. Ficou mais baixa, mais velha. — Eu li o arquivo da diretoria antes de ele virar papel de rua. A Helena. Trinta e oito páginas, nenhuma extração. Deixa ela fora.
 
-— Eu quero saber quem estava.
+— Ela já está dentro. Como vítima. O nome dela aparece duas vezes.
 
-— Eu também. Mas antes precisamos de alguém para examinar seu braço. A equipe do Setor 4 respondeu ao meu pedido; chega com os caminhões. — Ela colocou a caixa fora do alcance da tinta. — Eu vou ficar com os registros até a doutora poder conferir.
+— Escreve que ela odiava gaiolas.
 
-Eu ia dizer que não havia tempo. Olhei a página outra vez, a letra borrada onde Elena tinha insistido numa distinção que eu queria pular. Assenti.
+Eu parei.
 
-Uma operadora da prensa parou ao meu lado com um bloco de anotações. Queria ouvir Val, os guardas e o abrigo do Setor 4 sobre Braga; depois ouviria a mim. Dei a ela o caderno dele e indiquei a caixa com a cinta e o registro da custódia. Ela anotou sem prometer o que publicaria.
+— O quê?
 
-Do outro lado da mesa, o rádio chiou. Uma voz pediu a repetição do endereço onde podia encontrar os originais. Valéria pegou o microfone. Eu segurei o caderno aberto para ela ler.
+— No arquivo tem uma ficha dela com uma observação de rotina. "Não coletar: a remoção desestabilizaria a unidade familiar." — Ele apertou o vinco da calça. — Eles mediram a nossa mãe e concluíram que ela segurava a casa. Foi isso que ela foi para eles. Um parafuso que não se tira. — Ele levantou os olhos. — Ela odiava gaiolas, Gabriel. Mesmo as douradas. Se você vai pôr o nome dela num jornal, põe isso também.
+
+— Eu ponho.
+
+— Obrigado.
+
+Foi a única coisa que ele pediu que eu pude dar.
+
+---
+
+Marco se levantou. O joelho travou quando eu me levantei junto, e o braço quebrado puxou a tipoia; disfarcei pondo a mão no bolso. A cadeira ficou vazia, e o ato ficou em cima dela, ainda aberto, com o retângulo do selo em branco no rodapé.
+
+— Você não vai assinar — falei.
+
+— Não.
+
+— Por quê?
+
+— Porque assinar é dizer que eu sabia. — Ele ajustou o punho da camisa. — Eu sabia. Não tudo. Mas sabia o suficiente para ter perguntado, e não perguntei porque a resposta ia me custar a cadeira. Isso não é o que o Krell fez. Mas é o que fez o Krell possível.
+
+Ele deu dois passos na direção da estrada. Parou.
+
+— A estrada está aberta. Não vou fechar.
+
+— Por quê?
+
+— Porque fechar estrada é o que ele faria. — Ele olhou para o drone pendurado no fio. — E porque eu vou precisar que alguém, em algum lugar, ainda ache que eu sou o irmão que não fechou.
+
+Foi embora a pé, pela estrada, sem olhar para trás, e o drone balançou no fio quando ele passou embaixo.
+
+---
+
+Elias soltou o ar que estava segurando desde o começo.
+
+— Ele vai mandar alguém atrás da gente?
+
+— Não — disse Val. — Ele já conseguiu o que veio buscar.
+
+— Conseguiu?
+
+— Saiu daqui sem assinar e sem fechar a estrada. — Ela fechou a pasta. — Pode dizer a si mesmo que foi decente uma vez, e o papel continua sem carimbo.
+
+Subimos no jipe. O rádio chiou antes de eu fechar a porta.
+
+— Gabriel. — Era a Elena, e a voz dela saiu com aquele peso de quem está com pressa e não vai dizer. — A doutora já viu o ato?
+
+— Está sem assinatura.
+
+— Então a primeira página vai sair com o retângulo. — Uma pausa, o barulho de papel sendo virado. — Vou pôr uma linha embaixo, em corpo miúdo: *certificação solicitada e recusada nesta data*.
+
+— Não é data nenhuma.
+
+— É a data que temos.
+
+A ligação caiu. Olhei para a folha no colo de Val: o retângulo em branco no rodapé, do tamanho exato de uma assinatura que ninguém ia dar. O papel pesava mais do que devia. Eu tinha perdido o carimbo e ganhado a estrada, e não sabia ainda qual dos dois ia custar mais caro.
+
+— Imprime assim — falei. — Se o carimbo não vem, o branco vai.

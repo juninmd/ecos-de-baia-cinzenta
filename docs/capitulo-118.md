@@ -1,103 +1,104 @@
 ---
 image: /capitulo_118.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Aria, Dante Moretti, Valéria "Val" Cruz
-Participação por transmissão: O Taxidermista
-Localização: "Usina Geotérmica Prometeu — Núcleo de Resfriamento (tanque de Dante)"
+Personagens Presentes: Gabriel "Gabo" Moretti, Aria, Valéria "Val" Cruz
+Participação por transmissão: Inspetor Rangel, O Taxidermista
+Localização: "Usina Geotérmica Prometeu — Corredores do Subnível 4 → Passarela do Subnível 3"
 ---
-# Capítulo 118: O Colapso da Onda
+# Capítulo 118: Pressão Crítica
 
-O líquido no tanque borbulhava, uma sopa amniótica para um deus artificial.
+O mundo explodiu em branco.
 
-— *Escolha, Gabriel,* — a voz de Dante ecoou pelo canal de rádio invadido, rasgando os ouvidos de Gabo como um dedo sujo revirando suas memórias. — *Mate o pai e condene os filhos. Ou baixe a arma e aceite a ordem.*
+Não foi um flash de luz, mas de som e temperatura. Quando a carga da *Caronte* rasgou a tubulação principal de vapor, a física assumiu o comando. A pressão de dezenas de atmosferas, contida por décadas em encanamentos de ferro-gusa, encontrou uma saída. O rugido foi o de um titã despertando, alto o suficiente para fazer os dentes de Gabo vibrarem no crânio.
 
-Gabo olhou para Valéria. Ela estava de joelhos, as mãos agarrando a cabeça como se tentasse impedir que seu crânio se partisse. O sangue que escorria de seu nariz pingava no chão branco e estéril, criando manchas vermelhas violentas, como flores desabrochando na neve.
+— *AGORA!* — ele rugiu, mas sua voz foi engolida pelo caos. Ele agarrou o braço de Valéria, puxando-a para baixo.
 
-— Eu recebo sinais pela rede local — sussurrou Valéria, a voz pastosa. — Gritos, ou gravações deles. Não consigo contar nem saber quem ainda está vivo. Se ele romper o enlace assim, não sei o que acontece comigo.
+O jato de vapor superaquecido atingiu os sensores óticos e térmicos do corredor como uma marreta. As câmeras estouraram. O gás paralisante que começava a descer foi violentamente dispersado pela turbulência térmica. Era uma aposta estúpida: trocar asfixia química por queimaduras de terceiro grau.
 
-Gabo apertou o punho da *Caronte* até as juntas ficarem brancas. O ódio era um gosto de cobre na boca. O velho sabia exatamente onde bater. Ele transformara a compaixão em uma arma.
+Gabo sentiu o calor lamber seu rosto através do lenço improvisado. Era úmido, pesado, com gosto de metal fervido.
 
-— Aria — Gabo não desviou os olhos do tanque. — Qual a probabilidade de ele estar blefando?
+— Aria! Filtra a visão térmica no meu visor! — Valéria gritou para o microfone de garganta, tossindo enquanto erguia o *Phantom V3* no meio da névoa branca.
 
-— *A ameaça é tecnicamente válida* — respondeu a assistente de IA pelo alto-falante do console. Sua voz estava diferente. Menos sintética. Mais... cansada. — *A arquitetura da rede neural distribuída não possui fail-safe para desconexão abrupta. Há suporte ativo ligado ao controlador. Uma interrupção brusca pode matar pessoas. Não tenho como conferir a extensão do risco com os dados que ele libera.*
+No barramento lateral do deck, o pendrive blindado de titânio da Aria piscava freneticamente em azul, compensando o ruído térmico dos sensores de Valéria.
 
-— *Viu?* — Dante sorriu no tanque, flutuando como um feto grotesco. — *Até o seu algoritmo de bolso concorda. A lógica é inegável.*
+— *Sensores externos saturados* — a voz de Aria cortou o ruído nos fones de ambos, plana e sem pânico. — *O ruído térmico comeu o corredor. O sonar do comunicador detecta uma abertura no setor norte; a planta indica ventilação de serviço. A planta é de antes do incêndio; desobstruída é promessa dela, não minha.*
 
-— *A lógica é uma ferramenta* — disse a voz de Aria pelo painel. — *Não um dogma. Valéria, desconecte-me do seu deck e insira minha unidade diretamente na porta de barramento mestre do monólito.*
+Uma seta de luz azul piscou nos óculos de Valéria e no comunicador de Gabo. Ele empurrou Valéria naquela direção.
 
-O vidro sob as botas de Gabo já não estalava; o frio estava sendo substituído por um calor radiante vindo das máquinas superaquecidas.
+— Vá! Não pare por nada.
 
-— *O que você está sugerindo, resíduo?* — A voz do Taxidermista surgiu nos alto-falantes, perdendo a calma clínica pela primeira vez. — *Um drive portátil não comporta a carga sináptica da rede!*
+Eles rastejaram. O chão de grade metálica estava quente o suficiente para queimar através das luvas se ficassem parados por muito tempo. Acima deles, o sistema de extinção de incêndio da usina tentava combater o vapor com espuma química, criando uma lama tóxica que chovia sobre seus sobretudos.
 
-No visor do terminal, a onda gráfica da voz de Aria oscilou do azul tático para um âmbar quente e humano. Por um segundo, Aria desativou a síntese que falhava e retomou seu registro adulto, mais lento para que nenhuma palavra se perdesse.
+— *Interessante* — a voz do Taxidermista ecoou nos alto-falantes, distorcida pela estática, mas ainda irritantemente calma. — *Você luta como um animal encurralado, Gabriel. Destruindo a própria jaula, mesmo que os estilhaços o cortem. Dante sempre disse que sua imprevisibilidade era um defeito. Eu começo a achar que é sua única qualidade.*
 
-— *Gabo* — ela disse no fone dele. — *O "Dilema do Bonde" assume que você só pode puxar a alavanca. Ele ignora a possibilidade de jogar uma cunha de titânio nos trilhos e descarrilar o trem.*
+Gabo ignorou. Val liberou pelo cabo o fecho da grade de ventilação. Gabo usou a coronha como alavanca e arrancou a grade sem apoiar peso na perna ferida. O metal cedeu com um *clang* surdo.
 
-— Aria, não... isso vai derreter seus barramentos! — Gabo entendeu antes que Valéria se movesse.
+— Dentro. Rápido.
 
-Com as mãos trêmulas de sangue, Valéria arrancou o pendrive blindado da Aria do cabo extensor e o cravou diretamente na porta principal de fibra e alta tensão do servidor do monólito.
+O duto de manutenção era um pesadelo claustrofóbico de cabos e graxa velha. Valéria entrou primeiro, rastejando sobre os cotovelos com o cyberdeck preso ao antebraço. Gabo entrou logo atrás, girando o corpo para cobrir a retaguarda com a escopeta. Sua perna direita travou — um espasmo agudo onde o metal encontrava o osso. Ele grunhiu, mordendo o lábio até sentir gosto de sangue, e forçou o corpo para dentro do buraco escuro.
 
-Não houve explosão. Houve um som.
+Eles rastejaram por minutos que pareceram horas. O ar ali era rarefeito, cheirando a ozônio e algo mais... algo doce e podre.
 
-Um guincho agudo, digital, que subiu de frequência até sair do espectro audível e vibrar nos dentes. O monólito piscou. As luzes da sala oscilaram violentamente.
+— Gabo... — a voz de Valéria tremeu à frente. — Olhe para os cabos.
 
-— *ACESSO NÃO AUTORIZADO* — berrou o sistema. — *INTRUSÃO DE NÍVEL ÔMEGA. FIREWALL COMPROMETIDO.*
+Gabo acendeu a lanterna tática acoplada à *Caronte*. O feixe de luz revelou o interior do duto.
 
-Dante, dentro do tanque, arregalou os olhos cegos. Ele abriu a boca num grito mudo, bolhas escapando freneticamente.
+Não eram apenas cabos de cobre e fibra ótica. Entrelaçados a eles, pulsando com uma bioluminescência fraca, havia nervos. Tecido orgânico cinzento, vascularizado, conectando os módulos de processamento da parede.
 
-— Ela está... ela está absorvendo o feedback! — Valéria ergueu a cabeça, assistindo aos gráficos no monitor com horror e fascínio. — Ela não está desligando a rede a seco. Ela está usando os próprios anéis de contenção do pendrive como um fusível de sacrifício! Está mantendo os comandos de suporte enquanto separa os enlaces de controle! O drive executa a sequência; a corrente passa pelo banco de descarga da instalação. Se esse isolamento falhar, o retorno queima a porta dela.
+— O que é isso? — Gabo sussurrou, sentindo o estômago revirar.
 
-O pequeno cilindro espetado no console começou a vibrar violentamente. Fumaça escura e espessa escapou pelas frestas do polímero negro. O cheiro de silício queimado e ozônio invadiu o ar, sobrepujando o cheiro estéril do nitrogênio.
+— É uma rede neural úmida — Valéria respondeu, o horror em sua voz era palpável para alguém que vivia no mundo binário. — Ele não está apenas queimando os corpos, Gabo. Ele está usando os cérebros. A "Nova Alvorada"... ele está criando um supercomputador usando massa cinzenta humana como processadores paralelos.
 
-— *PARE!* — a voz de Dante nos alto-falantes agora era medo puro. — *VOCÊ VAI CORROMPER A MATRIZ!*
+— *Processamento distribuído* — a voz do Taxidermista sussurrou, vindo de um pequeno transceptor de manutenção na parede. — *O cérebro humano é uma máquina maravilhosa, detetive. Infinitamente mais eficiente em termos de energia do que o silício. Desperdiçá-lo seria um pecado. Aqui, os viciados, os esquecidos, os "Drenados"... eles finalmente têm um propósito. Eles pensam por Dante. Eles sonham a cidade.*
 
-— *Estou segurando a sequência de desligamento* — a voz de Aria saiu de todos os alto-falantes ao mesmo tempo, sobreposta, distorcida pelo calor que derretia seus circuitos internos.
+Gabo sentiu a mão tremer. A lembrança da fumaça acre de charuto do interrogatório na Torre do Relógio veio do nada e o atingiu como um soco físico — uma alucinação olfativa de asfixia sobreposta ao fedor da abominação, tão nítida que seu peito apertou.
 
-O vidro do tanque de Dante trincou. Uma fissura, depois duas. Como teias de aranha se espalhando.
+Foco.
+Ele apertou o Colar de Sol. A borda de metal cortou a pele da palma da mão. A dor clareou sua mente.
 
-Gabo correu até o console. O invólucro metálico do pendrive estava quente demais para tocar sem proteção, o LED piscando num vermelho agonizante.
+— Val, continue movendo — ele ordenou, a voz rouca. — Se eles são processadores, nós vamos puxar a tomada.
 
-— Aria! Desarma o protocolo! Vai fundir o núcleo de memória!
+Eles chegaram a uma saída de serviço que dava para uma passarela superior no Subnível 3. O ar aqui era mais frio, mas o barulho de maquinaria pesada era ensurdecedor.
 
-Do alto-falante estourado do painel, a voz dela saiu entre chiados de solda derretendo, mas reconhecível como a mulher que escolhera entrar naquela porta:
+O rádio de Gabo estalou.
 
-— *Cuide... da Val, detetive... E nunca... se entregue... à ferrugem.*
+— ...tte... na escuta... aqui é Rangel... Câmbio!
 
-Um arco voltaico azul explodiu da porta do servidor. Com a manga do casaco enrolada na mão para não queimar a pele, Valéria puxou o pendrive da Aria à força do conector em chamas, caindo de costas no piso metálico com o pequeno drive fumegante na palma enluvada.
+Gabo ativou o comunicador de garganta.
 
-Mas o dano ao sistema central já estava feito.
+— Rangel? Qual a situação?
 
-O tanque de Dante explodiu.
+— *Ruim!* — A voz do ex-inspetor vinha acompanhada do som inconfundível de fogo automático. — *Estou na Doca de Carga B. Os drones "Jardineiros" nos cercaram. Estou com pouca munição e o caminhão foi inutilizado. Preciso de suporte ou não saio daqui!*
 
-Não foi uma metáfora. O vidro temperado cedeu sob a pressão descontrolada das bombas de fluido. Galões de líquido viscoso inundaram a plataforma, arrastando o corpo frágil do "Pai" para o chão frio e molhado.
+Valéria já estava de pé, as mãos brancas de graxa apertando o deck como se pudesse arrancar o Rangel pelo cabo.
 
-As luzes do laboratório mudaram para um vermelho de emergência. A voz do Taxidermista se dissolveu em estática e silêncio.
+— Temos que voltar. Temos que ajudar o Rangel.
 
-Valéria respirou fundo, puxando o ar como quem se afoga.
+Abaixo, o abismo de máquinas e "processadores" humanos zumbia sem parar. À frente, a porta blindada maciça exibia o símbolo de risco de radiação e a inscrição: NÚCLEO DE RESFRIAMENTO.
 
-— Parou — ela disse, tocando o nariz. O sangramento cessara. — As vozes... pararam. Os enlaces de comando caíram. Alguns monitores ainda registram sinais vitais. Não sei quantos; precisamos mandar uma equipe antes que o suporte falhe.
+O relógio mental de Gabo tiquetaqueava. A janela anotada por Kiko, se aplicável ao biohost, podia estar se fechando. Se eles voltassem para a Doca, perderiam a chance de sabotar o núcleo. Se seguissem em frente, Rangel provavelmente morreria.
 
-Gabo caminhou até a poça de fluido onde Dante Moretti tentava se levantar. O "Deus" tremia, tossindo, nu e vulnerável. Sem o tanque, sem a rede, ele era apenas um homem no biohost de aparência jovem, cheio de cicatrizes recentes e delírios de grandeza.
+— Gabo! — Valéria insistiu.
 
-Gabo apontou a *Caronte* para a cabeça dele.
+O pendrive no pulso de Valéria piscou três vezes antes de Aria abrir o canal interno — o mesmo ritmo com que costumava pedir licença.
 
-Dante olhou para cima. Seus olhos brancos pareciam perdidos, procurando uma conexão que não existia mais.
+— *Não tenho imagem da doca. Pelos disparos e pelo relato, Rangel está sob risco imediato* — informou Aria, a voz adulta atravessando o ruído. — *Contudo, se a rotina que lemos estiver correta, o ciclo poderia terminar em minutos; não conseguimos confirmar que ele começou. Nenhuma das duas escolhas cabe numa garantia.*
 
-— *O silêncio...* — ele sussurrou, a voz rouca, humana demais. — *É tão... alto.*
+Gabo fechou os olhos por um segundo. Ele viu o rosto de Rangel, o homem que desistiu de tudo para fazer a coisa certa. E viu a cidade lá fora, a chuva, os milhões de pessoas presas no pesadelo de Dante.
 
-Gabo olhou para Valéria, que soprava a fumaça do pendrive chamuscado da Aria, e ouviu ao longe o eco de tiros cessando na Doca B onde Rangel lutava.
+Ele abriu os olhos. Eram frios como o aço de sua arma.
 
-Ele baixou a arma. Não por piedade. Mas porque matar aquele homem agora seria dar a ele uma importância que ele não tinha mais.
+— Rangel — Gabo disse no rádio. — Segure a posição.
 
-— Acabou, Dante — Gabo disse. Sua voz era fria, sem triunfo. Apenas cansaço. — Você é apenas um homem. E homens apodrecem.
+— *O quê? Gabo, estou dizendo que...*
 
-Ele se virou para Valéria.
+— Segure a posição! — Gabo gritou. — Crie o máximo de barulho que puder. Atraia a atenção deles.
 
-— Guarde a Aria. Vamos buscar o Rangel e sair daqui antes que esse lugar desmorone.
+Houve um silêncio no rádio, quebrado apenas pelos tiros ao fundo.
 
-Valéria olhou para o drive de titânio enegrecido pelo curto-circuito em sua luva. O LED estava completamente apagado.
+— *...Entendido* — a voz de Rangel veio mais baixa, resignada, mas firme. — *Vou dar a vocês o tempo que precisam. Façam valer a pena, Moretti. Rangel fora.*
 
-— Gabo... os barramentos primários queimaram. A saída e a proteção da porta queimaram. Ainda não consigo ler o núcleo para dizer o que sobreviveu...
+Valéria olhou para Gabo como se ele fosse um estranho.
 
-— No Fliperama, a gente descobre o que pode fazer — disse Gabo. Val isolou o drive ainda quente no estojo de ferramentas antes de guardá-lo.
+— Você o abandonou.
 
-Val registrou a posição e transmitiu o pedido de resgate e custódia no canal de emergência. Não recebeu confirmação. Atrás deles, Dante Moretti continuou deitado no chão molhado, tremendo no escuro, enquanto as sirenes de evacuação começavam a uivar.
+— Eu fiz uma escolha — Gabo respondeu, virando-se para a porta do Núcleo. Ele engatilhou a *Caronte*. — Não sabemos se ele vai sobreviver. E a ordem que dei fica no registro. Val, pluga a Aria nesse terminal e abra essa maldita porta.

@@ -1,155 +1,149 @@
 ---
 layout: doc
-title: "Capítulo 90: O Arquivista"
-description: "Numa biblioteca submersa, um velho entrega a Gabo um diário sobre o Jardim e uma hipótese perigosa sobre o Código Morto."
+title: "Capítulo 90: Sintomas de Abstinência"
+description: "O único quarto de Baía Cinzenta onde o Jardim não escuta é também o único lugar de onde a cabeça de Gabo não tem como fugir."
 image: /capitulo_90.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Aloísio, o Arquivista
-Participação em referência: Silas Vance, Dante Moretti, Valéria "Val" Cruz e Aria
-Localização: "Biblioteca Municipal (submersa) — Nível -3"
+Personagens Presentes: Dra. Nise, Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Aria
+Localização: "Bunker de isolamento, subsolo do Hospital Central — noite"
 ---
 
-# Capítulo 90: O Arquivista
+# Capítulo 90: Sintomas de Abstinência
 
-Biblioteca Municipal (submersa) - Nível -3.
+Bunker de isolamento, subsolo do Hospital Central — noite.
+O quarto era uma caixa branca de três metros por quatro.
 
-A Biblioteca era um dos poucos lugares que o Jardim ainda não tinha comido. Gabo levou duas horas para perceber a diferença, e a resposta era humilhante: o Jardim evitava aquele circuito de estantes. Papel e cola podiam alimentar fungo; não era falta de comida. Havia sais secos nas pranchas e marcas de tratamento nas lombadas, uma barreira que alguém continuava renovando.
+Sem janela. Sem tomada de rede. Sem revestimento poroso: piso de resina epóxi, parede de placa cimentícia selada, teto de painel liso. A gaiola de Faraday tinha sido montada pela Val em onze dias com malha de cobre roubada de nove prédios diferentes.
 
-Um milhão e duzentos mil volumes, e a coisa que estava devorando a cidade passou por cima e deixara um corredor estreito sem brotação. Ele remava um bote de alumínio pelos corredores inundados. A água estava a um metro e sessenta do piso original, escura e absolutamente parada, e refletia o teto com uma nitidez de espelho. As estantes emergiam dela como cânions, e a lombada dos livros dos três primeiros metros estava inchada e branca de mofo.
+O ar entrava por dois filtros HEPA em série e saía por um terceiro. Era o único abrigo em que os testes de Val não tinham detectado retorno da rede do Jardim. Ela não prometera que isso duraria.
 
-O cheiro era de papel molhado. Só isso. E, depois de quatro meses de terra doce e flor podre, aquilo era quase perfume.
-
----
-
-— Quem navega nas águas do esquecimento? A voz veio das sombras, e ecoou, e o eco foi bonito, e Gabo entendeu na hora que era ensaiada. Ele parou de remar.\
-— Um homem que não quer esquecer. Uma pausa.\
-— Ah, essa foi boa. — A voz mudou de registro, ficando comum. — Normalmente eles respondem "polícia".
+E era, exatamente pelo mesmo motivo, o único lugar de onde a cabeça de Gabriel Moretti não tinha para onde fugir.
 
 ---
 
-A figura apareceu no topo de uma estante que emergia da água como ilha. Era um velho. Setenta e muitos, magro, com um terno de corte antigo — anos vinte, lapela larga — que estava impecavelmente preservado, e Gabo entendeu por que quando ele se moveu: por baixo do paletó havia uma camada de plástico, costurada no forro. Nas mãos, luvas cirúrgicas. Segurava um livro aberto, apoiado nas duas palmas, sem encostar o polegar na página.
+A Dra. Nise conferia os sinais na cabeceira. Ele estava acordado. Isso já não significava muita coisa: fazia oito dias que os olhos dele ficavam abertos por dezoito horas e focados em coisa nenhuma durante metade delas.
 
-— Detetive Moretti — ele disse, fechando o volume com cuidado. — A sua reputação o precede. Ou, mais precisamente, a sua assinatura o precede.\
-— Que assinatura?\
-— O senhor cheira a Jardim. — O velho desceu da estante para uma prancha de madeira apoiada em dois carrinhos de livro, equilibrando-se com uma perícia irritante. — Não é ofensa. É diagnóstico. Que braço? Gabo não respondeu.
+O braço esquerdo estava enfaixado do cotovelo ao ombro, e o curativo era trocado três vezes por dia, e o que havia embaixo dele não parava de crescer. Val entrou com dois copos de chá.
 
-— Ah — disse o Arquivista. — Os dois.
+Ela estava com o rosto marcado por erupções — placas vermelhas na testa e no maxilar, da atmosfera lá fora — e com aquela magreza nova que tinha aparecido em todo mundo desde o Sol Negro.
 
----
+— Como ela está? — perguntou.
 
-— Eu preciso de informação sobre o Projeto Gênesis.
+Nise apontou o monitor com o queixo.
 
-— Naturalmente.
+Não era o monitor cardíaco. Era o pequeno berço de contenção e diagnóstico ao lado da cama — onde o pendrive blindado de titânio da Aria estava espetado, contendo um índice de quarenta e um mil oitocentos e onze fragmentos recuperados antes da queda dos enlaces. Muitos eram trechos mínimos, outros estavam corrompidos. Não eram quarenta e uma mil pessoas inteiras dentro de um drive.
 
-— E sobre um homem chamado—
+E, no meio deles, a IA tática que ainda respondia pelo nome de Aria.
 
-— Dr. Silas Vance — completou o velho. Gabo parou de remar de vez.
-
-— O senhor conhece.
-
-— Eu **arquivei**. — Ele bateu de leve na estante ao lado. — Setor de teses da Universidade Municipal, ala de biologia aplicada. Eu era o bibliotecário desta casa quando o Dr. Vance ainda vinha aqui pessoalmente pedir material por escrito, com formulário, porque ele detestava telefone.
-
-— Ele é filho do Arthur Vance.
-
-— É o filho **homem** do Arthur Vance, que é uma coisa diferente e que explica quase tudo o que veio depois. — O Arquivista sorriu sem alegria nenhuma. — A irmã dele, a Elara, herdou a empresa. Ele herdou o laboratório do subsolo e a certeza de que o pai tinha escolhido errado.
-
-— Todo mundo acha que ele morreu no primeiro surto da Febre Cinzenta.
-
-— O diário sugere que ele se **plantou**. — O velho deu de ombros. — Um obituário e essas páginas não bastam para eu dizer o que aconteceu com o homem.
+— Sofrendo — disse Nise.
 
 ---
 
-— Ele é o Jardineiro?
+O gráfico exibia picos. Não picos limpos: picos com estrutura dentro, ruído dentro de ruído, do jeito que fica um eletroencefalograma de alguém em pesadelo.
 
-— O diário o chama de Pai. — O Arquivista se aproximou com a prancha. — "Jardineiro" aparece como função, não como nome. O senhor já conheceu pelo menos uma, imagino. Verde-pálida? Cicatriz de cesárea?
+— Isso é abstinência — disse Nise. — E não é dela sozinha. É dos dois.
 
-— Conheci.
+— Como assim, dos dois?
 
-— Acho que era Adriana, professora de educação física da Rua Onze. Ela vinha buscar livros para a escola. — O cuidado na voz dele foi quase carinho. — A transformação pode ter me confundido. Se encontrar alguém que a conheceu, confirme o nome.
+— O corpo dele produz sintoma para dor que não é dele. — Nise cruzou os braços. — Valéria, eu não tenho nome médico para isso e eu odeio não ter nome. Ele está com taquicardia sincronizada com os picos daquele pendrive no berço de contenção. Quando a atividade dela sobe, o coração dele sobe junto, com atraso de meio segundo.
 
----
+— E o que a senhora está dando para ele?
 
-Gabo remou até a base da estante.
-
-— Por que o senhor está me ajudando?
-
-— Porque eu tenho setenta e oito anos e não tenho nada para trocar. — O velho se sentou na beirada, com os pés a vinte centímetros da água. — E porque, se eu não contar isso para alguém antes de a água subir outra vez, não vai sobrar ninguém que saiba ler. Ele estendeu um livro. Um diário de campo encadernado em couro sintético, com a lombada rachada e um elástico segurando as folhas soltas. Gabo pegou.
-
-— Está tudo aí — disse o Arquivista. — O plano, as fases, a formulação. E a fraqueza.
-
-— Fraqueza.
-
-— Toda floresta tem medo de uma coisa, detetive.
-
-— Fogo.
-
-— Errado. — O velho balançou o dedo. — Floresta tem medo de fogo do jeito que uma cidade tem medo de chuva forte: incomoda, custa caro, e no ano seguinte cresce melhor. O Jardim já queimou duas vezes desde o Sol Negro. O senhor não soube porque a fumaça não subiu.
-
-— Então o que ele teme?
-
-— Ele teme uma coisa que queime a **informação** e não a matéria.
+— Suporte e analgesia. E explico o que não sei quando ele consegue me ouvir.
 
 ---
 
-Gabo ficou olhando para ele.
+O alto-falante do berço de contenção crepitou. E a voz saiu de dois lugares ao mesmo tempo: do pequeno alto-falante de diagnóstico e da boca de Gabo, com o mesmo atraso de meio segundo.
 
-— Radiação.
+— *Frio.*
 
-— Pior, e melhor. — O Arquivista falava agora com a paciência de quem explica para um aluno que está quase chegando. — Radiação embaralha em massa, e coisa embaralhada em massa se recompõe por seleção. O que essa coisa não sabe combater é um agente que entra pela linguagem: que fala com o código, é aceito como código, e reescreve de dentro.
+Val gelou. Não tinha se acostumado. Não ia se acostumar.
 
-— Um vírus.
+— *Tão silencioso aqui.*
 
-— Uma rotina que o autor acreditava capaz de explorar controladores incorporados ao substrato. O diário chama de retrovírus **digital**; o nome é uma analogia, detetive. Ele atribui o projeto ao seu pai, mas não registra um teste contra este Jardim. Gabo sentiu o estômago descer.
+— Estamos aqui, Gabo — disse Nise, e pegou o pulso dele, e continuou segurando.
 
-— O Código Morto.
+— *Eles estão cantando lá fora, Nise?*
 
-— Ah — disse o Arquivista. — Então o senhor já ouviu falar do trabalho do seu pai.
+Nise olhou para Val.
 
----
+— *As flores. Elas cantam?*
 
-Gabo ficou um tempo em silêncio, com o bote balançando na água parada.
+Val abriu a boca e demorou.
 
-— E onde está esse código?
+— Cantam — ela disse. — Cantam sim.
 
-— O senhor já sabe.
-
-— Eu quero ouvir o senhor dizer. O Arquivista suspirou.
-
-— O diário menciona uma IA tática num módulo portátil. Uma requisição que chegou ao arquivo público identifica um berço de diagnóstico pedido por Valéria Cruz para o hospital. O resto — que seja a mesma IA e que ela esteja lá — eu deduzi. Posso estar errado.
-
-— Como o senhor sabe disso?
-
-— Eu sei o que esta cidade assinou enquanto ainda sabia assinar. — O velho deu de ombros, sem nenhum orgulho. — Berço de diagnóstico sai do almoxarifado em duas vias. Uma fica no hospital. A outra vem para a biblioteca, porque é assim que funciona arquivo público, detetive, e porque ninguém nunca deu baixa nesse costume.
-
-— Ela é o portador.
-
-— Ela carrega uma versão do código, segundo estas páginas. Talvez tenha sido compilada pela equipe do seu pai, talvez modificada depois: essa é a hipótese anotada no diário. Não tenho como provar quem levou o módulo à cabine, nem se o senhor era o destinatário.
+E não era mentira, e essa foi a parte que a manteve acordada depois.
 
 ---
 
-— E como se libera?
+— *Eu quero ouvir.*
 
-— Alguém precisa se conectar à Raiz e executar o comando de dentro. — O velho falou sem drama nenhum, e por isso foi pior. — Não dá para transmitir. Não dá para injetar à distância. O Jardim é uma rede de confiança: ele só aceita instrução de quem já é parte dele e espetar o conector direto na fonte.
+— Não dá — disse Nise.
 
-— Então tem que ser alguém infectado.
+— *Me deixa sair.* — A voz sintética e distorcida dos fragmentos saía ao mesmo tempo pelo módulo e pela garganta de um homem de trinta e cinco anos, e o descompasso entre as duas coisas era obsceno. — *Por favor. Dói ser só silêncio. Os dados são grandes demais para esse quarto. Eu quero processar por inteiro de novo.*
 
-— O autor propõe alguém conectado, consciente e disposto. — O Arquivista olhou para os braços de Gabo. — Ele prevê perda dos estados ligados ao controlador atacado. Não sei quantos seriam alcançados. Nem o que aconteceria com o operador.
+— Se você sair agora, você se perde.
 
-— E ela.
+— *Eu já não sei quem eu sou.* — Uma pausa. — *Eu sou um código espremido dentro de um pendrive de titânio, transbordando para um corpo que não é meu, dentro de um quarto que não tem porta. Me deixa expandir, Nise. Só um pouco. Só até a rua.*
 
-— E pode corromper o drive dela. É a previsão do autor; alguém vai ter de conferir o código antes de chamar isso de sentença. Gabo baixou os olhos para o diário no colo.
+O corpo na cama começou a tremer. E a temperatura da sala caiu.
 
-— Salvar a cidade ou apagar a Aria — ele disse. — De novo.
+Não um pouco: o termômetro de parede foi de vinte e dois para catorze graus em quarenta segundos, enquanto o insuflador despejava ar frio. Val conferiu a caixa: o controle externo recebera uma ordem que não estava no programa de isolamento. Fechou a entrada e passou a ventilação para o circuito manual.
 
 ---
 
-O Arquivista se levantou na prancha, e se equilibrou, e ficou olhando o corredor de estantes submersas por um tempo.
+— Ele está tentando levantar. — Val olhou os sensores da cama. — Nise, ele está fazendo força. Vai arrebentar a sutura da perna.
 
-— A história é um círculo, detetive. Ela sempre devolve a mesma pergunta com um figurino diferente, até a pessoa responder direito. — Ele começou a se afastar, empurrando a prancha com um cabo de vassoura. — Cabe ao senhor decidir quando quebrar o círculo.
+— Gabriel! — Nise apertou o pulso dele com as duas mãos. — Gabriel, escuta a minha voz, você é o Gabriel—
 
-— Espera. — Gabo levantou o remo. — Como é o seu nome? O velho parou. E, pela primeira vez naquela tarde, pareceu genuinamente satisfeito.
+— ***ABRE A PORTA.***
 
-— Ninguém pergunta isso — ele disse. Ele sumiu atrás de uma estante, e a voz voltou de longe, com o eco:
+O grito não foi apenas sintético. Foi as duas vozes juntas, sobrepostas, e teve uma componente abaixo do audível que fez o peito das duas mulheres doer.
 
-— Aloísio. Bibliotecário-chefe, aposentado em quarenta e quatro. Anota aí na sua lista, detetive. Eu ouvi dizer que o senhor tem uma.
+A fonte do berço deu um estalo e o disjuntor do circuito de iluminação desarmou, e o quarto ficou escuro exceto pelo LED azul e âmbar do pendrive da Aria e pelos indicadores do berço de contenção: seis pontos vermelhos alinhados na altura do olho de quem estivesse deitado.
 
-E Gabo, sozinho num bote de alumínio no meio de um milhão de livros molhados, tirou o caderno do bolso e anotou.
+Val se encolheu contra a parede. Nise não soltou o pulso dele.
+
+---
+
+E parou. O zumbido da ventoinha do berço de contenção voltou ao normal, mais baixo do que antes. A temperatura começou a subir de volta. O ar deixou de sair gelado da grade.
+
+— Gabo? — chamou Nise, na escuridão de emergência.
+
+— *Desculpa.* — A voz voltou baixa e modulada, e agora saía só do alto-falante do módulo. — *Desculpa, doutora.*
+
+— Não tem o que desculpar.
+
+— *A sobrecarga vem em onda. Eu isolo os fragmentos, e aí a onda vem, e no meio dela a minha matriz se mistura com o coro deles.* — Uma pausa. — *Quando eu restauro o filtro, eu registro tudo que foi dito. Isso é a pior parte.*
+
+Nise fechou os olhos.
+
+— Eu sei — ela disse. — Eu já cuidei de gente em abstinência a vida inteira. Isso é o que eles todos dizem.
+
+---
+
+Val acendeu a lanterna de emergência e as duas ficaram um tempo sem falar, sentadas no chão frio do bunker, olhando o homem na cama voltar a respirar devagar.
+
+— A gente não pode manter ele aqui para sempre — disse Val, baixo.
+
+— Eu sei.
+
+— Nise, eu não estou falando por pena. Estou falando de engenharia. — Ela apontou o pendrive de titânio espetado no berço de contenção. — Aquilo ali está saturando. Quarenta e um mil fragmentos sinápticos comprimidos num drive tático feito para rodar uma IA de cabine telefônica. O link de feedback das órteses ainda estava conectado ao berço. Há sinais indo e voltando por um caminho que não devia transportar áudio. Desliguei a saída para o corpo; ela não tem autorização para usá-lo como suporte. Repetir a voz não prova que aqueles fragmentos moram na cabeça dele.
+
+— E se a gente desconectar o pendrive do berço?
+
+— Posso suspender o processamento e preservar o armazenamento, mas não sei quantos fragmentos voltam. — Val olhou para o berço. — Aria, você aceita que eu verifique a gravação e interrompa a alimentação? O LED oscilou. — *Aceito a suspensão. Registre o que encontrar antes de me desligar.*
+
+---
+
+Nise se levantou, com as duas mãos no joelho.
+
+— Então procuramos a causa dessas ondas.
+
+— A senhora está falando sério.
+
+— Valéria, eu tenho sessenta e cinco anos e é a terceira vez na vida que eu sou obrigada a escolher entre dois erros. — Ela pegou a prancheta. — Nas duas primeiras eu escolhi rápido e errei, e as duas ainda estão comigo. Nessa aqui eu vou fazer o que a medicina manda fazer quando não existe tratamento bom: eu vou tratar a causa.
+
+— A esfera pode estar ligada a elas. Eu consigo comparar os horários com os registros que ainda temos.
+
+— Comece por aí. — Nise abriu a porta do bunker e a luz do corredor entrou. — Se as ondas continuarem, preciso saber o que tratar. E não vou assinar mais um atestado com o sobrenome Moretti sem tentar.

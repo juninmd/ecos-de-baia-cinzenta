@@ -1,139 +1,70 @@
 ---
-Título: Cuidado Perpétuo
+Título: O Útero de Chumbo
 Data In-Game: Pós-Colapso do Sentinel (Noite Eterna)
-Localização: Arca Zero - Arquivo Analógico, Abaixo do Setor 6
+Localização: Fundo do Poço de Manutenção, Abaixo do Setor 6
 Personagens Presentes: Gabo, Valéria, Elias
 ---
 
-# Capítulo 219: Cuidado Perpétuo
+# Capítulo 219: O Útero de Chumbo
 
-Ela abriu os olhos por quatro segundos e os fechou de novo. Quis tomar aquilo por desprezo. Não sabia se Elara Vance me via ou se podia controlar o movimento.
+O fundo do poço nos recebeu com a indiferença gélida de uma câmara mortuária anterior à própria história. Não houve impacto dramático; apenas o baque surdo dos meus coturnos sobre a laje de concreto usinado de alta densidade. O som ecoou na vastidão confinada, seco, pesado e sem retorno. Apoiei o peso na perna boa, enquanto a armação industrial de sucata instalada por Vasco para sustentar a fratura puxava meu ombro com uma fisgada aguda de cansaço. A carne costurada ardia sob as bandagens sujas, onde os pontos continuavam sangrando em silêncio. As cicatrizes do Dilúvio queimavam como brasa viva; tanta gente morreu naquela enchente maldita e eu perdi quase tudo o que chamava de vida, e tive de esperar a tontura passar antes de andar.
 
-Bati no berço com a garra da armação. O som ecoou pela galeria como um tiro.
+— Chegamos ao leito de pedra, — anunciei, a voz raspando na garganta ressecada pelo ar seco e carregado de poeira.
 
-Nada.
+Atrás de mim, Elias desabou sentado sobre um caixote de ferramentas de metal rebitado, com as mãos trêmulas apoiadas nos joelhos. O garoto respirava em golfadas curtas, os olhos arregalados encarando a escuridão imensa que nos cercava.
 
-— Ela não pode te ouvir, — Valéria disse. — O berço isola acusticamente. E ainda que pudesse, a musculatura dela está sob bloqueio neural desde a entrada neste berço. Não sei se ela consegue responder.
+— O ar... o ar parece chumbo na garganta, Gabo, — murmurou ele, engolindo em seco. — Parece que a terra inteira tá fazendo força pra esmagar a nossa cabeça.
 
-— Ela abriu os olhos.
+— O peso da rocha está nos suportes, Elias, não nos seus pulmões. — Valéria agachou diante dele e manteve a lanterna baixa. — A descida foi rápida e você está respirando curto. Senta um pouco. Se continuar ruim, voltamos ao elevador.
 
-— O protocolo registra que a abertura dos olhos pode ser reflexa. Não sei se ela consegue nos perceber ou responder.
+Ficamos parados até ele conseguir me dizer o próprio nome sem buscar ar no meio. Não era uma vitória sobre o medo; era só o direito de não ser arrastado por nós.
 
-Encostei a testa no vidro frio. Do outro lado, a mulher que vendeu a minha cidade para uma equação dormia com a pele perfeita e o cabelo prateado arrumado, sem uma cicatriz, sem uma marca, sem um dia de idade a mais do que quando desapareceu.
+Elias soltou um riso nervoso, enxugou o suor gélido da testa com a manga e se pôs de pé, firmando o cinto de ferramentas na cintura.
 
-Eu tinha atravessado oitocentos metros de lodo, perdido o uso de um braço, deixado o corpo do Rangel numa passarela oxidada e visto o pendrive da Aria derreter o próprio núcleo num terminal, e ela tinha passado a mesma temporada dormindo em lençóis limpos.
+— Eu tô de pé, Valéria... eu tô de pé.
 
-Bati de novo. Mais forte. A armação soltou faísca.
+Caminhamos pelo corredor escavado na rocha nua. As paredes eram cobertas por uma couraça impenetrável de placas de chumbo escurecidas pelo tempo, fixadas por rebites industriais do tamanho de punhos fechados. A poeira que cobria o chão não tinha a cor alaranjada da Praga de Ferro nem a textura viscosa do Jardim; era uma cinza pura, mineral, acumulada ao longo de seis décadas de isolamento total.
 
-— Gabo.
+E então, o feixe da lanterna de Valéria parou sobre a parede frontal da câmara.
 
-— Eu sei.
+A estrutura ocupava toda a extensão do vão. Era uma porta de explosão ciclópica, perfeitamente circular, com cinco metros de diâmetro, forjada em liga de titânio escuro e revestida por chapas de chumbo de quatro polegadas de espessura. No centro do círculo de metal maciço, fundida em alto-relevo na fundição original, repousava a insígnia arcaica da Aeterna Corp: um triângulo brutalista interceptado por três linhas verticais, anterior a qualquer neon ou propaganda do Distrito de Prata.
 
-— O vidro é laminado com quinze camadas. Você vai quebrar a prótese antes de trincar o berço, e a prótese é a única articulação de carga que você ainda tem.
+— O Útero de Chumbo, — sussurrou Valéria, aproximando-se da blindagem com a lanterna erguida. Ela passou a ponta dos dedos enluvados sobre a solda das chapas, o rosto iluminado por um espanto genuíno. — Esta liga foi feita pra resistir a explosões de impacto direto e tremores tectônicos de magnitude extrema. Não tem fechadura eletrônica, não tem leitor de retina, não tem rede de silício. É mecânica pura, analógica, do tempo em que as máquinas eram construídas pra durar mais que a própria civilização.
 
-— **Eu sei.**
+— Uma tumba sem janelas, — murmurei, avaliando o monumental volante de travamento no centro da folha de aço. — Projetada pra trancar o que quer que estivesse lá dentro longe dos olhos do mundo.
 
-Recuei. Respirei. O ar limpo entrou e não trouxe nada consigo — nem fumaça, nem alívio.
+— Ou pra proteger quem tava lá dentro do que ia acontecer lá fora, Moretti, — Valéria contra-atacou, apontando o feixe para o conjunto de contrapesos hidráulicos que desciam pelas laterais do batente. — O índice do arquivo menciona o Projeto Gênesis e aponta para esta instalação. Ainda não sabemos quando o projeto começou aqui.
 
-— Então a gente descobre como abrir.
+Aproximei-me do volante de metal forjado. Tinha quase um metro e meio de diâmetro, com raios grossos de ferro fundido cobertos por graxa seca de vedação.
 
----
+— A gente vai precisar de alavanca de novo, — disse Elias, examinando as linguetas de pressão nos cantos superiores. — O indicador mostra pressão maior do lado de dentro. Precisamos equalizar pela derivação antes de mexer no volante.
 
-O arquivo ficava atrás da terceira porta.
+— Boa observação, garoto, — aprovei, apontando com a *Caronte* para uma tubulação de cobre que corria paralela à moldura. — A válvula de purga é aquela manopla de bronze ali em cima. Val, você alcança?
 
-Não era um servidor. Era uma **sala**, no sentido antigo da palavra: estantes de aço de chão a teto, gavetas metálicas com etiquetas datilografadas, caixas de microfilme empilhadas em ordem alfabética, e bobinas de fita magnética guardadas em latas redondas como se fossem rolos de cinema. Uma mesa de leitura no centro, com um projetor de microfichas e uma cadeira giratória de couro rachado.
+— Alcanço pelo estribo de inspeção. — Valéria apontou dois apoios embutidos no batente. Elias segurou a escada curta do armário de ferramentas enquanto ela subia. Minha armação ficou baixa; o osso não tinha sido feito para içar outra pessoa.
 
-Papel. Toneladas de papel.
+Ela cravou o pé de cabra na alavanca e puxou para baixo com todo o peso do corpo.
 
-Elias entrou atrás de mim e soltou um assobio baixo.
+Um silvo ensurdecedor de ar comprimido rasgou o silêncio da caverna, como uma serpente colossal despertando de um sono de cem anos. Jatos de vapor limpo escaparam das válvulas de alívio, soprando nuvens de poeira prateada que dançaram no ar morto.
 
-— Por que alguém construiria isso?
+— Pressão equalizada! — gritou Valéria, saltando de volta para o piso com um giro perfeito. — O peso tá livre, Moretti!
 
-— Porque este papel ficou fora da rede, — falei. — Pode queimar, mofar ou trazer uma mentira assinada. Mas aqui temos originais para comparar com o registro. Não vamos chamar o cofre de garantia da verdade.
+Agarrei os raios do volante central. Elias correu e travou as mãos ao lado das minhas.
 
-Valéria consultava os índices das gavetas com a mão direita, anotando os códigos que queria conferir. Elias abriu o mapa no balcão e comparou o número que anotara na sala de controle com uma folha de recebimento. A entrada registrava uma caixa lacrada vinda do Hub, sem inventário anexado. Ele marcou a gaveta para voltarmos; a coincidência dos números não revelava o conteúdo nem autenticava a folha.
+— No três! — comandei. — Um... dois... gira!
 
-— Vou examinar os índices e selecionar o que precisamos abrir, — ela informou. — Ler o arquivo inteiro levaria dias. Você precisa de atendimento agora.
+Puxamos a roda de manobra em sentido horário. O motor da minha armação de Vasco rugiu sob o esforço, a tração do arnês alcançando o fixador no braço com uma ferroada que me fez cerrar os dentes até ranger os molares. Lembro de provações parecidas no Dilúvio, quando o concreto cedia e a gente quebrou as próprias mãos pra salvar os sobreviventes; a dor era conhecida, mas não me dava controle nenhum: precisei soltar o volante para Elias terminar a volta.
 
-— Então me dá o resumo em cinco.
+O metal rangeu com um gemido profundo e prolongado de engrenagens de bronze deslizando em guias perfeitas.
 
-— O resumo é o seguinte.
+A roda deu meia volta, depois uma volta completa.
 
-Ela parou de puxar gavetas. Aquilo, por si só, me deixou desconfortável.
+Três pinos gigantescos de chumbo e titânio recuaram para dentro das paredes com estalos sucessivos de artilharia pesada. A folha maciça da porta de explosão estremeceu, descolou-se da borracha de vedação com um estalo de sucção e começou a deslizar para o lado, abrindo uma fresta de cinquenta centímetros.
 
-— Aeterna S.A. foi registrada há sessenta e um anos como empresa de serviços funerários e cuidado perpétuo. Cinco sócios. Nenhum deles engenheiro. O ramo original era manutenção de jazigos e conservação de restos mortais para famílias com dinheiro.
+Do interior da antecâmara de Arca Zero, escapou uma lufada de ar frio, cristalino, estéril e impregnado com um suave cheiro de ozônio e antisséptico hospitalar imaculado. Era o ar mais puro que qualquer um de nós três já havia respirado em toda a vida na Baía Cinzenta.
 
-— Continua.
+Valéria deu um passo à frente, os olhos prateados arregalados e a boca aberta em assombro silencioso.
 
-— O problema comercial que eles tentaram resolver não era a morte. Era o **espaço**. Baía Cinzenta é construída sobre um pântano; o solo não comporta cemitério vertical, e a cidade proibiu novos jazigos no ano dezenove. Um contrato de cuidado perpétuo vendido sem lugar onde cumprir o cuidado é uma dívida infinita.
+— Não tem ferrugem... não tem colapso... — sussurrou ela. — Moretti... nós encontramos a Arca.
 
-Sentei na cadeira de couro. Ela guinchou.
-
-— Eles precisavam guardar gente sem espaço para guardar gente.
-
-— Correto. E a primeira proposta técnica do arquivo — Valéria puxou uma pasta e a colocou na mesa à minha frente, com o cuidado de quem entrega uma prova — sugeria que a maneira mais eficiente de conservar um indivíduo indefinidamente não era conservar o corpo.
-
-Abri a pasta.
-
-Papel timbrado. Datilografado, com correções à mão em caneta azul. O título estava sublinhado duas vezes:
-
-PROTOCOLO LÁZARO — VERSÃO 0.1
-"Sobre a viabilidade de manter o padrão cognitivo do contratante em substrato biológico reduzido."
-Eu li a primeira página. Depois a segunda. Na terceira eu tive que parar e olhar para a parede branca por um tempo.
-
-*Substrato biológico reduzido.* Trinta e oito páginas de linguagem educada, tabelas de custo por unidade-ano e notas de rodapé sobre conforto da família enlutada, explicando com muita calma que sai mais barato manter vivo o pedaço da pessoa que pensa do que manter inteiro o pedaço que apodrece.
-
-A proposta de preservação tinha o nome Lázaro. Eu ainda não sabia como aquele documento se ligava à droga que encontráramos depois.
-
-Meu pai passou quinze anos em um tanque de nutrientes servindo de processador para uma inteligência artificial. Eu passei quinze anos procurando meu pai; só na Torre soube do tanque. Desde então, achei que aquilo era a pior invenção da Aeterna.
-
-Não era invenção. Era o **produto original**. Meu pai não foi uma perversão do serviço. Ele foi um **cliente**, sem ter assinado nada.
-
-— Tem os nomes? — perguntei. — Dos cinco.
-
-Valéria puxou a ficha de constituição.
-
-— Quatro estão mortos. Causas naturais, entre os anos vinte e trinta. O quinto consta como afastado por invalidez no ano vinte e nove.
-
-— E a Vance?
-
-— A Dra. Elara Vance não é sócia fundadora. — Uma pausa mínima. — Ela aparece pela primeira vez nos registros em 2024, como consultora externa contratada para auditar o Protocolo Lázaro.
-
-— Auditar.
-
-— A recomendação final dela está na gaveta seguinte.
-
-Ela colocou a segunda pasta em cima da primeira.
-
-Um único memorando. Meia página. Assinatura firme, sem tremor.
-
-"O protocolo funciona. O protocolo é indefensável. Recomendo encerramento imediato do programa e destruição dos registros. Se a diretoria optar por prosseguir, recomendo que se prossiga em escala — programas desta natureza não sobrevivem à meia-medida, e a meia-medida é o único cenário em que a companhia responde criminalmente."
-Li aquilo umas seis vezes.
-
-Ela sabia. Desde o começo, ela sabia exatamente o que era, e escreveu num papel oficial que era indefensável, e no parágrafo seguinte explicou como fazer aquilo em tamanho grande o suficiente para não dar cadeia.
-
-Não foi cegueira. Não foi ideologia transumanista. Foi uma mulher inteligente olhando para o abismo, anotando corretamente que era um abismo, e recomendando um mergulho profissional.
-
-— Krell? — perguntei, e minha voz saiu bem baixa.
-
-— Viktor Krell consta no arquivo — Valéria abriu a terceira gaveta — como estagiário do departamento jurídico, no ano da auditoria. Função registrada: digitalização de contratos de cuidado perpétuo.
-
-Eu ri. Não teve graça nenhuma, mas eu ri, e a risada arranhou o ombro infeccionado e me deixou tonto por uns segundos.
-
-O sádico de terno que arrancou o cérebro do meu pai e usou como CPU tinha entrado naquela empresa arquivando papel de cemitério. O registro dizia que ele digitalizara contratos. Eu queria encontrar ali o começo de todos os crimes dele, mas aquela ficha não dizia o que ele lera nem o que decidira depois.
-
-— Gabo, — Elias chamou.
-
-Ele estava do outro lado da sala, na frente de uma estante que eu não tinha olhado. Segurava uma lata de fita magnética com as duas mãos, e o rosto dele estava sem cor.
-
-— O que foi?
-
-— Essas fitas aqui. — Ele engoliu em seco. — Elas não são de contrato. Elas têm nome de gente. E data.
-
-Ele girou a lata para eu ler a etiqueta.
-
-Não era um arquivo de clientes.
-
-Era um arquivo de **inquilinos**. E a etiqueta da lata que ele segurava, datilografada com a mesma máquina que escreveu tudo naquela sala, dizia:
-
-MORETTI, D. — ADMISSÃO ANO 41 — CONTRATO NÃO ASSINADO — MANTER INDEFINIDAMENTE
+— Vamos olhar antes de entrar — disse, parando junto à fresta. A corrente de ar empurrava a poeira para fora.

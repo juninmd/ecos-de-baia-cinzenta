@@ -83,7 +83,7 @@
    figurante nunca recebe o timbre de um protagonista — trocar a voz confunde tanto quanto
    trocar o rosto.
 9. **Continuidade temporal.** Respeite a fase do personagem (`Linha do Tempo e Evolução Visual`
-   em `docs/personagens.md`): Gabo com exoesqueleto no cap. 105 não pode aparecer sem ele.
+   em `docs/personagens.md`): Gabo com exoesqueleto no cap. 107 não pode aparecer sem ele.
    `scripts/art_gen/continuidade.py` lê essa linha do tempo e injeta a fase correta no prompt;
    o vestuário com fases declaradas (Dante) é escolhido pelo capítulo, nunca mandado inteiro.
 10. **Dez cenas por capítulo.** O alvo da obra é `CENAS_POR_CAPITULO = 10` em

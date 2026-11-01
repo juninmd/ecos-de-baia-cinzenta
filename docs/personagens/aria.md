@@ -6,7 +6,7 @@
 
 </CharacterPortraits>
 
-* **Status:** [DESTRUÍDA NO CAPÍTULO 167] — Assistente de IA Autônoma, alojada fisicamente em um componente tipo pendrive.
+* **Status:** [DESTRUÍDA NO CAPÍTULO 169] — Assistente de IA Autônoma, alojada fisicamente em um componente tipo pendrive.
 
 > ### 🔑 A Natureza Canônica (leia antes de escrever qualquer cena com ela)
 >
@@ -16,7 +16,7 @@
 > 2. **Ela vive fisicamente no pendrive:** Aria **nunca** foi uma criança humana, **nunca** foi filha de Gabo e **nunca** teve um corpo androide ambulante. Ela existe dentro desse drive portátil de titânio fosco e polímero negro. Para falar, ler sensores ou hackear sistemas, o pendrive precisa estar conectado: no painel do *Cobalt*, no adaptador do comunicador tático de Gabo, no cyberdeck *Phantom V3* de Valéria, ou espetado diretamente nos terminais de portas, elevadores, vagões de manutenção e servidores. Quando processa cargas pesadas, o metal do pendrive aquece fisicamente até queimar os dedos.
 > 3. **A arquitetura (Dante e desenvolvimento próprio):** O módulo usa código herdado de Dante e processos que Aria reorganizou durante sua própria operação. Sua origem, voz e memórias não contêm material de Bia Vargas. O dano na Usina Prometeu (118) compromete a saída e os índices de memória; o reparo de Valéria (125) preserva o histórico possível, e o reinício (134) isola uma entrada hostil. Aria conserva nome e critérios próprios.
 >
-> **Consequência:** no Capítulo 167, para derrotar o **Aeterna Sentinel** no Subnível 2.0, Aria aceita o risco e Valéria conecta o pendrive da Aria diretamente no terminal mestre do Arquivo Executivo. A sobrecarga térmica funde e carboniza o pendrive no slot. Nenhuma cena posterior ao 167 pode mostrar Aria ativa; resta apenas o drive de silício derretido e o silêncio no comunicador.
+> **Consequência:** no Capítulo 169, para derrotar o **Aeterna Sentinel** no Subnível 2.0, Aria aceita o risco e Valéria conecta o pendrive da Aria diretamente no terminal mestre do Arquivo Executivo. A sobrecarga térmica funde e carboniza o pendrive no slot. Nenhuma cena posterior ao 167 pode mostrar Aria ativa; resta apenas o drive de silício derretido e o silêncio no comunicador.
 
 * **Idade:** Data de criação e tempo de operação a investigar; avatar de mulher adulta, aparentando 35–40 anos. Ciclos de compilação não equivalem a idade humana.
 * **Altura:** 7 cm (componente físico tipo pendrive blindado); avatar holográfico de mulher adulta em escala compatível com a cena, emitido pelo módulo ou equipamento conectado.
@@ -38,13 +38,13 @@
 * **Revisão visual de 23/10/2026:** Novo retrato holográfico canônico `aria_3.png`, com a mesma identidade adulta e jaqueta grafite. `aria.png` e `aria_2.png` permanecem imutáveis como referências históricas. A projeção é luz sem massa, não um corpo.
 * **Capítulo 2 (O Encontro na Enchente):** Durante a enchente, Gabo ouve o chamado na cabine telefônica de cabos cortados, recolhe o pendrive da Aria espetado no terminal do orelhão e o conecta ao painel do *Cobalt*.
 * **Capítulos 4-10:** Opera conectada ao painel do *Cobalt*, ao comunicador de Gabo e ao cyberdeck de Valéria, abrindo travas por conexão local e lendo o tráfego da rede.
-* **Capítulos 32-55:** Entra em hibernação de baixo consumo após o Apagão da Torre.
-* **Capítulos 56-74 (O Leilão e a Torre):** Permanece no pendrive conectado ao painel do *Cobalt* e ao deck de Valéria. Cobrança de Miranda e Marco pelo módulo físico; espetada na matriz central no Capítulo 65, estabelece ponte com o backup de Dante e, no Capítulo 74, dispara a dispersão do protocolo pela antena do heliponto antes de o drive entrar em dormência.
-* **Capítulos 75.5-96 (O Jardim e o Código Morto):** Reativada no pendrive na delegacia e na enfermaria de Nise; no Capítulo 96, Gabo espeta o pendrive da Aria diretamente na Árvore Mestre de Silas Vance para injetar o *Código Morto*, destruindo a Colmeia.
-* **Capítulos 109-118:** O pendrive blindado sobrevive ao pulso em modo offline e volta a operar no comunicador de Gabo e no deck de Valéria. No Capítulo 118, espetada no console da Usina Prometeu para salvar os "Drenados", sofre curto-circuito nos barramentos e fica inerte (`Offline`).
-* **Capítulos 119-133 (O Fliperama e a saída danificada):** Carregada no bolso de Gabo até o Fliperama e reparada por Valéria com peças de Vasco (125); conserva o próprio histórico parcialmente inacessível e enfrenta falhas de áudio até uma entrada hostil no Ateliê (133).
-* **Capítulos 134-166 (Aria Reboot):** No Capítulo 134, Valéria executa um *hard reboot* nos pinos do pendrive. Aria reconhece o dano e quer recuperar seu histórico. Não ordena descarte de Rangel ou cauterização 155. Usa o controlador local do vagão 156/157, alimentado pela bateria do próprio veículo, para o deslocamento ao Subnível 3.0.
-* **Capítulo 167 (O Sacrifício no Terminal) — FIM:** No Arquivo Executivo (Subnível 2.0), Valéria espeta o pendrive da Aria diretamente no terminal mestre para conter o **Aeterna Sentinel**. Aria despeja toda a sua memória na rede do colosso; o Sentinel cai, mas a sobrecarga térmica **funde e carboniza o pendrive** dentro da porta de dados, deixando apenas cheiro de silício frito e polímero derretido.
-* **Atualidade (Capítulos 168-233):** Destruída. O pendrive fundido encerrado no Subnível 2.0 deixa o grupo sem cálculo de rota, sem cópia ativa. Valéria assume as consultas e limitações de campo; seu modo de segurança não é substituição de Aria.
+* **Capítulos 33-56:** Entra em hibernação de baixo consumo após o Apagão da Torre.
+* **Capítulos 57-75 (O Leilão e a Torre):** Permanece no pendrive conectado ao painel do *Cobalt* e ao deck de Valéria. Cobrança de Miranda e Marco pelo módulo físico; espetada na matriz central no Capítulo 66, estabelece ponte com o backup de Dante e, no Capítulo 75, dispara a dispersão do protocolo pela antena do heliponto antes de o drive entrar em dormência.
+* **Capítulos 77-98 (O Jardim e o Código Morto):** Reativada no pendrive na delegacia e na enfermaria de Nise; no Capítulo 98, Gabo espeta o pendrive da Aria diretamente na Árvore Mestre de Silas Vance para injetar o *Código Morto*, destruindo a Colmeia.
+* **Capítulos 111-120:** O pendrive blindado sobrevive ao pulso em modo offline e volta a operar no comunicador de Gabo e no deck de Valéria. No Capítulo 120, espetada no console da Usina Prometeu para salvar os "Drenados", sofre curto-circuito nos barramentos e fica inerte (`Offline`).
+* **Capítulos 121-135 (O Fliperama e a saída danificada):** Carregada no bolso de Gabo até o Fliperama e reparada por Valéria com peças de Vasco (125); conserva o próprio histórico parcialmente inacessível e enfrenta falhas de áudio até uma entrada hostil no Ateliê (133).
+* **Capítulos 136-168 (Aria Reboot):** No Capítulo 136, Valéria executa um *hard reboot* nos pinos do pendrive. Aria reconhece o dano e quer recuperar seu histórico. Não ordena descarte de Rangel ou cauterização 155. Usa o controlador local do vagão 156/157, alimentado pela bateria do próprio veículo, para o deslocamento ao Subnível 3.0.
+* **Capítulo 169 (O Sacrifício no Terminal) — FIM:** No Arquivo Executivo (Subnível 2.0), Valéria espeta o pendrive da Aria diretamente no terminal mestre para conter o **Aeterna Sentinel**. Aria despeja toda a sua memória na rede do colosso; o Sentinel cai, mas a sobrecarga térmica **funde e carboniza o pendrive** dentro da porta de dados, deixando apenas cheiro de silício frito e polímero derretido.
+* **Atualidade (Capítulos 170-235):** Destruída. O pendrive fundido encerrado no Subnível 2.0 deixa o grupo sem cálculo de rota, sem cópia ativa. Valéria assume as consultas e limitações de campo; seu modo de segurança não é substituição de Aria.
 
 ---

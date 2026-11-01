@@ -1,148 +1,121 @@
 ---
-Título: O Homem que Podia Ir Embora
+Título: A Fita
 Data In-Game: Pós-Colapso do Sentinel (Noite Eterna)
-Localização: Arca Zero - Poço de Serviço Norte, Abaixo do Setor 6
+Localização: Arca Zero - Arquivo Analógico, Abaixo do Setor 6
 Personagens Presentes: Gabo, Valéria, Elias
 ---
 
-# Capítulo 222: O Homem que Podia Ir Embora
+# Capítulo 222: A Fita
 
-Elias não voltou enquanto o módulo cuidava do ferimento.
+Levei alguns minutos para conseguir tocar na lata. Ela ficou ali no centro da mesa esse tempo todo, e eu fiquei olhando. Uma lata redonda de fita magnética, de umas dez polegadas, com a pintura verde descascando na borda e uma mancha de ferrugem na dobradiça. Cheirava a acetato velho — aquele cheiro adocicado e químico de filme guardado, que sobe da lata assim que a vedação cede e que quem tem mais de quarenta anos reconhece sem saber de onde.
 
-Descobri quando saí da enfermaria e não achei ninguém no corredor. Chamei uma vez, sem muita força, e o corredor branco devolveu o meu próprio nome com uma nitidez desconfortável.
+O metal estava frio. Eu passei o polegar na etiqueta e senti a datilografia em relevo, letra por letra, como quem lê braile do nome do próprio pai. Elias a colocou na mesa de leitura e recuou, do jeito que se recua de um cachorro que ainda não decidiu. Valéria montou o carretel na máquina — um gravador de rolo do tamanho de uma mala, todo botão físico e agulha analógica — e depois ficou parada ao lado dele, esperando, sem nunca perguntar se eu queria ouvir.
 
-— Ele está no poço de serviço norte, — Valéria disse do fim do corredor. — Há oito minutos.
+Ela não precisou perguntar. Nem precisou me apressar. Ela apenas ficou lá, disponível, com uma paciência que eu não soube interpretar. Desde a clínica, a sobrecarga vinha abafando suas respostas em intervalos cada vez maiores. No portão ainda tinha feito piada; agora parecia gastar tudo para continuar de pé.
 
-— E você não falou nada?
+— Você quer que eu saia? — Elias perguntou.
 
-— Ele pediu para não falar.
+— Não. — Puxei a cadeira de couro. — Se der ruim, alguém tem que estar sóbrio.
 
-— E você **obedeceu**?
+— Eu não estou nem um pouco sóbrio, cara.
 
-— Ele não é meu comandante, mas também não é meu prisioneiro. — Ela deu de ombros, e foi um gesto tão mecanicamente perfeito e tão vazio de significado que chegou a ser desagradável. — Eu não tinha razão operacional para impedi-lo.
+— Você é o mais perto que eu tenho.
 
----
+Ele sentou no chão, encostado na estante, abraçando os joelhos. Coloquei a mão de carne no botão. O ombro latejava em ondas agora, subindo pelo pescoço e batendo atrás do olho direito. Trinta e nove e meio, talvez quarenta. As paredes brancas tinham começado a respirar de um jeito muito discreto, e eu sabia o que aquilo significava, e resolvi que não importava. Apertei. O carretel girou. Houve três segundos de chiado — aquele chiado gordo, quente, que fita magnética faz e que nenhum arquivo digital jamais soube imitar. E então:
 
-O poço de serviço ficava atrás da sexta porta, a única que a gente não tinha aberto.
+"...testando. Está gravando? Ótimo."
+Uma voz de mulher. Profissional. Neutra. Com a idade tirada por dentro do jeito que só as vozes muito treinadas conseguem. A voz me lembrou a mulher que eu vira ser presa diante da mansão dos Vance. Mas eu não podia identificar uma gravação antiga só pela lembrança.
 
-E do outro lado dela havia um elevador.
+"Sessão de admissão. Inquilino: Moretti, Dante. Comissário. Admissão sob autoridade da diretoria, contrato não assinado pelo indivíduo. Auditora responsável: Vance, E."
+Uma pausa. O som de uma cadeira sendo arrastada.
 
-Não um poço de escada. Não um duto de exaustão desmoronando. Um **elevador de serviço**, de plataforma aberta, com grade sanfonada, contrapeso de concreto e um painel de dois botões: um para cima, um para baixo. A luz de operação estava acesa. Verde.
+"Comissário, o senhor entende onde está?"
+E aí o mundo saiu do lugar.
 
-Elias estava dentro dele.
+"Eu entendo que a senhora tem uma máquina de escrever muito boa e um advogado muito ruim."
+Meu pai. Não a simulação. Não o rosto idealizado no monitor de um exoesqueleto. Não a coisa educada e precisa demais que saiu de um túnel descalça e me chamou de Gabriel como se estivesse lendo o nome numa lista.
 
-Tinha a mochila nas costas. A lanterna morta pendurada no cinto, substituída por uma lanterna nova de dínamo que ele devia ter achado num armário. Nos braços, três garrafas de água selada.
+**Ele.** Com o barítono rouco lascado nas pontas, com aquela pausa exata de meio segundo antes das palavras difíceis, com o deboche que ele usava exclusivamente com gente que se achava mais esperta do que era.
 
-E o dedo dele estava a um centímetro do botão de subir. Eu parei na porta. Não disse nada.
+Fechei os olhos. Segurei a beirada da mesa com a mão boa até os dedos ficarem brancos.
 
-Ele me viu. Encolheu os ombros para dentro, do jeito que ele faz.
+"O senhor está sendo desagradável."
+"A senhora vai me guardar num pote. Perdoe a falta de modos."
+"Não é um pote."
+"É um pote, doutora. Um pote caro. Eu li o contrato que a senhora não me deu."
+Silêncio na fita. Longo. Onze, doze segundos. Só o chiado. Depois a voz dela outra vez, e alguma coisa nela tinha mudado de temperatura:
 
-— Funciona, — ele disse. — O maldito funciona, Gabo. Circuito próprio. Nunca esteve na rede, então a Praga nunca pegou. Conferi o contrapeso, o freio e o caminho acessível. Não subi até a estação; não sei o que há na saída. — Ele riu, e o riso saiu horrível. — Quatro anos de manutenção. É a única coisa em que eu sou bom. E a única vez que serviu para alguma coisa foi para achar a porta dos fundos.
+"O senhor leu."
+"Eu passei trinta anos lendo o que ninguém queria que eu lesse. É basicamente a única coisa que eu sei fazer."
+"E o que o senhor entendeu?"
+*"Que vocês não querem me matar. Matar é barato e vocês já teriam feito. Vocês querem me **usar**, e para isso eu preciso continuar pensando, e a senhora está aqui hoje para descobrir se o que eu tenho na cabeça vale o custo de manutenção."*
 
-— Onde é que ele sai?
+Outra pausa.
 
-— Estação de bombeamento pluvial no Setor 4. Superfície. — Ele engoliu. — Quarenta minutos de subida. Talvez cinquenta com o peso.
+*"Vale?"*, ele perguntou.
 
-Fiquei olhando para ele.
+"Sim."
+"Que pena."
+Elias tinha parado de respirar direito do outro lado da sala. Valéria não se moveu um milímetro. A fita continuou. Vinte minutos. Ela fazia perguntas técnicas — memória de procedimento, hierarquia de decisão, resolução de dilema — e ele respondia todas, uma por uma, com aquela precisão de policial velho que catalogou tanta miséria humana que já não se impressiona com nenhuma. Ela estava mapeando o código moral dele. Testando se aguentava carga.
 
-— Então vai.
+E ele sabia. Ele parecia saber o que ela estava fazendo e respondia mesmo assim. A fita não me deixava conferir tudo o que ele dizia. Foi aí que eu entendi por que a IA deles funcionou tão bem. Não foi porque roubaram um cérebro bom. Ele respondia sob coerção e ainda procurava interferir no que fariam dele. Responder não era consentir em ser usado. Na marca dos vinte e dois minutos, a voz dela mudou de novo.
 
-Ele piscou.
+"Última pergunta, Comissário. Fora do protocolo."
+"Estou ansioso."
+"O senhor tem dois filhos."
+Chiado.
 
-— Como é?
+"Três."
+"O registro diz dois."
+"O registro está incompleto. Ela nasceu depois."
+"O senhor gostaria de deixar alguma instrução a respeito?"
+E o meu pai riu. Uma risada curta, seca, sem alegria nenhuma, a mesma risada que eu ouvi a vida inteira do outro lado de uma porta de escritório trancada.
 
-— Você me ouviu. Vai. — Encostei o ombro bom no batente, porque ficar em pé sem apoio tinha virado luxo. — Você não me deve nada, Elias. Você não é polícia, não é resistência, não assinou porra nenhuma. Você era um cara trancado numa sala monitorando pico térmico e nós dois chutamos a sua porta e trouxemos o inferno junto. Se tem alguém aqui embaixo com direito de ir embora, é você.
+"Instrução? A senhora vai apagar essa parte da fita."
+"Eu não vou."
+"Vai sim."
+"Comissário, eu não vou apagar."
+E então ele falou, e falou baixo, e a agulha do gravador mal se moveu:
 
-— Você está falando sério.
+"Então escreve aí. O mais velho vai me procurar. Não porque ele me ama — ele não me ama, e ele tem razão em não amar. Ele vai me procurar porque ele não sabe fechar uma pasta em aberto, e eu sou a pasta mais aberta que ele tem. Vai levar anos. Ele vai chegar até vocês."
+"E se chegar?"
+"Aí a senhora vai ter um problema que nenhum contrato resolve. Porque eu sou um homem razoável, doutora. Eu negocio. Eu li o papel."
+Uma pausa.
 
-— Estou.
+"O meu filho não lê nada."
+Clique.
+O carretel continuou girando em fita branca por mais um minuto inteiro, e ninguém na sala se mexeu para desligar. Eu fiquei ali sentado na cadeira de couro rachado, com quarenta graus de febre, o braço quebrado na armação e um ombro em carne viva, no lugar mais limpo do mundo, ouvindo um chiado. Quinze anos de merda e a única coisa que eu consegui pensar foi: *ele falou de mim.*
 
-— Não é um teste?
+Ele estava sendo enterrado vivo por uma corporação de cemitério e usou os últimos vinte segundos de fita para avisar a mulher que ele **tinha** três filhos, e que um deles ia dar trabalho.
 
-— Elias, eu mal consigo ficar em pé e o braço direito quebrado. Eu não tenho energia para teste.
+Eu passei a vida inteira convencido de que ele nunca tinha me visto. Que eu era ruído de fundo entre um plantão e outro, uma criança que ele cumprimentava a caminho da porta. Passei quinze anos endurecendo em cima dessa certeza. Construí tudo que eu sou naquela pedra. A pedra continuava lá. Eu não tinha inventado a ausência, o desprezo, as portas que ele fechava na minha cara. Aquela fita não reescrevia a infância.
 
-Ele ficou parado no elevador, com o dedo no ar. E não apertou.
+O que desabou foi outra coisa: a conveniência de fazer dele um homem de uma peça só. Ele me feriu e pensou em mim antes de ser enterrado vivo. Uma verdade não cancelava a outra. Eu usara a primeira como licença para cobrar dos outros; agora nem esse truque servia.
 
-— Aperta, — falei.
+Éder levantara as mãos e eu atirara. Minha infância não apertou aquele gatilho. Eu apertei. Eu não ganhei nada naquela cadeira de couro. Eu perdi a última desculpa que eu tinha. Meus olhos arderam e eu não fiz absolutamente nada a respeito, porque a mão boa estava ocupada segurando a mesa e a outra estava presa à armação que Vasco acoplara ao fixador, e eu não ia usar o ferro de um açougueiro para enxugar isso.
 
-— Estou tentando.
+— A pasta, — falei, e a voz saiu horrível. — Ele falou pasta em aberto.
 
-— Aperta o botão, cara.
+— Sim, — Valéria disse.
 
-— **Eu estou tentando!**
+— Ele sabia que eu ia chegar aqui.
 
-Ele gritou aquilo, e a mão dele caiu, e ele encostou de costas na grade sanfonada e escorregou até sentar, exatamente como tinha feito no corredor no dia em que sentiu ar limpo pela primeira vez.
+— Ele calculou que você chegaria a algum lugar. Isto aqui é o lugar que sobrou.
 
-— Eu vim aqui pra ir embora, — ele disse para os próprios joelhos. — Eu juro que vim. Peguei água, peguei lanterna, planejei a rota. Cheguei até a decidir o que ia contar quando chegasse lá em cima. Já tinha a história pronta e tudo.
+Ela desligou o gravador. O silêncio construído voltou a ocupar tudo.
 
-— E aí?
+— E tem mais uma coisa, — ela disse.
 
-— E aí eu percebi que não sei quem ainda está lá em cima para ouvir.
+— Não sei se eu aguento mais uma coisa.
 
-Silêncio.
+— Você aguenta. — Sem crueldade. Sem calor. Uma leitura. — A Dra. Vance não apagou a fita. Ela tinha autoridade total sobre este arquivo, e a instrução do seu pai continua gravada, arquivada, etiquetada e guardada na estante mais protegida desta instalação.
 
-— Meu chefe morreu no Colapso. Gente do meu turno também. Meu irmão foi embora no Apagão e nunca mandou notícia. — Ele tirou o mapa dobrado do bolso. — Ainda tenho os lugares que anotei. Posso levar a lista para alguém procurar os três da galeria. Posso levar uma cópia da remessa. Mas não sei quem vai me ouvir na estação, nem quem eu posso procurar sem entregar esses papéis para a Aeterna. — Ele olhou para mim. — E você está aqui embaixo com um ferimento que precisa de hospital.
+Levantei a cabeça devagar.
 
-Ele bateu com a nuca na grade. Uma vez. Duas.
+— Isso significa o quê?
 
-— Eu não quero ser corajoso, Gabo. Eu me caguei de medo naquela ponte e no poço e vou me cagar de medo em tudo que vier. — A voz dele quebrou. — Eu queria encontrar meu irmão. Queria que alguém procurasse as pessoas da lista. Queria não ter que escolher entre subir sozinho e deixar vocês aqui. E tenho raiva de você por ter me posto naquela ponte.
+— O arquivo guardou um registro de que Dante foi admitido contra a vontade. Não sabemos quem preservou a fita nem por quê. Isso não resolve os documentos de 2019 nem todas as escolhas anteriores dele. — Valéria virou o rosto para o corredor branco, na direção da galeria dos berços, e o prateado dos olhos dela cortou o escuro como um farol pequeno e frio. — A fita pode ter servido como prova, como instrumento de controle ou como as duas coisas. Precisamos perguntar a ela.
 
-Fiquei quieto. A marca do colarinho ainda estava na minha memória, onde a garra o prendia junto à ponte.
+— Por quê?
 
-— Você tem razão de ter raiva. Eu disse que não ia repetir aquilo e não vou usar o arquivo para cobrar sua companhia. Se decidir subir, você leva cópias. Se ficar, a gente procura outro jeito de fazê-las chegar.
-
-Andei até o elevador. Cada passo era uma negociação. Entrei na plataforma, com ele, e fiquei em pé segurando a grade.
-
-— Escuta aqui, — falei. — Eu vou te dizer uma coisa e depois nunca mais, porque eu não presto pra isso.
-
-— Tá.
-
-— Coragem não é não ter medo. Isso é história que a gente conta pra recruta. — Olhei para o poço escuro acima da gente. — Coragem é a distância entre o quanto você quer sair e o quanto você anda pra dentro assim mesmo. Pela minha conta, você tem mais coragem que qualquer um que eu conheci na corporação, e eu conheci gente com medalha.
-
-Ele não disse nada.
-
-— Você desceu oitocentos metros num buraco chorando o caminho inteiro. Isso não é ser fraco, Elias. Isso é a coisa mais difícil que existe. Qualquer imbecil desce um buraco sem sentir nada. — Pensei na Valéria olhando para o casco de aço por dois segundos e saindo da sala. — Alguns até desceriam melhor.
-
-Ele enxugou o rosto com as costas da mão, deixando risco de graxa.
-
-— E se eu quiser subir depois?
-
-— Aí a gente volta e confere se ainda funciona. Não posso prometer que o caminho vai continuar aberto. — Dei um tapinha na grade com a garra, e a coisa fez um barulho horroroso. — Eu não vou te cobrar por ficar nem te julgar por partir. Não vou transformar sua decisão numa dívida.
-
-Ele se levantou. Ajeitou a mochila. E apertou o botão. O de **descer**.
-
-A plataforma tremeu e começou a baixar os dois metros de volta ao nível da Arca com um zumbido antigo e satisfeito.
-
-— Se eu vou morrer aqui embaixo, — Elias disse, olhando para a frente, — eu prefiro morrer sabendo o que tem atrás daquele vidro.
-
----
-
-Valéria nos esperava na antecâmara hexagonal.
-
-— Ele voltou, — ela constatou.
-
-— Voltou.
-
-— Eu achei que ele fosse partir.
-
-— Você achou que ele fosse partir?
-
-— Eu posso estar errada sobre alguém. — Ela virou-se para a galeria dos berços. — E registro quando erro. É como o cálculo melhora.
-
-Andamos os três pelo corredor de vidro e cobre, passando por oitenta e três caixões vazios, até a única luz verde no fim da fileira.
-
-A Dra. Elara Vance estava de olhos abertos.
-
-Ela abrira os olhos novamente. Quando os três chegamos ao pé do berço, a pupila esquerda dela se moveu — devagar, um milímetro por vez — e parou exatamente sobre o painel de controle, ao lado da minha mão.
-
-Depois voltou para mim. E fez de novo. Painel. Eu. Painel. Eu.
-
-— Ela está dizendo onde apertar, — Elias sussurrou.
-
-— Está, — falei.
-
-Coloquei a mão de carne sobre a chave analógica de duas posições, do tamanho de um punho, com uma etiqueta de baquelite amarelada pelo tempo. Havia uma segunda chave idêntica a três metros dali, no outro lado do corredor.
-
-Duas chaves. Duas mãos. E eu só tenho uma.
-
-— Elias, — falei. — Vem cá.
+— Essa é a pergunta que vale a pena acordá-la para fazer.

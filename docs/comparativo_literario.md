@@ -33,7 +33,7 @@ Obras de referência, por função que ocupam no gênero:
 
 A função é a mesma: uma consciência artificial com voz de pessoa morta ajudando o
 protagonista. A diferença que decide: **em Neuromancer o construto é consumido uma vez;
-na nossa obra, o pai é a bateria e cada acesso cobra minutos da vida dele** (caps 66–75).
+na nossa obra, o pai é a bateria e cada acesso cobra minutos da vida dele** (caps 67–76).
 Isso transforma cada pergunta em despesa — a IA não é ferramenta, é credor.
 
 O que ficou pior: a voz de Aria virou uma máquina de avisar limite. **77 construções do
@@ -47,7 +47,7 @@ o que não sabe, Gabo decide mesmo assim. O leitor aprende o ritmo e para de sen
 
 Chuva, neon morto, arranha-céus com dono e um detetive com prótese são gramática do
 gênero, não plágio. A diferença é de causalidade: **o Dilúvio foi operado por decreto**
-(caps 46–55) e **o apagão foi escolha do protagonista** (caps 28–35). Em *Blade Runner* a
+(caps 47–56) e **o apagão foi escolha do protagonista** (caps 28–36). Em *Blade Runner* a
 catástrofe é clima; aqui ela tem autor, assinatura e lucro. Noir precisa disso: alguém
 recebeu o dinheiro.
 
@@ -55,20 +55,20 @@ recebeu o dinheiro.
 
 Krell é o empresário onisciente padrão enquanto o livro é perseguição. O que o diferencia
 é o **modo de derrota**: ele cai por papel, rubrica, índice de 47.311 admissões e cadeia de
-custódia (caps 227–233), não por explosão. Clímax probatório em cyberpunk é raro — o
+custódia (caps 229–235), não por explosão. Clímax probatório em cyberpunk é raro — o
 gênero costuma terminar em assalto. Aqui o clímax é **arquivo**, e o preço é a Arca Zero.
 
 ### 2.4 O Taxidermista é Hannibal? **Parece na superfície — e é a nossa maior virada.**
 
 Assassino-esteta que compõe com corpos é *Se7en*. A nossa versão faz os corpos **serem
 infraestrutura**: as vítimas são substrato de processamento ("Eles pensam por Dante",
-cap. 116; a reversão do fluxo no cap. 129). Isso resolve o defeito clássico do serial
+cap. 118; a reversão do fluxo no cap. 131). Isso resolve o defeito clássico do serial
 killer de ficção: ele deixa de ser um monstro paralelo à trama e passa a ser **a mesma
 trama** — a mesma lógica de Krell, em escala menor.
 
 ### 2.5 "Sua família foi escolhida" é Matrix? **É o inverso — e é melhor.**
 
-A reviravolta do cap. 228 não elege Gabo: classifica a linhagem Moretti como **grupo de
+A reviravolta do cap. 230 não elege Gabo: classifica a linhagem Moretti como **grupo de
 controle** de um estudo de deriva. O anti-eleito é mais interessante que o eleito, porque
 não dá poder nenhum — dá um lugar num arquivo. O protagonista não ganha destino; ganha
 processo.
@@ -117,7 +117,7 @@ referencia por outro traço.**
 | 144–154 | duplo canal de áudio explicado cinco vezes | explicitado uma vez; depois "pelos dois canais" |
 | 122 | 8 tiques num só capítulo (o pior da obra) | cena limpa: o inspetor descrito direto, "ozônio" aparecia duas vezes |
 
-**Deliberadamente não mexido:** o cap. 66 (a subida de Dante ao módulo). Ele tem três
+**Deliberadamente não mexido:** o cap. 67 (a subida de Dante ao módulo). Ele tem três
 "Gabo olhou para" e uma frase nominal de quatro palavras — e é o ponto emocional da obra.
 Ali a câmera lenta é escolha, não tique. Achado medido não é ordem de reescrita.
 

@@ -1,146 +1,148 @@
 ---
+layout: doc
+title: "Capítulo 57: O Preço do Amanhã"
+description: "Sete semanas de reparos e mudanças de refúgio levam ao dia noventa e cinco do Dilúvio. Elena sai com documentos. A data do protocolo anterior às comportas orienta a investigação, sem autenticar toda a hipótese."
 image: /capitulo_57.jpg
 Personagens Presentes: Gabriel "Gabo" Moretti, Aria
-Localização: "Zona de Exclusão — Setor 4"
----
-# Capítulo 57: Zona de Interesse
-
-Zona de Exclusão — Setor 4
-Aria quase não usava o sintetizador de voz. Naquela parte da viagem, Aria poupava intervenções. O drive retornara ao painel depois de passar pelo deck e pelos terminais; os registros de cada ligação continuavam separados. No resto do tempo ela operava assim: com o corpo metálico do pendrive morno na porta de dados, o LED azul-gelo pulsando devagar contra o plástico sujo do console, varrendo as frequências do setor.
-
-O carro cheirava a mofo de estofado velho, café frio e o ozônio seco do circuito do painel que trabalhava além da conta para alimentar o módulo.
-
-— O que você está rastreando, Aria?
-
-O alto-falante deu um estalo curto e o visor monocromático do painel traçou um vetor. Não apontava para os drones no céu. Apontava para os prédios.
-
+Localização: "Posto de gasolina abandonado, Zona Industrial"
 ---
 
-Ele seguiu a coordenada marcada no vidro e levou um tempo para entender o que estava olhando. Nos andares altos dos cortiços semidestruídos do Setor 4 havia luz. Não elétrica — luz de vela, de lampião de querosene, de fogo em lata. E nas janelas, sombras se mexendo. Gente.
+# Capítulo 57: O Preço do Amanhã
 
-Famílias que não saíram. Que não tinham para onde ir, ou que decidiram que aquele apartamento de quarenta metros quadrados com infiltração no teto era a única coisa que elas conseguiram acumular em três gerações e não ia ser um aviso de despejo holográfico que ia tirar aquilo delas. Em várias janelas, panos brancos amarrados na grade. Fronha, camiseta, lençol de criança com estampa de dinossauro. Bandeira branca.
+Dia 95 do Dilúvio.
+Sete semanas tinham passado desde a oferta de Isadora. Duas mudanças de refúgio, sessões de fisioterapia interrompidas por falta de transporte, baterias emprestadas para sustentar o que ainda respondia nas órteses. Gabo continuava dependendo de ajuda para as transferências; aprender a administrar a limitação não era curar a coluna. Elena usara o intervalo para reunir provas com outras fontes e preparar a saída. Agora levaria o que tinham conseguido manter fora dos servidores.
 
-— Eles acham que isso significa alguma coisa — Gabo disse, mais para si mesmo. — Eles acham que tem alguém do outro lado que sabe o que significa.
+A chuva tinha mudado.
 
-No painel, o LED da Aria piscou uma única vez em âmbar escuro, e o silêncio do alto-falante foi de concordância.
+Não era mais a parede de água dos primeiros dias, aquela que fazia barulho de aplauso e derrubava marquise. Virou garoa: fina, contínua, gelada, com pingo pequeno demais para escorrer. Não molhava a roupa — atravessava. Em quarenta minutos ao relento uma pessoa ficava encharcada até a pele sem ter sentido nenhuma gota.
 
----
+Gabo estava sentado no Cobalt, embaixo da marquise de um posto de gasolina abandonado da Zona Industrial, tomando um café frio de garrafa térmica porque cafeína era a última tecnologia que ainda funcionava nele.
 
-Um drone desceu. Parou a três metros da janela de um terceiro andar e ficou pairando, com aquele zumbido de quatro rotores em frequências levemente diferentes que dá dor de cabeça em quem escuta muito tempo. Gabo reduziu usando a alavanca manual e deixou o Cobalt roncar baixo.
+Na outra mão, um papel amassado. Letra cursiva, inclinada para a direita, com o "g" de cauda fechada. Conhecia aquela letra dos anos em que dividiram a casa.
 
-O drone emitiu uma sirene digital — três notas descendentes, desenhadas por alguém num escritório para soar *oficial* sem soar *ameaçador* — e projetou um holograma na parede encardida do prédio, em letras de dois metros:
+> *Não me procure. O que eu carrego é grande demais para caber num porão. Preciso levar isso para fora da cúpula, para um lugar onde a Aeterna não possa apagar arquivo.*
+>
+> *Cuide de você. Sua mãe se foi durante o Dilúvio, mas a culpa não precisa te levar junto.*
+>
+> *E, por favor: tenta não morrer. — Elena.*
 
-PROPRIEDADE DO CONSÓRCIO LÁZARO
-SAÍDA IMEDIATA OU REMOÇÃO FORÇADA
-— Consórcio Lázaro — Gabo repetiu, e guardou o nome no lugar onde ele guarda nome.
+Ela tinha ido no comboio das quatro da manhã, misturada aos que vendiam tudo o que tinham por um lugar num caminhão de carga rumo às Terras Altas.
 
-A janela se abriu. Um homem de camiseta regata, uns cinquenta anos, com a barriga de quem trabalhou em pé a vida inteira, se debruçou e jogou uma garrafa.
+Era melhor assim. Ela estava com dezoito mil páginas escaneadas dentro de um cartucho de fita, e enquanto ela estivesse na cidade aquilo era uma bala com o endereço dos dois.
 
-Foi um arremesso ruim. A garrafa girou no ar, bateu de lado no chassi do drone e estilhaçou sem fazer nada além de barulho. Cacos caíram na calçada alagada. O drone não atirou. Gabo até pensou, por meio segundo, que não ia acontecer nada.
-
-O que veio foi um pulso sônico. Não teve estampido — teve uma **pressão**, uma coisa que Gabo sentiu no peito e nos dentes dentro do carro fechado a quarenta metros de distância, e o para-brisa do Cobalt vibrou como pele de tambor. E o vidro de todas as janelas daquele andar explodiu **para dentro**.
-
-O homem da regata caiu de joelhos com as mãos nos ouvidos. A boca abria e fechava. Gabo não ouviu nada, e não precisava: a pressão e a queda lembravam um bombardeio de gás em manifestação, quinze anos antes. Daquela distância, ele não podia diagnosticar o ferimento.
-
-Uma mulher apareceu atrás dele e o puxou para fora do vão da janela. O drone subiu, girou e foi para a janela seguinte projetar o mesmo aviso.
-
-— Malditos — Gabo sibilou.
-
-E não fez nada, porque não tinha o que fazer, e ele odiou cada segundo daquilo.
+Gabo leu o bilhete três vezes. Depois virou o papel do outro lado, para ver se tinha mais, e não tinha, e essa foi a parte que doeu.
 
 ---
 
-Duzentos metros adiante a rua estava fechada. Barreira de concreto pré-moldado com uma cortina de luz sólida por cima — cara, do tipo que não se usa em bloqueio de polícia porque polícia não tem verba. E dois CP-Z de guarda.
+Ele guardou o bilhete no bolso interno do sobretudo, junto com o resto: a chave do Cobalt, o molho de chaves de onze fitas azuis do Seu Otávio, um cartucho de calibre 12 que ele nunca usava e que estava ali desde o ano trinta e nove.
 
-Não eram os modelos da corporativa. Estes eram maiores, com o torso mais largo, e estavam pintados de **branco imaculado**. Sem número de unidade, sem brasão de departamento, sem nada. Máquina branca de segurança privada, limpa como geladeira nova, em pé no meio de um bairro que tinha lama até o meio-fio. Gabo parou o Cobalt a cinquenta metros.
+E olhou para o painel do carro.
 
-— Aria. Modo furtivo. Corta a transmissão externa; deixa o cabo do meu ponto auditivo ligado.
+Espetado na porta de diagnóstico do console central estava o drive neural da Aria — aquele bloco blindado de titânio fosco e polímero negro, do tamanho de um pendrive pesado, que ele encontrara numa cabine telefônica antes do Dilúvio.
 
-O LED azul do pendrive apagou. O rádio externo ficou mudo; o módulo continuou alimentado pelo carro e ligado ao fone por cabo.
+Desde que voltara a receber alimentação no Cobalt, o módulo alternava atividade e suspensão conforme a reserva disponível. As ligações ao deck e aos terminais tinham deixado registros separados; não permanecera preso ao painel durante todas as incursões. O pequeno LED lateral oscilava entre o azul-gelo e o âmbar, lento como um pulso em repouso, aquecendo de leve o plástico rachado do painel enquanto filtrava frequências mortas.
 
-Gabo tocou de leve o metal morno do drive espetado no console. Não sabia onde Aria aprendera a se esconder; sabia que a ausência do sinal não apagava as câmeras do bloqueio.
+Gabo já não estranhava mais conversar com um pedaço de metal espetado no console. Tinha testado desligá-la duas vezes nas primeiras semanas e o silêncio do carro ficava insuportável. Ele agora fazia o que se faz com equipamento de trincheira: mantinha conectado e seguia em frente.
 
-— Se eu precisar do porta-malas, consegue abrir pela ligação local?
+O indicador luminoso piscou duas vezes em azul. A câmera do carro, conectada ao módulo, mostrava a rua através do para-brisa.
 
-— *Consigo, enquanto a alimentação e a trava responderem.* O módulo permaneceu escuro no painel.
+— Estamos sozinhos no setor, Aria — ele disse para o vidro.
 
----
-
-A chuva estava fria e batia de lado. Aproximou o carro até onde podia voltar sem fazer manobra. Não tinha como atravessar cinquenta metros a pé com as órteses ainda instáveis. Falou pela janela, com as mãos visíveis.
-
-— Área restrita — anunciou o robô da esquerda.
-
-A voz era suave. Quase humana. Modulada em tom de balconista de banco — desenhada, num escritório, para soar tranquilizadora enquanto ordena submissão.
-
-— Esta zona foi adquirida para desenvolvimento residencial de alto padrão.
-
-— Eu moro aqui — mentiu Gabo. — Apartamento 34. Tenho documento.
-
-O robô inclinou a cabeça. As lentes óticas giraram, focando e desfocando com um clique minúsculo e educado. Três segundos.
-
-— Cidadão não identificado. — Pausa. — Análise de crédito: inexistente. Valor social: negativo.
-
-Outra pausa, e Gabo entendeu que a pausa era **para ele**. Era espaço deixado no roteiro para o cidadão processar a informação. Alguém tinha desenhado aquilo. Alguém tinha sentado numa reunião e discutido o tempo da pausa.
-
-— Recomendação: descarte.
-
-A mão direita da máquina recolheu-se para dentro do antebraço e um cano subiu no lugar.
+No painel, o LED do pendrive estabilizou num brilho contínuo, vigiando a garoa sem gastar um watt a mais do que o necessário.
 
 ---
 
-Gabo sacou e disparou três vezes antes do cano terminar de travar. Duas no peito, uma na lente. As três balas ricochetearam. Ele viu as faíscas e ouviu o zunido de uma delas passando de volta perto da própria orelha, e o cheiro de pólvora encheu tudo por um instante antes da chuva levar. Nem arranhão. Nem marca. Cerâmica composta em placa curva, que é feita exatamente para que 9mm escorregue.
+O rádio do carro chiou sozinho e cortou o silêncio.
 
-— Merda.
+Não era estação: era o sistema municipal de emergência, que ainda funcionava por rádio analógico porque tinha sido instalado no ano vinte e sete e ninguém nunca teve orçamento para modernizar. A voz era sintética, feminina e educada.
 
-— Ação hostil detectada. Iniciando protocolo de higienização.
+> *"Atenção, cidadãos. A Zona Industrial Leste foi declarada Área de Reurbanização Prioritária. Todos os residentes devem evacuar imediatamente. Unidades de pacificação estão a caminho. A resistência será classificada como ato terrorista. Repetindo..."*
 
-Ele abriu a porta e se deixou deslizar para trás da roda, e o pedaço de asfalto onde ele estava desapareceu — não estourou, **desapareceu**, virou pó e cratera sob fogo de supressão de um calibre que não existe em manual de polícia.
+Gabo abriu a janela. O céu sobre as ruínas estava cheio de pontinhos: enxames de drones de topografia pairando a trinta metros, em grade regular, emitindo lasers vermelhos que varriam o concreto quebrado em passadas lentas e metódicas.
 
-Gabo caiu atrás de uma caçamba de lixo e ficou ali dois segundos ouvindo o metal ser furado acima da cabeça. Ele precisava de algo maior que uma nove.
+Ele ficou olhando aquilo por um bom tempo, e a coisa que estava errada demorou a subir à superfície. Eles não estavam procurando sobrevivente.
 
-— **ARIA!** — gritou para o ponto auditivo, contra o barulho. — DESTRAVA O PORTA-MALAS INTERNO!
-
----
-
-Voltar ao banco exigiu usar a soleira e a correia presa ao teto. O fogo atravessava o metal; a lataria não era garantia de proteção. Foi a caçamba atingida caindo entre ele e a linha de tiro que lhe deu o intervalo para se puxar para dentro. Não conseguiria correr ou mudar de direção mais depressa do que aquelas armas.
-
-Ele entrou pelo banco do motorista de barriga; o pendrive no painel já havia enviado o pulso elétrico para a trava magnética antes mesmo de ele tocar o botão. O encosto traseiro cedeu, e o compartimento se abriu com o cheiro de óleo de arma e feltro velho.
-
-Caronte.
-Cano serrado, coronha lixada pelo uso, pesada de um jeito honesto.
-
-— Vamos ver se vocês gostam de chumbo grosso.
+Drone de busca voa baixo, irregular, e faz órbita quando acha calor. Aqueles voavam alto, em linha, e não paravam nunca. Eles não estavam procurando gente. Estavam **medindo**.
 
 ---
 
-O primeiro estava recarregando quando se aproximou a três metros do carro. Gabo manteve a Caronte apoiada na janela. Gabo mirou onde blindagem de placa curva não cobre: a junta do pescoço, onde o torso encontra a cabeça e o fabricante precisa deixar folga para o giro. O tiro de doze foi ensurdecedor entre os prédios.
+A placa holográfica estava instalada sobre os escombros da antiga fábrica têxtil da Rua Vinte e Oito, e era nova. Logotipo minimalista, tipografia leve, três tons de azul.
 
-A cabeça saiu inteira, girando, e caiu quatro metros adiante soltando faísca azul e um chiado de fluido pressurizado. O corpo ficou de pé mais um segundo antes de dobrar os joelhos. O segundo girou o torso.
+NOVA BAÍA — O Futuro Começa Aqui.
+Embaixo, uma renderização: prédios brancos com varanda ajardinada, um calçadão, uma criança de bicicleta, uma marina. Nada daquilo tinha vista para o mar antes do Dilúvio, porque antes do Dilúvio o mar ficava a um quilômetro e meio dali e havia quatro quarteirões de cortiço no caminho.
 
-Gabo usou o segundo cano contra a articulação exposta do joelho. A máquina caiu de lado com o braço-arma ainda subindo. Ele abriu a escopeta, colocou um dos cartuchos guardados e disparou do apoio contra a unidade caída, sem sair do carro. Silêncio. Só a chuva, e o zumbido do drone lá atrás continuando o trabalho dele nas janelas do terceiro andar.
+Ele aproximou o carro até conseguir enquadrar o rodapé com a câmera do comunicador. Ampliou a imagem antes de ler.
 
----
+É sempre o rodapé. Catorze anos de polícia ensinam poucas coisas úteis e essa é uma delas: a mentira mora no título e a verdade mora na letra miúda, porque a letra miúda é escrita por um técnico que não sabe que está sendo cúmplice.
 
-Gabo ficou ofegando, apoiado na coronha, com as costas gritando de um jeito que ia cobrar caro à noite. Ele olhou para os dois corpos brancos manchados de óleo e fuligem, e foi aí que viu o adesivo. Pequeno, no ombro esquerdo, do tamanho de um selo. Um código impresso, daqueles de inventário. Ele puxou o celular, limpou a tela na perna da calça e escaneou.
+> *Estudo de Viabilidade e Levantamento Planialtimétrico — Consórcio Lázaro / Aeterna Prime.*
+> *Rev. 04 — protocolo municipal 2056/61.*
+> *Data de emissão: 12 de fevereiro de 2056.*
 
-ATIVO IMOBILIÁRIO — LOTE 404
-PROPRIETÁRIO: AETERNA PRIME
-Gabo ficou olhando aquilo por um tempo bem maior do que precisava.
-
-O adesivo ligava aquele robô à Aeterna Prime; a propaganda ligava o consórcio a um estudo anterior à enchente. Gabo ainda precisava do decreto, do registro do terreno e das ordens das comportas para demonstrar quem ganhara com a remoção e quem causara a inundação.
-
-— Filhos da puta — ele disse, e cuspiu no asfalto.
-
-Nem era raiva, no fim. Era aquele cansaço específico de descobrir que a conspiração é mais burra do que você imaginava. Ninguém queria dominar o mundo. Alguém queria **metro quadrado**.
+Gabo leu de novo. Doze de fevereiro de 2056. As comportas abriram no dia dezenove de março daquele mesmo ano.
 
 ---
 
-Ele permaneceu no carro, ofegante, e guardou a captura do adesivo que o zoom do telefone permitira ler. No console central, o LED azul do pendrive da Aria voltou a acender depois que as duas máquinas deixaram de se mover.
+Ele ficou parado por um tempo que não soube medir, com a garoa entrando pela janela, olhando uma criança renderizada andar de bicicleta em looping por cima do lugar onde tinha morrido, entre outras, uma menina de sete anos com casaco amarelo.
 
-— *Você demorou dois minutos além da margem de segurança, Inspetor* — disse a voz sintética e limpa dela pelo alto-falante do painel.
+Trinta e seis dias.
 
-Naquela viagem, poucas frases tinham tido tanto peso. Gabo fechou a porta, largou a *Caronte* no banco de trás e ficou com as duas mãos no volante sem ligar o carro.
+Alguém desenhou aquela marina trinta e seis dias antes de a água chegar. Contratou um levantamento planialtimétrico de um terreno que naquele momento ainda tinha quatro mil pessoas morando em cima. Pagou a revisão quatro do estudo. Protocolou na prefeitura, com número, e o número existia porque ninguém tinha achado necessário esconder.
 
-— Eu demorei — ele concordou.
+O estudo antecedia a enchente. Isso não provava quem abrira as comportas.
 
-O pequeno componente metálico no painel emitiu um pulso âmbar suave, fechando a entrada de ar externo para reduzir o frio úmido sem que ele precisasse pedir, e Gabo teve que olhar para a chuva pela janela lateral por um tempo antes de conseguir dar a partida.
+Mas a versão de que alguém apenas aproveitara a tragédia começava a parecer generosa demais. O consórcio já estudava o terreno quando os moradores ainda estavam lá.
+
+Se a água fora o **método**, alguém precisara dar ordens antes de colher o lucro. Era isso que ele precisava encontrar.
+
+Não se compra quatro mil casas em cortiço. Cada uma tem posseiro, inventário, herdeiro sumido, liminar, associação de moradores e um vereador local que ganha voto defendendo aquilo. Custa dez anos e não sai.
+
+Uma área alagada podia ser declarada de risco e desocupada por decreto sanitário. Gabo queria os laudos, as ordens e as condições de venda antes de afirmar quem perdera o quê.
+
+Para o consórcio, a água podia ter aberto caminho para limpar o título. Para os moradores, o custo já estava diante dele.
+
+---
+
+Gabo apoiou a testa no volante. A criança da propaganda continuou pedalando no holograma, acima dos escombros.
+
+Ele começou a rir. Foi uma risada feia, curta, seca, dessas que assustam quem está por perto — e não havia ninguém por perto, o que só piorou.
+
+Semanas procurando quem operou uma comporta. A pergunta *quem abriu?* ainda importava: uma ordem não virava ação sem alguém executá-la.
+
+Agora havia outra pergunta: **quanto valia o metro quadrado depois — e para quem?**
+
+O rodapé não respondia. Dava a ele um número para procurar, em letras pequenas, numa propaganda que qualquer pessoa podia ver.
+
+---
+
+Ele fechou a janela do carro.
+
+Mudar de posição doeu. Ele puxou as pernas com as mãos para alcançar os apoios; mesmo assim a coluna deu o aviso de sempre. As órteses rangeram, engasgadas de ferrugem e falta de óleo.
+
+Na véspera, um mecânico da catedral revisara as travas das órteses com Val e montara controles manuais provisórios no Cobalt, cobrando combustível. Gabo conseguia dirigir sem usar os pedais, mas precisava parar para cada transferência. O reparo não devolvera força à coluna nem tornara os apoios uma armadura.
+
+Ele precisava de óleo. Precisava de peça, de parafuso, de um torno, de um mecânico que não fizesse pergunta.
+
+Precisava, acima de tudo, sair dali antes que a lembrança de Helena o alcançasse, porque ela vinha sempre no mesmo horário e ele conhecia os sintomas.
+
+No console central, o pendrive de titânio da Aria continuava encaixado na porta de dados.
+
+A tela monocromática do painel mostrou o número do protocolo municipal capturado pela câmera conectada ao módulo: `2056/61 — PROTOCOLO CAPTURADO; ORIGINAIS A CONFERIR`.
+
+Uma projeção breve tomou forma acima do painel: mulher adulta, cabelo branco-platinado, jaqueta grafite de gola alta, um olho azul e outro âmbar. As bordas translúcidas falharam quando ela se voltou para Gabo.
+
+— *Isso liga o anúncio a um protocolo. Precisamos dos originais para dizer o que foi aprovado.*
+
+Aria encerrou o holograma e conservou a captura local. A inteligência continuava na peça de titânio, não na mulher de luz que acabara de desaparecer.
+
+— Eu sei, Aria — ele disse para o painel. — Eu vou ler o rodapé, tá?
+
+---
+
+Os corretores estavam chegando. Em Baía Cinzenta, uma ordem de despejo vem sempre acompanhada de um esquadrão.
+
+Ele girou a chave. O motor do Cobalt tossiu, engasgou e finalmente rugiu — aquele som feio e metálico de bicho ferido que se recusa a deitar.
+
+— Vamos ver quanto vale o metro quadrado da minha alma — rosnou Gabo.
+
+Engatou a primeira e acelerou para dentro da névoa, na direção do protocolo 2056/61, com um pedaço de papel no bolso escrito com a letra da ex-mulher e a data de doze de fevereiro gravada onde ele guardava as coisas que não deixava esquecer.

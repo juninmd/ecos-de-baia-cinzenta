@@ -3,7 +3,7 @@
 ![O Arquiteto](/personagens/arquiteto.png)
 
 * **Status:** Líder Supremo do Sindicato do Crime de Baía Cinzenta.
-* **Alcance narrativo:** Perfil de referência do poder do Sindicato; não confundir esta identidade com o Taxidermista, chamado de "Arquiteto da Carne" no título do capítulo 115. Não há base para fundir os dois personagens ou atribuir ao chefe ações assinadas apenas por essa alcunha.
+* **Alcance narrativo:** Perfil de referência do poder do Sindicato; não confundir esta identidade com o Taxidermista, chamado de "Arquiteto da Carne" no título do capítulo 117. Não há base para fundir os dois personagens ou atribuir ao chefe ações assinadas apenas por essa alcunha.
 * **Idade:** 50 anos
 * **Altura:** 1,84 m
 * **Porte Físico:** Imponente, refinado e calculista.

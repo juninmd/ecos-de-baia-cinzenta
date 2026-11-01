@@ -1,55 +1,68 @@
 ---
-title: "Capítulo 158: Ecos de Fósforo e Poeira"
+title: "Capítulo 158: Condutores de Cobre"
 date: "Pós-Colapso da Usina Prometeu (Noite Eterna)"
-location: "Túneis de Trânsito (Subnível 3.0 - Acesso Central)"
+location: "Túneis de Trânsito (Subnível 3.5 - Monorail)"
 characters: ["Gabo", "Valéria", "Aria"]
 Data In-Game: "Pós-Colapso da Usina Prometeu (Noite Eterna)"
-Localização: "Túneis de Trânsito (Subnível 3.0 - Acesso Central)"
+Localização: "Túneis de Trânsito (Subnível 3.5 - Monorail)"
 Personagens Presentes: "Gabo, Valéria, Aria (Reboot)"
+description: "O controlador do vagão recebe comandos de Aria; o motor usa a bateria do veículo. A tala e os curativos continuam necessários."
 ---
 
-# Capítulo 158: Ecos de Fósforo e Poeira
+# Capítulo 158: Condutores de Cobre
 
-O silêncio após uma explosão nunca é vazio; ele é um vácuo zumbidor que engole o pensamento. O túnel vertical agora era uma chaminé monumental, expelindo as cinzas incandescentes do que um dia fora o orgulho ferroviário da Aeterna Corp antes do Dilúvio. As portas blindadas do Subnível 3.0 não existiam mais, substituídas por uma cratera fumegante com bordas de aço derretido brilhando como uma ferida aberta na escuridão.
+O silêncio após a voz metálica do Taxidermista era pesado, quebrado pelo gotejar sobre a caixa do kit e pela respiração de Gabo na prancha de inspeção. Gabo respirava em espasmos curtos e controlados, seus olhos fixos na massa enegrecida em suas extremidades. Cada batimento cardíaco enviava uma onda de dor aguda, um choque elétrico branco e puro através de seus braços até a nuca.
 
-Gabo estava de pé, encostado na parede fria e irregular do túnel. Ele respirava em arfadas curtas e afiadas. Seu braço direito quebrado, imobilizado sob os farrapos das ataduras e talas improvisadas após as queimaduras, pulsava com uma agonia rítmica. O curativo ainda continha parte do sangramento das lacerações, mas a dor dos ossos fraturados e dos tecidos feridos era um coro histérico em seu cérebro.
+Ele tentou usar a dor como antes, mas a fumaça lembrada continuou. Val prendeu a faixa que se soltava e pediu que ele apoiasse o peso do lado esquerdo. Gabo acompanhou o movimento das mãos dela até conseguir responder.
 
-E então, veio o cheiro.
+— Val... — a voz de Gabo raspava como lixa grossa. Ele não conseguia usar as mãos para se erguer, então apoiou o lado esquerdo e manteve o braço direito preso à tala. O exoesqueleto rangeu, protestando contra o movimento não natural. — O trem. O disjuntor.
 
-Não o ozônio, não a fuligem da explosão. Mas aquele odor insidioso, adocicado e rançoso que vinha de anos atrás. *Tabaco barato. Piche impregnando as paredes de um apartamento minúsculo. A presença sufocante de Dante no corredor escuro.* A fumaça invisível rastejou pelas suas narinas, ativando a repulsa visceral que sempre dormia com um olho aberto dentro dele. A náusea subiu quente e azeda como bile pela sua garganta.
+Valéria estava enrolada sobre si mesma a poucos metros, os braços abraçando os joelhos. O medo de que o curativo não bastasse a mantinha paralisada. As lágrimas ainda riscavam a sujeira em seu rosto pálido. O som de Gabo se levantando pareceu despertá-la de um transe sombrio.
 
-Ele tentou apoiar o braço direito na parede. A dor o fez perder o equilíbrio; Val segurou a cinta da prancha e esperou que ele encontrasse apoio com o lado esquerdo. O cheiro lembrado continuou.
+— Eu não... Gabo, eu achei que... — ela gaguejou, o olho cibernético piscando instável, tentando processar a realidade brutal do momento.
 
-— Status, Aria, — a voz de Gabo raspou na garganta seca pelo microfone de lapela, o som saindo mais como um rosnado do que uma palavra humana.
+— Você salvou a minha vida, garota, — Gabo cortou, duro, embora não houvesse raiva, apenas a necessidade pragmática de seguir em frente. — Acabou. A caçada pesada dele lá embaixo acabou, mas o túnel está esperando. Não podemos ficar parados aqui.
 
-No pulso de Valéria, o pendrive blindado piscou seu LED azul-gelo com a precisão fria da máquina pura. O canal adulto continuava danificado; Aria usava a síntese de emergência para transmitir os avisos através dos sensores do *Phantom V3*.
+Ela não respondeu. Conferiu as faixas colocadas na estação e reforçou a tala antes de ajudá-lo a mover a prancha.
 
-— *Vejo uma passagem entre os escombros,* — relatou Aria pelo alto-falante do deck, a modulação de sua voz carente de qualquer emoção após a destruição de metal que ela mesma calculara no painel do trem. — *Os níveis de radiação térmica na brecha estão decaindo. Entretanto, o esforço cinético anterior comprometeu os sistemas hidráulicos do exoesqueleto de suporte em suas pernas, Detetive Moretti. A órtese vai falhar; quando, é questão de carga.*
+Valéria abriu a porta deslizante do vagão e ajudou Gabo a transferir-se da prancha para o banco de carga. Prendeu a prancha ao suporte para levá-la consigo. O veículo era uma caixa de metal bruto, sem as linhas elegantes dos antigos trens de passageiros da época anterior ao Dilúvio. Era projetado para força bruta e carga. No console frontal, o painel de controle estava coberto de oxidação.
 
-— Então vamos antes que ela pare — respondeu ele, olhando a rampa de destroços.
+— *O painel principal está em estado de oxidação avançada,* — relatou Aria pelo alto-falante do deck de Valéria, a voz modulada e impessoal ecoando na cabine silenciosa enquanto o scanner lia os circuitos. — *O quadro tem sinais de curto. Val precisa isolar a saída de potência antes de me ligar ao controle. Precisarei de uma interface física direta no barramento de diagnóstico do console.*
 
-Valéria estava ajoelhada perto da escotilha superior do vagão, a graxa manchando seu rosto esgotado. Ela segurava o antebraço esquerdo onde o pendrive de Aria ainda irradiava o calor da sobrecarga do monorail, o olho cibernético piscando lentamente. A morte de Rangel no Setor de Purga ainda era um peso fresco e brutal nos ombros da hacker.
+Gabo avançou pesadamente até o painel, observando Valéria arrancar a tampa de cobertura do console com uma alavanca. O interior revelava um ninho confuso de fios de cobre descascados, componentes fundidos e uma entrada serial blindada da Aeterna Corp.
 
-— Gabo... a gente jogou um trem contra uma porta sem saber o que tinha atrás. E no tanque... — Valéria balançou a cabeça, encarando o LED glacial do drive em seu pulso. — Não sei se tinha gente do outro lado daquela porta. Ou nas células que o fluxo atingiu.
+— E como você faz isso sem derreter esse seu drive de titânio aí, Aria? — Gabo perguntou, encostando o ombro no metal frio do vagão para não desabar.
 
-— A cidade já é um monstro desde a Torre, Val, — retrucou Gabo. Ele deu um passo à frente, as juntas do exoesqueleto gemendo em protesto sob a luz alaranjada das cinzas caindo. — E monstros não respeitam a paz. Eles só entendem de dentes e ferro. O Taxidermista acha que somos peças para o tabuleiro dele. Vamos mostrar que somos o prego no pneu do carrossel que ele construiu.
+No pulso de Valéria, o LED azul-gelo do pendrive piscou sem ressentimento, apenas processando o obstáculo técnico. — *Meu invólucro de titânio e polímero possui isolamento dielétrico de alto calibre. Quando Valéria espetar meu conector universal diretamente na porta de diagnóstico da caixa de junção do trem, poderei comandar o contator de partida. A tração usa o banco de baterias do vagão; meu drive não deve receber corrente dos motores.*
 
-— *Nota corretiva: Não houve remoção dos meus filtros empáticos. Houve perda de acesso a parte do histórico. Eu não sei se minhas decisões melhoraram, e não quero que tratem o dano como vantagem,* — pontuou Aria pelo comunicador, indiferente ao dilema moral de Valéria. — *Adicionalmente, recomendo atenção imediata aos sensores barométricos do deck.*
+Valéria ainda evitava olhar diretamente para as mãos enfaixadas de Gabo, mas forçou o olho cibernético a escanear a entrada oxidada do painel.
 
-— O que você está lendo lá em cima, Aria? — Valéria perguntou, levantando-se devagar e apontando o scanner do *Phantom V3* para a fenda fumegante da comporta arrebentada.
+— Ela está certa, — Valéria murmurou, a voz falhando. — Mas é arriscado. Se houver um pico na malha antiga, a sobretensão vai passar direto pelos pinos do pendrive. Preciso separar alimentação e dados pelo adaptador da cabine. Não vou usar o núcleo dela como fusível outra vez.
 
-O LED azul-gelo do pendrive pulsou rapidamente enquanto processava o espectro químico do ar que vazava do andar superior. — *Há formas presas à arquitetura, semelhantes ao material do estúdio. A função delas não está no catálogo; se estão vivas, o calor não diz.*
+— *Risco elevado,* — Aria respondeu pelo comunicador. — *A pé, a subida levaria muito mais tempo; sem atendimento, vocês não têm esse tempo.*
 
-O alerta soou como um aviso de tempestade. O Taxidermista não estava dependendo apenas da sucata automatizada da Aeterna. Ele havia plantado algo orgânico nas ruínas do coração digital da corporação.
+Valéria limpou o slot de diagnóstico e confirmou a separação entre alimentação e dados no adaptador da cabine. Só então desacoplou Aria do deck e conectou o drive ao adaptador, antes de fechar o contator de teste.
 
-— Mais Esculturas... — murmurou Valéria, erguendo-se com o peso do mundo nos ombros e checando o nível de carga da bateria de seu cyberdeck e da pistola no coldre. — E dessa vez estamos entrando direto na colmeia onde ele processa a rede.
+Um chiado elétrico violento preencheu a cabine. O LED azul-gelo do pendrive cravado no painel brilhou com intensidade quase branca, aquecendo instantaneamente enquanto a IA assumia os barramentos do veículo. Um cheiro forte de ozônio e poeira torrada subiu do console.
 
-— Não importa, — Gabo se moveu até a borda do vagão, encarando a subida de entulhos retorcidos à sua frente. As bordas derretidas da cratera exalavam um calor sufocante. A fumaça verdadeira da explosão começava a se dissipar, mas o fantasma do cigarro ainda rondava a mente de Gabo, pronto para atacar caso ele fraquejasse.
+Gabo instintivamente prendeu a respiração, o cheiro de faísca elétrica arriscando trazer de volta as alucinações de fumaça. Ele cravou os dentes nos lábios até sentir gosto de sangue, focando na pulsação agoniante das extremidades de seus braços, convertendo a náusea iminente em pura estática física.
 
-Ele tentou apoiar o lado direito e perdeu a força. Val prendeu a tala ao peito dele antes de ajudá-lo a passar a soleira. O cheiro não sumiu; Gabo acompanhou a voz dela e os apoios que Aria conseguia mostrar. O cinza sujo de Baía Cinzenta era sua tela, e ele pintaria com ferrugem, sangue e desespero.
+O trem gemeu sob seus pés. Lâmpadas mortas há décadas dentro da cabine piscaram intermitentemente e, com um estalo ensurdecedor que soou como um tiro, as luzes internas acenderam em um brilho amarelo opressivo.
 
-— Aria varrendo o espectro pelo seu pulso na frente, Val, limpando os pontos cegos. E fica pronta pra procurar qualquer linha limpa da Aeterna pra gente hackear, — comandou Gabo, o instinto de policial assumindo o controle sobre o corpo despedaçado. — Nós não viemos até aqui para morrer no porão.
+— *Motor de indução online,* — a voz de Aria saiu agora diretamente pelos alto-falantes embutidos no teto da cabine do vagão, ligeiramente distorcida pelo chiado analógico. Espetada no painel, ela agia literalmente como o computador de bordo do trem. — *Controle de tração e freios magnéticos assumidos. Fechem a comporta lateral.*
 
-Eles começaram a subida pela rampa de entulhos deixada pela explosão. O calor era uma muralha, o cheiro de fósforo queimado mascarava tudo. Para Gabo, cada degrau improvisado era um pacto silencioso com a própria dor, trocando o conforto de desistir pela necessidade aguda, pontiaguda e letal de fazer o bastardo no topo pagar por brincar de deus.
+Valéria correu até a entrada e travou a porta de aço deslizante atrás deles com um som de encerramento definitivo. O espaço interno cheirava a poeira e óleo velho, com assentos rasgados e suportes metálicos no chão para materiais pesados.
 
-O Subnível 3.0 não era mais um mito. Era a próxima vala comum.
+No console frontal, o pendrive de Aria pulsava em azul intenso. Sem aviso suave, o monorail estremeceu nos trilhos e arrancou para a frente.
+
+O tranco atirou Valéria contra a parede enferrujada. Gabo bateu o ombro esquerdo no encosto; a cinta segurou seu corpo no banco, mas o braço direito doeu dentro da tala. O trem balançou violentamente à medida que os trilhos verticais acomodavam a subida maciça pelo abismo escuro do túnel.
+
+O barulho era ensurdecedor, o raspar de metal contra metal engolindo qualquer som baixo. A luz fraca e amarelada projetava sombras longas e fantasmagóricas no pequeno espaço de carga.
+
+Gabo arrastou as costas contra a parede lateral do vagão e firmou-se encostado na antepara vibrante. Seus braços, desde o cotovelo, formigavam com um calor infernal. Ele olhou para Valéria. Ela estava caída num banco estreito, com a cabeça baixa e encolhida, o choro contido pela exaustão.
+
+— Respira, Val, — Gabo forçou a voz acima do barulho industrial, rouca e sem tom. — Fica no fundo. Você precisa descansar o cérebro. A Aria pilota o trem pelo painel agora.
+
+Valéria ergueu os olhos pesados e cibernéticos, cheios de uma tristeza cinza profunda, olhando para o pequeno cilindro de titânio espetado no console à frente, cujo LED azul-gelo regia a subida. Ela não discutiu. Seus olhos se fecharam por um instante enquanto o monorail os arrastava contra a gravidade de Baía Cinzenta.
+
+O escuro do túnel do Subnível 3.5 passava voando pela única janela do vagão em linhas embaçadas de poeira e estruturas em ruínas. A cada baque sobre a junção dos trilhos, a dor latejava no braço quebrado de Gabo, e a cada pulsação sua mente se agarrava um pouco mais à clareza insana do momento. Não havia fumaça. Havia apenas aço, ferrugem, dor crua e a voz impessoal e perfeitamente lógica saindo do painel do trem em direção à curadoria prometida do Taxidermista.

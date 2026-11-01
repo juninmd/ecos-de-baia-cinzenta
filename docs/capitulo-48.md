@@ -1,149 +1,148 @@
 ---
 layout: doc
-title: "Capítulo 48: Fantasma na Máquina"
-description: "Val sustenta sozinha a rede do porão enquanto Nise prepara a cirurgia da coluna de Gabo — e descobre que o fantasma não está dentro da máquina."
+title: "Capítulo 48: O Mecanismo da Queda"
+description: "Gabo encurrala o Taxidermista na Torre do Relógio inundada e paga o preço com a coluna."
 image: /capitulo_48.jpg
-Personagens Presentes: Valéria "Val" Cruz, Gabriel "Gabo" Moretti
-Localização: "Porão da Delegacia Central (enfermaria improvisada)"
+Personagens Presentes: Gabriel "Gabo" Moretti, O Taxidermista
+Localização: "Torre do Relógio, Distrito Baixo (Inundado)"
 ---
 
-# Capítulo 48: Fantasma na Máquina
+# Capítulo 48: O Mecanismo da Queda
 
-Porão da Delegacia Central. Dia nove, 20h40.
-O porão tinha três cheiros: cal, formol e roupa fervida. O terceiro vinha de uma panela de camping esquecida no canto, onde a Dra. Nise tinha esterilizado instrumental a tarde inteira, e era o único cheiro que parecia vivo. O bipe do monitor era o único som com ritmo. A chuva lá fora caía em bloco, como areia em telhado de zinco. Gabo estava de barriga para cima numa mesa de aço, coberto até o osso do peito por um lençol que já tinha sido branco. Sob o lençol, as pernas estavam afastadas por sacos de areia e presas com tiras de lona. Havia um cateter. Na parede à esquerda dele, uma folha de papel pardo com uma lista a lápis. Dezoito fraturas. Pélvis em quatro pedaços. Os dois fêmures. Três vértebras lombares.
+Torre do Relógio, Distrito Baixo (Inundado).
+A denúncia chegou pelo rádio às nove e quarenta, quando a Orla Norte ainda fumava: uma torre no Distrito Baixo, um homem que comprava relógio velho e não vendia nenhum, e um vizinho que jurou ter ouvido tique-taque onde não havia corrente elétrica desde a enchente. Gabo insistiu em ir sem escolta, apesar da proibição de Nise de apoiar a perna direita. Um barqueiro o deixou na rampa da torre com a cadeira. Combinaram que, se ele não voltasse ao sinal combinado, o barqueiro buscaria ajuda. Para passar ao tablado, Gabo usou o corrimão e a perna esquerda. Isso não tornava a escolha segura.
 
-— Você vai ficar encarando isso? — disse Val, sem levantar a cabeça.\
-— Estou decorando.\
-— É uma lista de compras.\
-— É a minha lista de compras. Estava de joelhos num ninho de cabos, com o deck no colo e três servidores ligados num nobreak roubado. Os fios de LED azuis estavam apagados junto do bob assimétrico.\
-— Ela falou com você? — perguntou Gabo.\
-— Sobre o quê?\
-— A Nise. Val demorou mais do que precisava.\
-— Disse que anestesia em cima de infecção é roleta. E que a mordida no seu braço inflamou de novo. Ela fechou o deck.\
-— As três vértebras não voltam. Não é questão de operar bem. Aquilo virou farelo. Ela imobiliza, espera e reza.\
-— E?\
-— E você não vai andar, Gabo. O monitor continuou bipando.\
-— Quanto tempo?\
-— Ela não deu tempo. Deu "se".\
-— Põe a minha mão no meu joelho.\
-— O quê?\
-— Põe. Quero sentir. Val pegou a mão dele — calejada, enorme, de arrombar porta — e levou até o joelho sob o lençol. Ele sentiu o peso da própria mão, o tecido, o osso por baixo. O joelho, não. Nada. Um silêncio de instalação desligada, do quadril para baixo, tão completo que a perna não parecia ausente: parecia que nunca tinha existido.\
-— Tira. Ela voltou para os cabos e ficou de costas, os ombros na altura das orelhas. Gabo encontrou o coldre vazio na cadeira e tamborilou os dedos na aba de couro.
+O som não era de água. Era de tempo.
 
----
+Centenas de relógios preenchiam as paredes circulares da torre antiga, um pesadelo de latão e engrenagens que tiquetaqueava em desarmonia. Nenhum deles marcava a mesma hora. Gabo já tinha visto covil de colecionador antes — o excesso organizado, a obsessão em fileiras. Aquilo não era coleção. Era plateia.
 
-O primeiro aviso não foi um alarme. Foi o cooler do servidor subindo de rotação. Val levantou a cabeça como cachorro ouvindo lata de ração.
+Ele levou quase um minuto para entender por que o som o incomodava tanto.
 
-— É o compressor — disse ela. — Esse nobreak é velho. Trinta segundos depois o cooler subiu de novo, e a tela piscou três vezes.
+Relógio de parede tem um ritmo. Mesmo cem deles fora de sincronia produzem uma média, um zumbido de fundo que o ouvido aceita. Aquilo ali não fazia média. Aquilo pulsava — acelerava em blocos, hesitava, retomava. Como se os relógios estivessem respirando.
 
-— Val.
+Gabo levantou a lanterna e aproximou-se do mais próximo. Não havia mola dentro da caixa. Havia uma costela.
 
-— Eu vi. O mapa do prédio era um contorno verde com pontos azuis, cada um um aparelho. Havia uma coisa se movendo lá dentro que não era azul. Era cinza, e ia de um nó a outro sem tocar em nada.
+O pêndulo era um osso longo, polido até brilhar, suspenso por um fio de aço cirúrgico. E, no fundo do mostrador, onde deveria estar o mecanismo, havia um pequeno fole de couro que inflava e desinflava com uma lentidão obscena, movido por um tubo que descia pela parede e sumia no escuro.
 
-— Tem alguém na rede.
+A coisa estava bombeando.
 
-— Aeterna?
+Gabo recuou um passo e a bota afundou dois centímetros na água parada. Só então ele percebeu que o cheiro do lugar não era mofo. Era formol misturado com óleo de máquina — e, por baixo dos dois, um fundo doce e paciente de carne conservada mal.
 
-— Aeterna entra derrubando porta. Isso aqui está *lendo*. — Ela apontou. — Primeiro o quadro de pessoal. Depois o inventário da farmácia. Agora a relação de bens do subsolo. Isso não é ataque, Gabo. É inventário de casa alheia. Ele tentou se erguer nos cotovelos. A dor subiu do quadril à nuca e o derrubou de volta.
+Ele conhecia aquele cheiro de necrotério. Nunca tinha sentido num lugar onde as coisas ainda se moviam.
 
-— Corta.
+— Você está atrasado, detetive — ecoou a voz, vindo de cima, das sombras das vigas.
 
-— Não posso.
+Gabo apontou a lanterna para o alto. O feixe atravessou correntes, roldanas e um emaranhado de andaimes que subia até onde a luz não chegava. A água da enchente já batia em seus joelhos, subindo mais rápido do que ele queria admitir. Fazia oito dias que o Dilúvio tinha aberto as comportas do Distrito Baixo, a cidade ainda não tinha encontrado o fundo, e aquela torre era um copo de pedra no meio de um rio.
 
-— Val—
+— Desça! — gritou Gabo, a Caronte apoiada no corrimão, com a mão esquerda limitada sobre o cano. — Acabou. O prédio está condenado.
 
-— Se eu arrancar o tronco, cai o subsolo inteiro. As lâmpadas da cirurgia. A geladeira do plasma. A trava das portas. A Nise está lá em cima com o instrumental aberto.
+— Tudo está condenado, Sr. Moretti.
 
-— Então segura.
+O Taxidermista desceu por uma corda de roldana, sem pressa nenhuma, com a naturalidade de um homem descendo para atender a porta. Um vulto esguio de avental de couro pesado sobre roupas escuras e antiquadas, óculos de joalheiro com as lentes de aumento baixadas sobre os olhos, o rabo de cavalo grisalho colado ao pescoço pela umidade.
 
-— Estou segurando. Ela ligou um segundo cabo ao adaptador físico de vídeo junto da têmpora, e o corpo ficou reto como se tivesse levado um choque. O ar começou a ficar com gosto de moeda.
+Ele parou a cinco metros, em cima de um caixote, com a água ainda longe dos pés.
 
----
+— Carne apodrece. Pulmões falham. — Ele abriu as mãos, e as mãos eram longas e limpas demais para aquele lugar. — Apenas o mecanismo perdura.
 
-— Ele está em todo lugar — disse Val, e a voz saiu de dentro de um poço. — Não é programa. Programa erra sempre no mesmo lugar.
+— Você tem cinco segundos para deitar no chão.
 
-— E esse?
+— Eu tenho todo o tempo do mundo. — Um sorriso pequeno. — É literalmente o meu ofício.
 
-— Esse hesita. — Ela abriu uma janela com números caindo em coluna. — Cento e oitenta milissegundos entre a leitura e a resposta. Sempre. É uma mão, Gabo. Pode haver alguém numa conexão local. O intervalo constante também pode ser um repetidor; preciso conferir o ponto de entrada.
+Gabo deu um passo à frente e a água resistiu, pesada como cimento fresco. Foi aí que ele reparou no chão.
 
-— O prédio está vazio.
+O tablado sob a superfície não era de pedra. Era madeira. Madeira boa, encaixada, muito mais nova que o resto da torre — e disposta em setores, com juntas retas demais para serem originais. Ele estava em cima de alguma coisa que tinha sido *instalada*.
 
-— Estava. O cinza parou em cima de um nó pequeno, no fim de um corredor que o mapa marcava com a palavra ARQUIVO.
+O instinto chegou meio segundo antes do necessário, e meio segundo é o que separa um homem que anda de um homem que não anda. Gabo disparou.
 
-— Ele não está abrindo a porta por dentro — disse Val. — Está *pedindo* para abrir. Um código de fechadura mecânica, de antes da rede, que só existe em papel.
+Foi um erro, e ele soube que era um erro enquanto o dedo apertava. O tiro ecoou pelas paredes circulares, os relógios estremeceram, e o Taxidermista simplesmente **não estava lá** — ele tinha saído do caixote antes do estampido, com a economia de movimento de quem ensaiou aquilo até virar reflexo.
 
-— Então ele tem o papel.
+O que estava ali, no lugar dele, era uma alavanca de ferro enferrujada. E a mão do velho já estava nela.
 
-— Ele tem alguém com o papel. — Ela apontou a rua. — Olha. Fora do prédio havia pontos amarelos, em linha, espaçados de duzentos metros, vindos do sul.
+— O tempo é peso, detetive.
 
-— A câmera do pátio mostra gente repetindo luzes. Pode ser uma cadeia de recados; não estou lendo o que cada um transmite.
-
-— Gente fazendo o quê?
-
-— Passando recado. Um acende, o outro repete. De mão em mão, do jeito que se passava balde numa fila de incêndio. Só que o balde é uma chave.
-
-— Drenados.
-
-— Sem chip, sem ficha, sem endereço. — Ela cuspiu a palavra. — A cidade não vê esses caras nem quando estão na calçada. Por isso ele usa. O velho não estava lutando contra a rede. Estava usando as pessoas que a rede jogou fora.
-
-— A invasão é cortina — disse ele. — Ele quer você aqui, olhando a tela, enquanto a chave chega na porta.
-
-— Eu sei.
-
-— Então solta o cinza e vai para o corredor.
-
-— Se eu solto, ele entra na geladeira do plasma. Se eu largo o mapa, ele volta. — Havia um fio escuro embaixo do nariz dela. — Ele quer que eu escolha. Vinte e oito anos, sangue no lábio, um cabo atrás da orelha, a decisão inteira em cima dela.
-
-— Então não escolhe. Engana. — Ele apontou a tela com o queixo. — Dá um inventário errado. Uma sala que não existe, com uma caixa que não existe, no fim de um corredor que dá numa parede. Ele gasta a chave ali.
-
-— E se ele perceber?
-
-— Perceber leva tempo. E tempo é a única coisa que a gente tem de sobra hoje.
+Ele puxou. O chão se abriu.
 
 ---
 
-Val trabalhou seis minutos sem falar. O ar cheirava a plástico derretendo. O cinza entrou na sala falsa às 21h07. Ela esperou ele bater na parede que não existia, e então fez a única coisa que sabia fazer com uma porta: fechou. O cinza não explodiu. Só parou de se mover num retângulo que o sistema passou a tratar como lixo. Val arrancou o cabo da nuca com um puxão e caiu de lado. Gabo tentou sair da mesa. As pernas não vieram. Tentou apoiar o cotovelo direito; o braço e a pelve o impediram de sair. Gritou pela equipe do corredor até alguém entrar para levantar Val.
+Não foi um alçapão. Foi o setor inteiro em que Gabo estava pisando cedendo de uma vez, como a tampa de um piano.
 
-— Val. Ela estava de olhos abertos. Respirava.
+Ele caiu três metros e bateu de costas num fosso de manutenção seco — seco porque alguém tinha se dado ao trabalho de vedá-lo. O impacto arrancou todo o ar dos pulmões dele e deixou aquela dor surda e ampla de quem apanha no lombo.
 
-— Estou bem. — A voz saiu rouca. — Não estou vendo direito do lado esquerdo.
+Gabo rolou. Cuspiu. Tateou pela *Caronte* na escuridão e encontrou pedra. A arma tinha ficado lá em cima, no andar do mundo em que ele ainda estava inteiro.
 
-— O que você está vendo?
+Ele conseguiu apoiar um joelho. E aí ouviu o som de correntes se soltando.
 
-— Cinza. Tudo cinza chapado, tipo foto velha. — Ela riu, e o riso saiu errado. — O implante fritou a camada de espectro. A Nise vai gritar comigo. Atrás da orelha dela, onde o cabo entrou, a pele estava vermelha e tinha um cheiro doce de queimado. Gabo segurou o rosto dela com as duas mãos e esperou. O olho direito voltou à visão básica depois de quase um minuto. O esquerdo continuava sem imagem desde a Torre.
+Não é um barulho ameaçador. Correntes correndo por roldana bem lubrificada fazem um som quase agradável, um assobio metálico e contínuo. Foi o único aviso que ele teve, e ele gastou o aviso olhando para cima em vez de rolar.
+
+O contrapeso do sino da torre — dois mil quilos de ferro fundido, uma peça que passou noventa anos sendo a única coisa naquele prédio que fazia o tempo andar — desceu direto na direção do rosto dele.
+
+Gabo se jogou para o lado. Quase.
+
+CRACK.
+O som não foi metálico. Foi úmido, curto e muito mais baixo do que ele esperava — o barulho de um galho grosso partindo dentro de um saco de areia.
+
+Uma corrente reteve um canto do bloco. A borda prendeu as pernas e a base da coluna contra o piso, sem que as duas toneladas assentassem inteiras sobre seu corpo.
+
+E aí veio a parte que ele nunca conseguiu explicar direito para a Dra. Weiss, nas sessões, nos anos seguintes: **a dor não veio.** Veio um clarão branco atrás dos olhos, veio um zumbido agudo tomando conta de tudo, e depois veio o silêncio. Um silêncio impossível, absoluto, ocupando exatamente metade do corpo dele, como se alguém tivesse desligado a instalação elétrica de um andar inteiro da casa.
+
+Ele tentou gritar. O ar não entrou.
+
+Olhou para baixo. Suas pernas estavam ali, do lado de sempre, presas sob a massa de ferro, e ele não conseguia sentir nenhuma das duas, e a coisa mais assustadora do mundo naquele instante não foi a dor que não chegava — foi ver o próprio pé em um ângulo que pé não faz.
+
+O tique-taque continuou. Cem relógios de osso, indiferentes.
 
 ---
 
-A porta do arquivo ficava no fim do subsolo. Val desceu com a lanterna e voltou sete minutos depois, sem a Vetor na mão. Estava com uma caixa de papelão do tamanho de uma sapateira e um selo de cera arrebentado. Pousou a caixa ao lado dele e encostou a Caronte na parede, ao alcance da mão esquerda; a equipe de resgate a tinha achado entre os escombros da torre.
+O Taxidermista desceu pela escada lateral. Devagar, um degrau por vez, segurando o corrimão com as duas mãos como um homem idoso com medo de cair.
 
-— A porta estava aberta. O cadeado também. Não arrombaram. Usaram a chave.
+Chegou embaixo, sacudiu a barra do avental, e só então foi até ele.
 
-— O que tem aí?
+Agachou-se ao lado de Gabo, que empurrava duas toneladas de ferro com as mãos trêmulas — empurrava porque parar de empurrar seria aceitar, e ele não estava pronto para aceitar.
 
-— O arquivo morto do caso do seu pai. Material biológico. Lâminas de tecido, amostras seladas, o que sobrou da perícia de quinze anos atrás, que nunca foi liberado porque o inquérito nunca fechou. Ela abriu a tampa. Sete envelopes de papel pardo, cada um com um número e uma data, e os sete estavam vazios. Não rasgados: abertos pela dobra, com uma lâmina fina, e fechados de novo no lugar.
+O cheiro de formol chegou junto. Perto assim, dava para ver que os dedos dele estavam manchados de reagente até a segunda falange, e que as unhas eram curtas e perfeitamente aparadas.
 
-— Ele não veio atrás de mim.
+Ele estendeu a mão e tocou o rosto de Gabo. Não com violência. Com a atenção de quem confere a temperatura de uma criança.
 
-— Gabo—
+— Você ia passar a vida correndo atrás de bandidos, detetive. — A voz era suave, quase pesarosa. — Correndo até os joelhos falharem. Até o coração parar numa escada de prédio popular, aos cinquenta e poucos, atrás de um moleque de dezessete que ia estar solto na terça.
 
-— Ele tentou me afogar na Torre. Não sei se quem abriu essa caixa é a mesma pessoa. — A voz saiu calma demais.
+Ele inclinou a cabeça e olhou as pernas esmagadas do jeito que um relojoeiro olha um mecanismo aberto.
 
-— O relógio podia ser dele.
+— Eu te dei um presente. Eu parei o seu relógio.
 
-— Pode ser um recado ou uma tentativa de nos fazer olhar para o homem errado. Precisamos descobrir quem tinha acesso à chave.
+— Vai... se foder.
 
-— Por que alguém coleciona pedaço de um comissário morto há quinze anos? Gabo não respondeu. Havia um relógio no fundo da caixa. Pequeno, de corda, de mostrador rachado. Estava de pé, apoiado num dos envelopes vazios, e estava andando.
+— Agora você pode **observar**. — E ele sorriu, e o pior daquele sorriso foi que era genuíno. — Você vai me agradecer. Não hoje. Mas os homens que param sempre entendem depois.
 
-— Não toca. A mão de Val parou no ar.
+A água começou a transbordar pela borda do fosso.
 
-— Por quê?
+Veio primeiro como um véu fino escorrendo pelas paredes, depois em fio, depois em corda. Suja, com óleo, com pedaços de madeira e coisas moles que Gabo preferiu não identificar. Alcançou o quadril dele. Continuou subindo.
 
-— Na Torre tinha centenas iguais. — Gabo engoliu. — Só que aqueles tinham costela dentro. O relógio tiquetaqueava no fundo do papelão, e no porão silencioso aquele som era grande demais, e não combinava com nada. Val se inclinou, sem tocar, e leu o mostrador de perto.
+— Você vai se afogar comigo — Gabo cuspiu sangue e alguma coisa mais dura que sangue. — Você não vai sair dessa torre.
 
-— Gabo.
+O Taxidermista se levantou e limpou as mãos no avental.
 
-— O que.
+— Talvez não. — Ele olhou para cima, para as vigas, para a corda que ainda balançava. — Mas eu flutuo, detetive.
 
-— Ele está andando para trás.
+Um passo para trás.
 
-O ponteiro dos minutos se moveu um risco para a esquerda. Depois outro. A chuva batia no poço de ventilação, o monitor bipava, e o relógio do Taxidermista continuava desfazendo o tempo dentro da caixa onde deveria estar o pai dele.
+— Você é uma âncora agora.
+
+---
+
+A parede externa cedeu com um estrondo geológico.
+
+Não foi a enchente entrando: foi noventa anos de argamassa desistindo de uma vez. Uma parede inteira de água escura despencou dentro do recinto circular, arrancou os relógios das paredes e os jogou contra o outro lado, e por dois ou três segundos o ar ficou cheio de ossos polidos e engrenagens e latão girando no escuro.
+
+O Taxidermista foi varrido para as sombras superiores. Gabo não viu se ele agarrou a corda. Nunca soube. A água chegou ao peito. Depois ao queixo.
+
+Ele inclinou a cabeça para trás, o máximo que a coluna quebrada permitiu, e roubou mais um dedo de ar.
+
+Não pensou na Bia. Não pensou no pai. Não pensou na cidade. Pensou, com uma clareza absurda e completamente inútil, que tinha deixado o Cobalt em fila dupla.
+
+E então a água escura passou por cima do rosto dele, mas um bolsão sob a base do mecanismo reteve ar junto à sua boca. Um duto de manutenção, aberto acima da linha d’água, deixava entrar ar em pequenas rajadas. O tique-taque ficou distante, e nem em cima nem embaixo, e Gabriel Moretti ficou sozinho no escuro com duas toneladas de ferro nas pernas e a certeza tranquila de que aquilo era o fim.
+
+Ele estava errado — quarenta minutos depois, o barqueiro voltaria com uma equipe. Seguiriam a amarra até o fosso e usariam o mecanismo para aliviar o bloco antes de retirá-lo. O rosto ainda alcançaria o bolsão de ar; o corpo sairia em estado crítico.
+
+Mas ele não sabia disso. Então, naquela escuridão, Gabriel Moretti morreu.
+
+E alguma coisa muito mais fria começou a nascer.

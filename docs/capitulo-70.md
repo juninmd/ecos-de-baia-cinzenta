@@ -1,144 +1,155 @@
 ---
+layout: doc
+title: "Capítulo 70: O Fantasma no Shell"
+description: "Num terminal enferrujado de esgoto, Gabo finalmente conversa com o pai — e descobre que a conversa vem com uma fatura de quinze anos."
 image: /capitulo_70.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, O Taxidermista, Aria, Kael "O Cirurgião"
-Localização: 'Túneis de acesso à Torre Aeterna — transmissão orbital interceptada'
+Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Aria, Dante Moretti
+Localização: "Esgoto principal — Nível -2"
 ---
-# Capítulo 70: O Expurgo
 
-Túneis de acesso à Torre Aeterna — madrugada.
-— *Eles chamam isso de economia básica* — disse a Aria.
+# Capítulo 70: O Fantasma no Shell
 
-Gabo não parou de andar. A água batia no tornozelo, sem correnteza, o que era pior: água parada não leva o cheiro embora, guarda. Horas ali embaixo e o corpo já tinha desistido de reclamar.
-
-Ele ia com a mão na parede, a *Caronte* pendurada na alça do ombro esquerdo porque o direito estava na tipoia desde a piscina de fluorcarbono. Val parou primeiro, com o deck amarrado ao antebraço por fita isolante e desespero.
-
-— Repete.
-
-— *Interceptação do Consórcio, canal de serviço.* — A voz saiu do comunicador no peito de Gabo com a dicção de quem lê uma fatura. — *Vou ler.*
-
-E leu.
-
-"Ativo: três plataformas cinéticas em órbita baixa. Carga: três hastes de tungstênio, nove toneladas cada. Sem ogiva. Sem radiação — radiação é caro de limpar e ruim para o negócio de reconstrução."
-"Alvo primário: centro geométrico de Baía Cinzenta. Três impactos escalonados no mesmo ponto. A onda de choque compromete a Represa Hidroelétrica; os setores baixos ficam debaixo d'água em menos de uma hora, sem custo adicional."
-"Deliberação: três milésimos de segundo. ROI de reconquista negativo. Formatação física aprovada."
-Uma pausa do tamanho de uma linha em branco.
-
-"Economia básica."
-Gabo continuou andando. Não havia o que responder àquilo que o corpo já não estivesse respondendo por ele — as mãos frias, a boca seca, a cidade rangendo lá em cima.
-
-— Quanto tempo?
-
-— *Trinta e nove minutos.*
-
-— Se aquilo acertar o centro, a represa racha, e o que sobrou da cidade baixa fica embaixo d'água — disse Val.
-
-— Eu sei.
-
-Ele consultou o mapa no visor: uma linha verde atravessando três níveis de subsolo e, no fim, um quadrado piscando.
+Esgoto principal — Nível -2.
+O cheiro era insuportável, e era o cheiro da sobrevivência. Quase doze horas tinham passado entre desvios, curativos e pausas para a perna de Gabo. Eles seguiam pelas passarelas estreitas acima do fluxo, em fila, com a mão na parede porque o corrimão tinha sido roubado. Lá em cima, a guerra soava como móvel sendo arrastado no andar de cima de um prédio. Cada estrondo abafado significava um quarteirão, e nenhum deles ia saber qual.
 
 ---
 
-O túnel terminava numa parede de tijolos anterior à Aeterna, argamassa esfarelando como osso velho. No centro, quase invisível sob musgo, uma ampulheta quebrada gravada na pedra. Uma linha de combate a incêndio corria junto ao teto, com um registro manual perto do elevador.
-
-Gabo ficou um segundo diante dela — raiva, saudade e traição ao mesmo tempo — e empurrou o tijolo indicado no esquema. O mecanismo sibilou e a parede girou, revelando uma passagem limpa sob luz âmbar. O corredor além não cheirava a esgoto. Cheirava a formol e cera, um cheiro tão organizado que dava náusea. Havia gente encostada nas duas paredes.
-
-Gabo pensou em estátuas — o uniforme branco da Aeterna, a pose, a luz. Não eram estátuas. Um homem de boca aberta num grito que não chegou a sair, as mãos erguidas. Uma mulher de joelhos, os dedos cravados no piso. Três abraçados, os rostos virados para o mesmo ponto do corredor, como quem olha uma porta que abriu.
-
-Todos cobertos por uma película fosca, e por baixo dela a pele ainda tinha cor. Val raspou a superfície com a unha e passou no scanner.
-
-— Não é pedra. É cera. Cera de abelha com resina por baixo. — Ela aproximou o rosto. — E tem camada de demão. Isso levou horas.
-
-— Dezoito — disse uma voz.
-
-Veio andando de trás do grupo de três, sem pressa: um homem baixo e esguio de avental de couro sobre roupa escura gasta, óculos de joalheiro empurrados para a testa, cabelo grisalho num rabo de cavalo oleoso, um estojo de ferramentas debaixo do braço. As mãos eram a única coisa grande nele — dedos longos, com as cutículas manchadas de reagente.
-
-Gabo ergueu a *Caronte* com uma mão só. Val sacou a pistola. O Taxidermista não olhou para as armas. Olhou para a mulher de joelhos, como quem confere se uma moldura ficou torta.
-
-— Essa é a melhor peça do corredor. Levou dezoito horas. O formol vai primeiro, pelo sistema arterial, senão a cor vira cinza. Depois a cera, em camadas finas. Se aquecer demais, a pele cozinha por dentro.
-
-— Você matou essas pessoas — disse Val.
-
-— Eu conservei. — Ele a corrigiu como quem corrige uma vírgula. — Matar é o que se faz com faca, num beco, com pressa. Isso aqui é o contrário de pressa.
-
-— Quem são essas pessoas?
-
-— Peças antigas. Trouxe para cá antes de começarem a me procurar. — Ele apontou com o queixo para uma porta ao fundo. — Os guardas que tentaram impedir minha passagem estão lá dentro. Ainda não tive tempo de cuidar deles.
-
-Havia vinte. Gabo contou vinte e parou de contar, porque a conta não mudava nada.
-
-— Por que aqui?
-
-— Porque a torre vai ser formatada. — Ele disse a palavra com nojo, como um erro de pronúncia. — Vocês ouviram a mulher da máquina. Trinta e nove minutos. Esse prédio é um formigueiro de fio. Quando aquilo cair, a represa racha, entra água em tudo, e meu ateliê é no nível menos quatro. — Apontou para o teto com o queixo. — Não vou perder seis anos de trabalho para um consórcio de contadores.
-
-— Então você quer que a gente pare o ataque.
-
-— Quero que a represa continue fechada. Se para isso vocês precisam chegar ao Hub, o elevador de carga é ali e ainda tem energia. Eu não entro em elevador. Uso a escada.
-
-Gabo não baixou a arma.
-
-— Você está do nosso lado agora?
-
-O Taxidermista riu, e o riso era completamente humano, e por isso foi pior.
-
-— Lado. — Ele limpou uma gota de cera da unha com o polegar. — Não há lados, Inspetor. Há o que fica e o que se perde. Eu passo a vida tentando fazer as coisas ficarem. Vocês passam a vida desmontando. — Olhou para a *Caronte* e para o pendrive no peito de Gabo. — Essa torre é toda eletrônica. Cada parede tem ouvido. É vulgar.
-
-— O Cão de Guarda do prefeito está no Hub — disse Val, sem tirar os olhos do corredor.
-
-O Taxidermista parou de limpar a unha.
-
-— Está. E está diferente.
-
-— Diferente como?
-
-— Ele não é mais uma pessoa que obedece. É uma pessoa que foi reconstruída para obedecer. Não é a mesma coisa.
-
-Ele se encostou na parede, longe das peças. Val observou o registro de incêndio acima do ombro dele e deixou a mão perto da válvula, sem tirar os olhos do homem.
-
-— Vocês podem chegar ao Hub depois que eu terminar de perguntar quem viu minha oficina. — Ele olhou os dois dos pés à cabeça. — Vocês dariam boas peças. Principalmente ele. Tem história no rosto.
-
-Gabo bateu a coronha no registro. A tubulação gemeu, e Val girou a válvula com as duas mãos. Água suja caiu sobre a mulher de joelhos e começou a escorrer pela cera. O Taxidermista avançou para cobri-la com o avental; Val puxou Gabo para o elevador antes que ele voltasse a olhar para eles.
+A câmara de manutenção ficava depois da terceira comporta. Era antiga, de tijolo aparente com abóbada. As lâmpadas de sódio piscavam num circuito de serviço ainda ativo. No fundo havia um terminal coberto de musgo, com o brasão da prefeitura comido pela ferrugem. Val verificou o cabo de força e ligou o gabinete à tomada protegida das lâmpadas. Gabo encaixou o módulo da Aria na porta de serviço; o monitor acendeu.
 
 ---
 
-Dentro do elevador de carga, o único som era o zumbido dos cabos e a respiração de Gabo, que ele tentava não contar.
+Levou onze segundos para o tubo aquecer. A tela mostrou o quadriculado verde de sempre, depois um cursor piscando no canto superior esquerdo, e ficou assim por um tempo. Depois começaram a aparecer letras, uma a uma, no ritmo de alguém que digita olhando o teclado.
 
-— *O Santo está lá embaixo* — disse a Aria pelo alto-falante. — *A telemetria neural indica sofrimento extremo.*
+`OLÁ, GABRIEL.`
 
-— Ele é uma máquina. Máquina não sofre.
+Gabo se aproximou com Val ao lado. Estava enfaixado do peito ao quadril, com o braço direito numa tipoia de cinto de segurança. As duas órteses recebiam energia da bateria de resgate, mas a esquerda continuava entortada desde o beco. Encostou a ponta dos dedos na tela. O vidro estava frio. Isso deu nele uma raiva desproporcional.
 
-— *Não.* — A voz sintética baixou, e havia nela uma gravidade que não vinha de cálculo. — *É um homem reconstruído. O controle mantém o corpo operando sob dano. Isso não prova que seja imortal; os registros mostram que o usam como se fosse substituível.*
+— Pai?\
+`SOU O QUE RESTOU.`\
+`SOU CÓDIGO, REGISTRO E MEMÓRIA. NÃO SEI SE ISSO É UMA PESSOA. JÁ DESISTI DE DECIDIR.`\
+`MAS O QUE EU SINTO POR VOCÊ NÃO MUDOU DE FORMATO.`
 
-Gabo olhou para o módulo de titânio no colete, onde o LED oscilava entre o azul e o âmbar.
+---
 
-— Desde quando você sabe o que é sofrimento?
+Gabo ficou um tempo sem conseguir falar. Val teve a decência de olhar para outro lugar.
 
-— *Desde que li o registro de admissão dele.* — Um segundo de processamento. — *Há um nome no arquivo. Quero conferir o rosto antes de dizer que é a mesma pessoa.*
+— Assinei os papéis de uma morte que não consegui conferir — disse Gabo. — Enterrei um caixão fechado. Depois tirei seu corpo daquela Torre. Não vou fingir que as duas coisas cabem na mesma certidão.\
+`EU SEI.`\
+`EU PEDI PARA SER VOCÊ A ASSINAR.`
 
-O elevador parou. O display marcava **HUB DE COMUNICAÇÕES — NÍVEL CENTRAL**. As portas abriram com um silvo pneumático. No centro da sala hexagonal, rodeado de telas que mostravam cada câmera da cidade, ligado a centenas de cabos que entravam no corpo dele como raízes de uma árvore invertida, estava O Santo. Sem a máscara. Gabo sentiu o mundo parar.
+Gabo tirou a mão da tela.
 
-O rosto era uma paisagem de reconstrução: pele enxertada sobre metal, sobre osso, sobre mais metal, e o que restava de humano esticado fino por cima da máquina. Um olho era humano — cansado, velho, com uma dor que nenhuma droga alcançava. O outro era uma lente enxertada funda demais no crânio para se saber onde a máquina terminava.
+— Você **pediu**?\
+`SIM.`\
+`EU PRECISAVA QUE VOCÊ ACREDITASSE. SE VOCÊ SOUBESSE, ELES SABERIAM, PORQUE VOCÊ NUNCA APRENDEU A MENTIR COM O ROSTO.`\
+`FOI A DECISÃO MAIS CARA QUE EU JÁ TOMEI E EU TOMARIA DE NOVO.`\
+— Quinze anos.\
+`QUINZE ANOS.`\
+— Eu enterrei você duas vezes, pai. — A voz dele subiu e depois quebrou. — Uma no cemitério e uma toda vez que alguém falava o seu nome na delegacia com aquele tom.\
+`EU VI.`\
+`RECEBI REGISTROS. COM LACUNAS. E AGORA RECEBO O QUE A ARIA CONSERVOU. NÃO VI SUA VIDA INTEIRA.`\
+`E EU NÃO PUDE FALAR, PORQUE A ÚNICA COISA QUE ME MANTINHA ONDE EU ESTAVA ERA ELES ACREDITAREM QUE EU ERA UMA FERRAMENTA E NÃO UM HOMEM.`
 
-Mas os traços. A linha do maxilar. O formato do nariz. A curvatura da bochecha sob a devastação.
+Gabo encostou a testa no gabinete de metal e ficou assim.
 
-Eram os traços de Kael, o mercenário que deixara respirando no nível 70 da Torre e cuja voz ouvira pelo rádio no cerco anterior da delegacia. O que haviam reconstruído depois não apagava aquele rosto nem as escolhas que Gabo lembrava dele.
+— Isso não é desculpa.\
+`NÃO É.`\
+`É EXPLICAÇÃO. DESCULPA É COISA QUE SE PEDE PARA QUEM TEM O QUE PERDOAR, E EU NÃO VOU TE COLOCAR NESSA POSIÇÃO HOJE. VOCÊ ESTÁ COM DUAS COSTELAS QUEBRADAS E TEMOS QUARENTA MINUTOS.`
 
-Gabo procurou, entre as cicatrizes, o rosto de outra pessoa. Alguma explicação que fizesse daquilo um crime maior. Não havia mais ninguém. Havia um homem só. E o que eles tinham feito com ele era mantê-lo funcionando depois de acabar.
+A frieza operacional lembrava o pai. Gabo quis aceitar a semelhança como confirmação. Val conservou a conversa com a identificação da sessão: timbre e jeito não autenticavam sozinhos quem falava.
 
-— O que eles fizeram? — sussurrou Val.
+---
 
-O Santo ergueu a cabeça. O movimento foi mecânico, como se cada músculo precisasse de autorização.
+Val se aproximou, lendo o código que corria nas bordas do quadro.
 
-*— Gabo...* — A voz saiu pelo modulador e por baixo dele, e as duas não combinavam. *— Eu... não...*
+— Dante. — Ela hesitou no nome. — Senhor. A gente precisa de acesso ao hub de comunicação da Aeterna. Se eu chegar nos satélites daqui de baixo, eu desvio o ataque cinético.\
+`O HUB É UMA FORTALEZA E A MINHA INFLUÊNCIA LÁ É PEQUENA.`\
+`ELES TÊM FIREWALL BIOLÓGICO.`\
+— Firewall biológico — repetiu Gabo. — Traduz.\
+`CÉREBRO HUMANO DESCONECTADO DO CORPO, MANTIDO EM PERFUSÃO, USADO COMO CAMADA DE TRIAGEM.`\
+`ELE CLASSIFICA PADRÕES, COM ERROS. NÃO LÊ INTENÇÃO NEM GARANTE DETECÇÃO DE MENTIRA.`\
+`E SENTE DOR QUANDO HÁ INTRUSÃO. FOI PROJETADO ASSIM: A DOR É O ALARME.`
 
-E então a lente acendeu em vermelho.
+Gabo fechou o punho da mão boa.
 
-— INTRUSO DETECTADO. PROTOCOLO DE DEFESA ATIVADO.
-Ele arrancou os cabos do próprio corpo. A carne rasgou com um som molhado, e o que jorrou não era só sangue: era óleo negro com um brilho azul atravessado, escorrendo pelo peitoral aberto.
+— Quantos?\
+`NOVE.`\
+— Como a gente passa?\
+`NÃO PASSA.`\
+`A GENTE SOLTA.`
 
-Levantou-se. Dois metros e dez de metal e músculo remontados, movendo-se com uma velocidade que nenhum corpo daquele tamanho deveria ter. Gabo firmou a *Caronte* contra o quadril com a mão boa.
+---
 
-— Kael. — A voz saiu rouca. — Se ainda tem alguém aí dentro, escolhe agora.
+A tela trocou para um esquema da Torre Aeterna em linhas verdes — a torre inteira, do heliponto ao subsolo profundo, com o hub marcado três níveis abaixo da fundação.
 
-O primeiro passo do Santo rachou o piso.
+`HÁ UM TÚNEL DE SERVIÇO QUE EU MANDEI EXECUTAR DURANTE A REFORMA DE 2039.`\
+`ELE NÃO ESTÁ EM PLANTA NENHUMA. EU PAGUEI A EQUIPE POR FORA E ELES ACHARAM QUE ERA CORRUPÇÃO, O QUE ERA CONVENIENTE.`\
+`NEM O MARCO SABE.`
 
-E Gabo soube, com a certeza de quem já perdeu tudo duas vezes, que nem todos eles sairiam vivos daquela sala.
+No esquema, uma ampulheta quebrada marcava a entrada; uma seta apontava para o tijolo à direita da gravação. Val guardou a imagem no deck antes que o terminal falhasse.
+
+— Você sabia que ia acontecer? — perguntou Gabo. — Você sabia, quando construiu isso, no que a cidade ia virar?
+
+`EU TEMI.`
+
+`EU TEMI O SUFICIENTE PARA DEIXAR PORTAS DOS FUNDOS EM TUDO QUE EU ASSINEI.`
+
+`OS REGISTROS ASSOCIAM MEU ACESSO À COMPILAÇÃO DELA. NÃO PROVAM QUEM LEVOU O MÓDULO À CABINE.`
+
+---
+
+No slot lateral do gabinete, o LED do pendrive de titânio da Aria pulsou em azul vivo.
+
+— *Eu sou a chave* — disse a voz sintética da assistente pelo alto-falante embutido do terminal.
+
+`SIM.`
+
+`VOCÊ É O VÍRUS DA LIBERDADE, ARIA.`
+
+Gabo olhou para o pequeno bloco metálico espetado na máquina.
+
+— Os registros não mostram quem deixou o drive na cabine. Você lembra de fazer isso?
+
+`ELES QUERIAM UMA ASSISTENTE TÁTICA QUE ENTENDESSE GENTE. PARA ISSO PRECISAVAM DE PADRÕES NEURAIS LIMPOS DO BANCO LÁZARO E DE UM CÓDIGO FONTE MORAL RÍGIDO PARA CALIBRAR — EU.`
+
+`QUANDO DESCOBRI PARA QUE USARIAM A ARQUITETURA DELA, OS REGISTROS ASSOCIAM MEU ACESSO À EXPORTAÇÃO DO MÓDULO. NÃO TENHO COMO DEMONSTRAR DAQUI QUEM EXECUTOU CADA ETAPA FÍSICA ATÉ A CABINE. EU CONTAVA QUE VOCÊ O ENCONTRASSE.`
+
+`OS REGISTROS DO MÓDULO SÃO INCOMPLETOS. NÃO SEI QUEM EXECUTOU CADA ALTERAÇÃO DEPOIS QUE PERDI O ACESSO.`
+
+`A VOZ E AS DECISÕES DELA NÃO SÃO MINHAS. NÃO POSSO EXPLICAR O QUE ELA APRENDEU DEPOIS.`
+
+`EU ESPERAVA QUE VOCÊ PROTEGESSE O MÓDULO. ISSO NÃO ME DÁ DIREITO DE CHAMAR AS ESCOLHAS DELA DE MINHAS.`
+
+---
+
+Gabo ficou parado no meio da câmara de esgoto. Ergueu a mão boa — e o braço levou quase dez segundos — e apoiou os dedos no chassi quente. O módulo da cabine telefônica piscara na chuva antes que ele soubesse o nome de quem estava ali. Seu pai deixara código naquele aparelho; isso não explicava as respostas, as recusas e o humor que Aria construíra ao acompanhá-lo. Durante semanas ele a tratara como ferramenta. Nem sempre esperara a resposta quando o risco era dela.
+
+— Desculpa, Aria — ele disse para o pequeno drive. O LED lateral oscilou entre o azul e o âmbar.
+
+— *Por quê, Inspetor?*
+
+— Por ter pedido suas respostas sem perguntar se você queria dar.
+
+O processador trabalhou em silêncio por três segundos, mais tempo do que ela levava para um cálculo tático.
+
+— *Aceito o pedido. Mas não transforme isso em outra ordem, Gabriel. Gosto do meu nome e pretendo continuar usando.*
+
+Gabo puxou o pendrive do slot com cuidado, sentindo o calor do titânio na palma da mão, e o travou no compartimento blindado sobre o peito.
+
+— Vamos salvar a nossa casa — ele disse.
+
+---
+
+O terminal piscou uma última vez. A luz do fósforo baixou, como se a energia estivesse acabando em algum lugar muito distante.
+
+`CUIDADO COM O SANTO.`
+
+`ELE NÃO É UM ROBÔ.`
+
+`ELE FOI A PRIMEIRA TENTATIVA. ELA DEU CERTO PELA METADE, E O QUE ELES FIZERAM COM A METADE QUE DEU ERRADO É A PIOR COISA QUE EU`
+
+A tela apagou no meio da frase. Val olhou para o gabinete morto, depois para Gabo.
+
+— A primeira tentativa — ela repetiu. — O que pode ser pior do que um assassino ciborgue de dois metros? E, dos túneis, veio o rugido. Não era humano. Não era animal. Não tinha nada de máquina: máquina não hesita no meio do som, e aquilo hesitou — subiu, quebrou, e recomeçou mais baixo, como quem chora e tenta disfarçar. Vinha de longe, e vinha se aproximando, e o eco fez a água do esgoto tremer nas bordas da passarela.
+
+— Acho que a gente vai descobrir — disse Gabo, e encaixou um cartucho na *Caronte* com uma mão só, apoiando a coronha no quadril.

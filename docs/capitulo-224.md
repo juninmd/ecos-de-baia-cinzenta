@@ -1,150 +1,148 @@
 ---
-Título: O Preço do Ar
+Título: O Homem que Podia Ir Embora
 Data In-Game: Pós-Colapso do Sentinel (Noite Eterna)
-Localização: Arca Zero - Doca de Carga / Tubo Pneumático, Abaixo do Setor 6
-Personagens Presentes: Gabo, Valéria, Elias, Dra. Elara Vance
+Localização: Arca Zero - Poço de Serviço Norte, Abaixo do Setor 6
+Personagens Presentes: Gabo, Valéria, Elias
 ---
 
-# Capítulo 224: O Preço do Ar
+# Capítulo 224: O Homem que Podia Ir Embora
 
-Trinta e uma horas parece muito quando alguém diz em voz alta.
+Elias não voltou enquanto o módulo cuidava do ferimento.
 
-Deixa de parecer no instante em que você calcula quanto papel cabe nas costas de três pessoas, sendo que uma delas está com o braço direito quebrado e a outra não pode andar.
+Descobri quando saí da enfermaria e não achei ninguém no corredor. Chamei uma vez, sem muita força, e o corredor branco devolveu o meu próprio nome com uma nitidez desconfortável.
 
-Fizemos a conta na mesa de leitura, com a lanterna de dínamo do Elias zumbindo entre nós porque ninguém confiava mais nas luzes âmbar.
+— Ele está no poço de serviço norte, — Valéria disse do fim do corredor. — Há oito minutos.
 
-— A instalação tem quatro toneladas e duzentos quilos de material físico, — Valéria informou. — Papel, microfilme e fita. O elevador de serviço suporta trezentos e cinquenta quilos por viagem, com quarenta minutos de subida e quarenta de descida.
+— E você não falou nada?
 
-— Doze viagens, — Elias disse.
+— Ele pediu para não falar.
 
-— Doze se a placa ainda valesse e ninguém acompanhasse a carga, — disse Elias, olhando suas anotações. — Com o desgaste que encontrei, deixo margem para cento e vinte quilos de arquivo além do operador. São trinta e cinco cargas. Quarenta e seis horas só de percurso, antes de contar carga e descarga. Temos trinta e uma. E isso assumindo que o banco secundário alimenta o motor do elevador até o fim, o que ele não faz: o corte de carga acontece na décima nona hora.
+— E você **obedeceu**?
 
-Ninguém falou nada por um tempo.
-
-— Então a gente escolhe, — falei. — A gente sobe com o que couber nas costas e deixa o resto apagar.
-
-— Não. — A Dra. Vance disse aquilo do jeito que ela devia encerrar reuniões. — Vocês vão usar a doca.
+— Ele não é meu comandante, mas também não é meu prisioneiro. — Ela deu de ombros, e foi um gesto tão mecanicamente perfeito e tão vazio de significado que chegou a ser desagradável. — Eu não tinha razão operacional para impedi-lo.
 
 ---
 
-A doca de carga não estava em planta nenhuma, o que a essa altura já era praticamente uma tradição.
+O poço de serviço ficava atrás da sexta porta, a única que a gente não tinha aberto.
 
-Ficava atrás da galeria dos berços, numa câmara em curva com trilhos embutidos no chão e um teto abobadado de concreto armado. No centro, uma cápsula.
+E do outro lado dela havia um elevador.
 
-Não era um vagão. Era um **projétil**: nove metros de aço fuselado, sem janela, sem cabine, sem controle, com quatro pares de patins magnéticos e uma escotilha traseira do tamanho de uma porta de garagem.
+Não um poço de escada. Não um duto de exaustão desmoronando. Um **elevador de serviço**, de plataforma aberta, com grade sanfonada, contrapeso de concreto e um painel de dois botões: um para cima, um para baixo. A luz de operação estava acesa. Verde.
 
-Atrás dela, o tubo. Circular, liso, preto, mergulhando na escuridão com uma inclinação suave para cima.
+Elias estava dentro dele.
 
-— Transporte pneumático de carga, — disse a Vance, na cadeira de rodas de aço que o Elias tinha desencavado de um almoxarifado. — Construído junto com a instalação. Trinta e um quilômetros até a doca de recebimento na Velha Baía, na superfície. Sem eletrônica. Sem rede. Movido por diferencial de pressão.
+Tinha a mochila nas costas. A lanterna morta pendurada no cinto, substituída por uma lanterna nova de dínamo que ele devia ter achado num armário. Nos braços, três garrafas de água selada.
 
-— Funciona?
+E o dedo dele estava a um centímetro do botão de subir. Eu parei na porta. Não disse nada.
 
-— O indicador ainda registra o vácuo no tubo e a linha de inspeção não acusa ruptura. É o que podemos conferir daqui. Não garanto o estado de trinta e um quilômetros de duto. — Ela olhou para a cápsula. — Cabe o arquivo inteiro e cabem vocês.
+Ele me viu. Encolheu os ombros para dentro, do jeito que ele faz.
 
-Elias soltou o ar todo de uma vez.
+— Funciona, — ele disse. — O maldito funciona, Gabo. Circuito próprio. Nunca esteve na rede, então a Praga nunca pegou. Conferi o contrapeso, o freio e o caminho acessível. Não subi até a estação; não sei o que há na saída. — Ele riu, e o riso saiu horrível. — Quatro anos de manutenção. É a única coisa em que eu sou bom. E a única vez que serviu para alguma coisa foi para achar a porta dos fundos.
 
-— Então acabou? A gente carrega, entra e vai embora?
+— Onde é que ele sai?
 
-— Não.
+— Estação de bombeamento pluvial no Setor 4. Superfície. — Ele engoliu. — Quarenta minutos de subida. Talvez cinquenta com o peso.
 
-Claro que não. A Dra. Elara Vance apontou para a parede do fundo, onde o tubo encontrava a câmara.
+Fiquei olhando para ele.
 
-Havia uma comporta ali. Circular, de aço, com quatro metros de diâmetro — irmã gêmea daquela que eu abri no volante, na hora mais longa da minha vida.
+— Então vai.
 
-— A comporta de pressurização, — ela disse. — Ela precisa ficar aberta enquanto a cápsula acelera, para que o diferencial se estabeleça, e fechar depois que a cápsula passa, para que o vácuo não despressurize a instalação inteira. O ciclo é de quarenta segundos.
+Ele piscou.
 
-— E o problema é...
+— Como é?
 
-— O problema é que o atuador hidráulico dela queimou em algum momento antes da última manutenção. — Ela apontou o queixo para uma mancha de óleo endurecido no chão, preta e antiga como um borrão de sangue seco. — Sem atuador, a comporta é mantida aberta por um came mecânico que precisa ser travado à força e **sustentado** contra a mola de fechamento durante os quarenta segundos.
+— Você me ouviu. Vai. — Encostei o ombro bom no batente, porque ficar em pé sem apoio tinha virado luxo. — Você não me deve nada, Elias. Você não é polícia, não é resistência, não assinou porra nenhuma. Você era um cara trancado numa sala monitorando pico térmico e nós dois chutamos a sua porta e trouxemos o inferno junto. Se tem alguém aqui embaixo com direito de ir embora, é você.
 
-Fomos até lá.
+— Você está falando sério.
 
-O came era uma peça de aço maciço em forma de meia-lua, do tamanho de um assento de carro, com um encaixe onde um pistão deveria entrar. A mola de fechamento era uma barra helicoidal da grossura da minha coxa.
+— Estou.
 
-Valéria examinou a placa da mola e o curso do came. Calculou com os dados gravados no metal, sem poder conferir o desgaste das peças.
+— Não é um teste?
 
-— A placa indica até duzentos e oitenta quilogramas-força. O came precisa ficar aberto por quarenta segundos. O desgaste pode ter mudado a carga.
+— Elias, eu mal consigo ficar em pé e o braço direito quebrado. Eu não tenho energia para teste.
 
-— Um homem não faz isso, — disse Elias.
+Ele ficou parado no elevador, com o dedo no ar. E não apertou.
 
-— Sozinha, sem alavanca, eu também não — disse Valéria. — Mas posso tentar escorar o came com os trilhos e segurar a estrutura até a cápsula passar.
+— Aperta, — falei.
 
-E ela deu um passo à frente.
+— Estou tentando.
 
-— Não. — Eu falei antes de pensar.
+— Aperta o botão, cara.
 
-— Há barras soltas na doca. Se eu conseguir prender uma contra o trilho e usar outra como alavanca, talvez consiga travar o came. Vou precisar ficar aqui para impedir que escorregue. Vocês três embarcam, a cápsula parte.
+— **Eu estou tentando!**
 
-— E você solta o came.
+Ele gritou aquilo, e a mão dele caiu, e ele encostou de costas na grade sanfonada e escorregou até sentar, exatamente como tinha feito no corredor no dia em que sentiu ar limpo pela primeira vez.
 
-Pausa.
+— Eu vim aqui pra ir embora, — ele disse para os próprios joelhos. — Eu juro que vim. Peguei água, peguei lanterna, planejei a rota. Cheguei até a decidir o que ia contar quando chegasse lá em cima. Já tinha a história pronta e tudo.
 
-— Eu não solto o came, — ela disse. — Se eu soltar antes de a cápsula limpar o tubo, o diferencial mata vocês três. Eu seguro até o fim, e a comporta fecha comigo deste lado.
+— E aí?
 
-— Com trinta horas de ar.
+— E aí eu percebi que não sei quem ainda está lá em cima para ouvir.
 
-— Com vinte e nove horas de ar. — Nenhuma inflexão. Nenhuma. — Se a barra escapar, pode me esmagar antes de qualquer resgate. Mesmo que funcione, não sei se alguém consegue voltar a tempo.
+Silêncio.
 
-— Você está falando de morrer aqui embaixo. — Minha voz saiu esquisita. — Sozinha. No escuro. Consciente.
+— Meu chefe morreu no Colapso. Gente do meu turno também. Meu irmão foi embora no Apagão e nunca mandou notícia. — Ele tirou o mapa dobrado do bolso. — Ainda tenho os lugares que anotei. Posso levar a lista para alguém procurar os três da galeria. Posso levar uma cópia da remessa. Mas não sei quem vai me ouvir na estação, nem quem eu posso procurar sem entregar esses papéis para a Aeterna. — Ele olhou para mim. — E você está aqui embaixo com um ferimento que precisa de hospital.
 
-— Estou falando de gastar uma pessoa para tirar quatro toneladas de prova de dentro de um cofre, — ela disse. — Em Modo de Segurança essa conta é trivial, e ela fecha. É por isso que eu sou a escolha correta.
+Ele bateu com a nuca na grade. Uma vez. Duas.
 
-Ela falava de usar o próprio corpo. Eu tinha ouvido uma voz plana e decidido que aquilo tornava a escolha menor. Era o mesmo erro que cometera com Aria antes de aprender a perguntar.
+— Eu não quero ser corajoso, Gabo. Eu me caguei de medo naquela ponte e no poço e vou me cagar de medo em tudo que vier. — A voz dele quebrou. — Eu queria encontrar meu irmão. Queria que alguém procurasse as pessoas da lista. Queria não ter que escolher entre subir sozinho e deixar vocês aqui. E tenho raiva de você por ter me posto naquela ponte.
 
-— Entendi o que você propõe — falei. — Antes de alguém ficar, vamos examinar as peças que podemos deixar no lugar de uma pessoa.
+Fiquei quieto. A marca do colarinho ainda estava na minha memória, onde a garra o prendia junto à ponte.
 
-— Não, — falei de novo.
+— Você tem razão de ter raiva. Eu disse que não ia repetir aquilo e não vou usar o arquivo para cobrar sua companhia. Se decidir subir, você leva cópias. Se ficar, a gente procura outro jeito de fazê-las chegar.
 
-— Você não vai me dar essa ordem, — ela disse. — Você já deixou isso muito claro. Então eu vou tomar a decisão sozinha, exatamente como você exigiu, e a decisão é essa.
+Andei até o elevador. Cada passo era uma negociação. Entrei na plataforma, com ele, e fiquei em pé segurando a grade.
 
-Ela virou-se para o came. E eu olhei para o meu braço direito.
+— Escuta aqui, — falei. — Eu vou te dizer uma coisa e depois nunca mais, porque eu não presto pra isso.
 
-Para a garra industrial que Vasco prendeu à armação externa, sobre o fixador instalado pela equipe na clínica do Distrito 4. Sem servo-motor de grau militar, sem calibragem. A coisa feia, pesada e mal-acabada que me fez gritar em todos os degraus dos dias desde a clínica. Metal cinza fosco, cheio de cicatriz de solda e fio exposto.
+— Tá.
 
-Uma armação hidráulica **não calibrada**. O limitador estava avariado; Vasco deixara um batente mecânico de emergência no curso final. Ele me proibira de chegar ali: o conjunto podia emperrar e nunca mais voltar a dobrar.
+— Coragem não é não ter medo. Isso é história que a gente conta pra recruta. — Olhei para o poço escuro acima da gente. — Coragem é a distância entre o quanto você quer sair e o quanto você anda pra dentro assim mesmo. Pela minha conta, você tem mais coragem que qualquer um que eu conheci na corporação, e eu conheci gente com medalha.
 
-— Valéria, — falei bem devagar. — Qual é a força de pico da minha armação?
+Ele não disse nada.
 
-Ela parou. Virou. Ficou olhando para o meu braço por dois segundos antes de responder.
+— Você desceu oitocentos metros num buraco chorando o caminho inteiro. Isso não é ser fraco, Elias. Isso é a coisa mais difícil que existe. Qualquer imbecil desce um buraco sem sentir nada. — Pensei na Valéria olhando para o casco de aço por dois segundos e saindo da sala. — Alguns até desceriam melhor.
 
-— Trezentos e quarenta quilogramas-força, — ela disse. — Por menos de um segundo, antes de queimar o servo. É por isso que o Vasco instalou bloqueios de segurança no sistema nervoso.
+Ele enxugou o rosto com as costas da mão, deixando risco de graxa.
 
-— E eu já passei por cima desses bloqueios com comando neural bruto. Duas vezes.
+— E se eu quiser subir depois?
 
-— Sim.
+— Aí a gente volta e confere se ainda funciona. Não posso prometer que o caminho vai continuar aberto. — Dei um tapinha na grade com a garra, e a coisa fez um barulho horroroso. — Eu não vou te cobrar por ficar nem te julgar por partir. Não vou transformar sua decisão numa dívida.
 
-— Se eu travar a garra no encaixe do came, com o punho em extensão máxima e o bloqueio desligado, o que acontece?
+Ele se levantou. Ajeitou a mochila. E apertou o botão. O de **descer**.
 
-Ela demorou.
+A plataforma tremeu e começou a baixar os dois metros de volta ao nível da Arca com um zumbido antigo e satisfeito.
 
-— O atuador força a haste contra o batente e prende o conjunto na geometria do came, — ela disse. — A armação vira uma cunha de aço sólido. Se a haste e o encaixe resistirem, o próprio metal recebe a carga depois que o servo parar. Precisamos de quarenta segundos; ninguém pode prometer para sempre.
+— Se eu vou morrer aqui embaixo, — Elias disse, olhando para a frente, — eu prefiro morrer sabendo o que tem atrás daquele vidro.
 
-— E o braço?
+---
 
-— Fica preso a ela se você não soltar os pinos e a estrutura.
+Valéria nos esperava na antecâmara hexagonal.
 
-O zumbido da bomba enchia a câmara. Ninguém dizia nada.
+— Ele voltou, — ela constatou.
 
-— Gabo, — Elias falou, e a voz dele estava horrível. — Não.
+— Voltou.
 
-— Já foi decidido.
+— Eu achei que ele fosse partir.
 
-— Você vai esmagar esse braço de vez!
+— Você achou que ele fosse partir?
 
-— Eu vou perder essa armação de metal que o Vasco prendeu ao fixador, Elias. — Levantei a garra e olhei para ela, para os sulcos de solda, para o fio exposto. — Essa coisa não é minha. Ela nunca foi. Ela é o preço que eu paguei para continuar em pé, e ela doeu todo dia desde o dia um, e eu me recusei a consertar a falha porque a dor me servia. — Fechei os dedos mecânicos. Guincharam. — Se essa merda vai ficar aqui embaixo segurando uma porta para sempre, então pelo menos ela vai ter servido para alguma coisa que não seja me manter acordado.
+— Eu posso estar errada sobre alguém. — Ela virou-se para a galeria dos berços. — E registro quando erro. É como o cálculo melhora.
 
-— E o osso? — Valéria perguntou. — Você está febril e sangrando. Teríamos de cortar as hastes externas, preservar as fixações clínicas e imobilizar de novo. Mexer nisso com a fratura instável pode piorar tudo. Não sei quantificar o risco.
+Andamos os três pelo corredor de vidro e cobre, passando por oitenta e três caixões vazios, até a única luz verde no fim da fileira.
 
-— Não me diz. — Olhei para ela. — Sério. Pela primeira vez desde o Distrito 4, não me diz o número.
+A Dra. Elara Vance estava de olhos abertos.
 
-Ela fechou a boca. E então — e eu vou levar isso comigo — a Valéria fez uma coisa que não estava em cálculo nenhum.
+Ela abrira os olhos novamente. Quando os três chegamos ao pé do berço, a pupila esquerda dela se moveu — devagar, um milímetro por vez — e parou exatamente sobre o painel de controle, ao lado da minha mão.
 
-Ela estendeu a mão e encostou dois dedos no meu antebraço de carne. Só encostou. Ficou assim por talvez um segundo e meio.
+Depois voltou para mim. E fez de novo. Painel. Eu. Painel. Eu.
 
-Depois recolheu a mão e disse, com aquela voz plana de sempre:
+— Ela está dizendo onde apertar, — Elias sussurrou.
 
-— Vou preparar a serra.
+— Está, — falei.
 
-Do outro lado da câmara, a Dra. Elara Vance nos observava da cadeira de aço com os olhos azul-gelo, e pela primeira vez desde que abrimos o berço ela não estava auditando nada.
+Coloquei a mão de carne sobre a chave analógica de duas posições, do tamanho de um punho, com uma etiqueta de baquelite amarelada pelo tempo. Havia uma segunda chave idêntica a três metros dali, no outro lado do corredor.
 
-— Comecem a carregar, — ela disse, muito baixo. — Nós temos vinte e nove horas.
+Duas chaves. Duas mãos. E eu só tenho uma.
+
+— Elias, — falei. — Vem cá.

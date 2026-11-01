@@ -19,8 +19,8 @@
 ### ⏳ Linha do Tempo
 
 * **Pré-Série:** Endividada com o Sindicato. Comprada por Marco Moretti e mantida sob a guarda física de Roberto Miranda.
-* **Capítulo 55:** Tenta fazer Gabo beber Lázaro puro no refúgio subterrâneo. Exposta pela marca no pulso, troca de lado e entrega as plantas da Represa e os códigos de acesso de Miranda.
-* **Capítulo 59:** Sua dica sobre a "reurbanização" leva Gabo e Aria às galerias antigas do subsolo.
-* **Capítulo 61:** Seu pai, morto de ataque cardíaco no ano anterior, aparece comprando um loft na Nova Baía — a primeira prova concreta da farsa dos "mortos" da Aeterna.
+* **Capítulo 56:** Tenta fazer Gabo beber Lázaro puro no refúgio subterrâneo. Exposta pela marca no pulso, troca de lado e entrega as plantas da Represa e os códigos de acesso de Miranda.
+* **Capítulo 60:** Sua dica sobre a "reurbanização" leva Gabo e Aria às galerias antigas do subsolo.
+* **Capítulo 62:** Seu pai, morto de ataque cardíaco no ano anterior, aparece comprando um loft na Nova Baía — a primeira prova concreta da farsa dos "mortos" da Aeterna.
 
 ---

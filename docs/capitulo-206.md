@@ -1,72 +1,76 @@
 ---
-Título: Ecos na Escuridão
+Título: O Despertar da Ferrugem
 Data In-Game: Pós-Colapso do Sentinel (Noite Eterna)
 Localização: Armazém Logístico Corrompido, Setor 6
 Personagens Presentes: Gabo, Valéria, Elias
 ---
 
-# Capítulo 206: Ecos na Escuridão
+# Capítulo 206: O Despertar da Ferrugem
 
-O estrondo colossal da ponte rolante desabando ainda reverberava nos meus ossos muito depois que a última viga de aço parou de chiar contra os destroços incandescentes. A escuridão total engoliu o armazém logístico assim que a poeira sufocou os globos de luz âmbar. Sem a visão, o mundo foi reduzido a três sensações primitivas: o ardor cáustico de ozônio queimado na garganta, o gosto amargo de sangue e ferrugem na língua e o pulsar surdo do meu ombro lacerado onde a armação industrial forçava o osso fraturado.
+A vastidão daquele armazém era opressiva de um jeito difícil de explicar para quem nunca esteve num galpão subterrâneo de trinta mil metros quadrados sem iluminação natural.
 
-Tossi com força, cuspindo uma pasta cinzenta no chão invisível. O ar fedia a graxa mineral frita, metal pulverizado e óleo hidráulico vazando aos borbotões de mangueiras estouradas.
+O teto se perdia na escuridão vinte metros acima. As poucas lâmpadas âmbar de emergência que ainda sobreviviam estavam espaçadas de sessenta em sessenta metros; cada uma criava uma ilha de luz suja e um oceano de sombra impenetrável em volta, dando a impressão física de estarmos caminhando pelas entranhas de uma carcaça de baleia industrial que não tinha fim.
 
-— Valéria? Elias? — chamei, a voz soando como brita sendo moída em um cano seco.
+Cada passo meu levantava uma nuvem fina de pó avermelhado.
 
-A resposta veio na forma de um clique duplo e o brilho prateado dos dois olhos cibernéticos acendendo-se a seis metros à minha direita. Os fios holográficos da franja de Valéria dançaram contra a escuridão, iluminando seu rosto fino sujo de fuligem e o cano ainda fumegante de sua pistola.
+Sangue seco da Praga de Ferro. É assim que penso naquele pó desde que a cidade começou a afundar: milhares de drones e carregadores pesados, empilhados em pirâmides de dez metros de altura, oxidados até a medula dos rolamentos, desmanchando-se devagar na umidade fria do Setor Seis.
 
-— Eu ainda tô de pé, detetive, — a voz dela soou com aquele sarcasmo cortante que me puxava de volta à realidade dos vivos. — E com os dois tímpanos zumbindo feito uma colmeia em curto-circuito. Você não sabe derrubar nada com discrição, né? Tem que ser sempre com quarenta toneladas de aço caindo na cabeça de todo mundo.
+O zumbido hidráulico da minha órtese direita ecoava na vastidão. Um protesto metálico, áspero, que voltava das paredes distantes com dois segundos de atraso e me dava a sensação constante de estar sendo seguido por uma versão pior de mim mesmo.
 
-— Funcionou, não funcionou? — resmunguei, apoiando as costas contra o concreto rachado de uma coluna tombada e soltando o ar devagar.
+— Dá pra calar a boca dessa perna, Moretti? — sussurrou Valéria, caminhando dois passos à minha esquerda. Os fios holográficos azuis da franja dela piscavam em pulsos rápidos, varrendo a poeira com um brilho espectral. — O eco dessa engrenagem frouxa parece um alarme de incêndio em câmera lenta.
 
-— Funcionou igual dinamite em loja de porcelana, — ela rebateu, aproximando-se com passos leves que mal faziam barulho sobre a poeira. — Mas admito que a pontaria com a *Caronte* foi quase decente pra um veterano meio cego.
+— Se eu desligar o motor da órtese, você me carrega no colo até o fosso de carga, — retruquei, a voz rouca arranhando a garganta seca. — A água que temos mal dá pra molhar a boca, e tem gosto de moeda oxidada.
 
-Um gemido abafado ecoou atrás de uma pilha de carcaças de autômatos.
+— Prefiro beber ácido de bateria a carregar um brutamontes de cem quilos deprimido, — rebateu ela com um estalo de língua e aquele meio-sorriso cínico que trazia um resquício de vida aos becos esquecidos. — Anda logo, detetive. Elias tá quase desmaiando de pavor só de olhar pras pilhas.
 
-— Eu... eu tô vivo... — a voz de Elias surgiu entre soluços e tossidas secas. O técnico rastejou para fora do esconderijo, as mãos cheias de graxa preta e as pernas tremendo como varas verdes. — Acho que uma placa de blindagem raspou na minha costela, mas os ossos tão no lugar.
+— Cuidado onde pisam, — avisei mais alto, olhando para trás.
 
-Valéria apontou o feixe óptico do cyberdeck para o garoto, examinando-o de cima a baixo com um movimento rápido do queixo.
+Elias assentiu freneticamente, as mãos trêmulas agarradas às alças da mochila. O rapaz escorregou em uma chapa de liga de alumínio corroída, soltando um arquejo mudo e se apoiando no chassi de um autômato estripado. A carcaça rangeu sob seu peso, e ele saltou para trás como se tivesse tocado em ferro em brasa.
 
-— Você consegue se mover, Elias? Não dá para avaliar suas costelas daqui. Levanta e sacode a ferrugem do casaco porque essa festa acabou de chamar a atenção da vizinhança inteira.
+Trinta e oito anos. Pálido. Olhos arregalados de quem conhecia aqueles poços como trabalho, antes de virarem terreno de caça. Saber onde ficava a saída não o tornava soldado. Era a única medida honesta de sanidade que nos restava no grupo: quando Elias entrava em pânico, é porque a situação era realmente desesperadora.
 
-Apoiei a pinça da armação no chão para me erguer. O pistão instalado por Vasco uivou, e a tração no fixador me arrancou um grunhido. As cicatrizes do Dilúvio repuxavam; a órtese da perna direita estalou antes de travar. A Torre Aeterna caíra meses antes, e as comportas tinham aberto vinte e três dias depois. Nenhuma dessas lembranças me devolvia força. Precisei que Elias prendesse a guia antes de tentar levantar de novo.
+— Tem certeza de que... de que não tem nada aqui? — gaguejou o garoto, limpando o suor frio da testa com a manga suja de graxa. — Está tudo tão quieto...
 
-Elias encontrou uma caixa de segurança caída sob os destroços. Dentro havia quatro cartuchos calibre doze ainda lacrados; conferi as cápsulas antes de guardá-los.
+— Quietude de cemitério corporativo nunca é boa notícia, garoto, — Valéria respondeu, desacelerando o passo e erguendo o cyberdeck na altura do peito. Seus olhos prateados estreitaram-se, analisando linhas de código em verde fosforescente que corriam na tela portátil. — Moretti, para um segundo.
 
-— E os outros três colossos que você pegou nos sensores? — perguntei, ejetando o único cartucho gasto da escopeta. O clique metálico de duas balas novas entrando na câmara ecoou como um metrônomo sombrio.
+Parei. O peso da minha armação industrial de sucata — acoplada por Vasco ao fixador instalado pela equipe médica — puxou meu ombro direito com uma fisgada aguda de cansaço. O sangue seco colava a atadura na carne viva, e as cicatrizes do Dilúvio queimavam, e precisei apoiar a mão esquerda numa carcaça para descansar antes de continuar.
 
-Valéria consultou o gráfico de telemetria na tela fosforescente do cyberdeck.
+— O que você tá pegando? — perguntei, destravando a *Caronte* com o polegar.
 
-— Duas das fontes sumiram da leitura depois do desabamento na calha. Podem estar soterradas ou encobertas pelo concreto. Não consigo dizer o que eram nem se pararam.
+— Sensores sísmicos do deck, — disse ela, o tom sarcástico sumindo de repente para dar lugar à frieza da hacker que já sobreviveu a três purgas da Aeterna. — Vibrações de frequência ultra-baixa no solo. Ainda não sei o que está produzindo isso.
 
-— E o quarto?
+— Como você sabe?
 
-Ela franziu a testa, os lábios se comprimindo em uma linha tensa.
+— Há picos repetidos no registro — ela apontou a tela. — Eles estão ficando mais fortes. Pode ser uma máquina ou outra fonte vibrando; não consigo localizar só por esta leitura.
 
-— A terceira se moveu para a bifurcação ao sul e parou. Não sei se percebeu a gente ou o que está fazendo.
+— Intervalo regular é passo, Val, — rosnei.
 
-— Máquinas infectadas pela Praga de Ferro não montam emboscada estratégica, Val, — contestei, mancando em direção ao centro do galpão.
+— Ou uma biela gigante girando na lama, — completou ela, sacando a pistola curta e ajustando o compensador com um estalo limpo. — Vamos procurar de onde vem.
 
-— Máquinas padrão da Aeterna não montam, — ela retrucou, iluminando a cratera aberta pela queda do guindaste. — Não sabemos quem montou aquilo nem como escolhe o caminho. A fonte parada continua entre nós e a escada; eu não contaria com ela ficando lá.
+O fosso de carga era uma cratera retangular de trinta metros de comprimento por doze de largura, afundando nas entranhas do Setor Seis. As guias de cabo de aço dos elevadores industriais pendiam rompidas, retorcidas como serpentes mortas entre pirâmides de sucata compactada.
 
-A lanterna de Valéria varreu o chão de concreto estilhaçado.
+O chão sob nossas botas começou a tremer.
 
-Onde o guindaste colossal havia esmagado o monstro de sucata, o impacto descomunal abrira uma abertura na laje inferior, sobre a tampa de inspeção do antigo duto. O chão cedera sob o peso combinado de quase sessenta toneladas, revelando uma garganta escura e vertical de cinco metros de diâmetro. Do interior da abertura subia uma lufada de ar úmido e congelante, carregando o cheiro inconfundível de lodo químico, água estagnada e resíduos de amônia.
+Foi uma vibração sorda, que não veio pelo ar, mas pelos ossos dos calcanhares, subindo pelas tíbias até estalar na base do crânio. Os dentes vibraram na gengiva. As pilhas de drones destruídos ao redor começaram a chacoalhar, soltando cascatas de poeira alaranjada que subiram como fumaça tóxica sob os globos de luz âmbar.
 
-— O portão de carga do fundo virou um muro de escombros intransponível, — disse Elias, aproximando-se com a lanterna fraca de seu cinto de ferramentas e engolindo em seco. — Mas isso aqui... isso é um duto de escoamento industrial da rede secundária. Ele corta por baixo do Armazém e desemboca nos dutos de resfriamento do Setor Seis.
+Não era um motor ligando. Era o ruído obsceno de chapas de blindagem de dez centímetros sendo rasgadas e dobradas a frio — aquele mesmo gemido aterrador de aço cedendo que testemunhei quando a Torre Aeterna desabou.
 
-— É a nossa única descida, — concluí, encarando o abismo escuro.
+— Elias, pra trás de mim! — comandei, firmando a coronha da escopeta na axila esquerda para compensar a fraqueza do braço machucado.
 
-— Vocês querem mesmo descer nisso? — Elias perguntou, os olhos dilatados de pavor. — Parece uma garganta feita pra engolir gente e nunca mais cuspir.
+Do fundo do fosso de carga, uma massa titânica começou a se erguer.
 
-— É uma garganta de concreto, Elias, — Valéria respondeu, ajustando a alça do cyberdeck nas costas com um estalo firme. — Não consigo garantir que ela seja segura. Mas podemos verificar os apoios antes de descer.
+Não tinha simetria. Não tinha a engenharia limpa e arrogante das máquinas da Aeterna Corp. Era uma aberração arquitetônica: chassis de empilhadeiras pesadas esmagados e soldados uns sobre os outros, quatro braços hidráulicos de escavadeiras, instalados fora de eixo como patas de um crustáceo monstruoso, e uma cabine de comando triturada encravada no centro como um coração de vidro estilhaçado. Toda a estrutura estava amarrada por cabos de alta tensão e uma crosta espessa de ferrugem viva e lodo biomecânico.
 
-Ela se virou para mim, os olhos prateados faiscando sob o feixe azul da lanterna. Havia uma determinação feroz naquela mulher, a mesma que nos mantivera vivos depois que o drive de Aria foi sacrificado nos terminais da diretoria.
+As marcas de solda e as peças empilhadas não me diziam quem tinha montado aquilo nem quando.
 
-— Eu vou na frente pra escanear os degraus de serviço na parede do duto, — disse ela. — Você cobre a retaguarda, Moretti. Se a perna travar de novo, me avisa antes de despencar.
+— Que porra de pesadelo corporativo é esse? — sussurrou Valéria, os olhos prateados arregalados enquanto calculava a massa do monstro.
 
-— Eu não caio, garota, — respondi com um meio-sorriso amargo. — Detetive velho morre de teimosia, não de queda.
+— O tipo de pesadelo que não volta pro túmulo sem briga, — respondi, mirando no ponto onde a fiação principal pulsava com um brilho alaranjado doentio.
 
-— Então para de conversar e mexe essa carcaça enferrujada, — ela rebateu, sentando na borda do fosso e deslizando com agilidade para dentro da escuridão.
+— Moretti... — a voz de Valéria quebrou a frase, a respiração presa na garganta.
 
-Elias foi em seguida, descendo degrau por degrau com as mãos coladas aos grampos de ferro chumbados na parede curva. Coloquei o cano da *Caronte* sob o braço bom, apoiei a mão de aço de Vasco na borda escorregadia do concreto e iniciei a descida para o duto de escoamento. O ar frio da tubulação me envolveu como uma mortalha úmida, sepultando o barulho do galpão sob camadas infinitas de silêncio e pedra.
+— Fala, Val!
+
+— Tem mais três fontes de calor nas calhas atrás da gente. Não consigo identificar o que são daqui.
+
+O estalo do ferro retorcido ecoou como um trovão quando o colosso de sucata bateu sua pá dianteira contra a borda do fosso, rachando o concreto sob nossos pés. O armazém silencioso acabava de despertar, e as regras da cidade eram claras: ou nós abríamos caminho pelo aço, ou ficaríamos para sempre enterrados sob ele.

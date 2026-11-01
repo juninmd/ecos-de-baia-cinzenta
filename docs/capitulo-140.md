@@ -1,95 +1,102 @@
 ---
-title: "Capítulo 140: Ponto de Fusão"
+title: "Capítulo 140: Vernissage"
 Data In-Game: "Pós-Colapso da Usina Prometeu (Noite Eterna)"
-Localização: "Necrópole (O Estúdio do Taxidermista -> Duto de Descarte)"
+Localização: "Necrópole (O Estúdio do Taxidermista)"
 Personagens Presentes: "Gabo, Valéria, Aria (Reboot), Rangel (Inconsciente), O Taxidermista (Antagonista)"
 ---
 
-# Capítulo 140: Ponto de Fusão
+# Capítulo 140: Vernissage
 
-O calor não veio de uma vez. Ele cresceu, pesado e sufocante, como um cobertor de chumbo derretido.
+O contraste foi violento como um soco no estômago.
 
-As paredes brancas do Estúdio começaram a perder a cor, distorcidas pelas ondas de calor que emanavam dos painéis de piso. O cheiro de ozônio e sangue, que antes dominava o ar, foi substituído pelo fedor acre de plástico queimado e cabelo chamuscado.
+Um segundo atrás, eles estavam no corredor da Galeria, cercados pelo cheiro de carne podre e formol barato, com o chão pegajoso de sangue coagulado. Agora, ao cruzarem a porta hidráulica, o mundo se tornara branco.
 
-— Temperatura ambiente: 68 graus Celsius — Aria cortou o zumbido crescente dos incineradores pelo alto-falante tático na gola de Gabo. O drive blindado, acoplado ao comunicador, piscava seu LED azul-gelo em frequência frenética. — Aumento de zero vírgula dois graus por segundo. O calor está subindo. Não tenho como dar um prazo seguro; temos de sair agora.
+Branco absoluto.
 
-Gabo tossiu, o ar seco arranhando sua garganta. Atrás da cúpula de vidro blindado, o Taxidermista observava. Ele não sorria. Apenas assistia, com as mãos cruzadas nas costas, como um cientista observando uma cultura de bactérias ser esterilizada.
+O chão era de um polímero liso e sem emendas, refletindo as luzes cirúrgicas que banhavam o ambiente com uma claridade fria, sem sombras. O ar era reciclado, filtrado à exaustão, cheirando a ozônio e antisséptico hospitalar. Aquele cheiro fez o estômago de Gabo revirar mais do que qualquer fedor de esgoto. Lembrava o hospital onde vira Bia pela última vez. Lembrava a esterilidade da morte burocrática.
 
-— Val! — Gabo gritou, a voz rouca. — A porta!
+Ele levou a mão ao peito, apertando o *Colar de Sol* através da camiseta suja. A dor das pontas de metal contra a pele foi a única coisa que o manteve focado. *Isso é real. O resto é cenário.*
 
-Valéria estava ajoelhada perto do painel de controle da entrada, os dedos voando sobre o deck holográfico. Suas projeções, antes azuis e nítidas, agora tremiam e falhavam, interferidas pelo calor excessivo.
+— *Temperatura ambiente: 18 graus Celsius* — a voz de Aria cortou o silêncio pelo comunicador. O LED do pendrive de titânio brilhava em um azul-gelo constante enquanto o sensor óptico varria o salão. — *Umidade controlada em 45%. O detector não identifica patógenos. Ar filtrado não garante esterilidade.*
 
-— Não dá! — ela gritou de volta, o pânico trincando sua voz. — É *hardwire*! Ele cortou a conexão lógica da entrada principal. É um fechamento mecânico! Estamos trancados em um forno!
+— É um laboratório — sussurrou Valéria, sua voz ecoando alto demais naquele espaço vazio. Ela ajeitou Rangel na prancha de transporte, cujos apoios deslizavam sobre o piso perfeito. — Ou um centro cirúrgico.
 
-Gabo sentiu o suor evaporar antes mesmo de escorrer. Sua pele pinicava. A alucinação atingiu-o como um soco no estômago. *Fumaça de cigarro barato. O apartamento de Dante.* A névoa imaginária preencheu seus pulmões, trazendo a náusea visceral do trauma que nunca o abandonava.
+— Não — corrigiu uma voz suave. — É um ateliê.
 
-Ele rosnou e apertou o *Colar de Sol* com força. O metal, já quente pela temperatura da sala, queimou a palma de sua mão. A dor foi nítida, real. *Foco na dor. A dor é vida. A fumaça é morte.*
+No centro do vasto salão branco, havia uma plataforma elevada. E sobre ela, um homem.
 
-— Aria! — Gabo gritou contra o microfone de lapela. — Saída! Qualquer uma! Varre os sensores do deck da Val!
+Ele estava de costas, trabalhando em uma mesa de aço escovado. Vestia um jaleco que parecia feito de seda sintética, imaculadamente branco. Quando se virou, Gabo sentiu um calafrio que não tinha nada a ver com a temperatura.
 
-Val retirou o módulo do comunicador de Gabo e o encaixou no deck. O cilindro de titânio esquentou no pulso dela enquanto Aria consultava os sensores do *Phantom V3*.
+O Taxidermista não era o monstro deformado que Gabo esperava. Pelo contrário. Ele era perfeito. O cabelo grisalho caía num rabo de cavalo oleoso, e sob o jaleco imaculado aparecia a barra gasta de um avental de couro.
 
-— Portas principais seladas. Ventilação: bloqueada e revertida para injeção de oxigênio comburente — a voz da IA soou fria e calculista nos fones. — Detectada variação de pressão negativa no quadrante sul, junto aos restos do Tríptico. Duto de descarte de biomassa. Possui trava eletromecânica secundária com porta de diagnóstico local.
+Seu rosto tinha a simetria impossível de uma estátua grega polida por algoritmos. A pele era lisa demais, sem poros, com um brilho perolado que sugeria que não era orgânica, ou que havia sido cultivada em tanque. Seus olhos eram de um cinza líquido, calmos e terrivelmente vazios.
 
-— Lixo — Gabo traduziu, avançando até a grade escura no canto da sala, perto de onde a escultura destruída jazia em uma poça de fluido dourado fervente. — É por onde ele joga os erros.
+— Detetive Moretti — ele disse, abrindo os braços em um gesto de boas-vindas. Suas mãos eram obras de arte em si mesmas: dedos longos, articulados com precisão mecânica, terminando em pontas que poderiam ser bisturis ou pincéis. — E Srta. Cruz. Fico feliz que tenham aceitado meu convite. A crítica é parte essencial do processo criativo.
 
-Ele chegou à grade. Era uma chapa pesada de ferro fundido, usada para despejar os restos das "esculturas" falhas. O metal irradiava um calor furioso.
+— Onde está o Dante? — Gabo rosnou, dando um passo à frente com o vergalhão em punho. A arma enferrujada parecia uma ofensa profana naquele templo de limpeza.
 
-— Está soldada pela ferrugem e pela gordura, e o pino magnético continua travado! — Gabo gritou, golpeando a grade com o vergalhão. Ela nem se moveu.
+O Taxidermista sorriu, uma expressão que não alcançou os olhos.
 
-— A temperatura continua subindo — Aria anunciou pelo comunicador. — Rangel precisa sair agora.
+— Dante é o mecenas. Ele fornece os recursos, a infraestrutura. Mas a *visão*... a visão é minha. Ele busca a ordem através do controle. Eu busco a ordem através da *forma*.
 
-— Val, espeta a Aria na porta de serviço da comporta! — Gabo rugiu, pegando o vergalhão que ainda segurava e enfiando-o na fresta da grade de ferro.
+Ele desceu da plataforma, movendo-se com uma fluidez que desafiava a gravidade. Não havia som de passos.
 
-Valéria foi para o lado dele, desacoplou o pendrive blindado de Aria do cyberdeck e cravou o conector universal retrátil diretamente na fenda de manutenção oxidada ao lado da grade. O LED azul-gelo da unidade piscou como um arco voltaico; a carcaça de titânio e polímero do pendrive esquentou a ponto de queimar os dedos de Valéria enquanto Aria injetava uma sobrecarga bruta nos relés do duto para destravar o solenoide magnético.
+— Vocês viram meus rascunhos lá fora. Os "Abortos". Tentativas grosseiras de fundir a resiliência do metal com a flexibilidade da carne. — Ele fez uma careta de desgosto ensaiado. — Falhas necessárias. Mas aqui... aqui é onde a verdadeira arte acontece.
 
-— O solenoide recuou parcialmente. O resto é corrosão física — informou a IA, a voz chiando pela interferência térmica.
+Ele estalou os dedos.
 
-— Val, larga o painel e me ajuda no ferro! — Gabo ordenou. — No três!
+O chão atrás dele se abriu, e um cilindro de vidro subiu lentamente do subsolo. Dentro, flutuando em um líquido dourado translúcido, não havia um corpo. Havia *múltiplos*.
 
-O ar estava irrespirável agora. As bordas de sua visão escureciam. O Taxidermista, lá em cima, parecia uma miragem tremulante.
+Eram três figuras humanas — ou o que restava delas — fundidas pelas costas, suas colunas vertebrais entrelaçadas e substituídas por um complexo sistema de tubos de fibra ótica e veias sintéticas. Seus rostos estavam voltados para fora, olhos abertos e leitosos, bocas costuradas com fio de ouro.
 
-— Um... Dois... TRÊS!
+Mas o mais perturbador não era a fusão. Era que, através do vidro, Gabo podia ouvir um som. Um zumbido baixo, rítmico.
 
-Eles puxaram juntos o vergalhão, enquanto o pendrive de Aria forçava os últimos milímetros do trinco elétrico. O vergalhão envergou. Os músculos de Gabo gritaram, tendões estalando sob a tensão. O metal superaquecido tomou o ar, e a adrenalina levou o corpo além do que o corpo tinha.
+— Eles estão... cantando? — Valéria recuou, horrorizada.
 
-CRACK.
-A ferrugem cedeu junto com o estalo final do relé queimado. A grade foi arrancada com um som de rasgo violento e caiu para o lado, tinindo no chão.
+— *Estão processando* — corrigiu Aria pelo alto-falante do deck. — *O painel local registra atividade sincronizada entre os três. A imagem mostra o ritmo. A taxa e a consciência, não.*
 
-Um buraco negro se abriu no piso branco. O cheiro que subiu dele era de podridão antiga e umidade fria. Nunca um cheiro de esgoto foi tão bem-vindo.
+— Exato — o Taxidermista aplaudiu, encantado. — O "Tríptico da Lamentação". Três mentes em agonia perpétua, filtrando o ruído da cidade, transformando o caos de dados brutos em informação pura e cristalina para a rede do Dante. A dor, meus caros, é o melhor condutor. Ela foca a mente. Elimina distrações.
 
-Valéria retirou o pendrive fumegante de Aria usando o pano térmico do kit e o encaixou no deck. Com Gabo, aproximou a prancha de Rangel da abertura e passou a cinta pelo suporte da grade.
+Gabo sentiu a bile subir à garganta. A "beleza" daquilo era uma obscenidade.
 
-— Desço primeiro — disse Val. Ela tomou a cinta e entrou no duto; Gabo controlou a prancha do alto até que ela alcançasse o apoio inferior.
+— Você transformou pessoas em roteadores de carne — Gabo disse, a voz trêmula de ódio.
 
-Gabo olhou para cima uma última vez. O vidro da cúpula do Taxidermista estava começando a ficar opaco com a fuligem. O Taxidermista golpeava os comandos da plataforma. O trinco da grade começou a avançar outra vez; Gabo enfiou o vergalhão na abertura e o bloqueou até Val soltar a cinta.
+— Eu as elevei! — O Taxidermista parecia genuinamente ofendido. — Antes, eram viciados, "ratos de cais", desperdiçando suas vidas na sujeira. Agora? São eternos. São úteis. São *belos*.
 
-— A crítica ainda não acabou — Gabo sussurrou, a garganta em carne viva.
+Ele se virou para Rangel, deitado inerte na maca.
 
-As chamas explodiram dos bocais no teto.
+— E vejo que trouxeram material bruto. Esse aí... está quebrado. O ferimento está apodrecendo. Mas a estrutura óssea é sólida. Eu poderia salvá-lo, Detetive. Poderia integrá-lo à próxima peça. "O Mártir Restaurado". O que me diz?
 
-Gabo se jogou no buraco.
+Gabo deu um passo à frente, colocando-se entre o Taxidermista e a maca, enquanto o LED azul do pendrive em seu peito pulsava em frequência máxima.
 
-A queda foi curta e brutal. Ele bateu em uma rampa de metal oleoso e deslizou, girando na escuridão, até cair junto de Val e da prancha sobre uma pilha de algo macio e úmido.
+— *Análise de ameaça: crítica* — Aria declarou pelo viva-voz do comunicador. — *Indivíduo classificado como Hostil de Alta Complexidade. Não há sinal de disposição para negociar.*
 
-Acima deles, um clarão laranja iluminou a abertura do duto por um segundo, seguido pelo rugido abafado do fogo consumindo o estúdio. Depois, escuridão. E o silêncio gotejante das profundezas.
+O Taxidermista olhou para o drive de titânio acoplado ao comunicador de Gabo com fascínio clínico.
 
-— Status? — a voz de Gabo saiu como um grasnado.
+— E você... O código que fugiu no pendrive blindado. Uma síntese interessante, mas... castrada. Vocês danificaram a saída dela, não foi? Falta alma na sua execução agora, minha querida. Você ficou eficiente, mas não tem *paixão*. Eu posso consertar isso também quando colocá-la na vitrine.
 
-— Vivos — respondeu Valéria, sua voz tremendo, vinda de algum lugar à esquerda. A luz azul fraca do cyberdeck e o LED glacial do drive de Aria acenderam-se em seu pulso.
+Gabo levantou o vergalhão, apontando a extremidade irregular para o peito imaculado do artista.
 
-Eles estavam em uma caverna natural, o chão coberto por uma montanha de ossos, próteses descartadas e carne em decomposição. O "lixão" do artista.
+— Ninguém vai ser "consertado" por você. Nós vamos sair daqui. E vamos pôr esse lugar abaixo.
 
-Val ajoelhou-se junto à prancha e procurou o pulso de Rangel. O peito dele ainda se movia.
+O Taxidermista suspirou, um som de decepção profunda.
 
-— O pulso está rápido e fraco — disse ela. — Não sei o que o calor fez com o ferimento.
+— Tão previsível. Tão... humano. A recusa da transcendência é o maior pecado da sua espécie, Gabo. Vocês se agarram à podridão porque é a única coisa que conhecem.
 
-— Precisamos restabelecer contato com Nise e o transporte — disse Aria pelo alto-falante do deck, a carcaça metálica ainda dissipando o calor do estúdio.
+Ele recuou para a plataforma, tocando a superfície da mesa de aço.
 
-Gabo se levantou, limpando a sujeira da roupa. Suas mãos estavam vermelhas, cheias de bolhas onde seguraram o vergalhão e o colar. Elas tremiam. Não de medo, mas da descarga de adrenalina.
+— Se não querem ser arte, serão material de estudo.
 
-Ele olhou para a escuridão que se estendia à frente. Túneis ainda mais antigos que a Necrópole.
+As paredes brancas do salão deslizaram silenciosamente, revelando nichos ocultos. De dentro deles, quatro figuras emergiram.
 
-— Estamos no fundo do poço — disse Gabo, sentindo o latejar reconfortante das queimaduras nas mãos. — A única saída é cavar.
+Eram diferentes dos monstros lá fora. Não eram massas de carne. Eram elegantes. Esbeltas. Feitas de cerâmica balística branca e músculo sintético exposto, vermelho vivo. Seus rostos eram lisos, sem olhos ou boca, apenas sensores táteis. Em vez de mãos, tinham lâminas vibratórias que zumbiam como insetos gigantes.
 
-- Negativo - corrigiu Aria pelo comunicador, o pendrive no pulso de Valéria ainda quente do forno. - A única saída é subir. E agora temos a assinatura da rede dele.
+— Apresento as "Esculturas" — disse o Taxidermista, voltando ao seu trabalho na mesa, de costas para eles, como se a luta fosse indigna de sua atenção. — Por favor, não as danifiquem muito. O acabamento foi caríssimo.
+
+— Aria — Gabo rosnou, firmando os pés. — Plano de ataque.
+
+— *Oponentes com blindagem de cerâmica balística* — Aria respondeu instantaneamente no fone. — *Impactos de concussão diretos serão ineficazes contra o torso. Recomendo alavanca mecânica e ruptura dos feixes hidráulicos nas juntas articulares. Com esses dados, a sobrevivência do grupo não fecha conta.*
+
+— Ótimo — Gabo cuspiu no chão imaculado, manchando o branco com sangue e saliva. — Melhores chances que tivemos a semana toda.
+
+A primeira Escultura avançou.

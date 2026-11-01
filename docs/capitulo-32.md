@@ -1,106 +1,126 @@
 ---
-layout: doc
-title: "Capítulo 32: O Vazio do Silêncio"
-description: "A saída da Torre depende de mãos estranhas. Na rua, o silêncio não oferece atendimento nem perdão."
 image: /capitulo_32.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Elena Moretti, Valéria "Val" Cruz, Aria (módulo transportado), funcionários e civis em evacuação
-Localização: "Escadaria da Torre Aeterna, nível 28 → avenida → escola usada para triagem"
+Personagens Presentes: Gabriel "Gabo" Moretti, Elena Moretti, Valéria "Val" Cruz, Aria (módulo na bolsa), funcionários da Torre Aeterna
+Localização: "Torre Aeterna, nível 70 → escadas de serviço → desvio no 50 → escritório e escada do 28"
 ---
+# Capítulo 32: Ruptura Total
 
-# Capítulo 32: O Vazio do Silêncio
+Na madrugada da queda, ainda no nível 70, a voz atrás da porta recusou o primeiro pedido de ajuda.
 
-A primeira ponta da prancha desceu; a outra ficou presa no batente.
+— Se tiver arma apontada, eu não abro.
 
-Gabo sentiu a torção pela perna inteira e pediu que parassem. O homem das chaves mandou abrir espaço. Precisavam girar o corpo de lado para passar, mas havia gente atrás e ninguém queria dar um passo de volta ao escritório.
+Elena pôs a Caronte no chão. Mostrou as mãos pela abertura e explicou que havia um homem com a perna quebrada. Não disse polícia. Esperou.
 
-— Se empurrar, ele cai — disse Elena.
+Um funcionário de manutenção espiou o centro de dados. Tinha pó branco no cabelo e um molho de chaves preso à cintura. Atrás dele, outro homem segurava a ponta de uma prancha de transporte, dessas usadas para mover equipamentos compridos na escada.
 
-Não falou polícia. Apontou o sangue na madeira. Um homem recolheu a mala que bloqueava o vão; outra pessoa recuou contra a parede. A prancha passou raspando. Gabo tinha usado a voz para abrir caminho durante catorze anos. Naquela porta, precisaram mostrar quanto ele pesava.
+— Já ouvimos a segurança dizer isso — respondeu o primeiro.
 
-Descer vinte e oito andares carregado por dois homens cansados era lento. Cada lance exigia uma pausa para ajustar as mãos. Gabo tentou acompanhar pelo número nas paredes, mas perdeu um patamar quando a luz do deck apagou.
+Ele viu a perna de Gabo. Depois olhou para Valéria, que pressionava o ombro e mantinha o olho esquerdo fechado. Abriu espaço sem sorrir.
 
-Valéria tornou a ligá-la. O aparelho avisou que encerraria tarefas para conservar a última reserva. Ela escolheu a lanterna; os recibos da transferência já estavam gravados. A sessão de Aria, ainda aberta desde o centro de dados, entrou em suspensão.
+— O elevador morreu. Nessa prancha ele vai bater em cada patamar.
 
-— Aria?
+— Pode falar comigo — disse Gabo.
 
-Gabo só ouviu o atrito das botas.
+— Então não tenta levantar quando doer.
 
-— Fui eu — disse Val, atrás da prancha. — Deixei a luz. Não dá para manter tudo.
+Passaram duas tiras de carga sob o tronco e os quadris. Elena sustentou a perna apoiada enquanto os homens o deslocavam para a prancha. O ombro direito de Gabo recebeu um tranco; ele pediu que parassem e não conseguiu terminar a palavra. Tiveram de recomeçar.
 
-O módulo estava na bolsa, ligado ao deck pelo cabo curto. O LED apagado não lhe dizia o que havia acontecido dentro da caixa. Val não prometeu acordá-la antes de encontrar outra alimentação; também não disse que a falta de rede a tinha matado.
+Antes de sair, Elena recuperou as armas vazias. Levou a bolsa das provas atravessada no peito. Valéria carregava o deck e Aria junto ao braço esquerdo, sem força para ajudar no peso de ninguém.
 
-Gabo sabia a diferença. Mesmo assim, o silêncio no lugar da voz trouxe de volta o rádio de Bia, a última chamada interrompida e os segundos em que ainda acreditara que bastava repetir o nome.
+A escada cheirava a tinta quente. O ruído dos ventiladores diminuíra; por baixo dele apareciam tosse, passos e gente chamando familiares. O homem das chaves conhecia os lances onde cabia girar a prancha. No primeiro patamar, avisou antes de inclinar.
 
-— Ela volta? — perguntou Elena.
+Gabo mesmo assim gritou.
 
-— Os arquivos estão no módulo — respondeu Val. — O resto eu testo quando tiver energia.
+No terceiro, já sabia qual borda do degrau ia transmitir o choque pela perna. Antecipar não ajudava. A mão esquerda apertava o cinto sem conseguir fechar todos os dedos; a direita continuava presa contra o corpo.
 
-Foi a resposta que puderam levar para o próximo lance.
+Val descia atrás de Elena, apoiando a mão livre no corrimão. Quando uma faixa de luz atravessou o rosto dela, Gabo viu o olho esquerdo sem acompanhar o direito.
 
-A escadaria tinha luzes de telefone apontadas em direções contrárias. Quem iluminava o próprio pé cegava quem vinha atrás. Um homem cantava um hino alto demais; mais abaixo, alguém gritava o nome de uma criança e esperava a resposta antes de gritar de novo.
+— Está vendo?
 
-Perto do décimo quinto andar, a fila parou.
+— De um lado.
 
-Os carregadores encostaram a prancha no patamar. Valéria sentou junto do corrimão, segurando o ombro direito. Elena baixou a cabeça por um instante. O sangue do corte no couro cabeludo tinha secado na nuca; quando ergueu o rosto, precisou esperar a escada deixar de girar.
+— Volta quando desligar?
 
-— Porta trancada! — gritou alguém na frente.
+Ela não respondeu. Gabo deixou a pergunta onde estava.
 
-A pressão chegou pelas costas dos que desciam. Uma mala bateu no rosto de Gabo. Três degraus acima, uma pessoa caiu. Ele ouviu o grito acabar e não conseguiu ver onde o corpo tinha ficado entre as pernas dos outros.
+Levaram mais de meia hora para alcançar o nível 50. Haviam parado para trocar quem pegava a ponta, ceder passagem a uma mulher com um bebê e apertar de novo a compressão na canela de Gabo. O segundo carregador já não conseguia esconder o tremor nos braços.
 
-— Para trás! — gritou. — Tem gente no chão!
+No patamar, a fumaça vinha de baixo. Havia uma porta fechada, uma pequena multidão e gente de cima continuando a chegar.
 
-Os primeiros não ouviram. O homem das chaves repetiu o aviso, voltado para cima, e uma mulher passou a frase ao lance seguinte. A fila recuou o suficiente para Elena alcançar a porta.
+Um alto-falante anunciou extensão da purga para outro setor. Não dava o andar de forma audível. O homem das chaves apontou o indicador amarelo no duto e mandou que se afastassem dali. Não precisou dizer que aquilo podia alcançá-los.
 
-Não era o projeto de incêndio que exigia prender pessoas ali. Havia um ferrolho adicional atravessado no batente, com uma etiqueta de manutenção. A barra antipânico batia nele. O funcionário mostrou a trava a Elena antes de tentar erguê-la.
+Gabo começou a indicar a janela no fim do corredor. Viu os cabos pendurados na fachada e o vazio depois deles. Olhou a própria mão antes de terminar a frase.
 
-O peso da multidão a prendia no alojamento.
+— Tem outro caminho? — perguntou ao funcionário.
 
-— Precisa aliviar a porta — disse ele.
+— Pela copa. Passarela interna para a escada sul. Se não fecharam também.
 
-Gabo começou a contar devagar. A cada número, quem estava na frente recuava um pouco, apoiado por quem podia ouvir. Na segunda tentativa, Elena e o funcionário levantaram a barra. O outro carregador manteve uma passagem junto de Valéria para que ninguém a pisasse.
+Foram atrás dele. A passagem tinha louça quebrada, café derramado e um cheiro doce de comida esquecida num forno. Elena usou a lanterna da câmera para iluminar o chão. A bateria piscou o aviso de reserva; ela desligou o visor e continuou com a luz.
 
-A porta abriu quase meio metro e encontrou uma mesa do outro lado.
+Na porta seguinte, um supervisor tentava bloquear a saída com o próprio corpo.
 
-Uma mulher passou de lado, depois um rapaz. Empurraram a mesa de dentro. Quando o vão aumentou, a fila avançou antes de retirarem a prancha.
+— A ala executiva está isolada.
 
-— Um por vez! — Elena segurou o batente. — Tem ferido aqui!
+O funcionário levantou o molho de chaves.
 
-Gabo não podia se pôr entre os corpos. Viu uma sola parar a um palmo de seu rosto. Foi o segundo carregador quem puxou a ponta da prancha para dentro, recebendo um golpe no ombro sem poder largá-la.
+— Eu troco o filtro deles há onze anos. Você vai me impedir de passar?
 
-Ninguém respondeu sobre a pessoa caída nos degraus acima.
+O supervisor olhou a câmera de Elena. Ela ainda estava gravando. Ele saiu da frente, mas reteve o funcionário pelo cotovelo para perguntar se o acesso ficaria registrado em seu nome.
 
-O desvio devolveu a fila à escada num pavimento inferior. O funcionário quis saber quem tinha instalado aquela barra. Elena fotografou a etiqueta com o telefone, usando a última carga que guardara. Não tinha sinal para mandar a imagem; tinha lugar para conservar mais um responsável ainda sem nome.
+— Fica no meu — disse Elena. — Fala o seu para a gravação.
 
-Quando alcançaram o térreo, as portas de vidro já estavam quebradas. A chuva entrava até o balcão da recepção. Um pai carregava a filha sobre os ombros, e ela segurava um abajur sem fio, aceso, como quem transporta um animal assustado.
+Ele soltou o braço.
 
-Gabo percebeu a ausência do ruído antes de perceber a rua.
+A travessia terminou numa escada mais larga. Desceram devagar, incorporados a uma fila que carregava água, crianças e malas demais. Gabo não viu quantos ficaram no patamar anterior. Ninguém tinha uma contagem em que pudesse confiar.
 
-Os anúncios não zumbiam. Não havia trem sob o piso, ventilação na fachada, vozes de propaganda sobrepostas às buzinas. Restavam o motor distante de um gerador, a chuva e gente chamando por gente. A cidade não tinha ficado muda; tinham retirado dela os sons que sempre venciam os outros.
+No 28, os carregadores precisaram parar. O primeiro baixou a prancha no chão de um escritório e ficou agachado, segurando os próprios punhos. O outro pediu água com a voz que se usa para pedir dinheiro emprestado.
 
-Valéria tentou ficar de pé e tornou a sentar.
+Um executivo começou a dizer que aquela área não era de circulação. Parou quando Elena apontou o bebedouro atrás dele.
 
-— Está girando.
+— Tem copo?
 
-Elena se agachou ao lado dela. Também estava pálida. Podia ser cansaço, perda de sangue, o que tinham respirado, o golpe na cabeça. Gabo não ia chamar aquilo de abstinência e encerrar o diagnóstico.
+O homem abriu um armário. Havia garrafas de vidro, lacradas, numa caixa marcada para uma reunião da diretoria. Elena tirou a caixa inteira e colocou junto da porta. Os funcionários beberam antes de voltar à prancha.
 
-— Precisamos de atendimento — disse ao homem das chaves.
+Valéria sentou ao lado de Gabo. O ombro voltara a molhar a compressão. Elena segurou o pano no lugar e entregou uma garrafa para que ela bebesse com a esquerda. Val tomou dois goles e vomitou entre os pés.
 
-Ele indicou a escola do outro lado da avenida. Alguém escrevera TRIAGEM num pedaço de papelão e preso a placa no portão. Havia luz de lampião e uma fila que já dobrava a esquina.
+— Bati a cabeça — disse Elena ao executivo. — Ela foi baleada. Ele não pode apoiar a perna. Precisamos de atendimento lá embaixo.
 
-Um tiro veio de uma rua lateral. Depois outro, mais longe. Os carregadores esperaram atrás da coluna antes de atravessar. Gabo quis saber se os homens precisavam ir procurar alguém. O segundo disse que a mulher trabalhava no 42.
+O homem mostrou o telefone sem sinal, como se já tivesse feito sua parte.
 
-— Eu só preciso chegar até lá fora — respondeu Gabo.
+Pela janela, as luzes ainda desenhavam pedaços da cidade. Um bairro acendeu por um segundo e desapareceu. Veio um tremor baixo, seguido do silêncio das bombas do escritório. O ar condicionado deixou sair um bafo de poeira antes de parar.
 
-— Você precisa chegar até alguém que consiga pegar essa ponta.
+Val ergueu o deck. O aparelho recebeu um último aviso pela porta de diagnóstico que ela acabara de ligar ao painel da sala: perda de despacho central, desligamento de geração, separação dos circuitos de distribuição. Depois perdeu a conexão.
 
-No portão da escola, duas pessoas com luvas vieram ajudar. O funcionário esperou que segurassem a madeira antes de soltar. Tinha uma tira de pele arrancada da palma; fechou a mão para esconder o sangue e voltou para a Torre sem dar a Gabo o tempo de encontrar um agradecimento que prestasse.
+— Os reatores estão saindo da rede — disse.
 
-Pediam nomes, ferimentos e quem acompanhava cada paciente. Ninguém perguntou qual tinha sido a intenção deles no nível 70.
+— Vão explodir? — perguntou o executivo.
 
-Valéria entregou a bolsa do deck a Gabo antes de se sentar no colchão indicado. Ele sentiu o módulo de Aria por dentro do tecido. Estava frio. Ao lado da bolsa, Elena pôs as gravações e o crachá de Neide.
+— O aviso é de desligamento. Eu não estou dentro deles.
 
-Um voluntário escreveu MORETTI numa ficha e começou a estendê-la para Elena.
+— Quando a luz volta?
 
-— Dois pacientes com esse nome — disse ela. — E mais uma comigo.
+Val olhou o olho imóvel refletido na janela. Desconectou o cabo.
 
-Ele riscou o número um e escreveu três.
+— Eu não sei.
+
+O restante da iluminação pública caiu por setores. O apagão que começara em partes da Torre alcançava agora a distribuição da cidade. Não apagou o telefone na mão do homem, nem a lanterna de Elena. No aquário da parede, uma pequena bateria manteve a bomba funcionando.
+
+Gabo ouviu aquela água enquanto tentava imaginar quantos hospitais tinham conseguido fazer o mesmo. Não havia ninguém ali que pudesse lhe dar esse número.
+
+O executivo tentou usar o painel de emergência para chamar um elevador exclusivo. A tela pediu conexão com a central. Ele bateu no vidro até o homem das chaves mandar parar: estava gastando a reserva que acendia o corredor.
+
+— Ela escolhe o que mantém ligado? — perguntou Gabo, indicando a instalação do aquário.
+
+— Tem tomada separada — respondeu o funcionário. — A saída não tem.
+
+Elena apontou a câmera para as duas. A luz de gravação piscou mais rápido; ela salvou o arquivo e desligou o aparelho. A última imagem guardada foi a água circulando atrás de uma placa de segurança apagada.
+
+Da escada vieram gritos pedindo espaço. Havia gente demais tentando passar pela porta ao mesmo tempo. Os dois funcionários se levantaram com dificuldade. Elena guardou a câmera junto do crachá de Neide e foi ajudar a separar a fila.
+
+Gabo tentou se erguer na prancha. A dor o fez deitar antes que alguém mandasse. Não havia cidade libertada esperando por sua frase, nem rua capaz de lhe devolver a perna. Havia vinte e oito andares e pessoas que podiam decidir deixá-lo.
+
+— Eu seguro a luz — disse Val, abrindo a lanterna do deck com a mão esquerda.
+
+O homem das chaves tornou a pegar a ponta da prancha.
+
+— Então aponta para o próximo degrau.

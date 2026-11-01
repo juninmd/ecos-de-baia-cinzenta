@@ -15,21 +15,21 @@ description: "A estrutura da saga: três livros, vinte e quatro partes, do prime
 ```mermaid
 timeline
     title Ecos de Baía Cinzenta — 239 capítulos, 3 livros, 24 partes
-    section Livro 1 · O Dilúvio (caps 1-104)
+    section Livro 1 · O Dilúvio (caps 1-106)
         Partes I-VI · caps 1-27 : Olhos de Vidro : A voz sem corpo : O Gamemaster usa o rosto do pai
-        Partes VII-IX · caps 28-55 : A Torre cai : O céu quebra : Torre do Relógio
-        Partes X-XIV · caps 56-104 : Os Jardineiros : O Gênesis : O Berçário
-    section Livro 2 · A Ascensão (caps 105-184)
-        Parte XV · caps 105-114 : O pai volta : A coleira térmica
-        Partes XVI-XVIII · caps 115-157 : A Necrópole : O Taxidermista : Rangel cai
-        Partes XIX-XX · caps 158-184 : O Sentinel : Aria morre : A prótese de Vasco
-    section Livro 3 · A Prova (caps 185-236)
-        Partes XXI-XXII · caps 185-217 : Oitocentos metros : O Poço : A porta de chumbo
-        Parte XXIII · caps 218-225 : Arca Zero : A fita do pai : A superfície
-        Parte XXIV · caps 226-236 : Elena volta : A rubrica : Ponto Zero
+        Partes VII-IX · caps 28-56 : A Torre cai : O céu quebra : Torre do Relógio
+        Partes X-XIV · caps 57-106 : Os Jardineiros : O Gênesis : O Berçário
+    section Livro 2 · A Ascensão (caps 107-186)
+        Parte XV · caps 107-116 : O pai volta : A coleira térmica
+        Partes XVI-XVIII · caps 117-159 : A Necrópole : O Taxidermista : Rangel cai
+        Partes XIX-XX · caps 160-186 : O Sentinel : Aria morre : A prótese de Vasco
+    section Livro 3 · A Prova (caps 187-239)
+        Partes XXI-XXII · caps 187-219 : Oitocentos metros : O Poço : A porta de chumbo
+        Parte XXIII · caps 220-227 : Arca Zero : A fita do pai : A superfície
+        Parte XXIV · caps 228-239 : Elena volta : A rubrica : Ponto Zero
 ```
 
-> **A espinha da obra.** A pergunta que sustenta a obra inteira não é *quem matou* — é **por que esta família**. A resposta está no Capítulo 228 e no bloco "Por que os Moretti?" do dossiê: o Protocolo Lázaro escolheu uma linhagem para medir deriva, e Krell selecionou a Moretti porque o chefe dela havia assinado a autorização dos testes beta e poderia se autoincriminar ao denunciá-los. O arquivo classifica Gabo como **grupo de controle** e registra vigilância desde 2035; não comprova a hipótese científica do estudo nem que o protocolo tenha comandado suas fugas.
+> **A espinha da obra.** A pergunta que sustenta a obra inteira não é *quem matou* — é **por que esta família**. A resposta está no Capítulo 230 e no bloco "Por que os Moretti?" do dossiê: o Protocolo Lázaro escolheu uma linhagem para medir deriva, e Krell selecionou a Moretti porque o chefe dela havia assinado a autorização dos testes beta e poderia se autoincriminar ao denunciá-los. O arquivo classifica Gabo como **grupo de controle** e registra vigilância desde 2035; não comprova a hipótese científica do estudo nem que o protocolo tenha comandado suas fugas.
 
 ## 📐 Os três livros
 
@@ -41,7 +41,7 @@ timeline
 
 ## 🧩 As vinte e quatro partes em detalhe
 
-### Livro 1 — O Dilúvio (caps 1–104)
+### Livro 1 — O Dilúvio (caps 1–106)
 
 | Parte | Caps | Título | O que muda de forma irreversível |
 | --- | --- | --- | --- |
@@ -60,7 +60,7 @@ timeline
 | XIII | 86–97 | A Carne Mecânica | O Projeto Gênesis toma o subsolo; o Código Morto no pendrive de Aria destrói a Colmeia |
 | XIV | 98–104 | O Vazio | A cidade desliga tudo; Miranda é destruído; **Dante volta** |
 
-### Livro 2 — A Ascensão (caps 105–184)
+### Livro 2 — A Ascensão (caps 107–186)
 
 | Parte | Caps | Título | O que muda de forma irreversível |
 | --- | --- | --- | --- |
@@ -69,9 +69,9 @@ timeline
 | XVII | 128–140 | Esculturas de Carne | Os danos de Aria, o ataque ao seu canal, o reinício e o Protocolo de Limpeza |
 | XVIII | 141–157 | Veias de Vidro | A subida pelo Subnível 7; **Rangel morre** na passarela do Setor de Purga |
 | XIX | 158–169 | O Frio da Lógica | O Aeterna Sentinel **funde o pendrive de Aria** no terminal do Arquivo Executivo |
-| XX | 170–184 | Fronteiras de Ferrugem | A prótese de Vasco; Valéria entra em **Modo de Segurança instável** — o corte cai e volta, com lapsos de afeto, até estabilizar no cap. 221 |
+| XX | 170–184 | Fronteiras de Ferrugem | A prótese de Vasco; Valéria entra em **Modo de Segurança instável** — o corte cai e volta, com lapsos de afeto, até estabilizar no cap. 223 |
 
-### Livro 3 — A Prova (caps 185–236)
+### Livro 3 — A Prova (caps 187–239)
 
 | Parte | Caps | Título | O que muda de forma irreversível |
 | --- | --- | --- | --- |
@@ -128,11 +128,11 @@ Os três momentos em que a história passa a significar outra coisa. Cada um rec
 ```mermaid
 flowchart TD
     A["<b>Cap. 22</b><br/>O cérebro do pai é a CPU"] --> A1["Reinterpreta caps 1-21:<br/>o vilão que perseguia Gabo<br/>era o pai gritando por socorro"]
-    B["<b>Cap. 112 / 128</b><br/>O módulo contém código de Dante"] --> B1["Reinterpreta caps 2-111:<br/>Aria desenvolveu escolhas próprias<br/>a partir de uma arquitetura herdada"]
-    C["<b>Cap. 220</b><br/>A fita de admissão"] --> C1["Reinterpreta o livro inteiro:<br/>Dante responde sob coerção<br/>sem apagar suas escolhas anteriores"]
+    B["<b>Cap. 114 / 130</b><br/>O módulo contém código de Dante"] --> B1["Reinterpreta caps 2-113:<br/>Aria desenvolveu escolhas próprias<br/>a partir de uma arquitetura herdada"]
+    C["<b>Cap. 222</b><br/>A fita de admissão"] --> C1["Reinterpreta o livro inteiro:<br/>Dante responde sob coerção<br/>sem apagar suas escolhas anteriores"]
     A1 --> B
     B1 --> C
-    C1 --> D["<b>Cap. 227</b><br/>Índice de 47.311 admissões:<br/>a amostra precisa ser autenticada<br/>e comparada com os originais"]
+    C1 --> D["<b>Cap. 229</b><br/>Índice de 47.311 admissões:<br/>a amostra precisa ser autenticada<br/>e comparada com os originais"]
 ```
 
 ## 👑 Quem é o vilão de cada arco

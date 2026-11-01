@@ -1,136 +1,120 @@
 ---
 image: /capitulo_55.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Isadora e dono do bar
-Participação em relato: Marco Moretti, Roberto Miranda, Elena Moretti
-Localização: "Dia 46 do Dilúvio - Refúgio Subterrâneo"
+Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Padre Miguel, refugiados e protótipos CP-Z
+Localização: "Dia 45 do Dilúvio - Distrito da Ferrugem"
 ---
-# Capítulo 55: A Tentação de Lázaro
+# Capítulo 55: Fé e Ferrugem
 
-Dia 46 do Dilúvio - Refúgio Subterrâneo
-A dor na coluna de Gabo era um lembrete constante de sua mortalidade. Com as órteses travadas em modo passivo, fazia apenas transferências curtas com ajuda. A bengala de PVC ficava ao alcance para equilíbrio; não substituía a estrutura.
+Dia 45 do Dilúvio - Distrito da Ferrugem
+O Cobalt de Gabo gemia a cada curva. O motor engasgava, cuspindo fumaça escura que se misturava à névoa da cidade. A suspensão rangeu violentamente ao passar por cima de um hidrante submerso, fazendo o carro balançar como um barco bêbado.
 
-Ele estava sozinho no bar improvisado do esconderijo, tentando afogar a dor em uísque barato, quando ela entrou.
+— Essa lata velha vai nos matar antes do inimigo — reclamou Valéria, segurando-se no painel do passageiro.
 
-O bar era um balcão de compensado sobre dois tonéis e uma prateleira de garrafas com o rótulo arrancado. O gerador tossia a cada quarenta segundos, e a cada tossida a luz amarela piscava, e a cada piscada todo mundo levantava os olhos, porque luz que pisca nesta cidade é ensaio de apagão. O uísque tinha gosto de remédio e cheiro de solvente. Gabo bebia devagar, a bengala de cano de PVC atravessada no colo, para que ninguém tropeçasse nela e o derrubasse junto.
+— Respeite o ancião — rosnou Gabo, batendo no volante para o painel de instrumentos voltar a funcionar. — Ele é o único que não tem chip de rastreamento.
 
-Não era Val, nem Elena. Era uma mulher que ele nunca tinha visto, mas que parecia conhecer cada um de seus pesadelos.
+Gabo estacionou diante da Catedral de Ferro. Era uma estrutura gótica monstruosa, cujos vitrais haviam sido substituídos por chapas de metal reciclado. A água barrenta lambia os degraus da entrada, transformando o adro em um porto improvisado para centenas de desabrigados em botes de lixo.
 
-Ela usava um vestido vermelho que parecia líquido, deslizando sobre curvas perigosas. Seu cabelo platinado capturava a pouca luz do ambiente. O cheiro de jasmim sintético invadiu o ar viciado do porão.
+A água tinha subido desde a última vez. Antes lambia os degraus; agora entrava pela nave como um inquilino que já pagou o aluguel adiantado. Os bancos tinham sido arrancados e virados estrado, e sobre o estrado dormiam pessoas com os pés para fora do cobertor, porque pé molhado apodrece primeiro. Alguém cantava baixo, desafinado, para uma criança tossir no ritmo da canção.
 
-— Gabriel Moretti — disse ela. A voz era seda e fumaça. — Você parece um homem que carrega o mundo nas costas. E que as costas estão quebrando.
+— Por que estamos aqui, Gabo? — perguntou Val. — Deveríamos estar caçando o Marco.
 
-Gabo levou a mão à pistola sob a mesa.
+— Informação. E munição espiritual, talvez. — Gabo abriu a porta, pisando na água até o tornozelo.
 
-— Quem é você e como passou pelos sensores?
+As órteses em suas pernas emitiram um zumbido agudo e preocupante. A luz de carga no cinto de Gabo piscava em amarelo intermitente. "Bateria Baixa". Ele ignorou. Só precisava que durasse mais algumas horas.
 
-— Isadora. E seus sensores são ótimos para detectar máquinas, mas péssimos para detectar... intenções. — Ela sentou-se à frente dele, cruzando as pernas.
+Dentro da catedral, o cheiro de incenso brigava com o odor de roupa molhada e sopa comunitária. O Padre Miguel, um homem corpulento com braços tatuados sob a batina, distribuía pão para uma fila interminável de refugiados.
 
-Ela colocou um frasco pequeno sobre a mesa. O líquido dentro brilhava com um azul elétrico intenso.
+— Gabriel Moretti — disse o padre, sem parar de servir. — Veio se confessar ou se esconder?
 
-Lázaro. A droga. A versão pura.
+— Vim saber o que está acontecendo nas ruas, Miguel. Meus informantes desapareceram.
 
-— Vim te fazer uma oferta, Gabo.
+O padre limpou as mãos em um pano.
 
-— Eu não uso. E se você não sumir em dez segundos, vou te prender. Ou pior.
+— Eles não desapareceram, filho. Foram coletados.
 
-Isadora riu suavemente.
+— Coletados por quem?
 
-— Você não entende. Isso não é para ficar "chapado". É um passaporte. — Ela empurrou o frasco na direção dele. — Dentro dessa simulação... eles estão vivos.
+— Pela lista. — O padre encheu a tigela seguinte sem levantar os olhos. — Você chega aqui querendo nomes, Gabriel. Eu tenho nomes. Tenho quarenta e dois nomes de gente que dormia nesse adro e sumiu em três dias. Todos levados em carro branco, com lacre no vidro e dois homens de farda nova. Sabe o que eu tenho além dos nomes? Nada. Nenhum corpo. Nenhum papel. Nenhum político com vergonha na cara.
 
-Gabo congelou.
+— Me dá os nomes e eu—
 
-— O quê?
+— E você o quê? — A concha parou no ar. — Vai arrombar o campo de triagem com essa espingarda e voltar com quantos? Dez? Doze? E os outros trinta ficam lá dentro, sozinhos, porque você acordou o dragão.
 
-— Helena. Dante. Até a pequena Clara, feliz e sem dívidas. — Isadora inclinou-se para frente, os olhos verdes perfurando a alma dele. — O Marco tem os backups neurais deles, Gabo. Ele me deu isso. É uma cópia perfeita da consciência da sua família, rodando em um servidor isolado, esperando por você.
+— Então me diga o que fazer.
 
-— Se é a minha mãe — disse ele, e a voz saiu rouca de um jeito que ele odiou —, me diga o que ela põe no café.
+— Digo o que não fazer: trazer a sua guerra para dentro da minha casa. Essa gente já perdeu a casa. Perder a igreja seria exigir demais de um Deus distraído.
 
-Isadora piscou.
+Antes que Gabo pudesse perguntar, um som de metal esmagando metal ecoou lá fora. Gritos.
 
-— Café?
+Val chegou à porta primeiro. Gabo seguiu apoiado no corrimão, sem saltar os degraus.
 
-— Açúcar mascavo e uma pitada de sal. Ela faz na frente da pessoa e a pessoa prova e não sente o sal. Trinta anos e eu nunca entendi. — Gabo apoiou as duas mãos na mesa. — Pergunte a ela. Na sua simulação. Pergunte por que o sal.
+Três figuras humanoides marchavam pela água. Eram os Protótipos CP-Z. Robôs policiais de dois metros de altura, pintados de preto fosco, com cabos e pistões expostos como vísceras mecânicas.
 
-O jasmim continuou no ar. A boca de Isadora abriu e fechou sem produzir som.
+— **ATENÇÃO CIDADÃOS** — a voz dos robôs era distorcida, cheia de estática. — **ESTA ÁREA FOI DECLARADA ZONA DE RISCO BIOLÓGICO. EVACUAÇÃO OBRIGATÓRIA PARA OS CAMPOS DE TRIAGEM.**
 
-— Você nunca entrou lá — disse ele. — Está vendendo um quarto que não viu.
+Um dos mendigos, um velho sem pernas em uma cadeira de rodas improvisada, tentou argumentar.
 
-A mão de Gabo tremeu. Ele olhou para o frasco. Uma vida onde a chuva parou. Onde sua mãe estava assando bolo. Onde seu pai estava lendo jornal. Onde ele não era um aleijado perseguido.
+— Não podemos sair! É a nossa única...
 
-— É só beber — sussurrou Isadora. — E você pode ficar lá para sempre. Sem dor. Sem luta. Apenas paz.
+O robô mais próximo ergueu um cassetete elétrico e golpeou. O som de ossos quebrando foi audível mesmo sob a chuva.
 
-O frasco tinha o peso de uma bala de revólver. Lá dentro, o azul não se mexia como líquido: subia pela parede de vidro, demorava, voltava. O cheiro atravessava a rolha — doce, metálico, com um fundo de piscina clorada. Cheiro de corredor de hospital. Cheiro de tanque.
+Gabo viu vermelho.
 
-Gabo sentiu o desejo. Era uma fome física, avassaladora. Ele estendeu a mão. Seus dedos roçaram o vidro frio.
+A impaciência que vinha fervendo nele há semanas explodiu. Ele não pensou. Ele ativou os servos das órteses no máximo.
 
-Isadora sorriu. Um sorriso de vitória.
+— Gabo, não! — gritou Val.
 
-Mas então, Gabo viu.
+Gabo forçou a descida dos degraus, contrariando a restrição de carga das órteses. Precisou do guarda-corpo para não cair. Ele sacou a escopeta "Caronte" e disparou à queima-roupa no peito do primeiro robô.
 
-No pulso de Isadora, sob a manga do vestido, havia uma marca roxa. Uma contusão em forma de dedos mecânicos.
+O impacto jogou a máquina para trás, faíscas voando. Mas os outros dois giraram instantaneamente, os olhos vermelhos focando nele.
 
-A mão de Gabo passou pelo frasco e parou junto do pulso dela, sem fechá-lo na mão.
+— **AMEAÇA DETECTADA. NÍVEL 5. EXECUTAR.**
 
-— Quem fez isso em você? — ele rosnou.
+Gabo largou a escopeta vazia e avançou. Tentou atingir a articulação exposta do segundo robô com o pé. A órtese travou antes do golpe; o robô o empurrou contra a escada.
 
-O sorriso de Isadora vacilou.
+Bateu com o punho na proteção óptica, sem quebrá-la. A dor subiu pelo braço que ainda não suportava carga. Ele queria destruir. Queria esmagar. Cada golpe era por sua mãe, por Clara, por Dante.
 
-— Não toca.
+Mas o terceiro robô o flanqueou. Um bastão de choque atingiu suas costas.
 
-— Foi o Miranda, não foi? Com aquela mão de metal dele.
+Gabo rugiu de dor, caindo de joelhos. As órteses travaram.
 
-Isadora recolheu o braço. Gabo afastou a mão para deixá-la cobrir a marca se quisesse. Ele viu o medo nos olhos dela. Não o medo de uma vilã pega, mas o medo de uma vítima.
+BZZZZT.
+A luz da bateria ficou vermelha e apagou. As pernas de Gabo tornaram-se peso morto.
 
-— Você veio aqui me vender o paraíso, mas você vive no inferno, não é, Isadora?
+O robô ergueu o bastão para o golpe final.
 
-A máscara da femme fatale caiu. Isadora relaxou os ombros, derrotada.
+— **PAREM!** — A voz do Padre Miguel trovejou, amplificada por um megafone.
 
-— Ele disse que se eu não fizesse você beber... ele ia me dar para os robôs. — Uma lágrima solitária escorreu pela maquiagem perfeita. — O Marco... ele quer você fora do tabuleiro, mas não quer te matar. Ele quer te possuir. Como um troféu na estante digital dele.
+O padre estava parado na entrada, segurando não uma arma, mas uma cruz de ferro maciço. Atrás dele, dezenas de refugiados seguravam pedras, pedaços de pau, o que tivessem.
 
-Gabo recolheu a mão. Pegou o frasco de Lázaro e o jogou contra a parede. O vidro quebrou, e o líquido azul escorreu entre as rachaduras.
+Os robôs calcularam as probabilidades.
 
-— Diga a ele que eu recuso a oferta.
+— **RETIRADA TÁTICA. DADOS ENVIADOS.** — As máquinas recuaram, arrastando o companheiro danificado, desaparecendo na névoa.
 
-Isadora olhou para o líquido desperdiçado, depois para Gabo.
+Val correu até Gabo, ajudando-o a se sentar.
 
-— Ele vai me matar.
+— Você está maluco?! — ela gritou, verificando os sinais vitais dele.
 
-— Senta e me diga como chegar ao Miranda — disse Gabo, firmando a bengala no chão. — Eu quero acabar com ele.
+O Padre Miguel se aproximou. Ele olhou para o robô destruído, depois para Gabo.
 
-— Por que eu faria isso? Vocês são meia dúzia de ratos contra um exército.
+— Violência gera ferrugem, Gabriel — disse o padre, triste. — Você salvou um hoje, mas condenou todos nós a sermos alvos amanhã.
 
-— Não sei se consigo proteger você. Posso esconder seu nome e tentar arrumar um lugar longe dele. Se quiser ir embora, não vou impedir.
+— Eles iam matar o velho — cuspiu Gabo, tentando soltar as travas das órteses inúteis.
 
-Isadora olhou para a saída. Valéria surgiu na porta com o deck sob o braço, atraída pelo vidro quebrado. Gabo ergueu a mão para que esperasse. Isadora encarou o frasco vazio antes de voltar à mesa.
+— E agora eles sabem onde estamos. — O padre suspirou. — Você não pode socar o mundo até ele consertar, Gabriel. Seu pai sabia disso.
 
-Antes de abrir o salto do sapato, puxou do bolso um recibo térmico dobrado. No cabeçalho, revisão anual; abaixo, “setor familiar”, **REF-0** e **PEDIDO DE COLETA: RECUSADO — MANTER REFERÊNCIA EM CAMPO**. Val reconheceu a chave do verso guardado por Nise. O rodapé identificava um console administrativo, sem nome de operador.
+Gabo cuspiu sangue na água e viu que era pouco. Um dente solto, a costela que o segundo bastão tinha encontrado de raspão, e as pernas — as pernas eram duas peças de ferro penduradas no quadril, sem serventia e com peso de âncora. O cheiro de cobre queimado subia das juntas mortas. Ele sentiu quando a mulher da terceira fila puxou o filho para trás, sem gritar, só puxando, e cobriu os olhos do menino com a mão. Não era medo dos robôs. Os robôs tinham ido embora. Era medo dele.
 
-— Miranda me fez consultar esse pedido — disse Isadora. — Voltei ao terminal e pedi nova revisão. Recusaram de novo, sem exame nem solicitação clínica. Só essa ordem. Eu devia ter queimado o recibo.
+Val destravou o modo passivo sem retirar a estrutura. As travessas mantinham os joelhos firmes; sem motor, ele não daria um passo seguro. Dois refugiados trouxeram uma cadeira.
 
-Gabo estendeu a mão. Isadora puxou o papel para si. — A foto basta. O original fica comigo. — Val registrou as duas faces, incluindo a borda com o código do console. Só então Isadora dobrou o recibo e tornou a guardá-lo.
+— Meu pai está morto, Miguel. E a diplomacia morreu com ele.
 
-— O Miranda controla os robôs de uma sala no subnível da Prefeitura — disse ela, rápido. — Mas o Marco... o Marco está construindo algo pior na Represa. O "Projeto Dilúvio" não é só água. É um reset.
+Levaram Gabo na cadeira até o carro. Val ajudou na transferência para o banco do passageiro.
 
-Ela tirou um chip escondido no salto do sapato e o colocou na mesa.
+— Vamos embora — disse ele. — As órteses acabaram. Precisamos de carga e reparo. Eu não saio andando daqui.
 
-— Aqui estão as plantas. E os códigos de acesso do Miranda.
+Enquanto o Cobalt se afastava, Gabo olhou pelo retrovisor. Viu o padre ajudando o mendigo ferido. Viu a esperança nos olhos daquelas pessoas. E sentiu-se pequeno. E sujo.
 
-Gabo pegou o chip.
+No painel do carro, o rádio da polícia, hackeado por Val, captou uma transmissão codificada vinda dos robôs em retirada.
 
-— Vou procurar um abrigo — disse Gabo. — Não prometo que aceite você.
-
-Ela se levantou, ajeitando o vestido.
-
-— Não se engane, Moretti. Eu não sou sua amiga. Eu só quero estar do lado que vai estar vivo amanhã.
-
-Ela saiu, deixando para trás o cheiro de jasmim e a promessa de traição.
-
-O velho do balcão não disse nada enquanto a porta fechava. Depois enxugou um copo com um pano que já tinha secado coisa pior e guardou a garrafa de uísque embaixo do balcão, fora de alcance.
-
-— O quarto de cima tá ocupado — disse ele.
-
-— O quarto de cima tá vazio desde março.
-
-— Agora tá ocupado. — Ele não levantou os olhos. — Eu tenho neta, Moretti. Se aquele cheiro de flor voltar aqui, ela vai junto.
-
-Gabo olhou para a mancha azul na parede. Ele tinha recusado o paraíso. Agora, só restava vencer o inferno.
+— *Unidade CP-Z reportando ao Chefe Miranda. Alvo localizado. Solicitamos reforço para o setor da catedral.*

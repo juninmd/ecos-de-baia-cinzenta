@@ -18,9 +18,9 @@
 
 ### Linha do Tempo e Evolução Visual
 
-* **Capítulos 1-80:**55 anos,33 de serviço desde 2023; comando, acordos e omissões próprios, sem legitimar automaticamente os crimes de Gabo.
-* **Capítulo 81:** Braço esquerdo esmagado e queimado ao manter a alavanca de resgate. Retirada assistida e descontaminação.
-* **Capítulos 87-97:** Após amputação do braço esquerdo, continua em recuperação. Lesão ocular e tratamento por equipe; não há prótese nova presumida. Registro da lista ocultada permanece responsabilidade sua.
-* **Capítulos 98-106:** Comando comunitário provisório, não prefeito eleito por automatismo de patente. Usa a mão direita; continua amputado.
+* **Capítulos 1-82:**55 anos,33 de serviço desde 2023; comando, acordos e omissões próprios, sem legitimar automaticamente os crimes de Gabo.
+* **Capítulo 83:** Braço esquerdo esmagado e queimado ao manter a alavanca de resgate. Retirada assistida e descontaminação.
+* **Capítulos 89-99:** Após amputação do braço esquerdo, continua em recuperação. Lesão ocular e tratamento por equipe; não há prótese nova presumida. Registro da lista ocultada permanece responsabilidade sua.
+* **Capítulos 100-108:** Comando comunitário provisório, não prefeito eleito por automatismo de patente. Usa a mão direita; continua amputado.
 
 ---

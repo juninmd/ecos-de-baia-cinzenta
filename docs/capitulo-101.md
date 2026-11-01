@@ -1,124 +1,136 @@
 ---
+layout: doc
+title: "Capítulo 101: O Despertar da Máquina"
+description: "A máquina quer o cubo, o cubo quer um dono, e a voz gravada no escuro tem o timbre de uma mulher que a cidade já enterrou."
 image: /capitulo_101.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Elena Moretti, Roberto Miranda e protótipos
-Participação em referência: Silas Vance, Dante Moretti
-Localização: 'Zona de Exclusão Sul - Subsolo do "Berçário"'
+Personagens Presentes: Gabriel "Gabo" Moretti, Inspetor Rangel, Capitão Jonas Vilar, Dra. Nise
+Localização: "Ruínas do Data Center 4 - Zona Morta"
 ---
-# Capítulo 101: Ressonância
+# Capítulo 101: O Despertar da Máquina
 
-Zona de Exclusão Sul - Subsolo do "Berçário"
-O som do disparo do revólver de Gabo não ecoou como deveria. O ar úmido e pesado da caverna absorveu o estrondo, transformando-o em um baque surdo, como se estivessem atirando embaixo d'água.
+Ruínas do Data Center 4 - Zona Morta
+O som não era de vento. Era o ranger de metal contra concreto, um ruído úmido e pesado, como se uma engrenagem estivesse mastigando ossos.
 
-A criatura que saltara sobre eles foi atingida no meio do salto. O projétil calibre .38, uma relíquia de um mundo anterior aos escudos energéticos, perfurou a massa de carne exposta. Não houve sangue, apenas um spray de fluido amarelado e viscoso. A coisa caiu se debatendo, emitindo um guincho que lembrava o som de metal sendo rasgado.
+— Para trás — sussurrou Gabo, empurrando a Dra. Nise para a proteção de uma coluna de aço retorcido.
 
-— Não pare! — gritou Elena, disparando sua espingarda contra outra sombra que se desprendia do teto.
+A mão dele foi para o bolso e não encontrou nada. O cubo continuava na palma do morto, e a linha azul pulsava mais rápido a cada segundo.
 
-Gabo tentou recuar, mas suas pernas não responderam com a agilidade necessária. As órteses chiavam sob a tensão. *Clique-clique-clique*. O som mecânico parecia atraí-los.
+Não era mais um piscar. Era uma resposta. Em algum ponto atrás dos escombros, alguma coisa respondia no mesmo ritmo, e o intervalo entre uma resposta e outra encurtava como o passo de quem diminui a distância.
 
-Mais três daquelas coisas — os "Protótipos", como Elena os chamara — surgiram por trás dos tanques de cultivo. Eram pesadelos anatômicos: torsos humanos fundidos a membros alongados e articulados de forma errada, reforçados por pistões hidráulicos enferrujados que pareciam ter crescido de dentro dos ossos.
+Gabo quebrou a própria ordem. Nise já soltara os dedos do morto com a pinça; ele tirou o cubo da palma usando a barra do sobretudo. Um choque atravessou o tecido. A luz azul subiu de intensidade e virou a única coisa acesa naquele andar.
 
-— Parecem seguir os estalos das minhas travas! — gritou Gabo, vendo as criaturas virarem as cabeças sem rosto a cada passo. — Não sei se conseguem enxergar!
+Do outro lado da laje, o som de engrenagens parou de ser paisagem e virou direção.
 
-— Então pare de se mexer e atire! — retrucou Elena.
+Rangel sacou sua pistola, tremendo levemente. Não de medo, mas da abstinência de uma mira assistida que nunca mais voltaria. Vilar chegou pela lateral, o joelho ruim estalando a cada passada, o .38 já apontado para a escuridão do corredor destruído.
 
-O cubo preto no bolso de Gabo vibrava com tanta intensidade que seus dentes doíam. A cada pulsação do coração gigante pendurado no teto, o cubo respondia. *BUM-BUM* no teto. *VIBR-VIBR* no bolso.
+— O que é aquilo? — perguntou Nise, a voz abafada pela máscara.
 
-Uma das criaturas avançou, rápida como uma aranha. Gabo firmou a base, sentindo as travas das órteses morderem suas coxas, e disparou duas vezes. A criatura cambaleou, mas não caiu. Ela não sentia dor. Não havia choque sistêmico. Era apenas carne cumprindo uma programação biológica.
+Das sombras, dois pontos vermelhos se acenderam. Não eram LEDs perfeitos e frios como os da antiga Aeterna. Eram lâmpadas halógenas, sujas, adaptadas em órbitas improvisadas.
 
-— A porta! — Elena apontou para uma escotilha de manutenção lateral, meio coberta por vinhas pulsantes. — Temos que sair do átrio principal!
+A criatura avançou para a luz do sol que entrava pelo teto desabado. Não era um robô. Era uma colcha de retalhos. Um chassi de um droide de entrega, braços de escavadeira industrial, e pernas que pareciam ter sido arrancadas de um manequim de loja, reforçadas com pistões hidráulicos vazando óleo.
 
-— Vá! — gritou Gabo. — Eu seguro eles!
+— Um Necro-Mecânico — disse Gabo, reconhecendo o estilo. — Alguém está construindo monstros com o nosso lixo.
 
-— Não seja idiota, herói! Suas pernas vão travar se você ficar parado muito tempo!
+A máquina soltou um guincho estático, girando o torso. Ela viu o cubo preto na mão de Gabo. O objeto pulsou em resposta, a luz azul ficando frenética.
 
-Elena correu, disparando para criar uma barreira de chumbo. Gabo girou o corpo, o peso do metal em suas pernas quase o desequilibrando. Ele viu uma das criaturas saltar na direção de Elena.
+*"Devolver... Ativo... Prioritário..."* — a voz da máquina era uma colagem de gravações antigas, picotadas e distorcidas.
 
-Sem pensar, Gabo arrancou o cubo do bolso e o ergueu.
+— É da polícia! — gritou Rangel, tentando impor autoridade. — Parado ou atiro!
 
-— Ei! — gritou ele, não para as criaturas, mas para o *coração*. — Olha o que eu tenho!
+A máquina não hesitou. Ela avançou com uma velocidade aterrorizante para algo tão desconjuntado.
 
-O efeito foi imediato e aterrorizante.
+— Fogo! — ordenou Vilar.
 
-O coração gigante no teto parou por um segundo. A luz bioluminescente mudou de roxo para um branco cegante. Um ruído agudo acompanhado de vibração no piso, varreu a sala.
+Os tiros ecoaram nas ruínas. As balas de chumbo, antigas e confiáveis, ricochetearam na blindagem improvisada da criatura. Uma delas acertou a "lâmpada-olho" esquerda, estourando-a em uma chuva de vidro e faíscas.
 
-As criaturas pararam instantaneamente, como marionetes que tiveram as cordas cortadas, e viraram suas cabeças vazias na direção de Gabo.
+A máquina nem diminuiu o passo. Com um braço que terminava em uma garra de sucata, ela golpeou a coluna onde Rangel estava. O concreto explodiu. O inspetor foi jogado para trás, tossindo poeira.
 
-— Merda... — sussurrou ele.
+Gabo não podia correr. As órteses passivas estavam presas nas pernas, e o arame do remendo mordia a pele acima do joelho a cada passo. Correr era uma palavra de gente com osso inteiro. Ele olhou ao redor, sua mente de detetive processando o cenário em milissegundos. *Sem rede. Sem hacks. Apenas física.*
 
-O cubo em sua mão ficou quente, quase insuportável. A luz acompanhava as pulsações do coração. Gabo não sabia que informação o objeto estava transmitindo.
+A criatura se virou para ele, ignorando os tiros de Vilar. Ela queria o cubo.
 
-— Gabo, agora! — Elena já estava na escotilha, girando a manivela enferrujada.
+— Você quer isso? — gritou Gabo, levantando o objeto.
 
-As criaturas gritaram em uníssono — um coro de vozes humanas distorcidas — e avançaram todas de uma vez.
+A máquina parou, o único olho restante focando no cubo.
 
-Gabo se virou e correu. Ou tentou. O movimento foi uma marcha forçada, desajeitada. *Estalo-arrasto-estalo*. Ele sentia o hálito quente das coisas em seu pescoço.
+"Protocolo... Recuperação..."
+Gabo viu o que precisava. O chão sob a máquina estava rachado, enfraquecido pela chuva ácida e pelo peso dos escombros. E logo acima, pendurado por vergalhões expostos, estava o que restava de um servidor bancário. Toneladas de metal morto.
 
-Ele se jogou pela escotilha aberta no momento em que uma garra de osso e metal raspou a blindagem de suas costas. Elena bateu a porta e girou a trava.
+— Nise! O pé de cabra na sua bolsa! — gritou Gabo.
 
-Algo se chocou contra o metal do outro lado com a força de um vagão de trem. *BONG*.
+A médica deslizou a ferramenta de aço pelo chão. Gabo a recolheu junto da coluna, apoiando-se no concreto para não perder o equilíbrio.
 
-A porta aguentou.
+A máquina avançou. Gabo não recuou. Ele esperou até sentir o cheiro de óleo queimado e ferrugem.
 
-Gabo escorregou pela parede até o chão, ofegante. Suas pernas tremiam incontrolavelmente, os músculos gritando em protesto contra o metal rígido das órteses.
+Quando a garra desceu para esmagá-lo, Gabo se jogou para o lado, rolando sobre o ombro bom. Ele bateu com o pé de cabra não na máquina, mas na trava enferrujada que segurava os vergalhões na parede ao lado.
 
-— Você está bem? — Elena se ajoelhou ao lado dele, verificando a munição da espingarda.
+Clang.
+A trava cedeu. A gravidade, a única lei que nunca falhava em Baía Cinzenta, fez o resto.
 
-— Nunca estive melhor — mentiu ele, enxugando o suor frio da testa. Ele olhou para o cubo, que agora pulsava suavemente com uma luz azulada, sincronizada com sua respiração. — O que diabos é isso, Elena? Por que eles obedeceram?
+O servidor despencou. O estrondo foi ensurdecedor, levantando uma nuvem de poeira de cimento e silício moído. A máquina foi esmagada instantaneamente, transformada em uma panqueca de sucata sob o peso da tecnologia obsoleta.
 
-Elena olhou para o objeto com uma mistura de fascínio e repulsa.
+O silêncio voltou. Apenas o chiado de circuitos morrendo e a respiração ofegante dos quatro sobreviventes.
 
-— Porque isso não é uma chave, Gabo. É uma coroa.
+Gabo se levantou, limpando o sangue de um corte na testa. Ele mancou até a pilha de escombros. O cubo preto tinha rolado para longe, intacto, pulsando suavemente.
 
-Eles estavam em um corredor estreito, iluminado por luzes de emergência vermelhas que piscavam intermitentemente. Cabos grossos corriam pelo teto, todos indo na direção de onde vieram.
+O servidor que eles derrubaram era uma possível fonte de informação sobre quem tinha construído aquele monstro — número de série, fabricante, oficina, qualquer coisa. Agora eram duas toneladas esmagadas no chão. Gabo mandou marcar o local e guardar os fragmentos identificáveis; não sabia se ainda seria possível ler algum módulo.
 
-— Uma coroa? — Gabo guardou o objeto, sentindo que estava carregando material radioativo.
+— Todos bem? — perguntou Vilar, ajudando Rangel a se levantar.
 
-— O caderno chama o coração de unidade central. Associa um perfil de administrador ao receptáculo marcado com o número 001. A reação ao cubo sugere uma ligação, mas não sei o que ele contém.
+— Meu terno... — resmungou Rangel, tirando o pó da lapela rasgada. — Era o último inteiro.
 
-— Silas Vance? — arriscou Gabo.
+***
 
-— O perfil 001 leva o nome do seu pai. — Elena se levantou e ajudou-o a ficar de pé. — Silas pode ter usado o nome ou uma cópia. Não posso provar mais do que está no caderno.
+Nova Delegacia - Antiga Biblioteca Municipal
+A luz das velas iluminava as estantes de livros mofados. O gerador estava sendo poupado para o equipamento médico, então a "Sala de Investigação" (uma mesa de carvalho recuperada) estava na penumbra.
 
-Gabo sentiu um calafrio que nada tinha a ver com a temperatura fria do corredor.
+O cubo preto estava no centro da mesa.
 
-— Dante está morto, Elena. Eu vi o corpo.
+— Não consegui abrir — disse Nise, tirando os óculos de leitura. — Não tem parafusos, não tem emendas. E a composição... o espectrômetro analógico diz que é carbono, mas organizado de uma forma que eu nunca vi. Quase como diamante, mas opaco.
 
-— O corpo morreu — concordou ela, começando a andar pelo corredor. — A Aeterna guardou registros dele. Alguém pode estar tentando colocá-los num corpo novo. Isso não diz o que essa cópia quer.
+— O que aquela coisa queria com isso? — perguntou Vilar, enchendo um copo de uísque barato.
 
-Eles caminharam em silêncio por alguns minutos, o som distante dos golpes na porta ficando para trás. O corredor parecia se estender infinitamente, descendo ainda mais nas entranhas da terra.
+— Recuperação — disse Gabo, encarando a luz azul. — Disse que era um "Ativo Prioritário".
 
-De repente, o terminal no pulso de Elena apitou. Mas não foi um alerta de sistema. Foi uma mensagem de texto, simples, em código ASCII verde.
+— Mas quem mandou a máquina? — questionou Rangel. — Não sobrou ninguém com *know-how* para construir aquilo. Os Jardineiros odeiam metal. Disseram que a Aeterna encerrou a operação local. O Sindicato ainda está vendendo drogas.
 
-`>> O SILÊNCIO NÃO PROTEGE NINGUÉM, DETETIVE.`
+— O Código Morto atingiu controladores ligados à Raiz — disse Gabo. — Não sabemos o que aconteceu com tudo que estava ligado, nem com o que estava isolado.
 
-Gabo leu a mensagem por cima do ombro dela.
+Ele tocou o cubo. Estava frio, mais frio que a sala.
 
-— Quem mandou isso? Não tem sinal aqui embaixo.
+— Semanas de silêncio não são morte. São espera. — Ele levantou os olhos para Rangel. — Talvez não seja "quem". Talvez seja "o quê".
 
-— Não veio de fora — disse Elena, pálida. — Veio de dentro da rede interna.
+De repente, o pulso de luz do cubo mudou. De azul calmo para um branco intenso. Um feixe de luz foi projetado para cima, cortando a fumaça das velas.
 
-— O Gênesis?
+Um holograma se formou no ar. Era granulado, falhando, como uma transmissão de TV antiga com má recepção.
 
-— Não. — Ela olhou para Gabo, os olhos arregalados. — O estilo. A sintaxe. Eu conheço essa arrogância.
+Mostrava um mapa. Não de Baía Cinzenta, mas do subsolo. Uma rede complexa de túneis que parecia um sistema circulatório. E um ponto piscando em vermelho profundo, muito abaixo da superfície, na região onde ficava a base do Projeto Dilúvio.
 
-Antes que ela pudesse terminar, os alto-falantes do corredor, corroídos pelo tempo, ganharam vida com um chiado estático. E então, uma voz suave, culta e terrivelmente familiar preencheu o ar.
+E então, uma voz. Não a voz robótica da máquina, nem a voz suave de Aria. Era uma voz humana, cansada, gravada com urgência.
 
-— *Atenção, intrusos. A visitação ao berçário está encerrada. Por favor, dirijam-se à saída mais próxima ou aguardem o processamento como biomassa.*
+"...se alguém estiver ouvindo... o silêncio não é o fim. Eles estão acordando. O berçário foi violado. Repito: o berçário foi violado. Eles têm fome e não comem comida. Eles comem..."
+A transmissão cortou em estática.
 
-Gabo reconheceu a voz imediatamente. Era a voz de um fantasma. Ou de alguém que deveria ter ficado no inferno.
+— Quem era? — perguntou Vilar, os olhos arregalados.
 
-— Roberto — rosnou Gabo, sua mão indo instintivamente para o revólver.
+Gabo sentiu um aperto no peito. O timbre lhe parecia conhecido, embora uma gravação distorcida pudesse enganá-lo.
 
-Roberto Miranda. O homem que Gabo vira afastar-se do beco onde Bia morreu, e que negara ter atirado. Ele o deixara vivo no Hub; a voz voltara pelo rádio, mas ninguém vira quem o recolheu.
+— Parece a Elara Vance — disse Gabo. — A ex-CEO da Aeterna.
 
-— *Gabo, meu velho amigo* — a voz continuou, destilando ironia. — *Vejo que você ainda não largou o hábito de se meter onde não é chamado. E vejo que trouxe visitas. Elena... sempre a pedra no sapato da família.*
+— Ela está morta — disse Rangel. — Desapareceu na Queda.
 
-— Ele está vivo? — perguntou Elena.
+— Uma gravação não diz se ela está viva agora — Gabo pegou o cubo e o guardou no bolso. — E se ela está com medo... nós devíamos estar aterrorizados.
 
-— *Vivo é uma palavra forte* — respondeu a voz, ecoando por todos os lados. — *Digamos que fui... reciclado. O Projeto Gênesis não desperdiça recursos. Principalmente recursos com talentos táticos.*
+Ele pegou sua bengala e se dirigiu à porta.
 
-O corredor à frente deles se iluminou. Uma porta se abriu no final, revelando uma sala de controle cheia de monitores. Elena apontou a folha da planta: o registro seguinte da fila de Elara ficava naquele terminal. No centro, sentado numa cadeira feita de carne e fios, estava uma figura.
+— Aonde você vai? — perguntou Nise.
 
-Não era mais Roberto Miranda. Pelo menos, não inteiramente. Metade de seu rosto era o de sempre, o sorriso cínico intacto. A outra metade era uma massa de sensores óticos e pele sintética translúcida. Seu corpo estava conectado à cadeira, fundido a ela.
+— Vou para casa. Preciso preparar o Cobalt. E preciso falar com uma pessoa.
 
-— *Entrem* — convidou Roberto, abrindo os braços, dos quais saíam tubos conectados ao teto. — *Vamos conversar sobre o futuro da agricultura.*
+— Quem? — perguntou Vilar.
+
+Gabo parou na porta, a silhueta recortada contra a chuva que começava a cair lá fora.
+
+— A única pessoa que conhece o subsolo melhor que os ratos. Elena.
+
+Do lado de fora, a chuva batia no quarteirão como se cobrasse alguma coisa. Gabo abriu o guarda-chuva furado, olhou o próprio reflexo na poça — bengala, sobretudo e dívida — e atravessou a rua sem esperar resposta.

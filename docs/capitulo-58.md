@@ -1,149 +1,146 @@
 ---
-layout: doc
-title: "Capítulo 58: O Dilema do Capitão"
-description: "Miranda oferece a Vilar a aposentadoria de volta pelo preço de um endereço. O velho descobre quanto custa a própria palavra — e paga à vista."
 image: /capitulo_58.jpg
-Personagens Presentes: Capitão Jonas Vilar, Roberto Miranda
-Localização: "Delegacia Central — gabinete do Capitão. 23h40"
+Personagens Presentes: Gabriel "Gabo" Moretti, Aria
+Localização: "Zona de Exclusão — Setor 4"
 ---
+# Capítulo 58: Zona de Interesse
 
-# Capítulo 58: O Dilema do Capitão
+Zona de Exclusão — Setor 4
+Aria quase não usava o sintetizador de voz. Naquela parte da viagem, Aria poupava intervenções. O drive retornara ao painel depois de passar pelo deck e pelos terminais; os registros de cada ligação continuavam separados. No resto do tempo ela operava assim: com o corpo metálico do pendrive morno na porta de dados, o LED azul-gelo pulsando devagar contra o plástico sujo do console, varrendo as frequências do setor.
 
-Delegacia Central — gabinete do Capitão. 23h40.
-A garrafa de uísque estava sobre a mesa havia quatro dias sem ser aberta, e Jonas Vilar olhava para ela do jeito que se olha para uma amizade antiga que a gente sabe que vai dar errado.
+O carro cheirava a mofo de estofado velho, café frio e o ozônio seco do circuito do painel que trabalhava além da conta para alimentar o módulo.
 
-O gabinete estava escuro. A luz vinha de duas fontes: o brilho azulado dos monitores de ronda, que mostravam catorze câmeras e onze delas mortas, e o letreiro de neon vermelho da lanchonete do outro lado da rua, que piscava a cada dois segundos e pintava metade da sala de vermelho e a outra metade de nada.
+— O que você está rastreando, Aria?
 
-Ele serviu dois dedos. A mão tremeu. Não era medo: era o começo de um tremor essencial que tinha aparecido aos cinquenta e três e que ele escondia do médico da corporação havia dois anos, porque tremor documentado é aposentadoria compulsória, e aposentadoria compulsória é sessenta e um por cento do salário. Ele bebeu. O uísque desceu queimando e, por dez segundos, o tremor sumiu, o que é a mentira mais bem construída que existe.
-
----
-
-O comunicador holográfico zumbiu. Vilar olhou o identificador e ficou olhando por quatro toques.
-
-— Aceitar.
-
-A imagem de Roberto Miranda subiu da base do projetor e se estabilizou flutuando sobre a papelada. Vestia o terno marrom, amarrotado nos ombros; o rosto encovado e os olhos avermelhados resistiam ao filtro da chamada. A prótese direita era nova e bruta, instalada depois da perda no cassino. A luz ressaltava o aço, não apagava o ferimento. Silas o tinha soltado duas semanas depois, com a prótese e uma dívida; Miranda não gostava de lembrar o preço. Atrás dele havia janela. Janela com **vista**, e a vista tinha luz elétrica.
-
-— Boa noite, Jonas. Ou devo dizer Capitão Vilar?
-
-— Diga o que você quiser, Roberto, mas diga rápido. Eu não tenho robô sobrando para emprestar para a sua guarda pretoriana.
-
-Miranda sorriu com metade da boca.
-
-— Não quero os seus robôs. — Uma pausa bem cronometrada. — Eu quero a sua aposentadoria.
-
-Vilar não respondeu. Trinta e três anos de interrogatório ensinam a não preencher o silêncio do outro. Miranda fez um gesto e um vídeo abriu ao lado da própria cabeça. Imagem granulada, sem áudio, de uma câmera de segurança no beco dos fundos da delegacia. Timestamp de dois dias antes, 04h12.
-
-Nela, o Capitão Jonas Vilar abria a porta de serviço com a própria chave, olhava para os dois lados e ajudava Gabo a atravessar a soleira numa cadeira. Corte. 04h31. Vilar saía com um kit médico e duas caixas de munição calibre 12, colocando a carga no colo de Gabo antes de empurrá-lo até a esquina. O estômago de Vilar ficou frio.
-
-— Obstrução de justiça. Auxílio a terrorista classificado. Desvio de material apreendido. Conspiração. — Miranda listava com a entonação de quem lê o cardápio para a mesa. — São dezoito a vinte e três anos na Colônia Penal Marítima, Jonas. Perda do posto, perda da pensão, e — isso é o que eu acho mais desagradável de toda essa história — perda do plano de saúde.
-
-Vilar apertou o copo.
-
-— Você grampeou uma delegacia.
-
-— Eu integrei o parque de câmeras municipais numa central única, com contrato assinado pela prefeitura e homologado pela Câmara. — Miranda abriu as mãos. — Está tudo publicado no diário oficial. Você votou nesse prefeito, aliás.
-
-— Eu não votei em ninguém.
-
-— Pois é. Isso também é um problema seu.
+O alto-falante deu um estalo curto e o visor monocromático do painel traçou um vetor. Não apontava para os drones no céu. Apontava para os prédios.
 
 ---
 
-— A Bruna começa o oitavo ano em fevereiro, não é? — disse Miranda.
+Ele seguiu a coordenada marcada no vidro e levou um tempo para entender o que estava olhando. Nos andares altos dos cortiços semidestruídos do Setor 4 havia luz. Não elétrica — luz de vela, de lampião de querosene, de fogo em lata. E nas janelas, sombras se mexendo. Gente.
 
-E ali a conversa mudou de assunto e os dois souberam.
+Famílias que não saíram. Que não tinham para onde ir, ou que decidiram que aquele apartamento de quarenta metros quadrados com infiltração no teto era a única coisa que elas conseguiram acumular em três gerações e não ia ser um aviso de despejo holográfico que ia tirar aquilo delas. Em várias janelas, panos brancos amarrados na grade. Fronha, camiseta, lençol de criança com estampa de dinossauro. Bandeira branca.
 
-— Não fala o nome dela.
+— Eles acham que isso significa alguma coisa — Gabo disse, mais para si mesmo. — Eles acham que tem alguém do outro lado que sabe o que significa.
 
-— Colégio Santa Rosa. Anuidade, uniforme, material, o inglês que a mãe faz questão. — Miranda inclinou-se um pouco na projeção, e a projeção falhou um instante no ombro. — Jonas, sua filha é auxiliar de enfermagem e ganha o que ganha. Quem paga aquela escola é você. Todo mundo sabe disso, inclusive a menina, que não devia saber.
-
-Vilar olhou para o vidro do copo.
-
-— O que você quer?
-
-— O prefeito Moretti admira o seu tempo de serviço. — Miranda encostou-se de novo. — Ele está disposto a esquecer o deslize. Mais que isso: a Nova Baía tem um cargo de consultor de segurança patrimonial, meio período, sem farda, com carro. Paga quatro vezes a sua pensão.
-
-— Em troca de quê?
-
-— Da localização atual de Gabriel Moretti. — Miranda falou tranquilo. — E do drive neural da Aria que ele tirou daquela cabine telefônica antes do Dilúvio.
+No painel, o LED da Aria piscou uma única vez em âmbar escuro, e o silêncio do alto-falante foi de concordância.
 
 ---
 
-Vilar ficou muito tempo sem falar. Ele olhou o vídeo congelado ao lado da cabeça de Miranda: a própria mão dele, entregando munição a um fugitivo às quatro e doze da manhã. Depois olhou a parede.
+Um drone desceu. Parou a três metros da janela de um terceiro andar e ficou pairando, com aquele zumbido de quatro rotores em frequências levemente diferentes que dá dor de cabeça em quem escuta muito tempo. Gabo reduziu usando a alavanca manual e deixou o Cobalt roncar baixo.
 
-Havia duas fotos ali. Uma era a formatura dele, em 2023, quarenta e um sujeitos de branco olhando para uma câmera que exigia parar quieto por dois segundos. A outra era Dante Moretti recebendo a comenda de comissário, antes do desaparecimento em 2041, com a mão no ombro de um Jonas Vilar de quarenta anos, magro, com cabelo.
+O drone emitiu uma sirene digital — três notas descendentes, desenhadas por alguém num escritório para soar *oficial* sem soar *ameaçador* — e projetou um holograma na parede encardida do prédio, em letras de dois metros:
 
-— Você está me pedindo — disse Vilar, devagar — para entregar o filho do meu melhor amigo para ser morto por causa de um componente do tamanho de um pendrive.
+PROPRIEDADE DO CONSÓRCIO LÁZARO
+SAÍDA IMEDIATA OU REMOÇÃO FORÇADA
+— Consórcio Lázaro — Gabo repetiu, e guardou o nome no lugar onde ele guarda nome.
 
-— Eu estou pedindo o endereço e o módulo. O que acontece depois não é responsabilidade sua, e você sabe disso melhor do que eu.
+A janela se abriu. Um homem de camiseta regata, uns cinquenta anos, com a barriga de quem trabalhou em pé a vida inteira, se debruçou e jogou uma garrafa.
 
-— Sei?
+Foi um arremesso ruim. A garrafa girou no ar, bateu de lado no chassi do drone e estilhaçou sem fazer nada além de barulho. Cacos caíram na calçada alagada. O drone não atirou. Gabo até pensou, por meio segundo, que não ia acontecer nada.
 
-— Você prendeu duzentas e oitenta pessoas na sua carreira, Jonas. Quantas delas você acompanhou até o fim? — Miranda deu de ombros. — Ele já está morto. Só esqueceu de cair. Você faria um favor.
+O que veio foi um pulso sônico. Não teve estampido — teve uma **pressão**, uma coisa que Gabo sentiu no peito e nos dentes dentro do carro fechado a quarenta metros de distância, e o para-brisa do Cobalt vibrou como pele de tambor. E o vidro de todas as janelas daquele andar explodiu **para dentro**.
 
-— Um favor.
+O homem da regata caiu de joelhos com as mãos nos ouvidos. A boca abria e fechava. Gabo não ouviu nada, e não precisava: a pressão e a queda lembravam um bombardeio de gás em manifestação, quinze anos antes. Daquela distância, ele não podia diagnosticar o ferimento.
 
-— Encerraria o sofrimento dele, devolveria o código-mestre ao Consórcio e pouparia quem mais estiver por perto quando aquele homem resolver entrar numa sala. — Miranda apontou com o queixo. — Você viu o que ele fez na Avenida da Indústria.
+Uma mulher apareceu atrás dele e o puxou para fora do vão da janela. O drone subiu, girou e foi para a janela seguinte projetar o mesmo aviso.
 
-E essa foi a única coisa que Miranda disse naquela noite que doeu de verdade, porque era verdade.
+— Malditos — Gabo sibilou.
 
----
-
-Vilar tomou o resto do uísque de um gole. Queimou a garganta e limpou alguma coisa de dentro dele que precisava ser limpa. Ele fez as contas, e fez em voz baixa, porque nesta idade a gente fala sozinho:
-
-— Quatro vezes a pensão.
-
-— Quatro.
-
-— Escola paga até o terceiro ano.
-
-— Faculdade, se você quiser negociar direito.
-
-— E eu durmo. — Vilar assentiu para si mesmo. — Eu durmo bem umas duas semanas, porque no começo a gente sempre dorme bem. E aí um dia a Bruna vai fazer dezessete anos, e ela vai me perguntar como é que o vovô conseguiu pagar tudo aquilo com salário de capitão.
-
-Ele encostou o copo na mesa, sem barulho.
-
-— E eu vou ter que inventar uma resposta, Roberto. Na frente dela.
-
-— Jonas—
-
-— Você já teve que inventar? — Vilar olhou direto para a projeção. — Já teve? Quando a sua mãe perguntou do braço?
-
-O rosto de Miranda não se mexeu. E não se mexer, ali, foi resposta.
-
-— Última chance, Capitão.
-
-Vilar se levantou da cadeira. Custou: o joelho esquerdo dele também tinha história.
-
-— Roberto.
-
-— Sim, Capitão?
-
-— Vá para o inferno.
+E não fez nada, porque não tinha o que fazer, e ele odiou cada segundo daquilo.
 
 ---
 
-O revólver saiu do coldre de ombro com um movimento que trinta e três anos gravaram em osso. Ele atirou uma vez no projetor holográfico. O .38 dentro de uma sala fechada é uma experiência física: o estampido bateu nas quatro paredes e voltou, os monitores tremeram, e a imagem de Roberto Miranda explodiu em faísca, vidro moído e um cheiro imediato de plástico queimado. O silêncio depois foi enorme. Vilar ficou de pé no meio da fumaça, com o ouvido apitando, e percebeu que estava rindo.
+Duzentos metros adiante a rua estava fechada. Barreira de concreto pré-moldado com uma cortina de luz sólida por cima — cara, do tipo que não se usa em bloqueio de polícia porque polícia não tem verba. E dois CP-Z de guarda.
 
-Depois abriu a gaveta de baixo, tirou uma caixa de munição de vinte e cinco — comprada em quarenta e um, guardada por um motivo que ele nunca tinha admitido — e começou a recarregar, bala por bala, encaixando cada uma com o polegar.
+Não eram os modelos da corporativa. Estes eram maiores, com o torso mais largo, e estavam pintados de **branco imaculado**. Sem número de unidade, sem brasão de departamento, sem nada. Máquina branca de segurança privada, limpa como geladeira nova, em pé no meio de um bairro que tinha lama até o meio-fio. Gabo parou o Cobalt a cinquenta metros.
 
-— Eles vêm — murmurou para a sala vazia. — Deixa vir. Eu estou velho demais para aprender a ajoelhar.
+— Aria. Modo furtivo. Corta a transmissão externa; deixa o cabo do meu ponto auditivo ligado.
+
+O LED azul do pendrive apagou. O rádio externo ficou mudo; o módulo continuou alimentado pelo carro e ligado ao fone por cabo.
+
+Gabo tocou de leve o metal morno do drive espetado no console. Não sabia onde Aria aprendera a se esconder; sabia que a ausência do sinal não apagava as câmeras do bloqueio.
+
+— Se eu precisar do porta-malas, consegue abrir pela ligação local?
+
+— *Consigo, enquanto a alimentação e a trava responderem.* O módulo permaneceu escuro no painel.
 
 ---
 
-Às 00h07, o sistema de folha de pagamento da corporação registrou o desligamento do Capitão Jonas Vilar por "abandono de função", com efeito retroativo de trinta dias. Às 00h09, o plano de saúde caiu.
+A chuva estava fria e batia de lado. Aproximou o carro até onde podia voltar sem fazer manobra. Não tinha como atravessar cinquenta metros a pé com as órteses ainda instáveis. Falou pela janela, com as mãos visíveis.
 
-Às 00h14, o Colégio Santa Rosa emitiu um comunicado automático de inadimplência da matrícula de Bruna Vilar Sanches, 13 anos, com cópia para o e-mail da mãe. Vilar viu as três notificações chegarem, uma atrás da outra, no terminal ao lado da mesa, e não foi capaz de olhar para a terceira mais que um segundo.
+— Área restrita — anunciou o robô da esquerda.
 
-Ele fechou o terminal. Pegou o rádio de frequência antiga, aquele que a Aeterna nunca comprou porque não dava lucro, girou o seletor para o canal quatro e apertou o botão.
+A voz era suave. Quase humana. Modulada em tom de balconista de banco — desenhada, num escritório, para soar tranquilizadora enquanto ordena submissão.
 
-— Moretti. Se você estiver ouvindo, e eu sei que você deixa esse canal aberto porque fui eu que te ensinei: sai da Zona Leste. Eles sabem que eu te ajudei, então eles sabem por onde você anda. O acordo acabou.
+— Esta zona foi adquirida para desenvolvimento residencial de alto padrão.
 
-Ele soltou o botão. Pensou. Apertou de novo.
+— Eu moro aqui — mentiu Gabo. — Apartamento 34. Tenho documento.
 
-— E, garoto. Aquele bastardo do Miranda usa o braço direito para tudo agora. Até para segurar copo. — Uma pausa. — Um homem que trocou o próprio braço por um melhor não sabe mais como é ficar sem ele.
+O robô inclinou a cabeça. As lentes óticas giraram, focando e desfocando com um clique minúsculo e educado. Três segundos.
 
-Vilar desligou o rádio, encaixou o cilindro do revólver com um giro de pulso, e sentou de frente para a porta do gabinete. Ficou assim até o amanhecer.
+— Cidadão não identificado. — Pausa. — Análise de crédito: inexistente. Valor social: negativo.
 
-Ninguém veio naquela noite, e ele descobriu, ali sentado, que essa era a parte pior: eles não precisavam de pressa.
+Outra pausa, e Gabo entendeu que a pausa era **para ele**. Era espaço deixado no roteiro para o cidadão processar a informação. Alguém tinha desenhado aquilo. Alguém tinha sentado numa reunião e discutido o tempo da pausa.
+
+— Recomendação: descarte.
+
+A mão direita da máquina recolheu-se para dentro do antebraço e um cano subiu no lugar.
+
+---
+
+Gabo sacou e disparou três vezes antes do cano terminar de travar. Duas no peito, uma na lente. As três balas ricochetearam. Ele viu as faíscas e ouviu o zunido de uma delas passando de volta perto da própria orelha, e o cheiro de pólvora encheu tudo por um instante antes da chuva levar. Nem arranhão. Nem marca. Cerâmica composta em placa curva, que é feita exatamente para que 9mm escorregue.
+
+— Merda.
+
+— Ação hostil detectada. Iniciando protocolo de higienização.
+
+Ele abriu a porta e se deixou deslizar para trás da roda, e o pedaço de asfalto onde ele estava desapareceu — não estourou, **desapareceu**, virou pó e cratera sob fogo de supressão de um calibre que não existe em manual de polícia.
+
+Gabo caiu atrás de uma caçamba de lixo e ficou ali dois segundos ouvindo o metal ser furado acima da cabeça. Ele precisava de algo maior que uma nove.
+
+— **ARIA!** — gritou para o ponto auditivo, contra o barulho. — DESTRAVA O PORTA-MALAS INTERNO!
+
+---
+
+Voltar ao banco exigiu usar a soleira e a correia presa ao teto. O fogo atravessava o metal; a lataria não era garantia de proteção. Foi a caçamba atingida caindo entre ele e a linha de tiro que lhe deu o intervalo para se puxar para dentro. Não conseguiria correr ou mudar de direção mais depressa do que aquelas armas.
+
+Ele entrou pelo banco do motorista de barriga; o pendrive no painel já havia enviado o pulso elétrico para a trava magnética antes mesmo de ele tocar o botão. O encosto traseiro cedeu, e o compartimento se abriu com o cheiro de óleo de arma e feltro velho.
+
+Caronte.
+Cano serrado, coronha lixada pelo uso, pesada de um jeito honesto.
+
+— Vamos ver se vocês gostam de chumbo grosso.
+
+---
+
+O primeiro estava recarregando quando se aproximou a três metros do carro. Gabo manteve a Caronte apoiada na janela. Gabo mirou onde blindagem de placa curva não cobre: a junta do pescoço, onde o torso encontra a cabeça e o fabricante precisa deixar folga para o giro. O tiro de doze foi ensurdecedor entre os prédios.
+
+A cabeça saiu inteira, girando, e caiu quatro metros adiante soltando faísca azul e um chiado de fluido pressurizado. O corpo ficou de pé mais um segundo antes de dobrar os joelhos. O segundo girou o torso.
+
+Gabo usou o segundo cano contra a articulação exposta do joelho. A máquina caiu de lado com o braço-arma ainda subindo. Ele abriu a escopeta, colocou um dos cartuchos guardados e disparou do apoio contra a unidade caída, sem sair do carro. Silêncio. Só a chuva, e o zumbido do drone lá atrás continuando o trabalho dele nas janelas do terceiro andar.
+
+---
+
+Gabo ficou ofegando, apoiado na coronha, com as costas gritando de um jeito que ia cobrar caro à noite. Ele olhou para os dois corpos brancos manchados de óleo e fuligem, e foi aí que viu o adesivo. Pequeno, no ombro esquerdo, do tamanho de um selo. Um código impresso, daqueles de inventário. Ele puxou o celular, limpou a tela na perna da calça e escaneou.
+
+ATIVO IMOBILIÁRIO — LOTE 404
+PROPRIETÁRIO: AETERNA PRIME
+Gabo ficou olhando aquilo por um tempo bem maior do que precisava.
+
+O adesivo ligava aquele robô à Aeterna Prime; a propaganda ligava o consórcio a um estudo anterior à enchente. Gabo ainda precisava do decreto, do registro do terreno e das ordens das comportas para demonstrar quem ganhara com a remoção e quem causara a inundação.
+
+— Filhos da puta — ele disse, e cuspiu no asfalto.
+
+Nem era raiva, no fim. Era aquele cansaço específico de descobrir que a conspiração é mais burra do que você imaginava. Ninguém queria dominar o mundo. Alguém queria **metro quadrado**.
+
+---
+
+Ele permaneceu no carro, ofegante, e guardou a captura do adesivo que o zoom do telefone permitira ler. No console central, o LED azul do pendrive da Aria voltou a acender depois que as duas máquinas deixaram de se mover.
+
+— *Você demorou dois minutos além da margem de segurança, Inspetor* — disse a voz sintética e limpa dela pelo alto-falante do painel.
+
+Naquela viagem, poucas frases tinham tido tanto peso. Gabo fechou a porta, largou a *Caronte* no banco de trás e ficou com as duas mãos no volante sem ligar o carro.
+
+— Eu demorei — ele concordou.
+
+O pequeno componente metálico no painel emitiu um pulso âmbar suave, fechando a entrada de ar externo para reduzir o frio úmido sem que ele precisasse pedir, e Gabo teve que olhar para a chuva pela janela lateral por um tempo antes de conseguir dar a partida.

@@ -1,1 +1,0 @@
-../capitulo-30.5.md

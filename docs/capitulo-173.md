@@ -1,68 +1,64 @@
 ---
-Título: Fronteiras de Ferrugem
-Data In-Game: Indeterminada (Pós-Colapso da Aeterna)
-Localização: Fronteira do Distrito 4
+Título: Luz Seca
+Data In-Game: Indeterminada (Pós-Destruição do Wetware)
+Localização: Nível 1.0 (Saguão Principal da Aeterna) / Acesso à Superfície
 Personagens Presentes: Gabo, Valéria
 ---
 
-# Capítulo 173: Fronteiras de Ferrugem
+# Capítulo 173: Luz Seca
 
-A marcha até o Distrito 4 não era uma caminhada; era um lento arrastar de cadáveres que se recusavam a aceitar a própria decomposição. A chuva ácida não dava trégua, transformando os becos apagados de Baía Cinzenta em canais de lodo tóxico e lixo não processado.
+A subida pelo poço do elevador de emergência foi um exercício metódico de dor. Sem energia para acionar os guinchos do Arquivo Executivo, tivemos que subir pela escada de manutenção enferrujada, usando cada plataforma como um respiradouro temporário.
 
-Valéria seguia meio passo atrás de mim. O passo antes preciso agora arrastava, e a placa de contato na nuca dela chiava baixo a cada movimento. O casaco tático, uma vez impecável, estava manchado de fuligem e sangue seco. Ela protegia o deck da chuva sob a jaqueta, enquanto a mão esquerda ferida permanecia rígida junto ao corpo. Ela não falava. O luto por Aria a havia desligado mais rápido do que qualquer pulso eletromagnético.
+A escada engolia Valéria acima de mim. Cada passo dela produzia um rangido metálico fraco, engolido pelo breu que empurrávamos para baixo. Para mim, a escalada não exigia apenas força; exigia abstração. Minhas pernas suportavam o peso do chassi avariado do meu corpo, mas meus braços... o braço direito quebrado preso ao peito pesava feito chumbo, e minha mão esquerda em carne viva escorregava no metal frio quando eu tentava usá-la para tração.
 
-Eu também não estava muito melhor. O choque hipovolêmico era uma sombra ameaçando me engolir a cada passo vacilante. Minhas roupas grudavam na pele, frias como a lona de um necrotério. Mas o frio não era o meu principal problema. Era o cheiro.
+A cada dez metros, a carne lacerada e as queimaduras cobertas pelos curativos eram esfoladas na grade. O sangue morno empapava as ataduras improvisadas e os restos das minhas mangas, descendo pelos meus flancos onde o curativo de Valéria tentava conter o sangramento.
 
-Nas bordas do Distrito 4, a ordem corporativa nunca existiu de fato, e a falta de energia apenas escancarou isso. Os moradores sobreviventes haviam começado a queimar o que encontravam em tambores improvisados nas ruas para espantar a escuridão e o frio: plástico isolante velho, pneus velhos e restos químicos.
+Na quarta plataforma, a mão esquerda escorregou. Não houve aviso: o suor e o sangue sob a palma venceram o ferro de uma vez, e o mundo inclinou. Valéria me pegou pela gola do sobretudo, o antebraço dela travando contra o meu peito, e por dois segundos ficamos pendurados na mesma escada, respirando perto o bastante para eu ouvir os dentes dela batendo.
 
-Nas calçadas, junto aos tambores, as pessoas se aqueciam em silêncio. Ninguém pedia nada, ninguém oferecia nada. Uma mulher segurava uma chaleira com as duas mãos, e a chaleira não fumegava. Mais adiante, um velho de casaco comprido alimentava o fogo com o que tirava de uma pasta de papelão: processos, fichas, formulários, e o fogo comia cada folha com uma alegria fina e amarela. Toda a papelada de uma vida subindo em fumaça porque a noite estava fria. Rangel teria discutido com o velho antes de entregar mais uma folha às chamas.
+— Sobe — ela disse. — Sobe e não olha pra baixo.
 
-O vento soprou a fumaça negra de uma dessas fogueiras na nossa direção. O ardor nos olhos e a acidez cáustica no fundo da garganta foram imediatos; o plástico queimado e os vapores de borracha roubaram o oxigênio em um instante.
+A sola da minha bota raspou duas barras antes de achar apoio de novo. Ouvi o metal cantar poço abaixo, sem encontrar fundo, sem encontrar resposta.
 
-Com o corpo debilitado pelo choque e pelas fraturas e queimaduras recentes, a fumaça química provocou um espasmo violento na minha traqueia. Caí de joelhos no asfalto quebrado, tossindo em acessos secos e dolorosos que repuxavam o curativo do abdômen e faziam a água suja da sarjeta salpicar meu rosto.
+O cheiro do Subnível 2.0 — o formol, o ozônio estéril, a carne morta no servidor — começou a se dissipar na marca dos quarenta metros. Em seu lugar, a velha e conhecida exalação de Baía Cinzenta desceu pelo poço de ventilação: uma lufada úmida de asfalto molhado, poeira de concreto e a acidez química da chuva contínua.
 
-Valéria ajoelhou-se ao meu lado imediatamente, usando o próprio corpo para bloquear a rajada de vento tóxico que vinha do tambor em chamas.
+O esforço contínuo da escalada cobrava um preço avassalador de cada fibra muscular. Com o braço direito quebrado e imobilizado e as mãos em carne viva pelas queimaduras, eu dependia da tração do braço esquerdo, da pressão dos joelhos e da força bruta do abdômen para vencer cada degrau de ferro da escada de serviço. A queimação no osso fraturado e nas feridas cobertas pelos curativos irradiava pelo peito a cada impulsão.
 
-— Põe a gola da jaqueta no nariz, Gabo! — ela ordenou, a voz rouca lutando contra a tempestade. Ela puxou a gola de sarja sobre a minha boca para filtrar a fuligem. — Não respira esse lixo direto. A gente tá a menos de cem metros da oficina do Vasco. Aguenta firme!
+Contei os degraus por vício, não por necessidade. Cinquenta e um entre uma plataforma e a seguinte, e em cada um o cheiro mudava um grau: primeiro o formol, depois o pó de concreto, depois o salitre. Era como subir por dentro de uma ferida que cicatrizava ao contrário.
 
-Fechei os olhos, respirando devagar através do tecido grosso. A dor no braço direito fraturado e nas queimaduras latejava como brasa viva, mas o ritmo constante da minha respiração forçada afastou a vertigem. Apoiei a mão esquerda firme no ombro de Valéria e forcei as pernas trêmulas a se erguerem.
+Parei por três segundos para recuperar o fôlego, apoiando a testa no aço gelado do degrau superior. O ar frio da superfície entrava rasgando a garganta, com gosto de salitre e chuva ácida. Cerrei a mandíbula, sentindo o pulsar ensurdecedor do sangue nas têmporas, e usei o ritmo áspero da minha própria respiração para afastar a vertigem da exaustão.
 
-— Tô inteiro, — murmurei, cuspindo a fuligem ácida no chão molhado. — Vamos antes que o vento vire de novo.
+— Não para. — A voz de Valéria ecoou de cima, áspera, mecânica. Ela não perguntou se eu estava bem. Ela sabia que a resposta não importava.
 
-Valéria passou o braço sob o meu ombro, me ajudando a sustentar o peso.
+— Não vou — rosnei, puxando o fôlego gelado e sujo para os pulmões purificados pela dor.
 
-— Você vai desmaiar de perda de sangue antes de chegarmos na clínica — constatou ela, com uma objetividade morta.
+Val subia de lado, com o tronco torto para proteger o deck, e a cada plataforma checava o próprio pulso como quem espera um sinal que não vem. Não havia sinal. Nem dela, nem de ninguém.
 
-— É por isso que não vamos parar.
+Empurrei o corpo para cima. Quinze minutos depois, quebramos a trava do piso térreo.
 
-Caminhamos mais algumas quadras. As ruas começaram a estreitar, formando os cânions de concreto do Distrito 4. Foi então que as sombras se mexeram.
+O Saguão Principal da Aeterna Corp era, ou fora, uma catedral de mármore e vidro inteligente. Agora, era uma caverna. Os enormes vidros panorâmicos haviam sido estilhaçados em algum momento do apocalipse, deixando o vento frio do oceano varrer os balcões de recepção esvaziados. O chão estava coberto de lascas de vidro, poças escuras e cápsulas de grosso calibre oxidadas. A luz do dia em Baía Cinzenta sempre parecia doente, mas agora, vazando pelas vidraças rompidas sob um céu carregado, era uma luz pálida, acinzentada. Uma luz seca.
 
-Três figuras bloquearam nosso caminho. Um deles segurava uma haste de ferro reforçado com fiação de cobre — inútil sem a rede da cidade —, enquanto os outros dois ostentavam revólveres de calibre baixo, obsoletos, mas letais no analógico. Eram carniceiros das docas, abutres aproveitando a cegueira da cidade.
+O mármore guardava o frio da noite como pedra de necrotério. Andei entre cadeiras de espera derrubadas, cinzeiros transbordando de pontas velhas — alguém fumara ali nas últimas horas de expediente do mundo — e uma planta de escritório reduzida a gravetos numa jardineira de bronze. Sobre o balcão, o logotipo da Aeterna ainda sorria em relevo, educado, intocado, escoltado por dois detectores de metal apagados.
 
-— Fim da linha, cromada — disse o do meio, um cara magro com o rosto meio devorado por implantes rejeitados. Ele apontou a barra de ferro para Valéria, notando que as juntas dela tremiam e falhavam. — Vocês dois parecem que caíram de um moedor de carne. Deixa a lata-velha e o que tiver nos bolsos, e a gente deixa você continuar sangrando até a sarjeta.
+Um estalo seco veio de algum andar acima: vidro cedendo, ou o esqueleto do prédio se acomodando sobre as próprias juntas. Valéria ergueu a arma na direção do som e ficou imóvel por seis segundos. Depois abaixou o cano, sem comentário, e eu entendi que o pior daquela subida não tinha sido a escada.
 
-Valéria tensionou os ombros e levou a mão direita até a pistola. Ela tremia; sua mão esquerda ainda não obedecia.
+Valéria caiu de joelhos sobre os cacos de vidro perto da catraca de segurança, os braços pendendo moles ao lado do corpo. Seu visor óptico continuava apagado, um buraco cego de obsidiana no rosto manchado de fuligem e suor.
 
-Levantei a mão esquerda enfaixada, sinalizando para ela não se mover.
+Ela se olhou no vidro escuro de um painel apagado e passou o polegar sob o olho, limpando a fuligem. O reflexo devolveu uma mulher que ela não reconheceu, e ela desviou o rosto antes que eu pudesse ver a expressão.
 
-Dei dois passos à frente. A água espirrava nas minhas botas. Eu não saquei minha arma. Apenas olhei para o líder. Meu casaco estava ensopado com a sujeira da cidade e meu próprio sangue fresco escorrendo da fratura e das ataduras arrebentadas do meu braço direito.
+Mergulhei no saguão e me escorei contra um pilar de sustentação, escorregando até o chão frio de mármore negro. O vento bateu no meu rosto. Estávamos fora. A máquina de Dante estava inerte abaixo de nós, silenciada pela nossa recusa em jogarmos seu jogo de deuses.
 
-Os olhos do saqueador caíram para a minha ferida aberta, para o modo como o sangue se diluía sob a chuva, e então subiram de volta para o meu rosto. A expressão fria, vazia e cínica de quem havia passado as últimas horas caminhando pelo inferno corporativo, testemunhando horrores biológicos e apagando a mente de um deus digital.
+Olhei para Valéria. A figura antes imponente, coberta por cromo e atitude, agora era apenas a carcaça de alguém que tinha perdido o motor.
 
-Ao lado da barricada havia outro tambor aceso, com óleo escorrido para a sarjeta. Com a mão esquerda, tirei da chama um pedaço de papelão preso à ponta do pé de cabra. Val sacou a pistola e apontou para o homem da barra.
+— Rangel e Aria — ela disse para o chão. Apenas isso. O custo da operação.
 
-— Vocês atiram, eu acendo. A chuva não vai apagar o óleo debaixo das botas de vocês.
+— Aria respondeu ao risco. Rangel não recebeu uma sentença quando desceu com a gente — eu respondi. O cinismo era o único band-aid que eu tinha. Tinha o formato de uma navalha, mas estancava o sangramento mental. — O servidor queimou. Isso não paga o que aconteceu com eles.
 
-O silêncio reinou, cortado apenas pelo bater constante da tempestade. O cara engoliu seco. A bravata vacilou. Ele olhou para os parceiros, que já estavam recuando um passo sutil. O líder olhou para o combustível, depois para a arma de Val. Um parceiro afastou a bota da sarjeta.
+Ela levantou lentamente a cabeça e olhou para as grandes portas de vidro estilhaçado, observando a cidade mergulhada na tempestade perene. Baía Cinzenta não brilhava em neon. Estava cinza, silenciosa e apodrecendo sob a chuva forte.
 
-— Vão se foder, malucos — ele murmurou, abaixando a haste e recuando para o meio das sombras do beco.
+— Não há luz lá fora, Gabo. Nenhum de nós salvou nada — ela sussurrou, a voz destituída do habitual escárnio cibernético. — Só trocamos o dono do escuro.
 
-Val manteve a arma apontada enquanto eu recuava até a esquina, sem acender o sinalizador. Só baixou o cano quando o muro nos cobriu.
+Lá fora, entre os vidros quebrados, a cidade começava a fazer inventário. Duas figuras atravessaram a avenida arrastando um carrinho de mão carregado de fios; mais adiante, alguém tentava acender uma fogueira dentro de um tambor e o vento apagava o fósforo pela terceira vez, teimoso. Ninguém olhou para a torre. Ninguém tinha tempo de olhar para o lugar onde o mundo havia acabado: era preciso comer antes de amanhã.
 
-Na esquina, larguei o papelão aceso numa poça de chuva. Val conferiu a tala com a mão direita e a prendeu de novo junto ao meu peito.
+Encostei a cabeça no pilar e deixei que a chuva fria borrifasse meu rosto. Ela estava certa, mas naquele momento, eu não me importava. Não havia vozes de IA na minha cabeça, não havia a imposição de um pai psicopata na infraestrutura da cidade. Havia apenas eu, o latejo surdo do meu braço quebrado e o cheiro podre do meu mundo desmoronando, analógico e brutalmente silencioso.
 
-— Eles vão voltar — ela disse, baixo. — Com os outros.
-
-— Vão. — A chuva escorria pelo meu queixo e pingava no metal da tala. — Então a gente precisa estar do outro lado dessa rua antes deles.
-
-Ela não respondeu. Estava tremendo, e não era do frio.
+Tirei o Colar de Sol do bolso interno e o fechei na palma da mão esquerda. O metal estava morno da minha própria temperatura, sem nenhum sol dentro, e a corrente fina cortou a pele do dedo no ponto onde já não havia pele. Apertar aquilo não resolvia nada. Só me lembrava de que eu ainda devia uma pessoa à água.

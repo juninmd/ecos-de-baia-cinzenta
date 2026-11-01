@@ -15,9 +15,10 @@ def test_capitulos_sao_encontrados_sem_caminho_absoluto():
     assert all(cap["file_path"].exists() for cap in capitulos)
 
 
-def test_capitulo_intercalado_vira_pasta_com_sublinhado():
+def test_capitulos_sao_inteiros_contiguos_sem_intercalados():
     pastas = {cap["num_str"]: cap["folder_name"] for cap in get_chapter_files()}
-    assert pastas.get("30.5") == "capitulo_30_5"
+    assert not [n for n in pastas if "." in n]
+    assert pastas.get("31") == "capitulo_31"
 
 
 def test_titulo_sai_do_h1_quando_nao_ha_frontmatter():
@@ -65,7 +66,7 @@ def test_vestuario_escolhe_a_fase_pelo_capitulo():
     dante = characters.get_db().characters["Dante Moretti"]
     roupa = characters.wardrobe(dante)
     assert "fedora" in vestuario.na_fase("Dante Moretti", roupa, 26)
-    assert "macacão" in vestuario.na_fase("Dante Moretti", roupa, 104)
+    assert "macacão" in vestuario.na_fase("Dante Moretti", roupa, 106)
     assert vestuario.na_fase("Sem Ficha", "sobretudo bege", 10) == "sobretudo bege"
 
 

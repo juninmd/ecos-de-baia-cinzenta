@@ -1,150 +1,150 @@
 ---
-Título: Catraca
-Data In-Game: Quarto dia na Velha Baía
-Localização: Pátio Externo e Canal de Drenagem, Velha Baía
-Personagens Presentes: Gabo, Valéria, Elias, Elena, Anselmo Braga
+image: /cenas/capitulo_231/cena_4.jpg
+Título: O Homem no Portão
+Data In-Game: Terceira manhã na Velha Baía
+Localização: Galpão de Impressão e Pátio Externo, Velha Baía
+Personagens Presentes: Gabo, Valéria, Elias, Elena, Anselmo Braga, Dra. Elara Vance
 ---
 
-# Capítulo 231: Catraca
+# Capítulo 231: O Homem no Portão
 
-A Valéria montou a armadilha em sete horas e ela era boa.
+O primeiro corpo apareceu antes do café. Não era um corpo de guerra. Eu já vi guerra. Corpo de guerra é feio de um jeito apressado — o tiro que pegou onde deu, a queda que torceu o que torceu. Aquilo ali era o oposto: era um corpo **arrumado**. O rapaz tinha uns vinte e cinco anos e trabalhava numa das prensas da Elena. Chamava-se Duarte Falcão. Estava sentado, encostado no portão de grade do pátio, com as pernas esticadas e as mãos no colo, e alguém tinha fechado os olhos dele com cuidado. Do peito para baixo, uma cinta de carga de poliéster laranja passava três voltas em torno dele e da grade, prendendo os dois. E no lado direito, na altura das costelas, havia uma catraca de aço — dessas de amarrar contêiner em navio, que qualquer estivador do Porto Velho sabe usar de olhos fechados. O roquete estava travado no último dente.
 
-Sensor de pressão no barranco do canal, feito com fio de cobre e uma placa de prensa. Rede de carga içada numa polia, com as bordas ligadas por cabos a um contrapeso de duzentos quilos. O peso corria por guias ao lado do muro, não cairia sobre o corpo de ninguém. Dois pontos de fogo cruzado: ela numa passarela, o Elias com a espingarda de cano duplo dos Rossi atrás de um muro de fardos de papel. E eu no portão, sozinho, como isca, porque era o único jeito de ele chegar perto.
+— Compressão torácica progressiva, — Valéria disse, agachada ao lado. — Há marcas compatíveis com aperto da cinta. Só daqui eu não sei a duração nem a sequência.
 
-Às onze em ponto ele veio pelo canal. Às onze e um a placa de pressão disparou.
+Elias virou de costas e vomitou no cascalho.
 
-Às onze e dois a rede caiu em cima dele. O contrapeso desceu nas guias e puxou as bordas contra as argolas fincadas no pátio. Braga caiu de lado, com os braços presos ao corpo; a malha cedeu o bastante para ele respirar. Funcionou. Foi a coisa mais assustadora que eu vi naquela semana.
+— Ele estava consciente? — perguntei.
 
----
+— Não consigo afirmar. Vou registrar o que encontramos antes de tirar a cinta. Elena chegou correndo, viu, e parou. Não gritou. Ficou muito quieta, do jeito que ela fica.
 
-Porque ele não lutou. Ficou caído de lado sob a rede, respirando pesado pelo esforço da queda, e esperou a poeira baixar. Depois virou o rosto na minha direção, no chão, e falou com o mesmo tom de balcão de repartição:
+— Duarte, — ela disse. — Ele operava a rotativa. Tinha uma irmã em Setor 9.
 
-— Boa, essa. O gatilho no barranco eu não vi.
+E foi aí que eu vi o papel. Estava dobrado em quatro e enfiado no bolso do peito do rapaz, com uma pontinha para fora, exatamente no ângulo em que alguém deixa quando quer que seja encontrado. Letra de fôrma, caprichada, feita com lápis e régua invisível.
 
-— Cala a boca.
+"Este não devia. Peço desculpas à família. Vim pelo Sr. Gabriel Moretti e ele não estava no portão. Voltarei às onze. — A. Braga."
+Li três vezes. Elena olhou por cima do meu ombro.
 
-— Não estou provocando, Sr. Moretti. Estou elogiando. — Ele mexeu os ombros, testando a rede sem força, como quem confere se a carga está bem amarrada. — A moça das lentes que montou?
-
-Valéria desceu da passarela com a *Caronte* apontada.
-
-— A rede está presa nas quatro argolas, — ela disse. — Não consigo garantir quanto tempo elas aguentam. Precisamos revistar ele e colocar algemas antes de aliviar o peso.
-
-— Não saio mesmo, — Braga confirmou, prestativo.
-
-Elias saiu de trás dos fardos com a espingarda tremendo tanto que eu tive medo de estar mais perto dele do que do Braga.
-
-Valéria cobriu Braga com a escopeta enquanto Elias, tremendo, tirava a faca da bota dele e prendia seus pulsos com algemas de um armário da gráfica. Não tínhamos resolvido o que fazer depois.
-
-O sol batia na rede de aço e o pátio inteiro cheirava a poeira quente e a maresia podre do canal. Cada vez que Braga respirava, a malha rangia contra o cascalho, um som fino e regular de coisa mastigando devagar. Eu tinha gosto de metal na boca desde o café, e a cinta laranja do Duarte, enrolada no cinto dele, estava exatamente à minha altura dos olhos.
+— Gabo. Quem é A. Braga? E a minha boca ficou seca de um jeito que não tinha nada a ver com febre.
 
 ---
 
-— A gente prende, — disse Elias. — Tem um depósito com porta de aço. Bota ele lá.
+Ele chegou às onze em ponto. Não pela estrada, onde a Valéria tinha posicionado o único ponto de observação que a gente conseguiu montar. Veio pelo canal de drenagem, a pé, com água pela canela, e subiu o barranco devagar, do jeito de quem já subiu muito barranco e sabe que pressa é o que quebra tornozelo. Parou a vinte metros do portão. Ficou lá. Um homem enorme. Não gordo — **grande**, com uma armação de ombros que devia ter tido cento e vinte quilos em cima um dia, e agora tinha uns oitenta. A pele sobrava. Macacão azul-marinho de estivador, desbotado até quase branco nos joelhos. Botas de biqueira. Cabeça raspada à máquina, com uma cicatriz atravessando o topo do crânio como uma costura mal feita. Nas mãos, nada. As mãos, aliás, eram a pior parte: os dedos tortos, os nós inchados e brancos, a direita meio fechada de um jeito que não abria mais. Ele levantou a mão esquerda. Aberta. Devagar.
 
-— E quem alimenta? — perguntou a Valéria. — Quem vigia? Precisamos de revezamento, alimentação e uma sala que ele não consiga abrir. Não basta deixar um civil com a espingarda no colo. Vamos chamar os outros trabalhadores e pedir custódia pelo rádio.
+— Bom dia, — ele disse. E a voz saiu baixa, razoável, educada. Uma voz de balcão de repartição. — O senhor é o Sr. Gabriel Moretti?
 
-— A gente amarra melhor.
+Valéria já estava com a *Caronte* no ombro, mira travada no peito dele.
 
-— Ele é estivador, rapaz, — disse Braga do chão, sem levantar a voz. — Eu amarro melhor que a moça e sei desfazer o que eu amarro. Vocês vão precisar me deixar sem uma das mãos, e aí eu infecciono e vocês vão ter que cuidar disso também.
+— Sou.
 
-— **Cala a boca!** — Elias gritou.
+— Anselmo Braga. — Ele apontou para si mesmo com dois dedos, como quem se identifica numa fila. — O senhor não vai lembrar de mim de cara. Faz catorze anos e eu era mais gordo.
 
-— Estou tentando ajudar. — Era o jeito dele de fazer o próprio ultimato parecer a única conversa possível. — Vocês não pensaram nessa parte porque vocês são gente boa. Eu já tive catorze anos para pensar em como se guarda uma pessoa. Custa caro. Custa mais do que vocês têm.
+— Eu lembro. Alguma coisa mudou no rosto dele. Não foi sorriso. Foi alívio.
 
-Eu andei até ele e agachei, com dificuldade, apoiando a mão no joelho bom.
-
-— Eu posso te soltar longe daqui. Cem quilômetros. Sem comida.
-
-— O senhor pode. — Ele assentiu. — E eu volto andando. Vai levar uns onze dias e eu chego. — Ele disse aquilo sem bravata nenhuma, como quem informa horário de ônibus. — E nesses onze dias o senhor vai dormir mal, e a jornalista vai dormir mal, e o rapaz de macacão vai dormir com a espingarda no colo até se acostumar, e aí ele vai relaxar num dia qualquer, e é nesse dia que eu chego.
-
-— Você não vai chegar.
-
-— Sr. Moretti. — Pela primeira vez, alguma coisa parecida com cansaço na voz dele. — O senhor sabe o que eu sou. O senhor prendeu gente a vida inteira e sabe diferenciar o sujeito que fala grosso do sujeito que só está informando. Eu estou informando.
+— Ah. — Ele assentiu devagar. — Isso ajuda. Eu tinha um discurso pro caso do senhor não lembrar, e era um discurso ruim.
 
 ---
 
-Ficamos até o sol começar a descer.
+— O senhor matou um rapaz meu, — falei.
 
-Dois trabalhadores aceitaram turnos de guarda. Pelo rádio, o abrigo do Setor 4 respondeu que poderia receber Braga em dois dias, se a estrada continuasse aberta. Não era uma garantia. Era uma alternativa, e eu ouvi a mensagem inteira.
+— Matei. — Sem hesitar. — Duarte Falcão, vinte e seis anos, operador de prensa. Não tinha dívida comigo. Eu precisava que o senhor viesse ao portão e não sabia outro jeito de mandar recado. — Ele inclinou a cabeça um grau. — Foi errado e eu vou pagar por isso também. Mas eu tinha que fazer.
 
-A Elena foi cuidar da tiragem porque o mundo não para. O Elias ficou de guarda até as três e depois eu mandei ele comer. Valéria organizou com os dois trabalhadores um revezamento de observação, água e verificação das algemas. Depois ficou comigo no primeiro turno.
+— *"Tinha que fazer."*
 
-E eu fiquei ali, sentado num caixote a três metros de um homem preso numa rede, porque eu não conseguia sair de perto. Foi ele que puxou assunto, no fim da tarde.
+— Sim, senhor.
 
-— O senhor perdeu a mãe na enchente.
+— Você amarrou um menino numa grade e foi apertando o roquete. De quanto em quanto tempo?
 
-Eu não me mexi.
+— Vinte, — ele corrigiu, sem defesa nenhuma na voz, como quem corrige um número numa nota fiscal. — Foi de vinte em vinte. Eu não gosto de fazer rápido, porque rápido é raiva, e raiva erra. Eu não erro.
 
-— Não fala da minha mãe, Braga.
+Elias fez um som atrás de mim. Braga olhou para ele. Depois para a Elena. Depois para a Valéria e a arma. Depois para a Dra. Vance na cadeira de aço, na sombra do galpão. Um por um, com atenção. Contando.
 
-— **Eu não estou provocando**, — ele respondeu, baixo e gentil. — Eu não estou perguntando, Sr. Moretti. Eu sei desde o mês do Dilúvio.
+— A senhora da cadeira eu não conheço, — ele disse. — A moça das lentes eu não conheço. O rapaz de macacão não deve nada. A jornalista... — ele parou. — A jornalista é a ex-esposa do senhor?
 
-Levantei a cabeça.
+— Não responde, — falei para a Elena, sem virar.
 
-— Como.
+— Não precisa responder, — disse Braga. — Já respondeu. — E anotou alguma coisa num caderninho de bolso, com um lápis pequeno, apoiando na coxa. Eu senti o gelo descer.
 
-— Pátio do Fosso. Um agente chamado Peçanha, que gostava de contar coisa de rua para os presos porque isso fazia ele se sentir importante. — Braga estava olhando o céu. — Ele chegou uma tarde e disse assim: *"Braga, sabe aquele detetive que te enfiou aqui? Perdeu a mãe na enchente. Dona Helena morreu no cerco, sem conseguir o atendimento de que precisava, enquanto ele bancava o herói na rua. Coisa de Deus."*
+— Você não vai encostar em nenhum deles.
 
-Eu senti o cascalho debaixo de mim ficar muito longe.
+— Espero não precisar, Sr. Moretti. Eu não vim por eles. — Ele guardou o caderninho. — Eu vim pelo senhor. Mas eu já aprendi que homem como o senhor não para por ameaça e não vem por convite. Homem como o senhor só vem quando a conta chega em quem ele protege.
 
-— E o pátio inteiro achou ótimo, — ele continuou. — Uns cinquenta homens comemorando a morte de uma senhora que não fez mal a ninguém, só porque ela era mãe do policial que prendeu eles. Teve gente que bateu palma.
+Ele falou aquilo do mesmo jeito que falou "bom dia".
 
-Uma pausa.
-
-— Eu levantei e fui pro canto e vomitei atrás do bebedouro.
-
-Eu não estava respirando direito.
-
-— Por quê? — consegui perguntar.
-
-— Porque eu tinha uma filha lá fora, na mesma água. — Ele virou o rosto, e os olhos pequenos e parados estavam molhados, e ele não fez absolutamente nada a respeito. — E porque quem comemora inocente afogado é bicho, e eu já era assassino de mulher, mas eu ainda não era bicho. Naquela tarde eu decidi que ia continuar não sendo.
-
-— Você matou o Duarte ontem.
-
-— Matei. E vou pagar por ele. — Assentiu. — Mas eu não comemorei, Sr. Moretti. Tem diferença. É pouca, e é a única que eu tenho.
+— Então eu vou cobrar de quem estiver ao lado do senhor, um por vez, até o senhor sentar comigo e conversar até o fim. Não é ameaça. É cronograma.
 
 ---
 
-— A minha filha chamava Marta, — ele disse, depois de um tempo. — Tinha quatro anos quando eu entrei. Ficou com a tia no Setor 11.
+— Que conta? — Elena perguntou.
 
-— Braga.
+Ela deu um passo à frente, e eu tentei segurar o braço dela e não consegui, porque o meu direito estava quebrado na tipóia. Braga olhou para ela com um respeito que era pior que desprezo.
 
-— Eu escrevi toda semana. Catorze anos. Setecentas e vinte e oito cartas, com a letra bonita, porque eu treinei a letra na cadeia justamente pra isso. — A voz dele não mudava nunca, e por isso era insuportável. — Ela respondeu até os onze. Depois parou, e eu continuei escrevendo, porque carta que não é respondida ainda é carta.
+— A senhora não sabe.
 
-Ele fechou os olhos.
+— Eu estou perguntando.
 
-— Quando as portas do Fosso cederam, três meses atrás, eu andei três dias até o Setor 11. A tia tinha morrido. Um vizinho me contou que a Marta ficou até os dezoito e morreu no Dilúvio, num abrigo da escola municipal que encheu porque não coube todo mundo e as portas foram fechadas por fora.
+— Vinte e três de agosto, catorze anos atrás. — Ele falou a data como quem recita placa de carro decorada. — Barraco setenta e um, Vila do Porto Velho. Eu discuti com a minha mulher, a Cleuza, e eu bati nela com o que tinha na mão, e ela morreu no chão da cozinha enquanto eu ainda estava com a mão erguida.
 
-Abriu os olhos.
+Silêncio absoluto no pátio.
 
-— O mesmo desastre, Sr. Moretti. A sua mãe e a minha menina, cercadas no mesmo mês.
+— Eu fiz isso, — disse Braga. — Isso é verdade. Eu nunca neguei, nem na delegacia, nem no júri, nem nos catorze anos. Podem escrever no jornal da senhora.
 
-Silêncio.
+— Então o senhor foi preso, — disse Elena. — O sistema funcionou.
 
-— E é por isso que eu vim, — ele disse. — Não é vingança. Vingança seria eu tirar alguém seu pra gente ficar quites, e a água já tirou, e eu não fico feliz com isso e não é isso que eu quero.
+— Não, senhora. Ele virou os olhos pequenos e parados para mim.
 
-Ele me olhou.
+— A perícia se perdeu na enchente daquele ano. A única testemunha era a vizinha e ela voltou atrás com medo do Sindicato. Não sobrou prova nenhuma. Eu ia sair em quinze dias e eu sabia disso, e o Sr. Moretti sabia disso.
 
-— Eu vim porque eu perdi catorze anos que eram os anos dela. Se eu tivesse solto, eu não sei se ela estaria viva — talvez não, talvez eu fosse um pai ruim e ela morresse igual. Eu não sei. **E é o não saber que eu não aguento.** O senhor me tirou a chance de descobrir, com uma faca que o senhor colocou numa caixa d'água, porque o senhor tinha pressa.
+Ele apontou para mim com o queixo. Sem raiva.
 
-Eu abri a boca e não saiu nada.
+— Aí apareceu uma faca na caixa d'água do barraco, com o sangue dela, que não estava lá quando eu fui levado. O ar sumiu do pátio.
 
-— E aí eu passei catorze anos deitado num beliche pensando: se o homem que fez isso comigo é um homem justo, então eu mereço. Eu consigo carregar isso, se ele for justo. — A voz dele finalmente rachou, uma vez, no meio. — Mas se ele for igual a mim, um sujeito que faz o que dá na telha e depois dorme, então eu perdi a minha filha porque um cara qualquer teve pressa numa terça-feira. E isso eu não carrego, Sr. Moretti. Isso eu não carrego de jeito nenhum.
+— Gabo, — Elena disse. Baixinho. — Isso é verdade?
+
+Eu não respondi. E não responder foi responder, e eu vi o rosto dela mudar, e eu preferia ter levado um tiro.
 
 ---
 
-Ele respirou fundo. Recompôs. Voltou ao tom de balcão.
+— Eu não estou aqui reclamando de injustiça, — Braga continuou, e agora a voz dele estava até mais gentil, o que era insuportável. — Eu era culpado. A cadeia era minha por direito. Se o senhor tivesse trabalhado mais um mês e achado prova de verdade, eu não teria nada a dizer, e eu não estaria neste pátio.
 
-— Então é isso que eu vim buscar. Não é a sua morte. É uma resposta.
+Ele deu um passo à frente. Valéria travou o dedo no gatilho e eu levantei a mão para ela esperar.
 
-— Que resposta?
+— O que eu tenho a dizer é outra coisa, Sr. Moretti, e é uma coisa só, e eu esperei catorze anos para dizer na cara do senhor.
 
-— O senhor vai me matar aqui, no chão, amarrado, sem eu poder levantar a mão. — Ele disse aquilo como quem descreve um procedimento. — E aí eu vou saber. Vou saber que era isso, que foi sempre isso, que não teve justiça nenhuma na minha vida, só um homem com pressa. E vai doer, mas vai ser **descanso**, porque eu vou parar de perguntar.
+Mais um passo.
 
-— E se eu não matar?
+— Nós dois quebramos a mesma lei. Ele parou.
 
-— Aí eu saio dessa rede algum dia e cobro do rapaz de macacão. — Sem crueldade. Com pena, quase. — E depois da jornalista. E o senhor vai voltar aqui e vai me matar de qualquer jeito, só que com mais três pessoas embaixo da terra e nenhuma dúvida sobrando.
+— Eu matei uma pessoa. O senhor forjou um inquérito. São crimes diferentes de tamanho, eu sei, e eu não vim comparar tamanho. — A mão torta dele se levantou, e ele contou nos dedos, devagar, dois dedos. — Eu vim comparar o resto. Porque eu paguei catorze anos, e o senhor virou herói da cidade.
 
-Ele fechou os olhos e apoiou a cabeça no cascalho, confortável, como quem termina o expediente.
+— Você matou sua mulher.
 
-— Eu já pensei em tudo isso, Sr. Moretti. Eu tive catorze anos. O senhor tem até de manhã.
+— Matei. — Assentiu. — E o senhor mentiu num documento oficial para me prender por isso, e depois foi dormir, e continuou dormindo por catorze anos, e nunca contou pra ninguém. — Ele inclinou a cabeça. — Nem pra moça que descobriu, não é? A policial. Aquela que morreu.
+
+Eu parei de respirar.
+
+— Como é que você sabe da Bia?
+
+— Cadeia é cheia de gente com tempo, Sr. Moretti. E o senhor tem inimigos que gostam de falar. — Ele deu de ombros, e o gesto foi quase simpático. — Ela terminou com o senhor por causa disso, não foi? Não foi por o senhor ser violento. Foi porque ela leu o meu inquérito e viu a data errada.
+
+---
+
+Eu andei até o portão. Passei por cima do Duarte sem olhar, porque olhar ia me quebrar e eu não podia quebrar ali. Parei a três metros dele. Perto o suficiente para sentir o cheiro — sabão industrial e água parada, o cheiro de catorze anos de lavanderia de presídio, o tipo de cheiro que não sai mais da pessoa.
+
+— O que você quer, Braga. E ele me respondeu com uma paciência que eu vou ouvir pelo resto da vida:
+
+— Eu quero que o senhor faça comigo o que fez com todo mundo, Sr. Moretti. — Ele abriu os braços, devagar, a esquerda inteira e a direita meio fechada. — Sem lei, sem processo, sem prova. Do jeito que o senhor gosta.
+
+— Você quer que eu te mate.
+
+— Eu quero que o senhor **descubra** que sempre pôde. — Os olhos pequenos não piscaram nem uma vez. — E que a única coisa que separava o senhor de mim era a sorte de a cidade te chamar de detetive.
+
+Ele recuou um passo. Depois outro. Sem tirar os olhos.
+
+— Amanhã às onze eu volto, — disse. — E se o senhor não estiver no portão, eu vou cobrar do rapaz de macacão, que não deve nada, e a culpa vai ser minha e do senhor em partes iguais.
+
+Ele desceu o barranco de costas até chegar na água.
+
+— Tenha um bom dia, senhora, — falou para a Elena, com a cabeça baixa. — Sinto muito pelo seu funcionário.
+
+E foi embora pelo canal, com a água pela canela, sem pressa nenhuma, como um homem indo para o turno.

@@ -1,149 +1,150 @@
 ---
 layout: doc
-title: "Capítulo 80: A Autópsia de um Deus"
-description: "Nise abre o servidor onde Dante morreu e encontra fungo no biogel e nos chips — e registros que podem estar sendo destruídos ou copiados."
+title: "Capítulo 80: O Jardim de Concreto"
+description: "Um cadastro antigo descreve um armazém vazio. Lá dentro, Gabo e Vilar encontram um jardim e pessoas presas às raízes."
 image: /capitulo_80.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Dra. Nise, Capitão Jonas Vilar, técnico Barros
-Participação em referência: Dante Moretti
-Localização: "Laboratório subterrâneo da Torre Aeterna — 18h"
+Personagens Presentes: Gabriel "Gabo" Moretti, Capitão Jonas Vilar e homem de macacão
+Participação em referência: Dra. Nise
+Localização: "Zona Leste, antigo Distrito Industrial — 10h"
 ---
 
-# Capítulo 80: A Autópsia de um Deus
+# Capítulo 80: O Jardim de Concreto
 
-Laboratório subterrâneo da Torre Aeterna — 18h.
-O laboratório que recebera as carcaças dos servidores da Torre estava interditado. O corpo de Dante já tinha sido retirado e enterrado; aquilo era o que restava das máquinas ligadas a ele.
+Zona Leste, antigo Distrito Industrial — 10h.
+A luz do sol não perdoava nada. Durante quinze anos, a chuva e o neon tinham feito o serviço de maquiagem de Baía Cinzenta: escondiam a rachadura, engoliam o mofo, transformavam a sujeira em textura. Agora, sob um sol amarelo e direto, a cidade parecia o que sempre foi — um corpo em decomposição adiantada, fotografado com flash.
 
-Não havia certificação de contenção. A vedação provisória e a exaustão filtrada dependiam de um gerador, e Nise mandara esvaziar o corredor antes da abertura.
+Gabo estacionou o Cobalt e a chapa azul já estava quente ao toque. Ele ajustou os óculos escuros, um objeto que tinha comprado quatro dias antes e que ainda o irritava, porque olho acostumado a penumbra permanente não aprende a lidar com sol em uma semana.
 
-Gabo e Vilar assistiam do mezanino, atrás de um vidro de segurança de dez centímetros, e o vidro estava embaçado do lado de dentro.
+— Você me disse que era ocorrência de vandalismo — falou, saindo do carro.
 
-— O que eles esperam achar aí? — perguntou Vilar. — O Gamemaster foi deletado. O tanque foi drenado. Isso aí embaixo é uma carcaça.
+O Capitão Jonas Vilar estava parado na frente de um armazém da antiga Aeterna Corp, com o uniforme desbotado de suor e uma expressão que Gabo já tinha visto nele duas vezes na vida.
 
-— Eles não estão procurando software — disse Gabo. — Estão procurando hardware.
+— Era vandalismo — disse Vilar. — Até a gente abrir.
 
----
-
-Lá embaixo, a Dra. Nise operava um braço robótico com dois joysticks.
-
-Sessenta e cinco anos, dentro de um traje de proteção biológica dois números maior que ela, com o visor embaçando a cada respiração e um assistente ao lado segurando a mangueira do ar como quem segura a coleira de um cachorro.
-
-Ela tinha exigido fazer aquilo pessoalmente e ninguém teve coragem de discutir.
-
-— *Iniciando incisão no invólucro do núcleo de processamento* — disse ela, e a voz saiu pelos alto-falantes do mezanino com meio segundo de atraso. — *Registrando: dezoito horas e quatro minutos. Data e identificação da carcaça na ficha de coleta. Presentes: eu, o técnico Barros e dois cavalheiros que estão me observando de cima com cara de quem não dormiu.*
-
-Gabo sorriu, apesar de tudo. A lâmina laser desceu e cortou o polímero do gabinete em linha reta, do topo até a base. E de dentro vazou líquido.
+Ele mostrou a Gabo uma mensagem recebida pelo rádio: Nise estava a caminho. O paciente do quarto 304 permanecia em observação; a amostra da seringa seguia para análise. Ela também pedia que a delegacia comparasse os desaparecidos com as impressões do homem do beco. Ainda não tinha nome para entregar à família.
 
 ---
 
-Espesso, escuro, com um brilho oleoso. Escorreu pela abertura e pingou no chão da câmara em fio contínuo, e formou uma poça que se espalhou devagar, do jeito que se espalha sangue frio. Vilar encostou a testa no vidro.
+A porta de correr, de chapa de aço com quatro metros de altura, estava retorcida. Gabo se aproximou e passou os dedos pela deformação, e a informação chegou antes da conclusão: as bordas estavam **para fora**. Não tinha sido arrombada. Tinha sido empurrada por dentro.
 
-— Isso é sangue?
+— Com o quê? — perguntou ele.
 
-— Biogel — disse Gabo. — Fluido dielétrico de refrigeração. É normal. Só que...
-
-— Só que biogel é transparente.
-
-— Biogel é transparente.
-
-— *Não é oxidação* — disse a voz de Nise nos alto-falantes, e ela tinha perdido o tom de brincadeira. — *Cavalheiros. Olhem o telão.*
+— É o que eu queria saber. — Vilar cuspiu no chão. — Não tem marca de ferramenta nem corte de maçarico. A chapa dobrou sem rasgar. Pode ter cedido sob carga, mas só de olhar eu não sei se levou meses ou uma pancada.
 
 ---
 
-Ela ampliou a imagem da endocâmara. Dentro da carcaça do servidor, crescendo em cima das placas — em cima dos módulos quânticos, nos vãos entre as trilhas, dentro dos soquetes de memória — havia fungo.
+O ar mudou quando eles entraram. De fora fazia trinta e um graus e estava seco. Três passos para dentro, ficou úmido, morno e pesado, com aquela densidade de estufa que faz a camisa grudar imediatamente. E o cheiro.
 
-Filamentos brancos finíssimos formando um feltro sobre a eletrônica. E, entre os filamentos, corpos de frutificação minúsculos: bolinhas de meio milímetro, bioluminescentes, de um azul muito claro.
+Terra molhada, mato cortado, e por baixo — inconfundível para quem já esteve num necrotério sem refrigeração — uma doçura de decomposição, que nesse caso não estava sozinha: vinha misturada a alguma coisa quase floral, e a mistura das duas era pior que qualquer uma separada.
 
-E elas pulsavam. Não aleatoriamente. Em conjunto, todas ao mesmo tempo, num ritmo de setenta e poucas vezes por minuto.
-
-— É um ritmo cardíaco — disse Vilar.
-
-— *Tem uma frequência parecida* — disse Nise. — *Não encontramos coração nenhum. Barros, registra sem dar nome ao que a gente não viu.*
+Gabo parou de andar. O armazém tinha sido um depósito de peças de servidor. Era isso que constava no registro: quatro mil metros quadrados de estante metálica com rack, fonte e placa. Agora era uma selva.
 
 ---
 
-— *O sistema de refrigeração líquida da Torre puxava água da baía* — disse ela, enquanto manobrava a sonda. — *Filtrada, tratada, mas puxava. E depois do Dilúvio a água da baía é uma sopa de rejeito da própria Aeterna. Alguém não trocou o filtro, ou alguém trocou de propósito, e essa é uma pergunta para o senhor, detetive, não para mim.*
+Trepadeiras da grossura de um braço subiam pelas colunas e pelas paredes até o vão da estrutura metálica, quinze metros acima. Não eram verdes. Eram cinza-esverdeadas, com uma superfície fosca de couro, e pulsavam devagar — dava para ver, se ficasse olhando: uma contração a cada quatro ou cinco segundos, subindo do chão para o teto, como peristaltismo.
 
-— O que eles estão comendo aí dentro?
-
-— *Essa é a parte pela qual eu vou perder o sono.*
-
-Ela aproximou a sonda de um dos módulos.
-
-— *Biogel, polímero, sujeira trazida pela água. Há matéria orgânica aqui. Barros pesou quatro quilos de material retirado; não temos uma pesagem anterior para chamar isso de crescimento em oito semanas.*
-
-— E os arquivos?
-
-Nise girou a sonda até os filamentos entre os contatos.
-
-— *Os módulos mais tomados também perderam leitura. Pode estar corroendo as trilhas, usando o calor, ou lendo alguma coisa pela interface. Os bits não viram carne, Gabriel. Essa massa veio de matéria que entrou aqui.*
-
-Barros colocou no telão dois registros: alimentação elétrica e falhas de leitura. As curvas coincidiam em parte, e havia buracos nas duas.
-
-— *Não temos como separar dano de transferência ainda* — disse ele. — *Se copiarmos o módulo, copiamos para uma máquina isolada. Sem ligar na rede do hospital.*
-
-Nise assentiu. A lâmina da sonda tremia na borda do feltro branco.
+Do teto pendiam flores. Do tamanho de uma cabeça humana, pretas, sem brilho, com pétalas grossas e carnudas. Cada uma gotejava um líquido viscoso e claro que caía num pingo lento e formava poças no piso de concreto. O piso não era mais piso. E no centro de tudo havia uma árvore.
 
 ---
 
-Gabo se afastou meio passo do vidro.
+Ela tinha rompido a laje de dentro para fora — a laje de concreto armado de vinte e cinco centímetros do piso industrial —, e as bordas do rompimento estavam para cima, como pele em volta de uma ferida. O tronco tinha uns dois metros de diâmetro. E não era madeira.
 
-— Doutora. As memórias das pessoas estavam naquele servidor.
+Era uma amálgama fundida de cabo de fibra óptica, resina, alguma coisa fibrosa que parecia tendão, e osso. Osso de verdade, aparecendo aqui e ali na superfície: um pedaço de costela, o que parecia meio ilíaco, uma clavícula inteira integrada à casca como um nó de árvore.
 
-— *Eu sei.*
+— Meus homens acharam dois saqueadores aqui — disse Vilar, apontando com o queixo para a base.
 
-— Há índices de dezenas de milhares de instâncias nas carcaças. Não sabemos quantas estavam íntegras.
+Gabo se aproximou. Os dois corpos não estavam apenas mortos. Estavam **integrados**: raízes finas como fio de costura entravam pelos ouvidos, pelas narinas e pela boca dos dois, e saíam por trás do crânio, e costuravam os corpos ao tronco em pontos regulares, com um espaçamento de uns doze centímetros.
 
-— *Eu sei, Gabriel.*
+Os rostos estavam preservados. E os dois tinham a mesma expressão, e não era terror. Era êxtase. A cara que uma pessoa faz quando entra na água quente do banho depois de um dia muito frio.
 
-— Então isso aí não está comendo dado. Pode estar destruindo o único registro que sobrou de **gente**.
-
-Nise não respondeu na hora. Quando respondeu, foi com uma voz que ele nunca tinha ouvido nela em catorze anos.
-
-— *É por isso que eu quis fazer pessoalmente.*
+Gabo olhou aquilo por um tempo comprido, e a coisa que ele sentiu não foi medo. Foi **inveja**, por um segundo e meio, e depois um horror imenso de ter sentido isso.
 
 ---
 
-E, no telão, o fungo reagiu à luz da sonda. Não devagar. A colônia inteira se expandiu de uma vez — dois centímetros em menos de um segundo — e disparou uma nuvem de esporos contra a lente, e a imagem ficou branca.
+— A Nise já viu?
 
-— *CONTENÇÃO!* — gritou Nise. — *Barros, sai! SELA O LABORATÓRIO!*
+— Está a caminho. — Vilar hesitou, e essa hesitação foi o que estragou a manhã de vez. — Mas o terminal devolve um cadastro antigo como se fosse leitura de agora.
 
-As portas de emergência desceram nos dois vãos com um estrondo hidráulico. O técnico Barros conseguiu passar pela primeira. A Dra. Nise, não. Os esporos batiam no vidro da câmara interna como mosca em vidraça, com um tic-tic-tic-tic contínuo, milhares por segundo.
+— Como assim, não existe?
 
----
+— Eu perguntei três vezes, Gabo. — Vilar mostrou o terminal de pulso. — Segundo o último registro recebido, este armazém está **vazio**. Vinte e nove graus, umidade de quarenta por cento, zero atividade biológica, zero consumo de energia, sem alteração desde a última inspeção em cinquenta e um.
 
-— Vilar. — Gabo já estava andando. — Evacua o prédio. Tudo, todos os níveis, agora.
+Gabo pegou o terminal e leu com os próprios olhos. O calor úmido grudava a camisa nas costas dele, e havia uma árvore de osso no meio do prédio. A consulta mostrava um galpão vazio e seco; o registro de 2051 não dizia o que havia ali naquela manhã.
 
-— Gabo, o protocolo diz—
+— Ponto cego — disse Gabo.
 
-— O protocolo foi escrito para vazamento químico. Isso ali cresce. — Ele apontou o telão. — Pode ter começado semanas atrás; a gente ainda não sabe quando nem até onde chegou.
-
-Ele desceu a rampa apoiado no corrimão, depressa demais para as órteses. Vilar passou por ele e alcançou o painel primeiro. O quadril cobrou cada apoio. Chegou ao painel da porta. Vermelho. Bloqueio total. E, em letras pequenas embaixo:
-
-PROTOCOLO DE ESTERILIZAÇÃO: ARMADO
-— Nise! Vai para a câmara de descontaminação, agora!
-
-— *Não dá!* — A voz dela veio pelo intercomunicador, ofegante. — *Gabriel, os controles manuais estão do outro lado da bancada e a bancada está* — uma pausa, um som de arrastar — *coberta.*
+— Ponto cego.
 
 ---
 
-Gabo olhou pelo vidro. O fungo crescia agora numa velocidade que o olho acompanhava. Já tinha tomado a bancada, o braço robótico, metade da parede. Onde encostava no metal, o metal escurecia. E, no meio da massa, uma coisa estava se formando.
+Ele estendeu a mão e encostou o dedo numa folha cinzenta. A reação foi imediata, e foi rápida demais.
 
-Levou uns doze segundos. Primeiro foi só um relevo. Depois uma simetria. Depois dois pontos afundados, depois uma linha horizontal abaixo deles, e Gabo entendeu o que estava vendo e deu um passo para trás sem querer.
+A folha se enrolou em torno do dedo dele com a velocidade de uma armadilha de mola — não a lentidão de uma dormideira, que leva dois segundos: aquilo levou um décimo. Gabo puxou a mão por reflexo puro e a folha fechou no vazio e ficou fechada, esperando.
 
-Era um rosto. Não era o do pai dele. Não era o do Gamemaster. Era o rosto do homem de macacão azul do armazém da Zona Leste — o que floresceu na frente dele às dez e vinte da manhã.
+Na ponta do dedo dele havia uma marca vermelha em anel.
 
-Estava com a mesma expressão beatífica, agora moldada em biomassa, a dois metros do outro lado de um vidro blindado. A boca de fungo se mexeu.
+— Ela reagiu — ele disse. — Ao toque, ao calor, não sei. Não testem com o corpo.
 
-Não saiu som nenhum, e Gabo tinha aprendido a ler lábio em cento e oitenta horas de vigilância com áudio ruim.
+Ele limpou o dedo na calça, e a marca continuou.
 
-O Silêncio
+— Vilar, ouve o que eu vou falar e depois me fala se eu enlouqueci.
+
+— Fala.
+
+— A cidade acordou. — Gabo olhou em volta, para o galpão inteiro. — Ela passou sessenta anos engolindo tudo o que a Aeterna despejou nela: rejeito, biogel, esporo, aquilo que veio dos tanques de decantação no Dilúvio. E ela metabolizou. Pode ser um ataque. Ou uma coisa que cresceu no rejeito e agora se comporta como sistema imunológico.
+
+— De quem?
+
+— Do chão. — Gabo apontou para a árvore. — E a gente é a infecção.
 
 ---
 
-Gabo socou o vidro com o punho esquerdo, uma vez, duas, e não adiantou nada e ele sabia disso antes de bater.
+Um som veio do fundo do armazém. Alguma coisa se movendo entre as trepadeiras. Pesada. Molhada. Sem cadência de passo — um arrasto, uma pausa, um arrasto. Vilar sacou a arma.
 
-Do outro lado, a Dra. Nise recuou até a parede do fundo, com o frasco de amostra apertado contra o peito, e olhou para ele através de dois visores e dez centímetros de vidro.
+— Guarda isso — disse Gabo.
 
-Ela fez que não com a cabeça. Uma vez só. Devagar. Do jeito dela. E o painel acima da porta acendeu:
+— Gabo—
 
-PURGA TÉRMICA EM 30 SEGUNDOS.
+— Guarda. — Ele não tirou os olhos do fundo. — Não sabemos o que espalha quando rompe. Só atira se vier para cima da gente.
+
+A folhagem se abriu.
+
+---
+
+O que saiu de lá tinha sido um homem. Vestia trapos que ainda dava para identificar como o macacão azul-claro do corpo técnico da Aeterna, com o retângulo bordado onde ia o nome, agora ilegível.
+
+A pele estava coberta por uma camada fina e uniforme de musgo cinza — não em manchas: **uniforme**, como veludo, inclusive no rosto, inclusive nas pálpebras.
+
+Ele avançou três passos e parou, e virou a cabeça na direção de Gabo com um atraso de meio segundo, do jeito que se vira quando se está ouvindo e não vendo. Abriu a boca.
+
+— O silêncio... — A voz vinha de uma garganta cheia de líquido, e cada sílaba borbulhava. — Ele está crescendo.
+
+— Quem é você? — perguntou Gabo, dando um passo à frente. — Qual é o seu nome?
+
+O homem pareceu procurar. E, por um instante, alguma coisa acendeu ali dentro — a cabeça se endireitou, os ombros baixaram, e por meio segundo aquilo foi um sujeito de macacão azul querendo responder uma pergunta simples.
+
+— Eu... — ele disse.
+
+E parou. O peito dele se abriu no meio, sem sangue e sem grito, como uma fruta madura demais. De dentro, brotou uma flor preta.
+
+Ela levou quatro segundos para se abrir por completo, e quando abriu o corpo caiu de joelhos e depois de lado, e a flor ficou de pé, virada para a porta. Virada para o sol.
+
+---
+
+Vilar estava com a arma apontada e a mão firme e o rosto sem nenhuma cor.
+
+— Gabo.
+
+— Eu vi.
+
+— Isso vai acontecer na cidade inteira?
+
+Gabo olhou para o pedaço de céu azul que aparecia pela porta retorcida, lá longe, do outro lado de quatro mil metros quadrados de mato que não existia em registro nenhum. Ele tirou os óculos escuros e guardou no bolso, porque ali dentro eles não serviam.
+
+— Vilar, chama a Dra. Nise pelo rádio. Rádio, não terminal.
+
+— Por quê?
+
+— Porque a partir de agora a gente não fala mais nada que a cidade possa ouvir. — Gabo já estava andando para a saída, mancando entre as raízes. — E, quando ela chegar, manda ela trazer luva de trinta centímetros. Ela vai querer levar uma dessas flores.
+
+Atrás deles, quatro mil metros quadrados de nada continuaram respirando.

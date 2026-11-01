@@ -8,7 +8,7 @@ linhas de evolução. `docs/arcos.md` organiza o desenho do livro. Consulte tamb
 `docs/cronologia.md`, mas confirme eventos nos capítulos correspondentes.
 
 Resumos não têm necessariamente a mesma data de atualização. No estado examinado
-em 2026-10-20, `GEMINI.md` contém uma tabela intitulada pós-capítulo 109 que também
+em 2026-10-20, `GEMINI.md` contém uma tabela intitulada pós-capítulo 111 que também
 inclui a morte de Elena no 235, além de descrições divergentes da fase de Valéria.
 Não transforme a posição de um parágrafo ou a palavra "atual" em regra temporal.
 
@@ -21,7 +21,7 @@ peça a decisão editorial específica. Não reescreva o passado inteiro por inf
 ## Estado de entrada e de saída
 
 Para o capítulo N, leia N−1 e N; em revisão, leia também N+1 quando existir.
-Inclua intercalações, como `capitulo-75.5.md`, na ordem real. Leia os capítulos
+Inclua intercalações, como `capitulo-77.md`, na ordem real. Leia os capítulos
 anteriores citados por uma revelação, mesmo que estejam longe desse intervalo.
 
 | Dimensão | Registrar com capítulo e passagem |
@@ -45,11 +45,11 @@ o personagem e a prosa não podem conhecer esse futuro.
 - Caronte e Leviatã são os nomes canônicos das armas. Ter uma arma no inventário
   de referência não significa que Gabo ainda a possui naquela cena.
 - Aria opera em hardware físico: verificar conexão, energia e fase. O dossiê marca
-  a destruição do pendrive no capítulo 167; referências posteriores não permitem
+  a destruição do pendrive no capítulo 169; referências posteriores não permitem
   devolver a assistente ativa ao grupo sem uma mudança canônica expressamente autorizada.
 - Bio-Dante não equivale ao Dante original. Verificar limites de memória e fatos
   que ele teve oportunidade de aprender, em vez de lhe dar conhecimento universal.
-- Elena tem um destino registrado nos capítulos 234–236. Uma revisão anterior
+- Elena tem um destino registrado nos capítulos 237–239. Uma revisão anterior
   não a trata como morta antes do acontecimento; uma continuação posterior não
   a põe agindo viva no presente. Memória, gravação e flashback precisam ser legíveis.
 

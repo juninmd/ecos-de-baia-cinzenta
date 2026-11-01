@@ -1,89 +1,73 @@
 ---
-title: "Capítulo 126: Frequência Fantasma"
-Data In-Game: "23 de Novembro, 06:45"
-Localização: "O Fliperama (Esgotos do Distrito 4)"
-Personagens Presentes: "Gabo Moretti, Valéria Cruz, Aria (Instável), Rangel (Crítico)."
-description: "O colapso separa o trio da equipe de transporte. Rangel segue em prancha com cintas. Aria conserva nome e comunicação possível, apesar da saída danificada."
+title: "Capítulo 126: Carne e Cobre"
+Data In-Game: "23 de Novembro, 05:15"
+Localização: "Túneis de Manutenção do Distrito 4 / O Fliperama (Safehouse)"
+Personagens Presentes: "Gabo Moretti, Valéria Cruz, Dra. Nise, Rangel (Crítico), Aria (Inerte), mulher e menino resgatados, equipe de transporte."
+description: "Nise e uma equipe chegam. A mãe reencontra o menino. O atendimento busca estabilizar Rangel para transporte, sem prometer cura definitiva no abrigo."
 ---
 
-# Capítulo 126: Frequência Fantasma
+# Capítulo 126: Carne e Cobre
 
-O som não era apenas barulho; era vibração. A sirene de ataque aéreo, uma relíquia da Era Pré-Digital, fazia o pó de concreto dançar sobre a mesa de metal onde Rangel jazia. O uivo mecânico subia e descia, uma onda senoidal de pânico que penetrava nos ossos.
+O subsolo de Baía Cinzenta tinha uma acústica própria. No mundo de cima, o som se perdia na vastidão do céu de chumbo; aqui embaixo, ele ricocheteava, amplificado e distorcido pelo concreto úmido. Cada passo de Gabo ecoava como um tiro abafado.
 
-Nise saíra com a mulher, o menino e a equipe para preparar o transporte no acesso oeste. Rangel ainda aguardava na prancha com rodas quando a primeira explosão derrubou o trecho entre eles e a saída. Pelo rádio, Nise confirmou que estava viva e pediu que procurassem a galeria de inspeção; o retorno para o hospital ficara cortado. Val guardou a ficha de atendimento junto ao curativo de reserva.
+Ele caminhava com o peso do mundo na mochila. Os frascos de antibióticos tilintavam contra as caixas de processadores série-K, um som de vidro e cerâmica que parecia alto demais na escuridão opressiva.
 
-Gabo estava parado na entrada do túnel, a *Caronte* engatilhada. Seus olhos varriam a escuridão do esgoto, esperando o brilho vermelho de óticas táticas ou o feixe branco de lanternas halógenas.
+A lanterna tática presa ao ombro do sobretudo cortava a negridão, revelando a arquitetura intestinal da cidade: canos gotejantes cobertos de limo, cabos de fibra ótica rompidos pendurados como tripas expostas e a água oleosa correndo no canal central, carregando os detritos de uma sociedade que havia esquecido como descartar seu lixo.
 
-— Eles não estão usando a rede — Gabo disse, a voz abafada pelo ruído externo. — Estão usando cães. Estão usando calor.
+Gabo parou por um instante, apoiando a mão na parede fria. O suor escorria por suas costas, gelado. A adrenalina do confronto na clínica de Vasco estava baixando, deixando para trás apenas a dor surda das velhas fraturas na coluna e o latejar rítmico no ombro onde a coronha da *Caronte* batia.
 
-Valéria, agachada sobre o terminal portátil onde o pendrive blindado da Aria estava conectado em ponte com o transmissor tático de Gabo, xingou baixinho.
+Seus dedos tamborilaram contra o coldre. O cheiro de mofo e fuligem ainda o enjoava — ele odiava qualquer fumaça, que sempre o lembrava do hálito do pai gritando — e a exaustão pedia um entorpecimento químico que ele se recusava a buscar. Ele rejeitou o pensamento, mordendo o lábio até sentir o gosto metálico de sangue. Dor era foco. Dor era realidade.
 
-— O espectro de rádio está uma bagunça. Estática branca em todas as frequências da polícia. Eles estão jammeando o sinal para impedir que qualquer um coordene uma defesa.
+No acesso ao Fliperama, Gabo afastou o tijolo que ocultava a trava. Bateu na chapa como combinara com Val e esperou que ela abrisse por dentro.
 
-— É uma varredura de setor — Gabo recuou para dentro da sala, fechando a porta de aço pesada e girando a tranca manual. — A explosão fechou nosso acesso e há busca na superfície. Não sei se descobriram este lugar ou se estão varrendo o setor inteiro.
+O ar lá dentro era viciado, uma mistura de óleo de máquina, poeira de eletrônicos e o cheiro inconfundível de doença.
 
-Ele olhou para o comunicador preso à própria lapela e depois para o drive espetado no deck de Valéria. O LED indicador do pendrive piscava em um âmbar febril, pulsando no mesmo ritmo de uma respiração humana.
+— Val? — ele chamou, a voz rouca.
 
-No fone auricular de Gabo, a estática abriu espaço para a voz adulta de Aria.
+Valéria surgiu de trás da bancada de monitores, o rosto iluminado apenas pelo brilho azulado de uma tela de backup. Ela parecia um fantasma cibernético, a pele translúcida demais, as olheiras fundas como crateras.
 
-— O padrão da sirene corresponde ao Código 4-4: evacuação civil. O arquivo de ocorrências registra o mesmo código em operações de cerco nas Revoltas da Água. Não sei qual ordem está em vigor agora.
+— Você demorou — ela disse, sem acusação, apenas constatando um fato. — Ele continua febril. Ele está delirando, Gabo. Falando sobre arquivos perdidos de 98.
 
-A voz falhou no meio do aviso. Val inclinou a tela para Gabo: o canal de síntese repetia pacotes danificados.
+Gabo largou a mochila sobre uma mesa de trabalho coberta de esquemas técnicos.
 
-— Posso manter só texto — disse ela. — Perdemos os avisos no ouvido, mas Aria continua trabalhando.
+— Eu trouxe. Tudo o que Vasco tinha.
 
-Gabo olhou a passagem escura. Precisava das mãos livres e do alerta antes de ver o perigo.
+Nise já estava junto à mesa, com duas pessoas da equipe de transporte. A mulher do porto voltara com elas e conferia, do outro lado da sala, se o menino continuava dormindo. Gabo pôs os kits lacrados ao alcance da médica. O ex-inspetor parecia menor. A pele, geralmente rubicunda, estava cinzenta e úmida. O curativo no ombro estava empapado de um fluido escuro que cheirava a cobre e podridão.
 
-— Você consegue manter a voz?
+— Ele está com febre e perdeu sangue — disse Nise. — Eu avalio o resto. Vocês fizeram bem em não tirar o estilhaço.
 
-— Consigo tentar — disse Aria. — Se falhar, corte o alto-falante, não o núcleo. Meu histórico ainda está na unidade.
+Gabo começou a explicar o que quase fizera. Ela olhou o ferro de solda na bancada e entendeu antes de ele terminar.
 
-Val deixou a chave de áudio ao alcance de Gabo. Ele soltou o módulo; a mão foi ao colar e parou antes de apertar. O metal já deixara sangue na camisa.
+— Ainda bem que alguém disse não.
 
-Um gemido vindo da mesa quebrou a tensão. Rangel se mexeu, os olhos abrindo fendas na face inchada.
+Val baixou a cabeça. A médica mandou Gabo segurar a luz e passou a trabalhar com a equipe, usando o material que trouxera do posto e conferindo o que vinha da clínica. Não ofereceu nome tranquilo para o ferimento, nem uma promessa de vinte minutos.
 
-— Se vocês... vão discutir o relacionamento com um pendrive... — Rangel tossiu, uma tosse úmida e feia. — ...façam isso depois que sairmos do alcance da artilharia.
+O exame levou tempo. Duas vezes Nise mandou que afastassem os eletrônicos para liberar espaço. Rangel acordou durante a preparação, tentou fazer uma piada sobre formulários e não terminou. A equipe o preparou para o transporte; o procedimento definitivo exigiria a sala do hospital.
 
-Gabo se recompôs instantaneamente. A máscara de frieza desceu sobre seu rosto, escondendo o terror.
+Gabo ficou com a luz até o braço perder força. Quando a entregou a Val, havia uma linha vermelha na palma, feita pelo cabo que apertara sem perceber.
 
-— Você consegue andar?
+Gabo recuou, sentando-se pesadamente em uma cadeira giratória quebrada. Ele tirou o *Colar de Sol* do bolso e enrolou a corrente nos dedos, apertando até os elos marcarem a pele.
 
-— Se você me carregar como uma noiva... talvez. — Rangel tentou se sentar e falhou, caindo de volta com um grunhido de dor. — A costura vai abrir.
+Valéria já estava de volta à bancada eletrônica no canto da sala, debruçada sobre o pendrive da Aria.
 
-— Nise pediu que procuremos a galeria de inspeção — Gabo disse, verificando a carga da *Caronte*. — Val, pegue o essencial. O resto fica.
+O drive neural estava aberto sob uma lupa iluminada, com cabos de fibra fina ligados aos pinos de manutenção e o micro-ferro de solda de Valéria instalando a nova ponte de silício série-K. O LED indicador continuava apagado, sem o brilho azul ou âmbar. Apenas quartzo inerte.
 
-— E o servidor do Kiko? — Valéria apontou para o rack de servidores. — Tem terabytes de dados aqui.
+— Soldei a ponte nova e consegui ler parte do armazenamento enquanto a equipe preparava o transporte — Valéria disse, a voz baixa. — O núcleo lógico do pendrive está... fragmentado. Há arquivos incompletos e índices cruzados. Ainda não sei quais experiências ela vai reconhecer, nem o que consegue separar dos registros recebidos.
 
-— O servidor não anda. Nós andamos.
+— Ela nos salvou — Gabo disse, olhando para o pequeno cilindro de metal que carregava a voz do seu passado. — Ela manteve o desligamento da rede para nos tirar da Usina.
 
-Gabo foi até a mesa e pegou um mapa de papel do sistema de esgoto, desdobrando-o sobre as pernas de Rangel.
+— O custo foi alto, Gabo. O armazenamento físico resistiu, mas o software... — Valéria ajustou a carcaça de titânio do pendrive. — É "Dívida Técnica", lembra? Ela pegou emprestado barramento que não tinha. Agora o sistema está cobrando.
 
-— Estamos aqui. Setor 4. A varredura está vindo de Norte, da Torre. Eles vão empurrar todo mundo para o mar ou para os túneis de drenagem profunda.
+Gabo se levantou, a rigidez na perna lembrando-o do ferimento sob a órtese.
 
-— Drenagem profunda é suicídio — Rangel murmurou. — Gás metano. Ratos do tamanho de cães.
+— Rangel precisa de tempo. O drive da Aria precisa de compilação. E nós precisamos de um plano.
 
-— A água e as paredes podem atrapalhar a busca térmica — Gabo traçou uma linha com o dedo sujo de graxa. — Vamos descer para o Nível 5. As Catedrais de Pedra.
+— O apagão não vai durar para sempre — Valéria alertou, voltando para os monitores. — A Aeterna tem sistemas de reserva. E não sabemos quem chegou ao Dante depois de nós.
 
-— Ninguém vai lá desde a Fundação — Valéria disse, fechando o deck de pulso com o pendrive da Aria acoplado na lateral e prendendo o cabo de áudio no comunicador de Gabo. — Dizem que as estruturas são instáveis.
+— Deixe ele acordar — Gabo disse, caminhando até a saída do esgoto, onde a chuva lá fora criava uma cortina de água suja. — Quando ele acordar, nós estaremos prontos. Ou mortos. Não faz muita diferença em Baía Cinzenta.
 
-— Melhor ser esmagado por pedra do que processado pela Aeterna — Gabo dobrou o mapa e o enfiou no bolso.
+Ele olhou para as próprias mãos, ainda manchadas de sangue seco nas cutículas. Carne e cobre. Sangue e ferrugem. Era tudo a mesma matéria-prima no final.
 
-O som da sirene mudou de tom. Ficou mais agudo, mais rápido. E então, o som de explosões distantes começou. *Thump. Thump. Thump.* Morteiros de concussão. Eles estavam colapsando os túneis de acesso para selar as saídas.
+— Descanse, Val. Eu assumo o primeiro turno.
 
-— *Eles estão fechando a tampa* — avisou Aria pelo comunicador, a voz agora desprovida de emoção, puramente tática, apesar dos cortes no canal de áudio. — *O mapa registra outra galeria ao sul. Os impactos estão mais próximos; não consigo prever quando este trecho vai ceder.*
-
-Gabo olhou para o LED azul-âmbar piscando no pulso de Valéria. Por um segundo, ele quis ouvir apenas uma ferramenta. A última resposta dela não deixou.
-
-— Destrave a porta sul, Aria.
-
-— *Sim, Inspetor.*
-
-Valéria encostou o conector do pendrive da Aria no painel da comporta. As travas magnéticas giraram com um estalo pesado.
-
-Prenderam Rangel à prancha de transporte. As rodas cabiam na galeria de inspeção; nas soleiras, Val guiava a cabeceira enquanto Gabo puxava a cinta presa à armação. O inspetor gritou quando passaram pela primeira junta.
-
-— Vamos — Gabo ordenou.
-
-Eles saíram do "Fliperama" para a escuridão absoluta do túnel principal. Atrás deles, a porta do esconderijo se fechou, selando o pouco de segurança que tiveram.
-
-Rangel parou de responder antes da segunda curva. Val segurou a cabeceira da prancha com as duas mãos e não olhou para trás. A sirene continuava lá fora, mas o túnel já tinha um som próprio: o gotejar da cidade sobre o teto, marcando o passo que eles não podiam perder.
+Gabo sentou-se na entrada do túnel, a *Caronte* no colo, ouvindo os ratos correrem na escuridão, esperando o silêncio acabar.

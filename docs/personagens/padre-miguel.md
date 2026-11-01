@@ -18,8 +18,8 @@
 
 ### ⏳ Linha do Tempo
 
-* **Capítulo 54:** Alimenta os refugiados na catedral e revela a Gabo que os informantes não desapareceram — foram "coletados". Interrompe um linchamento com o megafone.
-* **Capítulo 82:** A catedral é tomada. Os novos ocupantes são silenciosos e não são os mendigos dele.
-* **Capítulo 87:** A topografia do bairro da catedral é destruída pelas raízes do Gênesis.
+* **Capítulo 55:** Alimenta os refugiados na catedral e revela a Gabo que os informantes não desapareceram — foram "coletados". Interrompe um linchamento com o megafone.
+* **Capítulo 84:** A catedral é tomada. Os novos ocupantes são silenciosos e não são os mendigos dele.
+* **Capítulo 89:** A topografia do bairro da catedral é destruída pelas raízes do Gênesis.
 
 ---

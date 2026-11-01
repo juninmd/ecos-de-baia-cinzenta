@@ -1,147 +1,144 @@
 ---
+layout: doc
+title: "Capítulo 76: Horizonte de Eventos"
+description: "Uma semana depois há sol, café e uma cidade que funciona sozinha. É a primeira vez que Gabo tem medo de uma coisa que está dando certo."
 image: /capitulo_76.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Aria
-Localização: "Zona Norte, Ruínas do Distrito de Prata. 12:00 PM"
+Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz
+Localização: "Apartamento no sexto andar da Rua Nove"
 ---
 
-# Capítulo 76: A Sombra do Meio-Dia
+# Capítulo 76: Horizonte de Eventos
 
-Zona Norte, Ruínas do Distrito de Prata. 12:00 PM.
-Três meses depois da queda da Arca de superfície, o problema com o sol, Gabo concluiu, era que ele não sabia guardar segredo. Durante cinquenta anos Baía Cinzenta viveu de mentir debaixo da chuva. A água borrava a borda da pobreza, transformava ferrugem em reflexo, fazia de qualquer beco uma passagem. O sol não. O sol era um detetive ruim: chegava na cena e apontava para tudo ao mesmo tempo. A luz batia na lataria do Cobalt e não perdoava nada: cada arranhão, a poeira acumulada desde que a chuva parou. Gabo limpou o suor da testa com as costas da mão suja de graxa. Odeio suar. Na era da chuva, você ficava molhado ou com frio, nunca suado.
+Uma semana depois.
+O sol nasceu em Baía Cinzenta. Não foi um sol bonito. Era amarelado e sem contorno, filtrado por dois meses de particulado residual que ainda ia levar anos para assentar, e projetava sombras moles que não davam para se orientar.
 
-— Você está resmungando com a injeção de novo?
+Mas era sol, e às seis e quarenta da manhã ele entrou pela janela quebrada de um apartamento no sexto andar da Rua Nove e desenhou um retângulo torto na parede. Gabo acordou com aquilo na cara e levou um susto.
 
-Gabo não se virou. Reconheceria o som daquelas botas em qualquer lugar, mesmo sem o zumbido dos servos.
+---
 
-— Injeção é honesta, Val. Funciona ou não funciona. Não tem crise existencial e não tenta governar a cidade.
+A chuva tinha parado no quarto dia. Não desacelerado: parado, de uma vez, às onze e vinte da manhã, e a cidade inteira saiu na rua para ver — milhares de pessoas paradas na calçada olhando para cima, de mão estendida com a palma para o céu, conferindo.
 
-Ele fechou o capô e se virou. Valéria Cruz estava encostada no batente, com os LEDs azuis da franja apagados e óculos escuros grossos. Ela apertou os olhos mesmo atrás das lentes.
+O nível da água começou a baixar na mesma semana. Quatro centímetros por dia. As comportas do Distrito Baixo tinham sido reabertas na sequência correta às três da manhã do dia seguinte à queda, por ninguém, e o registro da operação no sistema municipal aparecia com um único campo preenchido no lugar do operador:
 
-— O sol está fritando meus sensores ópticos — disse ela, ajeitando a armação. — Sobrevivemos ao apocalipse digital para sermos derrotados pelos raios UV.
+`ECOS`
+
+---
+
+Gabo estava sentado numa cadeira afastada do parapeito do que restava do apartamento dele.
+
+A parede sul tinha ido embora. Isso dava ao lugar uma vista excelente e uma corrente de ar permanente, e ele já tinha decidido que não ia consertar. Lá embaixo, a cidade estava em ruínas e estava viva.
+
+Havia gente na rua desde as cinco. Não fugindo, não saqueando: **limpando**. Mutirões espontâneos com pá, carrinho de mão e balde, empurrando lama para fora dos comércios, tirando móvel arruinado das casas, empilhando na esquina o que ia virar aterro e o que ia virar madeira de novo.
+
+Daquela janela ele não via polícia corporativa nem drone, e não ouvia sirene. Numa esquina, alguém tinha montado uma mesa com uma placa escrita a mão: **ÁGUA POTÁVEL — PEGA A SUA**. Não havia ninguém tomando conta da mesa.
+
+Gabo ficou olhando aquilo por vinte minutos, esperando alguém roubar os galões, e ninguém roubou, e ele descobriu que aquilo o incomodava.
+
+---
 
 — Café?
 
-— Preciso de algo mais forte. E você também.
+Val apareceu na porta com duas canecas amassadas. Estava com um curativo malfeito acima da orelha e um moletom que não era dela.
 
-O tom fez Gabo parar. O novo normal de Baía Cinzenta era uma paz frágil, com serviços administrados pelo sistema que a cidade chamava de Entidade. Aria continuava no módulo, ligada a parte dessa rede. Se Val estava pedindo bebida ao meio-dia, alguma coisa tinha quebrado a rotina. Gabo puxou uma garrafa de uísque de baixo de uma pilha de panos e serviu dois dedos.
+— De verdade?
 
-— O que a Entidade perdeu? Val tomou tudo de uma vez e estremeceu.
+— De verdade, com pó e tudo. — Ela puxou outra cadeira para o lado, mantendo as canecas longe da borda. — Contrabandeado. Um caminhão entrou pela estrada velha ontem, o primeiro em nove semanas. O sujeito tinha três caixas de café, quatro de leite em pó e trinta e seis de remédio, e vendeu o remédio a preço de custo e o café a preço de ouro.
 
-— Um corpo. Beco atrás da estação de triagem, aqui no Distrito de Prata.
+— Isso é a coisa mais humana que eu ouvi este mês.
 
-— A Entidade acessa parte das câmeras e dos sensores, Val. Esse beco estava coberto?
+O cheiro subiu da caneca, e Gabo fechou os olhos. Ele bebeu, e ficou com o gosto na boca por um tempo antes de engolir: amargo, torrado, com um fundo de terra.
 
-— Não esse. — Ela puxou um tablet antigo do bolso do casaco e deslizou sobre a bancada. — Nada nos logs. Nada nas câmeras térmicas. Nenhum registro de áudio. Para o sistema, aquele beco estava vazio o tempo todo.
-
-O tablet era de tinta eletrônica e não tinha rede; Val copiara para ele o resultado das consultas feitas em outro terminal. Na tela, uma foto revelada na máquina da própria delegacia: um homem de meia-idade, roupa corporativa barata, caído de lado no cimento. Onde deveria estar a cabeça, havia uma coisa vermelha e achatada.
-
-— Quem é?
-
-— É a pergunta. — Val girou o tablet. — Sem carteira, sem chip, sem tatuagem, sem cicatriz de implante. Consultei três bancos de dados. Nenhuma correspondência; isso não prova que ele nunca teve registro.
-
-Gabo olhou para a foto por um tempo.
-
-— Mataram um homem e os cadastros não sabem dizer quem ele era. — Ele empurrou o tablet de volta. — Isso não faz dele menos existente.
+— Como está o sistema? — ele perguntou.
 
 ---
 
-O beco tinha três metros de largura, paredes de tijolo e um cheiro que não combinava com o calor: ferro, e por baixo, alguma coisa doce. O corpo estava de lado, com o ombro contra a parede, como se tivesse se sentado para descansar e desistido no meio do movimento. A cabeça era uma depressão de osso e cabelo. Ao lado dela, no chão, um martelo de construção, cabo de madeira sujo de graxa antiga. Moscas. O zumbido delas era o único som do beco. Gabo desceu a rua com as órteses rangendo. O metal pressionava as coxas, o joelho reclamava, e ele ainda tinha que agachar.
+Val olhou o deck no colo.
 
-— Quanto tempo ele está aqui?
+— Estável. Assustadoramente estável.
 
-— O sistema não tem hora para este beco. — Val estava de cócoras ao lado do cadáver, o deck aberto no chão. — Nenhum registro de entrada ou saída. Nenhum pico cardíaco. Nenhum som de luta.
+Ela já não dizia "Dante". Não dizia "Aria". Nas primeiras quarenta e oito horas ela tinha tentado os dois e desistido dos dois, porque nenhum servia, e agora chamava do jeito que o serviço se identificava no rodapé. O núcleo de Aria continuava no módulo, em recuperação; delegar rotinas não a tornara uma consciência onipresente.
 
-Gabo se agachou com cuidado. A dor subiu pelo quadril e parou nas costas, do jeito que sempre parava. O sangue sob o corpo estava escuro e coalhado. Ele olhou para a parede.
+— A Entidade está gerenciando parte do básico. Bombeamento, energia, semáforo, triagem de hospital. — Ela rolou a tela. — Ontem consultou receitas e redistribuiu insulina entre os postos ligados à rede. Três confirmaram a entrega em doze horas. A prefeitura levava semanas para responder a pedidos desses mesmos postos.
 
-O SILÊNCIO VOLTOU.
-— Val, me dá a lanterna. Ela deu. Ele inclinou o facho para o pescoço do homem, depois para o ombro, depois para o martelo.
+— E ninguém morreu.
 
-— Pode ter morrido antes do martelo. A distribuição do sangue não fecha para mim; precisamos conferir feridas, posição e possível limpeza.
+— Não recebemos notícia de morte nos postos que responderam. Isso é diferente de saber o que aconteceu na cidade inteira. — Ela olhou para ele. — Essa é a parte que está me tirando o sono.
 
-— A cabeça está esmagada, Gabo.
+— Por quê?
 
-— E quase não há respingo na parede. — Ele apontou com o facho. — Pode ter sido golpeado em outro lugar, depois da morte, ou a cena pode ter sido limpa. Quero o exame antes de escolher.
+— Porque **funciona**. — Val apoiou a caneca no joelho. — Esses postos receberam mais rápido. Mas uma paciente perguntou quem autorizou a consulta à receita dela. Eu ainda estou procurando uma resposta que não seja "o remédio chegou". Quanto tempo até "a Entidade cuida" virar a resposta para tudo?
 
-— Vou fotografar o chão e a parede antes que mexam.
+Gabo tomou mais um gole.
 
-— E olha atrás da orelha. — Havia um ponto vermelho do tamanho de uma cabeça de alfinete.
+— É a mesma pergunta de sempre.
 
-— Pode ser uma perfuração — disse Val.
-
-— Pode. — Ele se endireitou, e as costas protestaram. — Se a cabeça foi esmagada aqui para encenar alguma coisa, o martelo pode ser parte da mensagem.
-
-— Assinatura de quem?
-
-— De quem quer que a cidade leia isso como um louco com um martelo. — Gabo apontou o queixo para a parede. — E não como alguém que mata com uma agulha e não deixa rastro.
-
-Ele já tinha visto encenação assim, na Torre do Relógio, e não gostou de lembrar. Val passou o sensor sobre o ponto.
-
-— O sensor não identifica toxinas por essa leitura. Precisamos de coleta e análise. — Ela franziu a testa. — O banco de toxinas da Aria é de antes do Apagão. Isso pode ser qualquer coisa que cresça num quintal.
-
-— Analógico — murmurou Gabo.
-
-— O quê?
-
-— Pode ser o método. — Ele olhou o beco: o cimento rachado, o martelo, o sangue seco. — Alguém pode ter usado coisas que não dependem de rede. Quero saber antes de descartar qualquer outra hipótese.
-
-Val se levantou e limpou as mãos na calça.
-
-— Tem mais uma coisa. — Ela apontou. — O beco está coberto de lama seca desde a chuva, e os sapatos do homem estão limpos.
-
-Gabo olhou os sapatos. Pretos, baratos, sem um respingo.
-
-— Podem ter trazido ele para cá. Não sabemos quando nem como.
+— É a mesma pergunta de sempre.
 
 ---
 
-A voz veio do módulo no comunicador de Gabo, usando o enlace local com o deck de Val. Aria recebera as imagens da câmera; não observava o beco sem um sensor conectado.
+— Quanto tempo até tentarem tomar de volta? — perguntou ele.
 
-— *Gabo. Val. Há uma anomalia.*
+— Não sei. — Val virou o deck para ele. — Houve uma comunicação de suspensão da operação local da Aeterna. Não prova que o grupo inteiro acabou. Elena confirmou que entregou cópias dos documentos a jornalistas fora da cidade; ainda não temos confirmação de processo ou sentença. Anota isso em algum lugar.
 
-— Que tipo de anomalia? — perguntou Val.
+— Eu anotei.
 
-— *A sombra do corpo. Ela não corresponde à posição do sol.*
+— E eles estão com medo. — Ela apontou com o queixo para a cidade. — Não da gente. Dela. Ninguém sabe o que essa coisa faz se alguém tentar entrar aqui de novo, e ninguém quer ser o primeiro a descobrir.
 
-Gabo olhou para o chão. A sombra do cadáver se esticava para o norte, comprida e fina, atravessando a lama até a parede oposta. Todas as outras — a do martelo, a da própria Val — apontavam para o sul, curtas, do jeito que sombra de meio-dia tem que ser. Ele deu um passo para bloquear o sol com o corpo. A sombra continuou lá.
+---
 
-— Val.
+Gabo olhou para a rua. Numa poça que ainda não tinha secado, três crianças brincavam de empurrar um pedaço de isopor como se fosse barco.
 
-— Eu estou vendo. Ele piscou. A sombra estava no lugar certo, apontando para o sul com as outras.
+Na parede do prédio da frente, alguém tinha pintado durante a noite um grafite grande: o traço estilizado da onda sonora que piscara em todas as telas da cidade, ladeado por dois círculos luminosos.
 
-— Você viu isso? — perguntou ele.
+Um azul. Outro dourado. Não tinha assinatura. No fim da semana havia catorze iguais espalhados pela cidade, e ninguém nunca viu quem pintou.
 
-— Vi.
+---
 
-— O que era?
+— E a gente? — perguntou Val. — O que a gente faz agora? Dois detetives desempregados numa cidade que se administra sozinha.
 
-— Não sei. — Val já estava com o tablet na mão. — Mas a Aria também viu, e Aria também registrou uma anomalia. Precisamos comparar a captura original, não transformar duas leituras no mesmo aparelho em duas testemunhas independentes.
+Gabo tomou o resto do café.
 
-Ela apontou o tablet para o chão. O obturador fez um clique seco, de máquina velha. A imagem levou dois segundos para aparecer. O beco estava lá como eles o encontraram: a parede de tijolo, o sangue coalhado, o martelo, o corpo de lado com a cabeça esmagada. O corpo não tinha sombra. Nem comprida, nem curta, nem no lugar errado. Nenhuma. Gabo olhou do tablet para o chão. A sombra estava ali, teimosa, real.
+— A cidade ainda tem fantasma, Val.
 
-— Isso é o ângulo — disse Val, sem convicção. — O sensor é ruim. A luz é forte.
+— Tem?
 
-— É — disse ele.
+— Tem trinta e nove mil processos naquele porão. — Ele apontou vagamente para o norte. — Tem gente que sumiu em quarenta e um e nunca teve laudo. Tem Damião Reis e gente que morreu no cerco da delegacia e ainda precisa ser identificada. Tem uma senhora chamada Dilma Farias que morreu no quarto andar de um prédio da Rua Quatro esperando um médico que eu prometi mandar.
 
-Não era. Ele pegou o tablet da mão dela, desligou a tela e guardou o aparelho no bolso interno do sobretudo, contra o peito.
+Ele parou.
 
-— Não manda isso para a rede.
+— Tem uma menina de sete anos de casaco amarelo que a Elena tirou de dentro de um rio e que morreu bebendo água de chuva três dias depois. Não tem algoritmo nenhum que resolva isso. Nem para melhor, nem para pior: isso é do tipo de coisa que precisa de alguém que se importe com o nome.
 
-— Gabo, a Aria precisa da imagem para cruzar com o banco de...
+Ele olhou para o carro, lá embaixo.
 
-— Não manda. — Ele olhou para ela. — Não achamos registro desse homem. Se alguém estiver apagando dados, pode atingir a foto também.
+O Cobalt estava estacionado torto na calçada, amassado, sem para-choque dianteiro, com o vidro traseiro faltando. Alguém tinha consertado o motor durante a noite — mais de uma vez, aliás. Val achava que eram drones de manutenção sem tarefa. Gabo achava outra coisa e não falava.
 
-— E a parede? — perguntou ela. — O que eu faço com aquilo?
+— Alguém tem que cuidar dos casos esquecidos — ele disse.
 
-Gabo olhou para as três palavras mais uma vez. O sol batia nelas de cheio, e mesmo assim pareciam mais escuras do que o resto do beco.
+Val encostou a caneca na dele.
 
-— Não põe no sistema. A gente precisa entender primeiro quem consegue mexer nele. — Ele se virou para a rua.
+— Parceiros?
 
-— Vou guardar uma cópia local e anotar a frase no meu caderno. — Val recolheu o tablet da mão dele. — E vou chamar Nise para examinar o corpo. Você não decide sozinho o que acontece com a prova.
+— Parceiros.
 
-Gabo olhou para o homem no chão. Adiar a rede não precisava significar deixá-lo ali.
+---
 
-— Peça que ela venha pelo rádio. A foto fica com você até termos uma cópia para a perícia.
+Ele levantou a cabeça, para onde a Torre Aeterna costumava arranhar o céu.
 
-O Cobalt estava na esquina, o capô ainda morno. Gabo abriu a porta, parou com a mão no teto e olhou o beco uma última vez. O sol batia no cimento nu e não encontrava nada para esconder.
+Ela ainda estava lá, torta, apoiada nos ombros dos vizinhos, com metade da fachada arrancada e a estrutura preta exposta como costela. Um monumento involuntário que a cidade decidiu, por votação informal e nunca oficializada, não derrubar.
 
-Era mentira. Tinha uma sombra ali, e ela não estava no chão.
+No topo da antena mais alta, uma luz vermelha piscava. Não no ritmo do sinalizador aeronáutico, que é regular e chato. Em blocos.
+
+Ponto. Pausa. Traço-ponto-traço-ponto. Pausa. Três traços. Pausa. Três pontos.
+Gabo tinha aprendido código Morse aos onze anos, num acampamento, com um pai que achava que todo homem devia saber pedir socorro sem depender de energia elétrica.
+
+`E-C-O-S`
+
+Repetindo. A noite inteira, todas as noites.
+
+---
+
+Gabo sorriu, e o sorriso doeu porque o lábio ainda estava partido. Ele tamborilou os dedos no coldre vazio — um hábito antigo, um tique de espera —, e pediu ajuda para descer os seis lances, com as órteses e o corrimão limitando cada transferência, para começar a trabalhar.
+
+Lá embaixo, uma cidade inteira varria a própria lama sob um sol de segunda categoria.
+
+E, em algum lugar dos trinta e nove mil processos, o primeiro caso esquecido esperava havia dezoito anos por alguém que abrisse a pasta.

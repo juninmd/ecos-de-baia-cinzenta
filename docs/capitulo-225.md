@@ -1,147 +1,150 @@
 ---
-image: /cenas/capitulo_225/cena_4.jpg
-Título: O Charuto na Sala Limpa
-Data In-Game: Pós-Colapso do Sentinel (Noite Eterna) / Alvorada na Velha Baía
-Localização: Arca Zero - Doca de Carga / Tubo Pneumático até a Velha Baía
+Título: A Auditora
+Data In-Game: Pós-Colapso do Sentinel (Noite Eterna)
+Localização: Arca Zero - Galeria dos Berços, Abaixo do Setor 6
 Personagens Presentes: Gabo, Valéria, Elias, Dra. Elara Vance
 ---
 
-# Capítulo 225: O Charuto na Sala Limpa
+# Capítulo 225: A Auditora
 
-Carregar quatro toneladas de papel leva dezenove horas quando você tem três pessoas, e uma não anda, e a outra está morrendo em pé.
+As duas chaves giraram juntas. Elias contou até três com a voz tremendo e nós dois viramos ao mesmo tempo, e o som foi de duas travas mecânicas pesadas caindo em um encaixe que esperava aquilo há anos. Um estalo gordo, satisfeito, de coisa bem feita. O berço soltou pressão pelas laterais. Vapor branco escorreu pelo chão de epóxi e se dissipou sem deixar cheiro. A tampa de vidro subiu quinze centímetros e parou. Por três minutos inteiros não aconteceu absolutamente nada, e eu comecei a achar que a gente tinha matado a mulher. Aí ela inspirou. Foi horrível. Foi o som de alguém aprendendo a respirar do zero, com pulmões dependentes do suporte desde que ela entrara ali, e ela tossiu, e a tosse foi seca e feia e sem força nenhuma, e a mão dela — perfeita, com as unhas ainda feitas — se ergueu quinze centímetros e caiu de volta no forro branco. Elias mancou até ela para ajudar. Valéria consultou o painel de retirada assistida e guiou o suporte do berço; eu segurei a manta junto à mão dela. Não havia dignidade nenhuma em deixar uma mulher sufocar para conferir se continuava inteligente. A doutora recuperou o ar aos poucos. Mesmo assim, quando conseguiu abrir os olhos de novo, já estava nos avaliando.
 
-Eu fiz o que pude. Empurrava caixa com o ombro bom, arrastava lata de fita com a garra, sentava quando o mundo escurecia nas bordas e levantava quando parava de escurecer. Elias carregava o que podia, parava para aliviar o tornozelo e voltava. Não reclamou uma vez sequer, o que, no caso dele, era um tipo de milagre. A Vance dirigia o carregamento da cadeira de aço, e ela conhecia aquele arquivo com uma intimidade obscena: sabia qual gaveta continha o quê, em que ordem empilhar, o que podia molhar e o que não podia.
+Porque, entre uma tosse e outra, com o corpo inútil e a garganta em carne viva, os olhos azul-gelo da Dra. Elara Vance já tinham varrido a galeria inteira, contado três intrusos, medido o meu ombro sangrando, identificado os implantes de Valéria e registrado a mochila do Elias.
 
-Valéria carregou o resto no carrinho, uma pilha por vez. Parava para beber água e alongar os dedos da mão direita; a esquerda, presa na luva, só conseguia ajudar a firmar a carga. Na décima sétima hora eu a vi parar na antecâmara hexagonal, no escuro âmbar, sem carga nenhuma nos braços. Ela estava lendo a placa fundida.
+Ela estava trabalhando. Meio morta, e trabalhando. A quarta tentativa de falar saiu como som.
 
-"A memória não apodrece."
-Ficou lá uns dez segundos. Depois pegou a próxima caixa e continuou.
+— Vocês... — A voz era um sussurro rasgado. — Vocês demoraram.
 
----
+Puxei uma banqueta e sentei ao lado do berço, porque em pé eu já não estava mais.
 
-A serra foi na vigésima hora. Não vou escrever sobre isso.
+— A cidade atrapalhou.
 
-Vou escrever que Valéria trabalhou rápido, cortando as hastes externas enquanto o suporte da enfermaria mantinha meu braço imóvel. As fixações clínicas ficaram no osso; tiramos a máquina, não o membro. Quando terminou de enfaixar meu braço, ela pousou a mão no meu peito e esperou eu respirar três vezes antes de tirar. Elias segurou a minha cabeça e ficou falando merda no meu ouvido — sobre um cachorro que ele teve, sobre uma namorada em Setor 9, sobre nada — porque entendeu, sem que ninguém explicasse, que eu precisava ouvir alguém enquanto Val cuidava da serra.
+Ela virou a cabeça — dois centímetros, e custou tudo que ela tinha — e me olhou de perto.
 
-Vou escrever que a Dra. Elara Vance virou o rosto. Décadas auditando o horror, e ela virou o rosto.
+— Moretti. — Alguma coisa muito pequena mudou no rosto dela. — O mais velho.
 
-E vou escrever que doeu. Doeu de um jeito que não tem palavra em português, e eu estava consciente para tudo, apesar do atendimento disponível. Não havia dose de heroísmo que tornasse seguro mexer naquela fratura; o módulo interrompeu o corte duas vezes, e obedecemos.
+— O senhor meu pai avisou.
 
----
-
-Quarenta minutos antes da partida que combináramos, eu fui até a comporta. A armação estava na bancada, desconectada de mim, com as travas de fixação ainda soltando fumaça. Uma cunha de metal cinza fosco cheia de cicatriz de solda. Do lado de fora do meu corpo, ela era menor do que eu imaginava. Uma peça de sucata. Nem parecia capaz de ter doído tanto.
-
-Elias e Valéria a ergueram juntos e a encaixaram na abertura do came, punho em extensão máxima, exatamente como a Vance desenhou num guardanapo com a letra mais bonita que eu já vi. Faltava travar o hidráulico. E travar o hidráulico exigia um comando neural bruto, e comando neural bruto exigia um sistema nervoso. O meu.
-
-Sentei no chão frio ao lado da comporta. Valéria conectou os cabos de pulso diretamente nos conectores da armação. Um pedaço de mim de novo, pela última vez, pelo tempo de um pensamento.
-
-— Quando você mandar, — ela disse, — vai queimar tudo de uma vez. Vai ser a pior dor que você já sentiu.
-
-— Ótimo.
-
-— Não é ótimo.
-
-— Val. — Ela não me corrigiu. — É a última vez que essa coisa vai me fazer alguma coisa. Deixa eu ficar de mau humor.
-
-Fechei os olhos. E ele estava lá.
+— Avisou. — Ela fechou os olhos. — Ele avisou em fita, em papel timbrado e na minha cara. Foi o único de todos vocês que fez a coisa direito.
 
 ---
 
-A sala limpa não tinha cheiro. Eu já falei isso. Sessenta e um anos de ar filtrado, pressão positiva, epóxi branco, zero partículas. E, mesmo assim, a fumaça começou a subir pelo canto esquerdo da minha visão, azulada e densa, com aquele fundo doce e podre de charuto barato queimando devagar.
+Levou quase uma hora até ela conseguir sentar.
 
-Meu pai estava sentado numa cadeira que não existia, do outro lado da comporta, com o chapéu no joelho e o sobretudo de couro pingando chuva num chão que estava seco.
+O suporte do berço completou a retirada assistida com os materiais de reposição identificados na enfermaria. Valéria leu os avisos, ofereceu água quando o painel permitiu e evitou levantar a doutora antes de ela conseguir sustentar a cabeça. Elias arrumou uma manta térmica. E a Dra. Elara Vance, com a coluna apoiada na parede branca e as pernas ainda mortas dentro do berço, começou a falar do jeito que ela devia falar em reunião de diretoria: em ordem, sem adjetivo, sem pedir desculpa.
 
-— Chega, Gabriel.
-Eu não abri os olhos. Não precisava.
+— Vocês encontraram o arquivo.
 
-*— Olha o estado disso.* — Ele deu uma tragada. A brasa iluminou o bigode. — *Um braço. Um joelho. Sepse. Você já provou o que tinha para provar. Ninguém está contando ponto. Senta aqui.*
+— Encontramos.
 
-E era essa a diferença, dessa vez. Todas as outras vezes ele tinha vindo com desprezo. Com aquela apatia de porta de escritório trancada. Ele vinha para me lembrar de que eu era ruído de fundo, e eu tentava calá-lo com dor. Nem sempre funcionava. Quando minhas mãos não conseguiam segurar uma barra, Val me ajudava a encontrar outro apoio.
+— Então vocês sabem que eu escrevi o memorando.
 
-Agora ele estava me oferecendo **descanso**. E estava fazendo isso com carinho. Era a versão mais perigosa que ele já tinha montado.
-
-*— Você não me deve nada,* — a coisa com o rosto do meu pai disse, muito gentil. — *Deixa a porta. Deixa o arquivo. Deixa a menina de metal, deixa o rapaz, deixa a velha do vidro. Você fez mais do que qualquer um. Descansa, filho.*
-
-E eu levei três segundos inteiros para responder, porque puta merda, eu queria.
-
-— Você não é ele, — falei.
-
-— Eu sou o que sobrou dele.
-— Não. — Eu abri os olhos. A fumaça continuou lá; alucinação boa não desiste só porque você a encara. — Você é o que **eu** montei dele, com quinze anos de raiva e um cinzeiro cheio de memória de criança. Eu te construí. Eu te dei a voz, o charuto, o desprezo, tudo. Você é meu.
-
-— Gabriel—
-— O meu pai perguntou o nome da mulher que ia enterrar ele vivo. — Minha voz falhou e eu deixei falhar. — O meu pai gastou os últimos vinte segundos de fita avisando que ele tinha três filhos, e que um deles ia dar trabalho. O meu pai colaborou de propósito com a máquina tentando interferir no que fariam dele. Eu não sei quanto daquela resistência sobreviveu, nem vou chamar sua prisão de um plano perfeito.
-
-Olhei bem para a coisa na cadeira.
-
-— Ele pensou em mim naquela cadeira. Também me feriu quando podia escolher. Eu não preciso apagar uma coisa para reconhecer a outra. E você não pode mais usar nenhuma delas para falar por mim.
-
-Silêncio. A fumaça parou de subir.
-
-— Eu não te odeio, — falei. — Era o que eu tinha dele. Eu agradeço. Mas eu já achei a pasta, e ela não está mais em aberto, e eu não preciso mais de você.
-
-E, pela primeira vez em toda a minha vida adulta, o cheiro sumiu **sozinho**. Sem dor. Sem eu bater em nada. Sem o Colar de Sol cortando a palma da minha mão. Só sumiu, como fumaça faz quando alguém finalmente abre a janela.
-
----
-
-— Agora, — eu disse.
-
-E mandei o comando. Foi tudo o que a Valéria prometeu e mais um pouco. O sinal de comando saiu pelos conectores; a força veio do motor alimentado pela bateria de serviço, os servos gritaram num tom de metal esfolado, o came engatou com um estrondo geológico e a comporta de quatro metros travou aberta contra a mola.
-
-O servo queimou no fim do curso. A haste ficou presa contra o batente, uma cunha recebendo a pressão da porta. Valéria esperou o indicador confirmar o bloqueio antes de me desconectar. Eu desmaiei. Sem elegância nenhuma.
-
----
-
-Acordei com a Valéria me arrastando pela escotilha e o Elias gritando alguma coisa sobre pressão.
-
-A cápsula era escura, apertada e cheirava a papel velho — quatro toneladas de nomes, datas e registros que ainda teríamos de conferir empilhadas até o teto, amarradas com cinta de carga. A Dra. Vance estava presa numa das paredes com o cinto da própria cadeira. Elias havia guardado o mapa com suas anotações num saco fechado, dentro da jaqueta. Segurou minha cabeça no colo. Valéria selou a escotilha apoiando a proteção da mão esquerda no batente enquanto a direita girava o volante interno.
-
-Do outro lado do aço, a Arca Zero começou a morrer.
-
-Trinta e um quilômetros de tubo se abriram para uma instalação que passou sessenta e um anos hermética. O diferencial de pressão veio como um trovão contínuo. Em algum lugar lá atrás, o corredor branco perfeito, a galeria dos oitenta e três berços vazios, a mesa de couro rachado e a placa fundida que prometia que a memória não apodrece — tudo aquilo se enchia de vácuo e escuridão.
-
-Nós tínhamos levado a memória embora. O caixão podia apodrecer sozinho. A cápsula tremeu, engatou nos patins magnéticos e **saltou**. A aceleração me esmagou contra o Elias e o Elias contra as caixas e alguém gritou — acho que fui eu. E aí ficou liso.
-
-Trinta e um quilômetros de escuridão em silêncio quase total, subindo numa inclinação suave, com quatro pessoas e sessenta e um anos de crime empilhados num projétil de aço. Fiquei olhando para o teto da cápsula, respirando.
-
-Foi quando eu vi, amarrado com cinta de carga na parede oposta, entre uma pilha de latas de fita e a caixa de microfilmes do ano trinta e nove: O casco de aço acolchoado. O módulo de restauração da camada afetiva.
-
-Ela tinha carregado aquilo. Nas dezenove horas, entre pilhas de papel no carrinho, ela tinha parado, ido até a enfermaria, desmontado o módulo da bancada e o trazido a bordo.
-
-Olhei para ela. Valéria estava sentada de frente para a escotilha traseira, com as mãos apoiadas nos joelhos, as lentes apagadas para poupar bateria. Impassível. Perfeita. Sem uma inflexão. Ela não tinha usado o módulo. Ela só tinha se recusado a deixá-lo para trás.
-
-— Val, — falei.
-
-Ela não corrigiu.
+— Sabemos. — Tirei a folha do bolso do casaco, dobrada em quatro, e a coloquei no forro branco ao lado da perna dela. — *"O protocolo funciona. O protocolo é indefensável."* E aí a senhora explicou como fazer em escala.
 
 — Sim.
 
-— Quando a gente chegar lá em cima. — Engoli. A garganta estava em carne viva. — Não precisa ser hoje. Não precisa ser esse ano.
+— Sem "mas"?
 
-Um tempo.
+— Não há "mas", inspetor. Eu escrevi aquilo. Eu sabia o que era. Eu recomendei prosseguir. — Os olhos dela não desviaram um grau. — O senhor veio até aqui esperando encontrar uma mulher que se arrependeu?
 
-— Eu registrei o convite, — ela disse.
+— Eu vim esperando encontrar um cadáver.
 
-E foi o suficiente.
+— Que decepção para nós dois.
+
+Elias soltou um som pequeno atrás de mim. Acho que era uma risada assustada.
+
+— Por que a senhora escreveu aquele parágrafo? — perguntei.
+
+— Porque era verdade. — Ela ajeitou a manta com um movimento que quase não saiu. — Um programa de mineração cognitiva em pequena escala é um crime rastreável com cinco réus e um júri. O mesmo programa em escala municipal é infraestrutura. Ninguém processa infraestrutura. Eu não inventei essa regra, inspetor. Eu apenas fui a única pessoa naquela sala honesta o bastante para escrevê-la no papel.
+
+— A senhora chama isso de honestidade.
+
+— Eu chamo isso de auditoria. — Um sopro. — A diretoria já tinha decidido prosseguir antes de me contratar. Eles não queriam um parecer; queriam uma assinatura. Se eu tivesse parado na recomendação de encerramento, eles teriam engavetado o meu memorando, prosseguido do mesmo jeito, e feito **mal feito** — com meia dúzia de mortos por semana e nenhum registro. — Ela finalmente desviou o olhar. — Eu recomendei escala porque escala exige documentação. E documentação é a única coisa que sobrevive à empresa.
+
+Eu levei um tempo para respirar depois disso.
+
+— A senhora está me dizendo que ajudou a construir aquilo tudo... para ter arquivo.
+
+— Estou dizendo que eu tinha duas opções ruins e escolhi a que deixava rastro. — Ela apontou o queixo na direção da porta do arquivo. — Sessenta e um anos de admissões, protocolos, nomes e datas, em papel, em microfilme e em fita, numa instalação que nunca esteve conectada a rede nenhuma. A Praga de Ferro não chegou aqui. O Jardim não chegou aqui. O Sentinel não chegou aqui. — Um sorriso mínimo, e não tinha nenhuma alegria nele. — Mandaram apagar os registros que consegui rastrear, inspetor: servidores, backups, boletins. Aqui estão séries de documentos que eu preservei. Não posso garantir que apagaram todas as outras, nem que tudo o que arquivamos seja verdadeiro. Vocês terão de conferir as origens e ouvir quem sobreviveu.
+
+— E a senhora guardou a fita do meu pai.
+
+— Eu guardei a fita de todo mundo.
+
+— A dele a senhora podia ter apagado. Ele pediu.
+
+Silêncio.
+
+— Sim, — ela disse.
+
+— Por quê?
+
+E, pela primeira vez, a Dra. Elara Vance demorou para responder.
+
+— Porque ele foi o único inquilino que me perguntou o meu nome, — ela disse. — Todos os outros gritaram, choraram, ofereceram dinheiro ou rezaram. O Comissário Dante Moretti perguntou meu nome, ouviu a resposta, e depois passou vinte e dois minutos respondendo com precisão absoluta a todas as perguntas de um questionário que ele sabia que ia ser usado para escravizar a própria mente. — Ela olhou para o teto. — Eu perguntei por quê. No intervalo, com o gravador desligado. Ele disse: *"Porque se eu mentir, a máquina que vocês vão construir vai ser pior. E é o meu filho que vai ter que enfrentar ela."*
+
+O corredor branco ficou muito quieto.
+
+— Isso foi com o gravador desligado, — falei, e a minha voz não estava boa. — Só temos a palavra da senhora.
+
+— Temos. — Ela virou o rosto para mim. — Ele disse que queria impedir que a máquina fosse pior. Não sei o que conseguiu mudar depois, nem se aquelas respostas produziram os defeitos que vocês encontraram.
+
+— O Gamemaster tentou me matar. Eu saí porque lutei e porque outras pessoas me ajudaram. Não porque ele decidiu me deixar sair.
+
+— Eu não estava lá, inspetor. Não posso lhe dizer por que a máquina falhou.
+
+Eu apertei o Colar de Sol até o metal cortar a palma. A dor veio limpa e eu deixei.
+
+Quinze anos procurando meu pai. Meses olhando a coisa com seu rosto e chamando aquilo de profanação. A fita provava que ele estivera naquela cadeira; o que dissera sem gravação dependia da memória de Elara. Eu queria acreditar nela. Querer não tornava aquilo prova.
+
+— Por que a senhora entrou no berço? — perguntei, quando consegui.
+
+— Retiraram-me da custódia para a fila do Berçário. Eu usei o transporte de serviço da auditoria antes da entrega final. A baixa nunca foi lançada; deixei a ordem de transferência junto dos cadernos que mandei à Elena. — Ela procurou apoio para a cabeça. — Não consegui avisar de novo depois que entrei neste berço, meses atrás.
+
+— Então a fila não era uma localização — falei.
+
+— Era uma ordem que não se completou. Há diferença.
+
+— E o vidro?
+
+— Porque eu ia ser apagada. — Simples, sem drama. — Quando o Krell assumiu, a primeira coisa que ele fez foi consolidar arquivos. A segunda foi eliminar quem tinha lido os arquivos antigos. Eu não fugi da queda da Aeterna, inspetor. Eu me **coloquei em quarentena**, junto com a única cópia física da verdade, atrás de quatro metros de concreto revestido de chumbo, com uma tranca que exige duas pessoas do lado de fora.
+
+— Duas pessoas.
+
+— Há uma autorização de 2019 com as iniciais dele — falei. — E um corpo sem nome. Esta fita não responde por aquilo.
+
+— Não responde — disse a doutora. — Uma admissão forçada não torna inocente tudo o que veio antes. Procurem o documento completo, não a conclusão que desejam dele.
+
+— Duas. — E os olhos azul-gelo brilharam com alguma coisa que eu não soube nomear. — Eu projetei essa tranca pessoalmente. Uma pessoa sozinha nunca conseguiria me acordar. É preciso que **duas** pessoas atravessem oitocentos metros de inferno e concordem, no mesmo segundo, em girar a chave.
+
+Ela deixou aquilo assentar.
+
+— Eu não estava me escondendo. Eu estava aplicando um filtro. — Um sopro rouco. — Se um dia alguém chegasse até aqui, e ainda restasse gente suficiente no mundo para que dois deles conseguissem concordar em alguma coisa, então valeria a pena entregar o arquivo. Se viesse um só, ou nenhum, o arquivo morreria comigo e não faria falta.
+
+Elias, atrás de mim, falou baixinho:
+
+— A gente passou no teste?
+
+A Dra. Elara Vance olhou para ele. Para o macacão imundo, para a lanterna de dínamo, para os dentes estragados, para as mãos que ainda tremiam.
+
+— O senhor girou a chave, — ela disse. — O senhor é o teste inteiro.
+
+— Ele é uma pessoa, — disse Valéria. — E quase morreu chegando aqui. O arquivo deveria ter saído antes, sem exigir isso de ninguém.
+
+A doutora apertou a manta entre os dedos. Não respondeu.
 
 ---
 
-A cápsula parou vinte e dois minutos depois, com um chiado longo de pressão sendo equalizada, numa doca de recebimento fechada desde a última inspeção registrada.
+Foi nesse momento que a luz mudou. As luminárias embutidas no teto, apagadas desde que a gente entrou, acenderam de uma vez em toda a extensão da galeria — não em branco, mas em **âmbar**. Um âmbar lento, quente, de aviso educado.
 
-Elias girou o volante da escotilha com as duas mãos e empurrou. A porta cedeu. E entrou luz. Não neon. Não holograma. Não a luz doente e acobreada que a poluição deixa passar quando está de bom humor.
+Em algum lugar atrás das paredes, uma bomba entrou em funcionamento com um zumbido grave. Valéria levantou a cabeça.
 
-Luz do sol, baixa e horizontal, cor de latão velho, atravessando um galpão de tijolo arruinado na Velha Baía e batendo em quatro toneladas de papel empilhado dentro de um projétil de aço.
+— Consumo de reserva, — ela disse. — A sequência de despertar drenou o banco primário. O sistema acaba de transferir a carga para o secundário.
 
-Elias saiu primeiro. Deu três passos no cascalho, levantou a cara para o céu e ficou lá parado, de olhos fechados, respirando um ar sujo, ácido, cheio de partícula e absolutamente livre.
+A Dra. Vance fechou os olhos e assentiu, como quem confere um item numa lista.
 
-Valéria desceu depois e começou imediatamente a inventariar as saídas. Eu fiquei sentado na borda da escotilha por um tempo, com o braço direito quebrado imobilizado contra o peito, olhando aquilo.
+— Doutora, — falei. — Quanto tempo esse lugar aguenta agora?
 
-A Dra. Elara Vance parou a cadeira ao meu lado. Ela olhava para a luz com os olhos azul-gelo semicerrados, como quem confere um número que não batia havia muito tempo.
+E ela respondeu sem hesitar, porque ela conhecia os limites do próprio berço:
 
-— E agora, inspetor? — ela perguntou. — O senhor tem sessenta e um anos de prova e nenhum tribunal onde apresentar.
-
-Peguei o Colar de Sol do bolso com a mão esquerda livre. O metal estava morno. As bordas do sol estilizado ainda tinham o meu sangue seco. Enrolei a corrente no punho.
-
-— Aí a gente constrói o tribunal, — falei.
-
-E me levantei.
+— Trinta e uma horas.

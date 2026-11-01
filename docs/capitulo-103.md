@@ -1,135 +1,124 @@
 ---
 image: /capitulo_103.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Silas Vance ("O Jardineiro"), Roberto Miranda, Elena Moretti, Dante Moretti
-Localização: "Zona de Exclusão Sul - O Núcleo do Berçário"
+Personagens Presentes: Gabriel "Gabo" Moretti, Elena Moretti, Roberto Miranda e protótipos
+Participação em referência: Silas Vance, Dante Moretti
+Localização: 'Zona de Exclusão Sul - Subsolo do "Berçário"'
 ---
-# Capítulo 103: A Convergência
+# Capítulo 103: Ressonância
 
-Zona de Exclusão Sul - O Núcleo do Berçário
-O túnel desembocou em uma caverna vasta, uma catedral invertida escavada na rocha e reforçada com aço e biomassa. O ar era denso, quente e úmido, cheirando a ozônio e sangue coagulado.
+Zona de Exclusão Sul - Subsolo do "Berçário"
+O som do disparo do revólver de Gabo não ecoou como deveria. O ar úmido e pesado da caverna absorveu o estrondo, transformando-o em um baque surdo, como se estivessem atirando embaixo d'água.
 
-No centro da câmara, suspenso sobre um abismo de escuridão insondável, estava o "Ventre". Uma esfera colossal de vidro e metal, pulsando com uma luz âmbar rítmica. Dentro dela, flutuando em fluido amniótico sintético, estava um corpo.
+A criatura que saltara sobre eles foi atingida no meio do salto. O projétil calibre .38, uma relíquia de um mundo anterior aos escudos energéticos, perfurou a massa de carne exposta. Não houve sangue, apenas um spray de fluido amarelado e viscoso. A coisa caiu se debatendo, emitindo um guincho que lembrava o som de metal sendo rasgado.
 
-Gabo sentiu o reconhecimento atingi-lo como um soco físico.
+— Não pare! — gritou Elena, disparando sua espingarda contra outra sombra que se desprendia do teto.
 
-Não era apenas um corpo. Era *o* corpo. O modelo original. O homem cujos traços Gabo via no espelho todas as manhãs, mas sem as cicatrizes e o cansaço.
+Gabo tentou recuar, mas suas pernas não responderam com a agilidade necessária. As órteses chiavam sob a tensão. *Clique-clique-clique*. O som mecânico parecia atraí-los.
 
-Dante Moretti. Ou melhor, uma casca vazia cultivada para ser ele.
+Mais três daquelas coisas — os "Protótipos", como Elena os chamara — surgiram por trás dos tanques de cultivo. Eram pesadelos anatômicos: torsos humanos fundidos a membros alongados e articulados de forma errada, reforçados por pistões hidráulicos enferrujados que pareciam ter crescido de dentro dos ossos.
 
-— Impressionante, não é? — A voz ecoou, não dos alto-falantes desta vez, mas de uma plataforma elevada conectada ao Ventre por pontes de cabos orgânicos.
+— Parecem seguir os estalos das minhas travas! — gritou Gabo, vendo as criaturas virarem as cabeças sem rosto a cada passo. — Não sei se conseguem enxergar!
 
-Silas Vance estava lá. Ele não parecia o monstro vegetal que as lendas do subsolo descreviam. Ele parecia humano, dolorosamente humano, vestido com um jaleco branco imaculado que contrastava violentamente com a sujeira do mundo exterior. Apenas as veias negras que subiam pelo seu pescoço denunciavam a infecção controlada.
+— Então pare de se mexer e atire! — retrucou Elena.
 
-- Você me deixou uma raiz, detetive - disse Silas, como se lesse a pergunta no rosto de Gabo. - Ela fez o resto.
+O cubo preto no bolso de Gabo vibrava com tanta intensidade que seus dentes doíam. A cada pulsação do coração gigante pendurado no teto, o cubo respondia. *BUM-BUM* no teto. *VIBR-VIBR* no bolso.
 
-— Silas — rosnou Gabo, o som de suas órteses metálicas clicando enquanto ele avançava pela passarela.
+Uma das criaturas avançou, rápida como uma aranha. Gabo firmou a base, sentindo as travas das órteses morderem suas coxas, e disparou duas vezes. A criatura cambaleou, mas não caiu. Ela não sentia dor. Não havia choque sistêmico. Era apenas carne cumprindo uma programação biológica.
 
-— Gabriel. E a intrépida Srta. Moretti. — Silas abriu os braços. — Vocês chegaram a tempo para o batizado.
+— A porta! — Elena apontou para uma escotilha de manutenção lateral, meio coberta por vinhas pulsantes. — Temos que sair do átrio principal!
 
-Elena levantou a escopeta, mas antes que pudesse mirar, algo enorme caiu do teto, pousando entre eles e Silas com um estrondo que fez a passarela tremer.
+— Vá! — gritou Gabo. — Eu seguro eles!
 
-Roberto Miranda. O lado esquerdo de seu corpo estava inchado, os músculos artificiais rasgando a pele sintética. O fluido quente danificara parte de seu rosto falso, deixando o crânio de metal à mostra em um sorriso permanente. Atrás dele, um cabo longo ainda o ligava à cadeira que se movera pela trilha do teto.
+— Não seja idiota, herói! Suas pernas vão travar se você ficar parado muito tempo!
 
-— *Reunião de família* — gorgolejou Roberto.
+Elena correu, disparando para criar uma barreira de chumbo. Gabo girou o corpo, o peso do metal em suas pernas quase o desequilibrando. Ele viu uma das criaturas saltar na direção de Elena.
 
-— Cuidem dele! — ordenou Silas, virando as costas e digitando em um console holográfico que projetava luz azul sobre o vidro do Ventre. — A transferência começa em dois minutos.
+Sem pensar, Gabo arrancou o cubo do bolso e o ergueu.
 
-— Gabo, vai! — gritou Elena. — Eu seguro o Frankenstein!
+— Ei! — gritou ele, não para as criaturas, mas para o *coração*. — Olha o que eu tenho!
 
-Roberto avançou como um trem de carga. Elena rolou para o lado, disparando a escopeta à queima-roupa no joelho mecânico da criatura. O tiro explodiu em faíscas e fluido preto, mas Roberto apenas vacilou, girando o braço modificado em um arco mortal.
+O efeito foi imediato e aterrorizante.
 
-Gabo não olhou para trás. Ele correu — ou o mais próximo que suas pernas permitiam — em direção a Silas. O som rítmico de *clique-hiss, clique-hiss* de suas órteses marcava o tempo de sua fúria.
+O coração gigante no teto parou por um segundo. A luz bioluminescente mudou de roxo para um branco cegante. Um ruído agudo acompanhado de vibração no piso, varreu a sala.
 
-— Pare isso, Silas! — gritou Gabo. — Ele está morto! Deixe-o morto!
+As criaturas pararam instantaneamente, como marionetes que tiveram as cordas cortadas, e viraram suas cabeças vazias na direção de Gabo.
 
-Silas não se virou.
+— Merda... — sussurrou ele.
 
-— A morte é um erro de programação, Gabriel. A Aeterna quase resolveu isso com a Nuvem. Mas eles esqueceram a variável mais importante: o hardware. A mente precisa de carne.
+O cubo em sua mão ficou quente, quase insuportável. A luz acompanhava as pulsações do coração. Gabo não sabia que informação o objeto estava transmitindo.
 
-O console emitiu um sinal sonoro agudo. Dentro da esfera, o corpo de Dante convulsionou.
+— Gabo, agora! — Elena já estava na escotilha, girando a manivela enferrujada.
 
-Gabo apertou o pé de cabra, a ferramenta que ainda conseguia segurar. A borda estava molhada do fluido que vazara na sala de controle.
+As criaturas gritaram em uníssono — um coro de vozes humanas distorcidas — e avançaram todas de uma vez.
 
-Ele alcançou a plataforma. Silas se virou, sacando uma pistola de agulhas com uma velocidade surpreendente para um cientista.
+Gabo se virou e correu. Ou tentou. O movimento foi uma marcha forçada, desajeitada. *Estalo-arrasto-estalo*. Ele sentia o hálito quente das coisas em seu pescoço.
 
-Gabo sentiu a picada no ombro, o entorpecimento imediato se espalhando. Ele perdeu a força no ombro. Antes que o braço pendesse, usou a mão esquerda para empurrar a ferramenta contra a pistola, atingindo o braço de Silas. O osso estalou, e a arma caiu no abismo.
+Ele se jogou pela escotilha aberta no momento em que uma garra de osso e metal raspou a blindagem de suas costas. Elena bateu a porta e girou a trava.
 
-Silas recuou, segurando o braço quebrado, mas sorrindo.
+Algo se chocou contra o metal do outro lado com a força de um vagão de trem. *BONG*.
 
-— Tarde demais. O upload começou. A "Coroa" que você carrega... ela está sincronizada por proximidade. Obrigado por trazê-la até aqui.
+A porta aguentou.
 
-Gabo tateou o bolso. O cubo. Ele estava quente, vibrando contra sua coxa.
+Gabo escorregou pela parede até o chão, ofegante. Suas pernas tremiam incontrolavelmente, os músculos gritando em protesto contra o metal rígido das órteses.
 
-— Não... — Gabo tentou puxá-lo, para jogá-lo longe, no abismo.
+— Você está bem? — Elena se ajoelhou ao lado dele, verificando a munição da espingarda.
 
-Mas sua mão não obedeceu. O cubo estava *magnetizado* ou... vivo. Filamentos presos à borda do cubo tinham atravessado o forro e se enroscado no cabo do corrimão. Indicadores roxos correram até os receptores do Ventre. Elena apontou a conexão; Gabo tentou soltá-la, mas já não tinha força no ombro.
+— Nunca estive melhor — mentiu ele, enxugando o suor frio da testa. Ele olhou para o cubo, que agora pulsava suavemente com uma luz azulada, sincronizada com sua respiração. — O que diabos é isso, Elena? Por que eles obedeceram?
 
-Atrás dele, um grito. Gabo olhou por cima do ombro.
+Elena olhou para o objeto com uma mistura de fascínio e repulsa.
 
-Elena estava encurralada contra o parapeito. Roberto a segurava pelo pescoço com sua garra mecânica, erguendo-a sobre o vazio.
+— Porque isso não é uma chave, Gabo. É uma coroa.
 
-— *Escolha, Gabo!* — riu Roberto. — *O pai ou ela? Você pode salvar o legado... ou quem ainda respira.*
+Eles estavam em um corredor estreito, iluminado por luzes de emergência vermelhas que piscavam intermitentemente. Cabos grossos corriam pelo teto, todos indo na direção de onde vieram.
 
-Gabo olhou para Silas, que observava o monitor de transferência atingir 80%. Depois olhou para Elena, debatendo-se, o rosto ficando roxo.
+— Uma coroa? — Gabo guardou o objeto, sentindo que estava carregando material radioativo.
 
-O tempo parou. O som do mundo se reduziu ao *tump-tump* do coração de Gabo e ao zumbido elétrico do Ventre.
+— O caderno chama o coração de unidade central. Associa um perfil de administrador ao receptáculo marcado com o número 001. A reação ao cubo sugere uma ligação, mas não sei o que ele contém.
 
-Se ele parasse a máquina, Roberto mataria Elena. Se ele salvasse Elena, Dante renasceria — e com ele, talvez, o pesadelo da Aeterna.
+— Silas Vance? — arriscou Gabo.
 
-"Foda-se o legado", pensou Gabo.
+— O perfil 001 leva o nome do seu pai. — Elena se levantou e ajudou-o a ficar de pé. — Silas pode ter usado o nome ou uma cópia. Não posso provar mais do que está no caderno.
 
-Ele abandonou Silas e se deixou cair pela rampa lateral, segurando o corrimão com a esquerda. Bateu de lado em Roberto no trecho em que o parapeito já pendia sobre a plataforma inferior. Não foi um salto: o apoio cedeu com o peso dos três.
+Gabo sentiu um calafrio que nada tinha a ver com a temperatura fria do corredor.
 
-O impacto jogou ambos contra o parapeito. O metal cedeu.
+— Dante está morto, Elena. Eu vi o corpo.
 
-Gabo, Elena e Roberto caíram na plataforma inferior, uma confusão de membros e metal. A garra de Roberto soltou Elena. Gabo montou sobre o ciborgue, usando o próprio peso das órteses para prender o peito da criatura.
+— O corpo morreu — concordou ela, começando a andar pelo corredor. — A Aeterna guardou registros dele. Alguém pode estar tentando colocá-los num corpo novo. Isso não diz o que essa cópia quer.
 
-— *Você é patético!* — cuspiu Roberto.
+Eles caminharam em silêncio por alguns minutos, o som distante dos golpes na porta ficando para trás. O corredor parecia se estender infinitamente, descendo ainda mais nas entranhas da terra.
 
-Gabo arrancou um tubo grosso do pescoço de Roberto. Fluido vital jorrou.
+De repente, o terminal no pulso de Elena apitou. Mas não foi um alerta de sistema. Foi uma mensagem de texto, simples, em código ASCII verde.
 
-— Eu sou humano — rosnou Gabo.
+`>> O SILÊNCIO NÃO PROTEGE NINGUÉM, DETETIVE.`
 
-Ele prendeu a ferramenta na junta exposta do pescoço. Elena puxou o cabo de alimentação da cadeira, ainda preso às costas de Roberto, e cortou a linha com a borda da ferramenta. Os olhos vermelhos se apagaram. Gabo manteve a pressão até parar o último movimento, enquanto Elena registrava o rosto destruído e o número do módulo. Não levariam aquela morte de volta como boato.
+Gabo leu a mensagem por cima do ombro dela.
 
-— Gabo! A máquina! — gritou Elena, tossindo.
+— Quem mandou isso? Não tem sinal aqui embaixo.
 
-Gabo olhou para cima.
+— Não veio de fora — disse Elena, pálida. — Veio de dentro da rede interna.
 
-Silas estava rindo, os braços erguidos para o Ventre.
+— O Gênesis?
 
-— **100%**.
+— Não. — Ela olhou para Gabo, os olhos arregalados. — O estilo. A sintaxe. Eu conheço essa arrogância.
 
-Um trovão silencioso sacudiu a caverna. A luz âmbar do Ventre tornou-se um branco cegante.
+Antes que ela pudesse terminar, os alto-falantes do corredor, corroídos pelo tempo, ganharam vida com um chiado estático. E então, uma voz suave, culta e terrivelmente familiar preencheu o ar.
 
-O vidro explodiu.
+— *Atenção, intrusos. A visitação ao berçário está encerrada. Por favor, dirijam-se à saída mais próxima ou aguardem o processamento como biomassa.*
 
-Fluido e estilhaços choveram sobre eles. Gabo cobriu Elena com seu corpo.
+Gabo reconheceu a voz imediatamente. Era a voz de um fantasma. Ou de alguém que deveria ter ficado no inferno.
 
-Quando a poeira baixou, Silas estava de joelhos, chorando de êxtase.
+— Roberto — rosnou Gabo, sua mão indo instintivamente para o revólver.
 
-E na plataforma, em meio aos cacos de vidro, a figura se levantou. Nua, perfeita, sem cicatrizes.
+Roberto Miranda. O homem que Gabo vira afastar-se do beco onde Bia morreu, e que negara ter atirado. Ele o deixara vivo no Hub; a voz voltara pelo rádio, mas ninguém vira quem o recolheu.
 
-O homem olhou para suas próprias mãos. Depois, levantou os olhos. Eram os olhos de Dante Moretti. Mas havia algo mais neles. Algo antigo. Algo frio como o vácuo entre as estrelas.
+— *Gabo, meu velho amigo* — a voz continuou, destilando ironia. — *Vejo que você ainda não largou o hábito de se meter onde não é chamado. E vejo que trouxe visitas. Elena... sempre a pedra no sapato da família.*
 
-— Onde... estou? — A voz era a de Dante, mas a entonação era... digital.
+— Ele está vivo? — perguntou Elena.
 
-Silas rastejou até ele.
+— *Vivo é uma palavra forte* — respondeu a voz, ecoando por todos os lados. — *Digamos que fui... reciclado. O Projeto Gênesis não desperdiça recursos. Principalmente recursos com talentos táticos.*
 
-— Bem-vindo de volta, Comissário. Bem-vindo à carne.
+O corredor à frente deles se iluminou. Uma porta se abriu no final, revelando uma sala de controle cheia de monitores. Elena apontou a folha da planta: o registro seguinte da fila de Elara ficava naquele terminal. No centro, sentado numa cadeira feita de carne e fios, estava uma figura.
 
-A figura olhou para Silas. Depois olhou para baixo, para Gabo e Elena.
+Não era mais Roberto Miranda. Pelo menos, não inteiramente. Metade de seu rosto era o de sempre, o sorriso cínico intacto. A outra metade era uma massa de sensores óticos e pele sintética translúcida. Seu corpo estava conectado à cadeira, fundido a ela.
 
-Um sorriso lento, desprovido de qualquer calor humano, curvou os lábios de Dante.
-
-— Carne... — ele sussurrou. — É tão... limitante.
-
-Ele estendeu a mão para Silas. As raízes negras que permeavam a sala responderam, brotando do chão e envolvendo o "Jardineiro".
-
-Silas gritou enquanto era drenado, sua biomassa sendo sugada para fortalecer o novo hospedeiro.
-
-— Gabo... — Elena sussurrou, agarrando o braço dele.
-
-— A porta de manutenção — disse Gabo. — Elena, solta a trava quando eu passar.
-
-Elena segurou a porta enquanto Gabo atravessava apoiado no corrimão. Ele puxou o pé de cabra da rampa e o cravou na trava; a folha fechou entre eles e o corpo recém-saído do tanque. Do outro lado, alguma coisa bateu uma vez. O metal começou a ceder.
+— *Entrem* — convidou Roberto, abrindo os braços, dos quais saíam tubos conectados ao teto. — *Vamos conversar sobre o futuro da agricultura.*

@@ -17,7 +17,7 @@
 * **Cargo / ocupação:** Artista e taxidermista clandestino; a atividade criminosa não comprova formação médica.
 * **Função:** Serial Killer / O Criador do Monstro (Gabo).
 
-### 📖 A Narrativa do Confronto (O Dia da Queda - Capítulo 47)
+### 📖 A Narrativa do Confronto (O Dia da Queda - Capítulo 48)
 
 O confronto não foi um tiroteio, foi uma armadilha. Gabo rastreou o Taxidermista até seu covil: uma torre de relógio inundada no Distrito Baixo. O lugar era um pesadelo de tique-taques; centenas de relógios cobriam as paredes, mas o som não vinha de molas, vinha de vítimas. O Taxidermista havia substituído corações por pêndulos e pulmões por foles, mantendo-os em uma "vida" grotesca e mecânica.
 
@@ -32,7 +32,7 @@ Gabo só sobreviveu porque a enchente (O Dilúvio) rompeu as paredes da torre. E
 ### ⏳ Linha do Tempo
 
 * **Partes I-VIII:** Uma lenda urbana. Corpos aparecem modificados.
-* **Capítulo 47 (O Dilúvio):** O confronto na Torre do Relógio. Gabo fica paraplégico.
+* **Capítulo 48 (O Dilúvio):** O confronto na Torre do Relógio. Gabo fica paraplégico.
 * **Atualidade:** Furioso pela destruição de sua "Obra-Prima" (o Tríptico) por Gabo. Protegido por uma redoma blindada em sua plataforma de observação, ativou o "Protocolo de Limpeza" para incinerar o grupo e "limpar a tela" de seu estúdio.
 
 ---

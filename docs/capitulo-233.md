@@ -1,145 +1,150 @@
 ---
-Título: Ponto Zero
-Data In-Game: Sexta manhã na Velha Baía
-Localização: Galpão de Impressão, Velha Baía
-Personagens Presentes: Gabo, Valéria, Elias, Elena, Dra. Elara Vance
+Título: Catraca
+Data In-Game: Quarto dia na Velha Baía
+Localização: Pátio Externo e Canal de Drenagem, Velha Baía
+Personagens Presentes: Gabo, Valéria, Elias, Elena, Anselmo Braga
 ---
 
-# Capítulo 233: Ponto Zero
+# Capítulo 233: Catraca
 
-A caixa não estava no inventário. Elias achou ela numa manhã em que estava reorganizando as pilhas para abrir corredor entre as prensas — atrás da quarta fileira, encostada na parede, coberta pela lona que a gente usou para cobrir o Duarte. Metal, com reforço nos cantos, do mesmo tipo da caixa do Estudo Longitudinal. Etiqueta datilografada, colada e recolada:
+A Valéria montou a armadilha em sete horas e ela era boa.
 
-ARCA N.O.A. — TRANSMISSÕES RECEBIDAS
-ACESSO: DIRETORIA
-Ele a colocou na mesa e chamou a doutora, porque a essa altura já tinha aprendido que caixa de canto reforçado se abre com ela por perto.
+Sensor de pressão no barranco do canal, feito com fio de cobre e uma placa de prensa. Rede de carga içada numa polia, com as bordas ligadas por cabos a um contrapeso de duzentos quilos. O peso corria por guias ao lado do muro, não cairia sobre o corpo de ninguém. Dois pontos de fogo cruzado: ela numa passarela, o Elias com a espingarda de cano duplo dos Rossi atrás de um muro de fardos de papel. E eu no portão, sozinho, como isca, porque era o único jeito de ele chegar perto.
 
----
+Às onze em ponto ele veio pelo canal. Às onze e um a placa de pressão disparou.
 
-A caixa exalou quando abriu. Ar frio e velho, com cheiro de óleo mineral e sal cristalizado — o mesmo cheiro que subiu do berço dela na galeria. Cheiro de coisa lacrada por gente que esperava não estar viva quando alguém abrisse. Elias virou a cara. Dentro havia rolos de fita e um livro de capa dura, do tipo que operador de rádio usa para registro de turno. Não era o diário de Arthur Vance. Era a **transcrição** — tudo que a Arca N.O.A. transmitiu para a superfície, capturado pela estação da Aeterna e transcrito por um terminal eletromecânico. O livro trazia os carimbos automáticos de recepção; as fitas permitiam conferir erros da transcrição.
-
-A Dra. Elara Vance puxou o livro com as duas mãos. A capa era de couro duro e gelada, e continuou gelada mesmo depois de minutos no colo dela. Abriu ali mesmo, na cadeira de aço no meio do galpão, com as prensas batendo ao fundo. E ficou lendo. Levou quarenta minutos. A Elena mandou parar uma das prensas, depois as outras duas, e o galpão inteiro ficou em silêncio pela primeira vez em cinco dias. Quando terminou, fechou o livro e deixou as mãos em cima dele.
-
-— A última transmissão recebida nesta caixa é do dia noventa e seis — ela disse. — Depois dela, não temos outra. Não sei o que restou do transmissor.
+Às onze e dois a rede caiu em cima dele. O contrapeso desceu nas guias e puxou as bordas contra as argolas fincadas no pátio. Braga caiu de lado, com os braços presos ao corpo; a malha cedeu o bastante para ele respirar. Funcionou. Foi a coisa mais assustadora que eu vi naquela semana.
 
 ---
 
-Ninguém sabia o que dizer, então eu disse a única coisa que sabia perguntar.
+Porque ele não lutou. Ficou caído de lado sob a rede, respirando pesado pelo esforço da queda, e esperou a poeira baixar. Depois virou o rosto na minha direção, no chão, e falou com o mesmo tom de balcão de repartição:
 
-— A senhora quer contar?\
-— Eu quero que fique registrado. — Ela levantou o queixo. — Traga a jornalista. Elena puxou o caderno e sentou no cascalho ao lado da cadeira. E a Dra. Elara Vance leu a última voz do próprio pai em voz alta para nós quatro.
+— Boa, essa. O gatilho no barranco eu não vi.
 
----
+— Cala a boca.
 
-Nos primeiros dias, é um homem eficiente. Inventário de sistemas, diagnóstico de casco, ativação da Fase 2. Frases curtas, verbo no infinitivo. *Liberar unidades. Estabelecer perímetro. Aguardar consolidação.* No dia quatro, a primeira linha que não é ordem:
+— Não estou provocando, Sr. Moretti. Estou elogiando. — Ele mexeu os ombros, testando a rede sem força, como quem confere se a carga está bem amarrada. — A moça das lentes que montou?
 
-"Oito. Contava com mais."
-No oitavo dia do Dilúvio as unidades alcançam a Orla Norte, e ele registra a chegada com uma satisfação que ainda atravessava os meses de papel: *"Perímetro estabelecido. A cidade responderá em 72h."* A cidade não respondeu em setenta e duas horas. No dia dezenove, duas unidades param de reportar. No vinte e três, mais uma. Ele anota cada perda com número de série e hipótese técnica — *falha de junta de quadril*, *perda de pressurização*, *causa não determinada* — e nunca, em nenhuma linha, escreve a palavra "ferrugem".
+Valéria desceu da passarela com a *Caronte* apontada.
 
-— Ele não podia — disse a doutora, sem levantar os olhos. — Ferrugem significa tempo. E tempo significa que ele dormiu demais. Eu me lembrei da praia. Da manhã em que aquela coisa de quarenta metros subiu o aterro da Orla Norte mancando, com a perna direita tremendo e o hidráulico vazando um filete escuro que formou poça antes de ela parar de andar. Na época eu achei que era dano de combate. O relatório aponta desgaste como outra possibilidade; não prova a causa da falha naquela máquina. Eu vi o vazamento de perto e não soube distinguir uma coisa da outra. O gosto de ferro voltou à minha boca só de lembrar.
+— A rede está presa nas quatro argolas, — ela disse. — Não consigo garantir quanto tempo elas aguentam. Precisamos revistar ele e colocar algemas antes de aliviar o peso.
 
----
+— Não saio mesmo, — Braga confirmou, prestativo.
 
-A parte insuportável começa no segundo mês. Porque ele continua. Continua emitindo ordem de manobra para unidades que não reportavam havia semanas. Continua fazendo chamada nominal — *L-04, reporte; L-04, reporte* — três vezes por dia, todos os dias, com a mesma repetição mecânica. Continua planejando a Fase 3, que era a administração da cidade pacificada, com organograma, distritos e turnos. Ele transmitiu o organograma inteiro. Está no livro, na página cento e quarenta e um. Uma caixa no topo escrita **COMANDO** e treze embaixo, e em três delas nomes de gente morta durante os vinte e sete anos de estase.
+Elias saiu de trás dos fardos com a espingarda tremendo tanto que eu tive medo de estar mais perto dele do que do Braga.
 
-— As transmissões foram arquivadas, mas não achei aqui registro de quem as recebeu ou leu — disse Valéria. Tinha se aproximado sem ninguém perceber. — A queda da Torre não prova que toda estação ficou sem operador.\
-— Também não sabemos o que ele soube — falei.\
-— Neste material, ele não menciona o que veio depois. — A doutora apoiou os dedos na capa. — Ele não menciona a queda da Torre, a Praga de Ferro, o Jardim ou o Sentinel. Também não há aqui notícia de que soubesse até onde Krell ampliara o programa que ele mesmo autorizou antes de descer. Desconhecer o que veio depois não o inocenta do que deixou funcionando. Ela olhou para mim.\
-— Nessas transmissões, meu pai passou três meses achando que estava conquistando Baía Cinzenta. E Baía Cinzenta já tinha sido comprada, moída e revendida por um rapaz que ele contratou para digitalizar contrato de cemitério e cujo nome ele provavelmente nunca aprendeu.
+Valéria cobriu Braga com a escopeta enquanto Elias, tremendo, tirava a faca da bota dele e prendia seus pulsos com algemas de um armário da gráfica. Não tínhamos resolvido o que fazer depois.
+
+O sol batia na rede de aço e o pátio inteiro cheirava a poeira quente e a maresia podre do canal. Cada vez que Braga respirava, a malha rangia contra o cascalho, um som fino e regular de coisa mastigando devagar. Eu tinha gosto de metal na boca desde o café, e a cinta laranja do Duarte, enrolada no cinto dele, estava exatamente à minha altura dos olhos.
 
 ---
 
-— Por que ele não subiu? — perguntou Elias, baixinho. — Não tinha um submersível? Alguma coisa?\
-— Tinha. — Ela abriu numa página marcada com o dedo. — Cápsula de ascensão, dois lugares, manutenção independente. Consta no inventário do dia um: *"Operacional. 100%."*\
-— Então ele podia sair a qualquer momento.\
-— O inventário dizia que estava operacional no primeiro dia. Não mostra se continuou assim até o ataque. O galpão ficou muito quieto.\
-— Ele não subiu porque não ia subir como refugiado. Está transmitido, no dia trinta e um, com essas palavras: *"Ascender antes da consolidação seria chegar como sobrevivente. Eu não passei vinte e sete anos aqui embaixo para chegar como sobrevivente."* Ela fechou o livro.\
-— Ao menos no dia trinta e um, ele dizia preferir esperar. Isso não prova que a cápsula estivesse disponível até o fim.
+— A gente prende, — disse Elias. — Tem um depósito com porta de aço. Bota ele lá.
+
+— E quem alimenta? — perguntou a Valéria. — Quem vigia? Precisamos de revezamento, alimentação e uma sala que ele não consiga abrir. Não basta deixar um civil com a espingarda no colo. Vamos chamar os outros trabalhadores e pedir custódia pelo rádio.
+
+— A gente amarra melhor.
+
+— Ele é estivador, rapaz, — disse Braga do chão, sem levantar a voz. — Eu amarro melhor que a moça e sei desfazer o que eu amarro. Vocês vão precisar me deixar sem uma das mãos, e aí eu infecciono e vocês vão ter que cuidar disso também.
+
+— **Cala a boca!** — Elias gritou.
+
+— Estou tentando ajudar. — Era o jeito dele de fazer o próprio ultimato parecer a única conversa possível. — Vocês não pensaram nessa parte porque vocês são gente boa. Eu já tive catorze anos para pensar em como se guarda uma pessoa. Custa caro. Custa mais do que vocês têm.
+
+Eu andei até ele e agachei, com dificuldade, apoiando a mão no joelho bom.
+
+— Eu posso te soltar longe daqui. Cem quilômetros. Sem comida.
+
+— O senhor pode. — Ele assentiu. — E eu volto andando. Vai levar uns onze dias e eu chego. — Ele disse aquilo sem bravata nenhuma, como quem informa horário de ônibus. — E nesses onze dias o senhor vai dormir mal, e a jornalista vai dormir mal, e o rapaz de macacão vai dormir com a espingarda no colo até se acostumar, e aí ele vai relaxar num dia qualquer, e é nesse dia que eu chego.
+
+— Você não vai chegar.
+
+— Sr. Moretti. — Pela primeira vez, alguma coisa parecida com cansaço na voz dele. — O senhor sabe o que eu sou. O senhor prendeu gente a vida inteira e sabe diferenciar o sujeito que fala grosso do sujeito que só está informando. Eu estou informando.
 
 ---
 
-— Doutora — falei, e a minha voz já estava errada, porque eu tinha feito a conta no meio da leitura e estava esperando o fim para ter certeza. — Que dia foi a última transmissão?\
-— Dia noventa e seis.\
-— Que **data**. Ela me olhou. E entendeu antes de responder, do jeito que ela entende tudo, meio segundo antes de todo mundo.\
-— O senhor sabe que data foi.
+Ficamos até o sol começar a descer.
 
-Eu sabia. Foi no ataque orbital. Eu estava num poço de ventilação no subsolo da Torre Aeterna, com a Val digitando ao meu lado e três plataformas orbitais em janela de lançamento, e um alvo padrão marcado no centro geométrico de Baía Cinzenta que ninguém precisava confirmar porque o *default* já estava lá. E eu escolhi um retângulo de água preta a leste. A Val me avisou que o arquivo de apoio ligado ao padrão do meu pai estava lá embaixo, e eu disse que meu pai estava na cidade e que o que tinha no fundo do mar era um arquivo corporativo com a cara dele, e ela confirmou o risco, registrou meu comando e digitou as coordenadas, e eu falei *fogo*. Quatro minutos e onze segundos. O céu ficou branco três vezes. O chão bateu de leste. Nove toneladas de tungstênio a doze mil quilômetros por hora, três vezes, num ponto do oceano onde eu sabia que tinha um cofre. Eu não sabia que tinha um homem.
+Dois trabalhadores aceitaram turnos de guarda. Pelo rádio, o abrigo do Setor 4 respondeu que poderia receber Braga em dois dias, se a estrada continuasse aberta. Não era uma garantia. Era uma alternativa, e eu ouvi a mensagem inteira.
 
----
+A Elena foi cuidar da tiragem porque o mundo não para. O Elias ficou de guarda até as três e depois eu mandei ele comer. Valéria organizou com os dois trabalhadores um revezamento de observação, água e verificação das algemas. Depois ficou comigo no primeiro turno.
 
-Ninguém falou nada por um tempo muito longo. Foi a Elena que quebrou, e ela quebrou olhando para o caderno dela em vez de para nós dois.
+E eu fiquei ali, sentado num caixote a três metros de um homem preso numa rede, porque eu não conseguia sair de perto. Foi ele que puxou assunto, no fim da tarde.
 
-— Vocês querem que eu tire essa parte?\
-— Não — disse a doutora.\
-— Doutora—\
-— **Não.** — Ela virou a cadeira de aço com as mãos, encarando a Elena de frente. — Eu passei décadas preservando séries de um arquivo de sessenta e um anos justamente para que ele saísse inteiro. Não vou começar a editar agora que a linha ruim é minha. Depois virou para mim. E eu esperei. Eu não sei o que eu esperava — que ela gritasse, acho. Que me chamasse de assassino, que fosse justo, que fizesse sentido. Ela disse:\
-— O senhor tinha três hastes e o disparo estava apontado para o centro da cidade, inspetor. A alternativa escolhida foi a instalação no mar.\
-— Doutora, eu—\
-— **Quantas pessoas moravam naquele retângulo?** Eu abri a boca e não saiu nada.\
-— Não havia população cadastrada — ela mesma respondeu. — Isso não prova que só houvesse meu pai lá embaixo. O último registro da cápsula é anterior ao ataque; não temos confirmação do que restou. — E no centro geométrico de Baía Cinzenta moravam cerca de quarenta mil, considerando os abrigos. O senhor desviou o ataque dos abrigos para uma instalação sem população civil registrada. — Ela apoiou as mãos no livro outra vez. — Foi a decisão correta e continuaria sendo correta se o senhor soubesse quem estava lá dentro. Eu me recuso a fingir o contrário só porque a uma era meu pai.\
-— Isso não é... — engoli. — A senhora não precisa fazer isso.\
-— Eu não estou fazendo nada pelo senhor. — E aí a voz dela finalmente vacilou, uma vez, no meio. — Eu estou fazendo a conta. É o que eu sei fazer. É o que eu faço em vez de sentir, e é tarde demais para eu aprender outra coisa.
+— O senhor perdeu a mãe na enchente.
 
----
+Eu não me mexi.
 
-A última página tem duas linhas.
+— Não fala da minha mãe, Braga.
 
-"Dia 96. Chamada: nenhuma resposta."
-E, depois, sem hora, a única frase do livro que não é relatório:
+— **Eu não estou provocando**, — ele respondeu, baixo e gentil. — Eu não estou perguntando, Sr. Moretti. Eu sei desde o mês do Dilúvio.
 
-"Elara, se você estiver ouvindo isto: a culpa não foi sua. Eu te deixei sozinha com aquilo."
-A doutora leu essa parte em voz alta com absoluta firmeza. Depois ficou olhando para a página.
+Levantei a cabeça.
 
-— Isso é falso — ela disse.
+— Como.
 
-— Doutora—
+— Pátio do Fosso. Um agente chamado Peçanha, que gostava de contar coisa de rua para os presos porque isso fazia ele se sentir importante. — Braga estava olhando o céu. — Ele chegou uma tarde e disse assim: *"Braga, sabe aquele detetive que te enfiou aqui? Perdeu a mãe na enchente. Dona Helena morreu no cerco, sem conseguir o atendimento de que precisava, enquanto ele bancava o herói na rua. Coisa de Deus."*
 
-— **É falso, inspetor.** — Os olhos azul-gelo estavam secos, e era pior assim. — Ele não me deixou sozinha. Ele me deixou **com autoridade**. Com acesso, com o arquivo inteiro e com uma chave de estase. Eu tinha tudo que era necessário para encerrar aquele programa. Eu li o protocolo, entendi o protocolo, escrevi que era indefensável, e recomendei que fizessem em escala. Bateu duas vezes na capa, devagar.
+Eu senti o cascalho debaixo de mim ficar muito longe.
 
-— Ele passa noventa e seis dias ordenando manobra para máquina afundada e, no último, encontra tempo para me isentar de uma coisa da qual eu não quero ser isentada. É uma absolvição que eu não aceito. Não vou atestar a honestidade de cento e quarenta páginas só porque reconheço a última mentira. Elena tinha parado de escrever.
+— E o pátio inteiro achou ótimo, — ele continuou. — Uns cinquenta homens comemorando a morte de uma senhora que não fez mal a ninguém, só porque ela era mãe do policial que prendeu eles. Teve gente que bateu palma.
 
-— A senhora não quer que eu publique.
+Uma pausa.
 
-— Publique. Inteiro, incluindo essa parte. — Ela ergueu o queixo. — E acrescente, com o meu nome embaixo: **a filha recusa a absolvição.**
+— Eu levantei e fui pro canto e vomitei atrás do bebedouro.
+
+Eu não estava respirando direito.
+
+— Por quê? — consegui perguntar.
+
+— Porque eu tinha uma filha lá fora, na mesma água. — Ele virou o rosto, e os olhos pequenos e parados estavam molhados, e ele não fez absolutamente nada a respeito. — E porque quem comemora inocente afogado é bicho, e eu já era assassino de mulher, mas eu ainda não era bicho. Naquela tarde eu decidi que ia continuar não sendo.
+
+— Você matou o Duarte ontem.
+
+— Matei. E vou pagar por ele. — Assentiu. — Mas eu não comemorei, Sr. Moretti. Tem diferença. É pouca, e é a única que eu tenho.
 
 ---
 
-Fiquei no galpão depois que os outros voltaram ao trabalho. Sentei no cascalho perto dela, porque o joelho já não me deixa fazer outra coisa.
+— A minha filha chamava Marta, — ele disse, depois de um tempo. — Tinha quatro anos quando eu entrei. Ficou com a tia no Setor 11.
 
-— Não sobrou corpo — falei. Não era pergunta.
+— Braga.
 
-— Não temos recuperação de casco nem corpo, inspetor. Só a interrupção das transmissões e o registro do ataque. — Ela olhou para a porta aberta do galpão, para a luz. — Ponto Zero continua sem responder. Vou registrar a perda sem inventar o que ninguém conseguiu recuperar.
+— Eu escrevi toda semana. Catorze anos. Setecentas e vinte e oito cartas, com a letra bonita, porque eu treinei a letra na cadeia justamente pra isso. — A voz dele não mudava nunca, e por isso era insuportável. — Ela respondeu até os onze. Depois parou, e eu continuei escrevendo, porque carta que não é respondida ainda é carta.
 
-— Sinto muito.
+Ele fechou os olhos.
 
-— Eu também. — Do jeito que se confere um número. — Não pelo homem. Pelo desperdício. Ficamos ali. E aí ela falou mais uma coisa, e foi a única vez em que a voz dela saiu com alguma coisa dentro.
+— Quando as portas do Fosso cederam, três meses atrás, eu andei três dias até o Setor 11. A tia tinha morrido. Um vizinho me contou que a Marta ficou até os dezoito e morreu no Dilúvio, num abrigo da escola municipal que encheu porque não coube todo mundo e as portas foram fechadas por fora.
 
-- Nós dois estivemos debaixo d'água ao mesmo tempo, sabia? Eu na Arca Zero, ele em Ponto Zero. Duzentos quilômetros de distância. Ele acordado, esperando uma cidade que não vinha. Eu acordada dentro do vidro, esperando duas pessoas que conseguissem concordar em girar uma chave. Ela apertou a capa do livro.
+Abriu os olhos.
 
-— Ele esperou noventa e seis dias e não veio ninguém. Eu esperei meses e vieram vocês.
+— O mesmo desastre, Sr. Moretti. A sua mãe e a minha menina, cercadas no mesmo mês.
 
----
+Silêncio.
 
-Antes de rodar o caderno, a Elena levou o gravador de bobina até a mesa e sentou a doutora na cadeira de aço.
+— E é por isso que eu vim, — ele disse. — Não é vingança. Vingança seria eu tirar alguém seu pra gente ficar quites, e a água já tirou, e eu não fico feliz com isso e não é isso que eu quero.
 
-— Leia outra vez. Do começo. Para a fita.
+Ele me olhou.
 
-— Eu já li.
+— Eu vim porque eu perdi catorze anos que eram os anos dela. Se eu tivesse solto, eu não sei se ela estaria viva — talvez não, talvez eu fosse um pai ruim e ela morresse igual. Eu não sei. **E é o não saber que eu não aguento.** O senhor me tirou a chance de descobrir, com uma faca que o senhor colocou numa caixa d'água, porque o senhor tinha pressa.
 
-— A senhora leu para quatro pessoas. A fita não cansa e não corrige. — Ela encaixou um carretel virgem da gráfica; os registros originais da caixa ficaram separados e identificados. — Esta será a matriz da nossa leitura. Se as doze mil cópias sumirem, essa bobina continua existindo. Levou três horas e quarenta minutos. A doutora leu o livro inteiro sem parar para café, e quando o carretel acabou ela esticou a mão sem pedir nada, e a Elena pôs outro no cabeçote. No fim, a Elena escreveu na etiqueta com caneta de bico: **LEITURA INTEGRAL — E. VANCE**. Embrulhou os carretéis em papel pardo, identificou a ordem e entregou o conjunto à equipe para guardar com as outras cópias.
+Eu abri a boca e não saiu nada.
 
-— Devia ficar no cofre — falei.
-
-— Cofre é o primeiro lugar que eles abrem, Gabriel. A doutora ficou olhando os carretéis nas mãos da equipe.
-
-— A senhora não vai perguntar para quê? — perguntei.
-
-— Passei décadas sabendo para quê. — Ela endireitou a coluna na cadeira. — Só quero que fique registrado que eu li inteiro. Inclusive a última página.
+— E aí eu passei catorze anos deitado num beliche pensando: se o homem que fez isso comigo é um homem justo, então eu mereço. Eu consigo carregar isso, se ele for justo. — A voz dele finalmente rachou, uma vez, no meio. — Mas se ele for igual a mim, um sujeito que faz o que dá na telha e depois dorme, então eu perdi a minha filha porque um cara qualquer teve pressa numa terça-feira. E isso eu não carrego, Sr. Moretti. Isso eu não carrego de jeito nenhum.
 
 ---
 
-À tarde, a Elena rodou o caderno especial. Dezesseis páginas, doze mil cópias, capa preta. No alto, uma linha só:
+Ele respirou fundo. Recompôs. Voltou ao tom de balcão.
 
-ARCA N.O.A. — AS ÚLTIMAS TRANSMISSÕES DE ARTHUR VANCE, FUNDADOR DA AETERNA S.A.
-E, no rodapé da última página, em corpo miúdo, exatamente como ela pediu:
+— Então é isso que eu vim buscar. Não é a sua morte. É uma resposta.
 
-Nota da Dra. Elara Vance, filha do autor: a filha recusa a absolvição.
+— Que resposta?
+
+— O senhor vai me matar aqui, no chão, amarrado, sem eu poder levantar a mão. — Ele disse aquilo como quem descreve um procedimento. — E aí eu vou saber. Vou saber que era isso, que foi sempre isso, que não teve justiça nenhuma na minha vida, só um homem com pressa. E vai doer, mas vai ser **descanso**, porque eu vou parar de perguntar.
+
+— E se eu não matar?
+
+— Aí eu saio dessa rede algum dia e cobro do rapaz de macacão. — Sem crueldade. Com pena, quase. — E depois da jornalista. E o senhor vai voltar aqui e vai me matar de qualquer jeito, só que com mais três pessoas embaixo da terra e nenhuma dúvida sobrando.
+
+Ele fechou os olhos e apoiou a cabeça no cascalho, confortável, como quem termina o expediente.
+
+— Eu já pensei em tudo isso, Sr. Moretti. Eu tive catorze anos. O senhor tem até de manhã.

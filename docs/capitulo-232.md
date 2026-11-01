@@ -1,150 +1,151 @@
 ---
-Título: O Justo
-Data In-Game: Quinta madrugada na Velha Baía
-Localização: Pátio Externo, Velha Baía
-Personagens Presentes: Gabo, Valéria, Elena, Anselmo Braga
+image: /cenas/capitulo_232/cena_1.jpg
+Título: A Conta Antiga
+Data In-Game: Terceira noite na Velha Baía
+Localização: Galpão de Impressão, Velha Baía
+Personagens Presentes: Gabo, Valéria, Elias, Elena, Dra. Elara Vance
 ---
 
-# Capítulo 232: O Justo
+# Capítulo 232: A Conta Antiga
 
-Não dormi. Passei a noite no galpão, entre as pilhas do arquivo, com a lamparina baixa e uma pasta aberta no colo que eu não estava lendo. **MORETTI, G. — EM CAMPO — NÃO COLETAR — GRUPO DE CONTROLE.** Uma caixa registrava anos de vigilância; lá fora, um homem amarrado numa rede dizia que eu escolhera o que fiz numa terça-feira, sozinho. Eu queria que o arquivo explicasse aquela escolha. Não explicava. A corporação tinha me observado, e eu tinha plantado a faca mesmo assim.
+Enterramos o Duarte às quatro da tarde, num terreno atrás do galpão, porque não havia mais cemitério e nem quem administrasse um. A irmã dele chegou de Setor 9 no fim do dia. Tinha dezenove anos e veio a pé. Ficou olhando o monte de terra por muito tempo, e depois perguntou à Elena se o irmão tinha morrido fazendo alguma coisa importante, e a Elena disse que sim, e não era mentira, e mesmo assim eu tive que sair de perto. Fiquei no pátio até escurecer, olhando a marca que a cinta laranja deixou na grade.
 
----
-
-A Elena me achou às quatro. Sentou no chão de novo, do mesmo jeito, e não trouxe copo dessa vez.
-
-— Eu vou fazer, — falei.
-
-— Eu sei.
-
-— Você não vai tentar me impedir?
-
-— Vou continuar tentando — disse. — O abrigo respondeu. Podemos manter a guarda por dois dias. Pode dar errado, mas existe essa saída. Você está escolhendo não esperar.
-
-— Ele pode fugir.
-
-— Pode. Não sabemos que vai. E uma ameaça não torna verdadeiro tudo que ele diz sobre o futuro. Ela olhou para mim.
-
-— A única coisa que eu vim pedir é que você não minta pra si mesmo sobre o que isso é.
-
-— Como assim?
-
-— Você vai matar um homem desarmado e imobilizado. — A voz dela não tinha julgamento; tinha exatidão, que é pior. — Isso tem um nome, e o nome não é justiça, e não é legítima defesa, e não é execução de sentença porque não existe sentença. Você diz que vai proteger os outros, mas está recusando uma custódia possível porque não aceita o risco. Eu não vou chamar essa recusa de necessidade. Continua sendo um assassinato.
-
-Eu fiquei quieto.
-
-— Se você chamar de outra coisa, — ela continuou, — daqui a dez anos você vai fazer de novo com menos cuidado. É assim que começa. Você mesmo me contou como começa.
-
-— Elena.
+O cheiro não saía. Não era o do rapaz — era o **dele**: sabão industrial e água parada, um odor de lavanderia de presídio que ficou grudado no ferro do portão e que o vento do canal não levava. Cada vez que a brisa virava, vinha de novo, azedo e limpo ao mesmo tempo, e o gosto disso descia pela garganta e assentava como moeda velha na língua. Ao longe, as prensas continuavam batendo. *Tchunc-tchunc-tchunc.* O mundo imprimindo a acusação de um homem enquanto o filho de outra mulher jazia debaixo da terra recém-virada. A Elena veio quando as prensas pararam. Sentou no cascalho, do meu lado, com dois copos e uma garrafa de alguma coisa que tinha sido uísque em outra vida. Serviu os dois. Não me entregou o meu; deixou no chão, ao meu alcance.
 
 — Fala.
 
-— Escreve. — Eu olhei para ela. — O que eu fiz com a faca de catorze anos atrás, com Éder rendido na Avenida da Indústria, e o que eu acabei de dizer. Se eu matar o Braga, escreve isso também. Põe meu nome e a data na tiragem sobre o Krell. Ela levou um tempo.
+---
 
-— Você tem noção do que isso faz com você?
+E eu falei.
 
-— Tenho. — Levantei, e o joelho reclamou. — É o que a Bia pediu numa lanchonete da Rua Ferrugem e eu não fiz. A prensa registra o que fiz. Não substitui eu responder por isso diante de gente que possa me julgar. Se estamos construindo um tribunal, eu não posso escolher que ele só sirva para Krell.
+— Barraco setenta e um. Vinte e três de agosto. Eu era o policial de plantão e cheguei quarenta minutos depois do chamado. Peguei o copo. Não bebi.
+
+— A Cleuza Braga estava no chão da cozinha, entre o fogão e a mesa. Trinta e quatro anos. Ele tinha usado uma chave de grifo de vinte e quatro polegadas, dessas de encanador, e depois sentou na cadeira e esperou a viatura chegar. Nem lavou a mão.
+
+— Ele confessou na hora?
+
+— Confessou três vezes. Na cozinha, na viatura e na delegacia. — Tomei um gole. Ardeu como querosene. — E aí veio a enchente de setembro. O depósito de perícia do Distrito Baixo ficou com um metro e meio de água por três dias. Perdemos duzentos e onze processos. O dele foi um.
+
+— A confissão não valia?
+
+— A defesa contestou como foi colhida, e o juiz desconsiderou aqueles depoimentos. Eu li a decisão como se ela me desse licença para fabricar o que faltava. — Dei de ombros com o ombro que ainda funciona. — Sobrou a vizinha. Dona Zélia, do setenta e três, que viu ele entrar com a chave de grifo na mão. Ela ia depor.
+
+— E?
+
+— O Sindicato controlava a vila. Alguém explicou pra ela como funcionava. Ela voltou atrás na véspera, disse que tinha se confundido, que era outro homem, que estava escuro. — Olhei para o copo. — E aí não sobrou nada. Nem prova material, nem confissão válida, nem testemunha. Ele ia sair em quinze dias, Elena. Um homem que matou a esposa com uma chave de grifo ia sair andando e voltar para a mesma vila onde estava a filha de quatro anos dele.
+
+— Então você plantou a faca.
+
+— Então eu plantei a faca. Falar em voz alta foi mais fácil do que eu imaginei em catorze anos de ensaio, e isso me deixou pior.
+
+— Peguei uma faca de cozinha da casa dele, do escorredor, na noite da perícia. Passei nela o sangue do laudo velho, que ainda estava na câmara fria porque o depósito de amostras ficava no segundo andar e o segundo andar não alagou. Coloquei na caixa d'água. E na segunda busca eu mandei o perito subir no telhado.
+
+— Você mandou o perito subir no telhado.
+
+— Eu disse que era procedimento padrão em barraco de laje. — Ri, e o som saiu horrível. — Não é. Era o jeito de fazer uma busca parecer rotina quando eu já sabia onde a peça ia estar.
+
+Elena ficou olhando para a frente.
+
+— Quantos anos ele pegou?
+
+— Vinte e dois. Cumpriu catorze.
 
 ---
 
-Fui ao portão às cinco e vinte, com o céu ainda cinza. Ele estava acordado. Acho que ficou acordado a noite toda também, do mesmo jeito, olhando para o mesmo céu de lados opostos de uma rede de carga.
+Ela demorou muito para falar de novo.
 
-— Bom dia, Sr. Moretti.
+— Gabo, eu preciso perguntar uma coisa e você vai odiar a pergunta.
 
-— Bom dia, Braga. Ele reparou na minha mão. Eu estava com a *Caronte* apoiada no ombro pela alça, porque com o braço direito quebrado na tipóia não dá para carregar de outro jeito.
+— Pergunta.
 
-— Ah, — ele disse. E foi só isso. Um "ah" pequeno, de quem confere uma encomenda que chegou. A Valéria estava na passarela. Antes de eu sair, ela tinha me pedido para entregar a arma e esperar a custódia. Eu recusei. Ela avisou Elena pelo rádio e ficou lá em cima, olhando para mim; se atirasse ou avançasse, arriscaria um disparo contra os trabalhadores que vinham pelo corredor. Agachei ao lado dele.
+— Você fez isso outras vezes? E essa foi a que doeu.
 
-— Antes eu quero dizer duas coisas.
+— Não. — Olhei para ela. — Uma vez. Uma vez só, em quatorze anos de polícia, e eu escolhi bem, e é isso que torna a coisa pior.
 
-— O senhor tem o meu tempo.
+— Por que pior?
 
-— A primeira. — Respirei. — Eu não vou dizer que fiz certo há catorze anos. Eu fiz errado. Não errado de detalhe, não errado de procedimento: errado. Eu tinha razão sobre você e eu fiz errado assim mesmo, e as duas coisas cabem juntas, e eu levei catorze anos para conseguir dizer isso em voz alta.
+— Porque se eu tivesse feito trinta vezes, eu seria um policial corrupto e a conta seria simples. — Bebi o resto. — Eu fiz uma vez, num caso em que eu tinha certeza absoluta, contra um homem que confessou três vezes e era culpado sem sombra de dúvida. Se existe alguma vez em que valia a pena, era essa. Era o melhor caso possível para se cruzar aquela linha.
 
-Ele ficou muito quieto.
+Deixei o copo no chão.
 
-— A segunda. — E essa foi mais difícil. — Você está errado sobre a sua filha.
+— E olha onde a gente está.
 
-— Não me venha—
+---
 
-— Você não perdeu a Marta porque eu tive pressa numa terça. — Falei devagar, porque eu precisava que entrasse. — Você perdeu a Marta porque você matou a mãe dela com uma chave de grifo, no dia vinte e três de agosto, na frente do fogão. Naquele minuto aquela menina ficou órfã de mãe e filha de assassino, e nada do que eu fiz ou deixei de fazer depois muda um grama disso.
+— A Bia descobriu, — Elena disse. Não era pergunta.
 
-Ele começou a respirar mais rápido. Foi a primeira vez.
+— A Bia era boa. Boa de verdade, não boa de discurso. — Fechei os olhos. — Ela pegou o inquérito nove anos depois, num arquivamento de rotina, e viu que o laudo de exame da faca tinha sido registrado dois dias antes da apreensão oficial dela. Um erro de dois dias que ninguém nunca ia notar, porque ninguém lê inquérito arquivado.
 
-— Eu forjei o inquérito, e isso é meu e eu carrego. — Continuei. — Mas a cadeia era sua. Você mesmo disse. E eu não vou te dar o presente de sair daqui achando que a sua vida foi culpa minha, porque isso é mentira e mentira é exatamente o que a gente está aqui resolvendo.
+— Ela te confrontou.
 
-Silêncio no pátio. E aí o Anselmo Braga chorou. Não foi bonito. Não foi digno. Foi um homem enorme e destruído chorando de boca aberta debaixo de uma rede de carga, com os ombros presos, sem poder levar a mão ao rosto, e o som saía dele como coisa arrancada. Levou um tempo.
+— Numa lanchonete na Rua Ferrugem, com o inquérito em cima da mesa, entre o café dela e o meu. — Eu conseguia ver a mesa. Ainda consigo. — Ela não gritou. A Bia nunca gritava. Ela disse: *"Você tem uma semana para levar isso à Corregedoria. Se você levar, eu vou com você e eu falo por você."*
 
-— Eu sei, — ele disse, quando conseguiu. — Meu Deus, o senhor acha que eu não sei?
+— E você não levou.
 
-— Eu sei que você sabe.
+— Eu não levei.
 
-— Eu precisava que fosse do senhor. — A voz falhou de novo. — Se fosse do senhor, dava pra carregar.
+— Por quê?
+
+— Porque eu tinha razão. — A palavra saiu como pedra. — Porque o homem era culpado, Elena, e ele ia sair, e a filha dele estava naquela vila, e eu passei a semana inteira construindo o argumento de que estar certo é mais importante que estar limpo. E no sétimo dia eu tinha o argumento pronto e ele era perfeito e eu acreditei nele.
+
+— E ela terminou com você.
+
+— Ela terminou comigo. — Engoli. — E seis meses depois o Miranda matou ela num galpão, e todo mundo, incluindo eu, passou cinco anos achando que o que quebrou o Gabriel Moretti foi a morte da Bia.
+
+Olhei para a Elena.
+
+— Não foi. O que quebrou foi ela ter morrido antes de eu ter a chance de fazer a coisa certa. Enquanto ela estava viva, eu adiava para um dia em que ela fosse comigo. Quando ela morreu, eu usei a morte dela como desculpa para continuar calado. E aí eu tive que virar o cara que estava certo, para sempre, porque a alternativa era ser o cara que perdeu a mulher e mentiu.
+
+---
+
+A Valéria apareceu na porta do galpão. Ficou lá, sem entrar, com aquela imobilidade absoluta.
+
+— Você ouviu tudo, — falei.
+
+— Ouvi.
+
+— E?
+
+— Estou processando a implicação operacional.
+
+— Fala em português, Val. Ela entrou. Parou a dois metros.
+
+— Eu revi meus registros dos meses em que estivemos juntos com essa informação nova, — ela disse. — Em onze ocasiões você recusou atalhos que teriam salvado tempo e reduzido risco. Eu classifiquei essas recusas como ineficiência moral e as registrei como custo. — Uma pausa. — Talvez você estivesse evitando repetir isso. Eu não tinha essa informação quando registrei as recusas.
+
+Eu não tinha resposta.
+
+— Isso muda a sua avaliação sobre mim?
+
+— Muda o modelo, não a avaliação. — Nenhuma inflexão. — Você é mais previsível do que eu calculava, e mais caro. Ambos são úteis de saber. Ela olhou para o portão. Para a marca da cinta na grade.
+
+— O problema tático permanece o mesmo. Braga anunciou um prazo e ameaçou Elias. Precisamos de vigilância, abrigo para os trabalhadores e um lugar de custódia. Não vou tratar a ameaça dele como prova de que nada disso pode funcionar. Amanhã às onze ele cobra do Elias.
 
 — Eu sei.
 
-— Não dá pra carregar sendo meu.
-
-— Eu sei, Braga. Ele fechou os olhos e chorou mais um pouco, e eu esperei, e não tinha absolutamente nada que eu pudesse fazer com aquilo.
-
----
-
-Quando ele parou, estava calmo. Calmo de verdade — não a calma de balcão, a outra.
-
-— O senhor vai fazer agora?
+— Você vai ao portão.
 
 — Vou.
 
-— Posso pedir uma coisa?
+— A probabilidade de você resolver isso sem matá-lo é—
 
-— Pode.
-
-— O caderninho está no bolso de dentro. — Ele mexeu o queixo na direção do peito. — Tem nome de gente que eu cobrei nesses três meses, tudo escrito, endereço e data. Nove pessoas. Umas deviam e outras não. — Ele engoliu. — Entrega pra jornalista. Deixa ela escrever tudo. Não tira nenhum.
-
-— Eu entrego.
-
-— E o Duarte Falcão é o último da lista, e do lado do nome dele está escrito *"este não devia"*. Faz questão que ela publique essa parte.
-
-— Faço. Ele assentiu. Olhou o céu, que estava começando a clarear de verdade, com aquela luz cor de latão que a Velha Baía tem de manhã.
-
-— É bonito aqui fora, — ele disse. — Catorze anos eu esqueci que amanhecia assim. Depois:
-
-— Sr. Moretti.
-
-— Diz.
-
-— Não fecha os olhos.
+— **Não me diz o número.** Ela fechou a boca.
 
 ---
 
-Eu não fechei. Encostei o cano na testa dele, na altura da cicatriz, e ele não desviou, e eu não fechei os olhos, e ele estava me olhando quando eu puxei. O estampido levantou os pássaros do canal inteiro. Foi rápido. Ele não sentiu, provavelmente. E é isso que ninguém te conta sobre executar um homem rendido: não é difícil. É fácil. É a coisa mais fácil que eu fiz naquela semana, mais fácil que carregar caixa, mais fácil que subir a escada do poço, e o corpo faz sozinho, e leva um segundo.
+A Dra. Elara Vance falou do escuro, e eu tinha esquecido que ela estava ali.
 
-O difícil é o depois, e o depois começa imediatamente. Fiquei ali de joelhos, no cascalho, com um homem morto na minha frente e a arma pendurada na alça, e a única coisa que eu conseguia pensar era que ele estava certo. Sempre pôde. Anos de discurso sobre uma linha que eu já cruzara com a faca plantada e com Éder, e ainda usava para me declarar diferente de Miranda, Kael e Marco — e no fim das contas eu **sempre pude**, e a única coisa que me segurava era não ter aparecido ninguém com uma conta boa o suficiente. Ele apareceu. E eu paguei em um segundo.
+— Inspetor.
 
----
+— Doutora. A cadeira de aço rangeu quando ela se aproximou até a beira da luz.
 
-Tirei o caderninho do bolso dele. Peguei a cinta laranja que ele usou no Duarte, que estava enrolada no cinto, e a catraca de aço, e separei as duas numa caixa identificada, junto do registro de onde encontramos Duarte. Eu não tinha direito de apagar mais uma prova. A Valéria desceu da passarela. Parou ao meu lado.
+— O senhor passou dois dias me olhando como quem olha lixo, — ela disse. — Porque eu assinei um memorando dizendo que uma coisa indefensável devia ser feita em escala, já que ia ser feita de todo jeito.
 
-— Você quer que eu registre a outra saída? — ela perguntou.
+— Doutora, agora não.
 
-— Que saída?
+— Agora exatamente. — A voz dela não subiu, mas ficou dura. — O senhor plantou uma faca porque tinha certeza. Eu recomendei escala porque tinha certeza. Nós dois olhamos para uma regra, achamos que sabíamos mais que ela, e cobramos a diferença dos outros.
 
-— A custódia no Setor 4. A resposta do rádio, os dois voluntários e a sua recusa em esperar. Você não pode pedir à Elena um relato inteiro e omitir isso.
+Ela deixou aquilo assentar.
 
-Olhei para ela. O rosto continuava quase imóvel. Eu tinha confundido falta de inflexão com falta de julgamento.
+— A única distinção entre nós é a quantidade de zeros. E eu, ao contrário do senhor, não passei catorze anos fingindo que a distinção era de natureza. Elena olhou para mim. Eu não consegui olhar para ela.
 
-— Registra.
-
-— Eu pedi que você esperasse e avisei Elena. Não vou fingir que era tarde demais para escolher outra coisa. Eu levantei a cabeça devagar.
-
-— Val.
-
-— Não.
-
-— Val, isso foi—
-
-— **Não**, — ela repetiu. — Ainda não. — E virou o rosto para o galpão, onde a Elena já estava acordando as prensas. — Mas eu registrei.
-
-Ela foi buscar uma pá. E eu fiquei mais um pouco de joelhos no cascalho, ao lado de um homem que eu escolhera matar mesmo depois de receber uma alternativa, e sabendo que Elena podia investigar e publicar a morte dele sem depender da minha permissão. O sol subiu de vez.
-
-Cor de latão velho, indiferente como sempre.
+— O senhor vai ao portão amanhã, — a Vance continuou. — E vai encontrar um homem que construiu a vida inteira em cima de uma frase verdadeira. Não subestime isso, inspetor. Gente com uma frase verdadeira é a coisa mais difícil de matar que existe.

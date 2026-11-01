@@ -2,7 +2,7 @@
 
 # Dossiê de Personagens
 
-Atualizado após o capítulo 236. [Cargos e ocupações](/cargos_personagens.md) · [Galeria visual](/variacoes_personagens.md).
+Atualizado após o capítulo 239. [Cargos e ocupações](/cargos_personagens.md) · [Galeria visual](/variacoes_personagens.md).
 
 ## 🎭 Mapa de Papéis Narrativos
 

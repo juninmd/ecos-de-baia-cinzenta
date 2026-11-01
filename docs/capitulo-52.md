@@ -1,108 +1,130 @@
 ---
 image: /capitulo_52.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Clara Moretti
-Localização: "Boate flutuante O Dourado, Setor 9 (águas da cidade submersa)"
+Personagens Presentes: Gabriel "Gabo" Moretti, Capitão Jonas Vilar, Roberto Miranda, Marco Moretti, Helena Moretti, Elena Moretti
+Localização: "Beco atrás de clínica clandestina, Distrito da Névoa"
 ---
-# Capítulo 52: Dívida Eterna
+# Capítulo 52: Mãos Limpas
 
-O flutuante do "Dourado" balançava violentamente nas águas negras da cidade submersa, mas não era por causa da maré. O barco, uma boate adaptada sobre cascos de barcaças de lixo, era um templo de néon e vício flutuando sobre a miséria do Setor 9.
+A chuva ácida de Baía Cinzenta tem o hábito de lavar as evidências, mas aquele corpo estava estranhamente imaculado.
 
-Gabo firmou a base no píer escorregadio. Os servos das órteses nas pernas zumbiram baixo, compensando o balanço. A estrutura era uma necessidade médica; desde que o Taxidermista esmagara seus ossos na Torre do Relógio com aquele maldito contrapeso, o metal era a única coisa que o mantinha em pé.
+No quadragésimo quarto dia do Dilúvio, Elena ajudou Gabo a descer do Cobalt. Nise autorizara apenas deslocamentos assistidos com órteses e apoio depois da estabilização; aquilo não era alta. Suas botas tocaram a lama oleosa do beco atrás de uma clínica clandestina no Distrito da Névoa. Jonas Vilar já estava lá, segurando um guarda-chuva preto e fumando um cigarro que lutava para permanecer aceso.
 
-*"Você é uma âncora",* a voz do assassino ainda ecoava.
+— Você devia estar de repouso, Gabo — disse Vilar, sem olhar para ele. — Aquela queda na Torre quase te quebrou ao meio.
 
-— Foco, Gabo — ele murmurou para si mesmo. A Dra. Cecília Weiss diria que ele estava dissociando de novo. Que ele precisava dormir. Mas o sono trazia sonhos com água subindo, então ele escolhia a vigília armada.
+— Eu quebro, mas não envergo, Jonas. O que temos?
 
-A trava estava arrancada por dentro. Gabo empurrou a folha com a ponta da bengala, sem usar as órteses como arma.
+Vilar apontou para o corpo encostado na parede de tijolos. Era um homem bem vestido, terno de seda sintética, sapatos italianos. A única coisa fora do lugar era o pescoço, torcido em um ângulo impossível, e as mãos.
 
-A folha correu sobre o batente quebrado com um gemido de aço. Ele entrou com a Glock 19 modificada em punho, o cano varrendo o salão enfumaçado.
+Gabo pediu que aproximassem um banco e examinou o corpo sentado, sem dobrar as pernas além do limite das órteses. As mãos do homem estavam esmagadas. Cada dedo quebrado metodicamente. E sobre o peito, uma única moeda de prata antiga.
 
-— Dourado! — gritou Gabo. — A visita chegou!
+Os joelhos de Gabo protestaram mesmo sentado. A coluna ainda cobrava cada mudança de posição; ele pediu que não afastassem o banco até terminar de examinar as mãos. O tijolo atrás dele estava gelado mesmo através da luva, e a água entrava pelo cano da bota e subia dois dedos, morna de esgoto.
 
-O lugar estava estranhamente silencioso.
+Atrás dele, a porta de serviço da clínica abriu um palmo. Uma mulher de avental plastificado espiou pelo vão, o rosto amassado de quem não dormia havia dias. Não olhou para o corpo. Olhou para as mãos de Gabo, e para o coldre debaixo do casaco.
 
-Não havia música bate-estaca. Não havia risadas de capangas contando dinheiro sujo. Havia apenas o som rítmico de goteiras e um cheiro que Gabo conhecia bem demais: o cheiro acobreado e doce de sangue arterial fresco.
+— Ele cobrava em insulina, inspetor — disse ela, baixinho. — Não em crédito. Em ampola. Quem não tinha, tinha o nome riscado da lista.
 
-Ele avançou, arma em guarda baixa, pisando com cuidado sobre o carpete encharcado. Corpos estavam espalhados pelo chão como bonecos quebrados. Os guardas de elite do Dourado. Homens enormes, armados com submetralhadoras e blindagem subcutânea, todos mortos antes que pudessem puxar o gatilho ou levantar um alarme.
+— A senhora tem essa lista?
 
-E todos com as mãos quebradas. Os ossos dos dedos esmagados metodicamente.
+A porta fechou. O ferrolho correu com um estalo seco, duas vezes, como quem tranca uma casa e uma consciência na mesma volta da chave.
 
-— Clara! — Gabo gritou, o pânico profissional de policial dando lugar ao pânico primal de irmão.
+— Quem é o sortudo? — perguntou Gabo.
 
-Um som abafado veio dos fundos, atrás de uma cortina de contas de plástico dourado.
+— Marcos "O Farmacêutico" Viana. Controlava 60% do mercado negro de antibióticos e insulina da Zona Baixa. Um parasita de primeira.
 
-Gabo avançou devagar pelo tablado, apoiando-se na parede. Ouviu Clara antes de alcançá-la e não pôde apressar o corpo para corresponder ao som. Ele rasgou a cortina e parou.
+Gabo sentiu um gosto amargo na boca. Insulina.
 
-O escritório do Dourado era uma paródia de opulência. Veludo vermelho mofado, ouro falso descascando e estátuas de querubins roubadas de igrejas alagadas. O agiota, um homem gordo com pele sintética dourada (daí o apelido), estava sentado em sua cadeira de couro de avestruz.
+— Roubo?
 
-Sua cabeça pendia para trás em um ângulo impossível. Sua garganta havia sido esmagada com precisão cirúrgica. No peito dele, cravada na carne, brilhava uma moeda de prata antiga.
+— Carteira cheia, relógio de ouro no pulso. Não levaram nada. — Vilar tragou o cigarro. Gabo desviou o rosto, incomodado com a fumaça. — Exceto a vida. E a dignidade.
 
-Encolhida num canto, abraçando os joelhos contra o peito, estava Clara. Ela estava suja de lama e óleo, os olhos arregalados de terror catatônico, tremendo incontrolavelmente.
+— Isso não é coisa de gangue — murmurou Gabo, examinando os hematomas no pescoço. — Marcas de dedos. Polegares na traqueia. Força bruta, mas aplicada com precisão cirúrgica. Quem fez isso sabia exatamente onde apertar para desligar o cérebro.
 
-— Clara... — Gabo abaixou a arma e se aproximou devagar, reduzindo o ruído dos servos sem desligar o suporte que o mantinha em pé.
+— Tem mais — disse Vilar, puxando um tablet holográfico. — Uma câmera de farmácia, das que rodam em bateria própria, pegou um vulto. Val processou as imagens.
 
-Ela levantou a cabeça. Quando viu o rosto dele, o reconhecimento demorou um segundo doloroso para atravessar o trauma. E então, a raiva veio, quente e necessária.
+Ele entregou o tablet a Gabo. O vídeo granulado mostrava "O Farmacêutico" sendo erguido do chão como um boneco de pano por uma figura encapuzada. A figura usava uma capa de chuva pesada, militar. O movimento era rápido: um golpe nas articulações e uma chave de braço. Sem áudio ou exame naquele instante, o vídeo não confirmava uma fratura.
 
-— Você... — ela sussurrou, a voz rouca.
+— Hapkido — disse Gabo, sentindo um arrepio. — Esse movimento... é o "Quebra-Nozes". Reconheço uma variação do que aprendi. Isso não identifica sozinho quem treinou a pessoa.
 
-Gabo tentou tocá-la, mas ela se encolheu como se ele fosse fogo.
+— Alguém que treinou onde você treinou? — perguntou Vilar.
 
-— Onde você estava? — ela gritou, a voz quebrando em soluços secos. — Onde você estava quando a mãe morreu sem remédio, sem ninguém além de mim? Onde você estava quando eu tive que vender minha assinatura biológica pra esse porco pra comprar insulina que ele já tinha negado pra ela?
+— Meu mestre morreu há dez anos, Jonas. Só eu e... — Gabo parou. A memória de Roberto Miranda, seu ex-parceiro traidor, veio à mente, mas Miranda lutava sujo, com armas e implantes. Isso aqui era arte marcial pura. Disciplina.
 
-— Clara, eu não sabia... eu juro... eu estava...
+Gabo olhou para a moeda de prata no peito da vítima. Havia uma inscrição em latim desgastada: *Fiat Justitia*.
 
-— Salvando a cidade? — Ela se levantou, cambaleando, o rosto contorcido de ódio. — Você está muito ocupado brincando de herói, derrubando torres, enquanto sua própria família apodrece no esgoto dos refugiados!
+"Faça-se justiça".
 
-Gabo aceitou as palavras como aceitaria facadas. Ele merecia cada uma. O silêncio dele era sua confissão.
+— O povo está chamando ele de "O Santo" — disse Vilar, jogando a bituca na poça. — Ou "O Penitente". Ele está limpando a sujeira que nós não conseguimos limpar, Gabo.
 
-— O Dourado... — Clara apontou para o cadáver com nojo. — Ele não queria dinheiro, Gabo. A gente não tinha dinheiro. Ele queria meu código genético. Ele estava vendendo amostras de sangue dos refugiados para alguém. Para o "Jardim".
+— Justiça sem lei é vingança, Jonas.
 
-Gabo gelou. "Jardim". O nome aparecia nos arquivos criptografados de Vilar. O Sindicato não estava apenas lavando dinheiro; estava lavando DNA.
+— Talvez. Mas com a cidade debaixo d'água e metade do meu departamento na folha de pagamento do crime organizado... talvez vingança seja tudo o que nos resta.
 
-— Ele trabalhava para o Sindicato... — murmurou Gabo, conectando os pontos.
+Vilar tirou o cigarro da boca e olhou para ele de lado, e havia mais cansaço do que censura naquele olhar.
 
-De repente, uma sombra se moveu na varanda externa do flutuante, cortando a luz da tempestade.
+— Você está de licença. Licença médica, assinada por mim, com carimbo e tudo. Se eu te der esse dossiê, ele sai da delegacia como cópia informal. Você recebe uma cópia com origem e número. Se sair investigando sem designação, terá de responder por isso; não significa que toda prova deixe de existir.
 
-Gabo girou em um segundo, apontando a Glock.
+— Desde quando o que eu acho vale em tribunal?
 
-Uma figura encapuzada estava parada na amurada, a chuva torrencial batendo em suas costas largas. O "Santo".
+— Desde nunca. — Vilar esmagou a bituca no tijolo com o calcanhar. — Mas enquanto existe papel, alguém tem que responder por ele. Sem papel, quem responde é você.
 
-— Baixe a arma, detetive — disse uma voz distorcida por um modulador vocal pesado, soando como várias vozes sobrepostas.
+Gabo pegou o tablet. O peso era ridículo para o que estava aceitando: dali em diante, cada porta que ele arrombasse seria arrombamento, cada tiro seria tiro de civil, cada intervenção teria de ser explicada e as cópias preservadas. A licença não lhe dava poder para invadir nem retirava automaticamente o valor de uma testemunha. Vilar já sabia. Era exatamente por isso que estava entregando.
 
-— Você matou eles — disse Gabo, o dedo tensionando no gatilho.
+Gabo se levantou.
 
-— Eu limpei a sujeira. A dívida da sua irmã está anulada. O contrato foi revogado com sangue.
+— Eu quero o dossiê desse "Farmacêutico". Quero saber quem ele extorquiu, quem ele matou indiretamente.
 
-— Você não é juiz e júri — rosnou Gabo.
+— Pra quê?
 
-— Alguém precisa ser, quando a lei se afoga. — O Santo apontou para o cofre aberto do Dourado. Estava vazio de dinheiro, mas cheio de frascos de sangue. — Eles estão construindo algo novo, Moretti. Usando as peças dos pobres. Eu estou apenas... podando as ervas daninhas.
+— Porque esse "Santo" não escolhe vítimas aleatórias. Ele tem uma lista. E se ele está seguindo uma lista, eu posso descobrir quem é o próximo.
 
-— Quem é você?
+Gabo voltou para o carro. A chuva parecia mais fria agora. Ele não conseguia tirar da cabeça a imagem das mãos quebradas. Eram as mãos de quem recebia dinheiro sujo. O assassino estava enviando uma mensagem.
 
-O vigilante deu um passo à frente. A luz de um raio iluminou brevemente seu rosto sob o capuz. Usava uma máscara balística lisa, branca e sem feições, exceto por dois riscos verticais negros para os olhos, como lágrimas chorando para cima.
+Ele guardou a moeda num saco plástico antes que Vilar pudesse reclamar da cadeia de custódia que os dois tinham acabado de perder. O metal ainda estava morno, e não era do corpo. Era de bolso. A temperatura podia vir do corpo, de um bolso ou do ambiente. Sem preservar o horário e comparar as condições, ele não podia saber quanto tempo alguém esperara ali.
 
-— Eu sou o que sobra quando a esperança morre — disse o vigilante. — Eu sou a consequência.
+Elena ligou o motor do Cobalt.
 
-Ele se moveu. Rápido demais para um humano normal. Gabo disparou duas vezes, mas o vigilante já tinha saltado para o barco atracado ao lado com uma agilidade sobre-humana.
+— Val — disse ele para o painel.
 
-Gabo alcançou a varanda apoiado na bengala, mas o motor do barco vizinho rugiu e a figura desapareceu na escuridão e na chuva, deixando apenas o rastro de espuma.
+— Na escuta, Chefe.
 
-Gabo ficou ali, a arma ainda quente na mão, a água fria lavando seu rosto quente. Ele tinha acabado de encontrar o assassino mais perigoso que a cidade já vira. Um assassino que salvara sua irmã. Ainda precisavam examinar os frascos e descobrir se faltavam amostras ou registros.
+— Cruze as listas de pedidos entregues pela clínica com as fichas dos abrigos e barqueiros. Preserve a origem de cada cópia. Quero saber quem ele *negou* atendimento na última semana.
 
-Ele voltou para dentro. Clara estava chorando agora, um choro convulso de quem finalmente permitiu que o terror saísse.
+— Isso é uma lista longa, Gabo. Com a falta de remédios, ele negou metade da cidade.
 
-Gabo guardou a arma. Ele tirou o sobretudo pesado e o colocou sobre os ombros dela. Dessa vez, ela não o afastou. Ela se deixou cobrir, pequena e quebrada.
+— Filtre por óbitos recentes. Pessoas que morreram logo após terem o pedido negado.
 
-— Vamos para casa, Clara — ele disse suavemente.
+Houve uma pausa do outro lado da linha. O som de teclas sendo digitadas furiosamente.
 
-— Nós não temos casa, Gabo — ela soluçou, agarrando a lapela do casaco dele. — A enchente levou tudo. O apartamento, as fotos... a mãe.
+— Gabo... — A voz de Val mudou. Ficou pequena.
 
-— Eu sei — disse ele, oferecendo o braço para que ela própria se levantasse. Não conseguiria carregá-la. — Eu sei. Mas eu tenho um lugar seguro. E eu vou descobrir quem estava comprando seu sangue. Eu prometo.
+— O que foi?
 
-Clara se apoiou nele sem entregar o próprio peso. A dívida podia ter sido anulada; as amostras continuavam fora do alcance dela. Quando chegassem ao abrigo, exigiria uma cópia do contrato e o registro de para onde o sangue fora enviado. Até saber, não assinaria nova cessão por uma promessa de proteção.
+— Cruzei essas cópias locais. São registros incompletos, não acesso ao cadastro inteiro. Tem três óbitos na área do Setor 7 na semana em que a sua mãe morreu, todos ligados à recusa de fornecimento de insulina desse cara.
 
-Eles saíram do flutuante da morte, dois órfãos em um barco no meio do dilúvio. Gabo olhou para a cidade iluminada ao longe, a carcaça da Torre de Marfim ainda visível como uma lápide gigante.
+— Nomes, Val.
 
-A conspiração não era apenas política. Era biológica. Era pessoal. E Gabo Moretti sabia que, para descobrir a verdade sobre o "Santo" e sobre o "Jardim", ele teria que mergulhar mais fundo na escuridão do que jamais ousara.
+— Um velho, uma criança... e uma mulher de cinquenta e cinco anos, no Setor 7. — A voz de Val falhou. — Helena Moretti.
 
-O Dilúvio não havia lavado os pecados da cidade. Apenas os havia fertilizado.
+Gabo ficou muito tempo sem respirar. O som da chuva sumiu, e o bater do limpador de para-brisa virou um metrônomo marcando o tempo de uma coisa que ele já sabia e não tinha nomeado.
+
+— Repita — ele sussurrou.
+
+— Helena Moretti. Endereço registrado: Rua Vinte e Dois, 402, Setor 7. Óbito registrado pelo Sindicato dos Barqueiros no dia seguinte. Motivo relatado na ficha: coma diabético sem atendimento. A ficha do barqueiro não é um laudo médico.
+
+Gabo socou o painel com a mão livre. Elena segurou o volante quando ele tornou a golpear. Ele não gritou. A dor era grande demais para som. Era um buraco negro que engolia tudo.
+
+Sua mãe estava morta. Ele sabia disso desde o porão, pelo rosto da Val, no dia em que acordou. O que ele não sabia era o nome do homem que tinha dito não — e um nome era uma coisa que ele podia usar.
+
+— E tem mais... — Val continuou, hesitante. — O nome da Clara apareceu num contrato da "Empréstimos O Dourado". Ela assinou alguma coisa, Gabo.
+
+Clara. Sua irmãzinha.
+
+— Onde ela está, Val? — A voz de Gabo era gelo e metal.
+
+- O contrato é de vinte e três mil, assinado quatro dias antes da sua mãe morrer, num coletor que subiu até o apartamento com o anel norte fechado, e a garantia não é imóvel, não é carro, não é nada que se possa penhorar. É a assinatura biológica dela. Gabo, se ela não pagou, esses homens não cobram em dinheiro.
+
+Gabo pediu a Elena que seguisse até o endereço registrado, sem esperar que a notícia melhorasse. Os pneus cantaram no asfalto molhado.
+
+— Me dê a localização desse Dourado. Agora.
+
+O "Santo" podia estar matando os pecadores, mas Gabo Moretti estava prestes a invadir o inferno.

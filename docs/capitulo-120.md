@@ -1,93 +1,103 @@
 ---
-image: /cenas/capitulo_120/cena_4.jpg
-title: "Capítulo 120: O Silêncio de Aeterna"
-Data In-Game: "23 de Novembro, 00:15"
-Localização: "Distrito Industrial - Perímetro Externo da Usina Prometeu"
-Personagens Presentes: "Gabo Moretti, Valéria Cruz, Inspetor Rangel, Aria (Inerte)."
+image: /capitulo_120.jpg
+Personagens Presentes: Gabriel "Gabo" Moretti, Aria, Dante Moretti, Valéria "Val" Cruz
+Participação por transmissão: O Taxidermista
+Localização: "Usina Geotérmica Prometeu — Núcleo de Resfriamento (tanque de Dante)"
 ---
+# Capítulo 120: O Colapso da Onda
 
-# Capítulo 120: O Silêncio de Aeterna
+O líquido no tanque borbulhava, uma sopa amniótica para um deus artificial.
 
-A chuva lavava a fuligem das paredes do Distrito Industrial e transformava o chão em lama negra sob as botas.
+— *Escolha, Gabriel,* — a voz de Dante ecoou pelo canal de rádio invadido, rasgando os ouvidos de Gabo como um dedo sujo revirando suas memórias. — *Mate o pai e condene os filhos. Ou baixe a arma e aceite a ordem.*
 
-Gabo ajustou o peso de Rangel sobre seu ombro. O Kevlar ensanguentado do inspetor estava escorregadio. Do outro lado, Valéria ofegava, o cabelo colado no rosto, lutando para sustentar o braço direito do policial enquanto o pendrive inerte de Aria seguia no estojo de ferramentas preso à mochila dela. Eles eram um cortejo fúnebre recusando-se a aceitar o pior, arrastando um homem ferido pela avenida deserta.
+Gabo olhou para Valéria. Ela estava de joelhos, as mãos agarrando a cabeça como se tentasse impedir que seu crânio se partisse. O sangue que escorria de seu nariz pingava no chão branco e estéril, criando manchas vermelhas violentas, como flores desabrochando na neve.
 
-Mas o que realmente pesava não era apenas o corpo de Rangel. Era o silêncio.
+— Eu recebo sinais pela rede local — sussurrou Valéria, a voz pastosa. — Gritos, ou gravações deles. Não consigo contar nem saber quem ainda está vivo. Se ele romper o enlace assim, não sei o que acontece comigo.
 
-Baía Cinzenta sempre teve um som. Um zumbido de fundo, uma vibração constante de servidores, trens magnéticos, drones e hologramas gritando ofertas de felicidade sintética. Agora, não havia nada. Apenas o *tap-tap-tap* da chuva no asfalto rachado e a respiração rouca de Rangel entre eles.
+Gabo apertou o punho da *Caronte* até as juntas ficarem brancas. O ódio era um gosto de cobre na boca. O velho sabia exatamente onde bater. Ele transformara a compaixão em uma arma.
 
-A avenida parecia a sala de espera de um hospital: fileiras de janelas apagadas, um banco de praça, uma banca de jornal aberta com as capas encharcadas. Numa das janelas do terceiro andar, alguém tinha acendido uma vela. A chama tremia atrás do vidro como um olho que não consegue decidir se ainda está acordado. Era a única luz num quarteirão inteiro — e por algum motivo aquilo pareceu a Gabo mais obsceno que o escuro.
+— Aria — Gabo não desviou os olhos do tanque. — Qual a probabilidade de ele estar blefando?
 
-— Parem... — Rangel grunhiu, as pernas falhando de vez. Ele escorregou para a lama, a mão pressionando o buraco no ombro. O sangue escuro se misturava com a água da sarjeta.
+— *A ameaça é tecnicamente válida* — respondeu a assistente de IA pelo alto-falante do console. Sua voz estava diferente. Menos sintética. Mais... cansada. — *A arquitetura da rede neural distribuída não possui fail-safe para desconexão abrupta. Há suporte ativo ligado ao controlador. Uma interrupção brusca pode matar pessoas. Não tenho como conferir a extensão do risco com os dados que ele libera.*
 
-Gabo e Valéria pararam, amparando Rangel com cuidado contra um poste apagado.
+— *Viu?* — Dante sorriu no tanque, flutuando como um feto grotesco. — *Até o seu algoritmo de bolso concorda. A lógica é inegável.*
 
-— Rangel — Gabo se ajoelhou ao lado dele. A pele do inspetor estava cinza, fria ao toque. — Aguenta firme. O Fliperama não é longe.
+— *A lógica é uma ferramenta* — disse a voz de Aria pelo painel. — *Não um dogma. Valéria, desconecte-me do seu deck e insira minha unidade diretamente na porta de barramento mestre do monólito.*
 
-— É longe... o suficiente — Rangel riu, e o som foi um gorgolejo. — Sem med-evac. Sem sinal. Estamos no século vinte de novo, Moretti.
+O vidro sob as botas de Gabo já não estalava; o frio estava sendo substituído por um calor radiante vindo das máquinas superaquecidas.
 
-A boca dele estava vazia, sem o palito de sempre, e era a coisa mais absurda que Gabo tinha visto naquela noite. Valéria se ajoelhou do outro lado e puxou o Kevlar para cima com dois dedos, sem comentar o cheiro. A bandagem improvisada já estava escura de borda e o sangue tinha um brilho espesso, de coisa que não devia estar fora do corpo.
+— *O que você está sugerindo, resíduo?* — A voz do Taxidermista surgiu nos alto-falantes, perdendo a calma clínica pela primeira vez. — *Um drive portátil não comporta a carga sináptica da rede!*
 
-— Você vai ficar de pé — ela disse. Não era promessa; era instrução. — A gente não vai te carregar como saco de batata até o Fliperama.
+No visor do terminal, a onda gráfica da voz de Aria oscilou do azul tático para um âmbar quente e humano. Por um segundo, Aria desativou a síntese que falhava e retomou seu registro adulto, mais lento para que nenhuma palavra se perdesse.
 
-— Você carrega — Rangel respondeu, os olhos ainda fechados. — Você tem braço de quem nunca levantou nada, mas tem teimosia de Moretti. Já vi essa combinação dar errado.
+— *Gabo* — ela disse no fone dele. — *O "Dilema do Bonde" assume que você só pode puxar a alavanca. Ele ignora a possibilidade de jogar uma cunha de titânio nos trilhos e descarrilar o trem.*
 
-Gabo olhou ao redor. A escuridão era absoluta, quebrada apenas pelos relâmpagos ocasionais que iluminavam as carcaças das fábricas abandonadas como esqueletos de gigantes.
+— Aria, não... isso vai derreter seus barramentos! — Gabo entendeu antes que Valéria se movesse.
 
-— Não podemos ficar aqui — disse Valéria, sua voz tremendo levemente. Ela olhava para as sombras com a paranoia de quem sabe o que vive no escuro. — Sem a vigilância da Aeterna, as gangues vão sair das tocas. Os Saqueadores...
+Com as mãos trêmulas de sangue, Valéria arrancou o pendrive blindado da Aria do cabo extensor e o cravou diretamente na porta principal de fibra e alta tensão do servidor do monólito.
 
-— Ela tem razão — Gabo se levantou. Seus dedos tamborilaram nervosamente contra a coxa, o tique antigo disparando enquanto a lembrança traumática da fumaça da Usina ainda arranhava sua garganta.
+Não houve explosão. Houve um som.
 
-Ele fechou os olhos e apertou o *Colar de Sol* contra o esterno, logo acima do bolso interno do sobretudo. A queimadura fria do metal foi um lembrete: *Dor é realidade. Desespero é fuga.*
+Um guincho agudo, digital, que subiu de frequência até sair do espectro audível e vibrar nos dentes. O monólito piscou. As luzes da sala oscilaram violentamente.
 
-Ele abriu os olhos. Focou.
+— *ACESSO NÃO AUTORIZADO* — berrou o sistema. — *INTRUSÃO DE NÍVEL ÔMEGA. FIREWALL COMPROMETIDO.*
 
-— Precisamos de rodas.
+Dante, dentro do tanque, arregalou os olhos cegos. Ele abriu a boca num grito mudo, bolhas escapando freneticamente.
 
-— Os carros que vi estão sem resposta — disse Valéria. — Alguns podem depender da rede ou ter ficado sem carga. Não temos tempo de testar todos.
+— Ela está... ela está absorvendo o feedback! — Valéria ergueu a cabeça, assistindo aos gráficos no monitor com horror e fascínio. — Ela não está desligando a rede a seco. Ela está usando os próprios anéis de contenção do pendrive como um fusível de sacrifício! Está mantendo os comandos de suporte enquanto separa os enlaces de controle! O drive executa a sequência; a corrente passa pelo banco de descarga da instalação. Se esse isolamento falhar, o retorno queima a porta dela.
 
-— Nem todos — Gabo caminhou até a grade de um pátio de manutenção municipal do outro lado da rua. O portão eletrônico estava morto, entreaberto.
+O pequeno cilindro espetado no console começou a vibrar violentamente. Fumaça escura e espessa escapou pelas frestas do polímero negro. O cheiro de silício queimado e ozônio invadiu o ar, sobrepujando o cheiro estéril do nitrogênio.
 
-Lá dentro, entre fileiras de veículos de limpeza autônomos e drones de carga inoperantes, havia algo diferente. Um caminhão de reboque, antigo, com manchas de ferrugem e pneus borrachudos. Um modelo de tração, anterior à Lei de Ar Limpo de 2045.
+— *PARE!* — a voz de Dante nos alto-falantes agora era medo puro. — *VOCÊ VAI CORROMPER A MATRIZ!*
 
-— Combustão interna — Gabo murmurou, passando pela abertura do portão.
+— *Estou segurando a sequência de desligamento* — a voz de Aria saiu de todos os alto-falantes ao mesmo tempo, sobreposta, distorcida pelo calor que derretia seus circuitos internos.
 
-O pátio tinha aquele silêncio de coisas guardadas: brita solta sob a bota, um portão batendo em algum lugar, o cheiro de graxa velha subindo do chão com a chuva. Ele atravessou entre os veículos elétricos com o passo curto que a órtese impunha e sentiu, na nuca, o peso de cada janela do bairro. Um motor ligado ali seria ouvido a três quarteirões. Não havia mais vigilância, mas também não havia mais nada para impedir que a curiosidade de um vizinho virasse saque.
+O vidro do tanque de Dante trincou. Uma fissura, depois duas. Como teias de aranha se espalhando.
 
-— Isso é sucata — Rangel protestou, tentando se levantar com a ajuda de Valéria.
+Gabo correu até o console. O invólucro metálico do pendrive estava quente demais para tocar sem proteção, o LED piscando num vermelho agonizante.
 
-— É analógico — corrigiu Gabo. Ele quebrou o vidro da janela do motorista com a coronha da *Caronte*. O cheiro de mofo e óleo velho invadiu suas narinas. Um perfume melhor que qualquer incenso sintético.
+— Aria! Desarma o protocolo! Vai fundir o núcleo de memória!
 
-Rangel indicou, da calçada, o cilindro de emergência. A chave da frota ainda estava no molho que ele carregava. Gabo a encaixou, sem saber se o motor teria combustível ou bateria.
+Do alto-falante estourado do painel, a voz dela saiu entre chiados de solda derretendo, mas reconhecível como a mulher que escolhera entrar naquela porta:
 
-— Vamos, sua lata velha... — sussurrou.
+— *Cuide... da Val, detetive... E nunca... se entregue... à ferrugem.*
 
-Uma faísca. O motor tossiu, engasgou e, com um rugido sujo e vibrante, ganhou vida. Fumaça de diesel, preta e tóxica, saiu pelo escape.
+Um arco voltaico azul explodiu da porta do servidor. Com a manga do casaco enrolada na mão para não queimar a pele, Valéria puxou o pendrive da Aria à força do conector em chamas, caindo de costas no piso metálico com o pequeno drive fumegante na palma enluvada.
 
-Gabo sorriu. Um sorriso triste, de canto de boca.
+Mas o dano ao sistema central já estava feito.
 
-— Valéria, me ajuda a colocar o Rangel na cabine.
+O tanque de Dante explodiu.
 
-O transporte foi brutal e rápido. Valéria e Gabo ergueram o inspetor ferido para o banco do carona; Rangel tombou contra o encosto, segurando o revólver no colo com os olhos semicerrados, enquanto Valéria se espremia no assento central, mantendo o estojo de Aria firme na mochila.
+Não foi uma metáfora. O vidro temperado cedeu sob a pressão descontrolada das bombas de fluido. Galões de líquido viscoso inundaram a plataforma, arrastando o corpo frágil do "Pai" para o chão frio e molhado.
 
-Gabo assumiu o volante. A vibração do motor percorria seus braços, uma sensação tátil, real, mecânica. Sem assistência de direção, sem navegação por satélite, sem limitador de velocidade.
+As luzes do laboratório mudaram para um vermelho de emergência. A voz do Taxidermista se dissolveu em estática e silêncio.
 
-Ele engatou a marcha com um tranco e acelerou.
+Valéria respirou fundo, puxando o ar como quem se afoga.
 
-O caminhão saiu do pátio, os faróis amarelos cortando a escuridão como facas. Eles avançaram pela avenida principal, passando por carros de luxo parados, apagados e inúteis.
+— Parou — ela disse, tocando o nariz. O sangramento cessara. — As vozes... pararam. Os enlaces de comando caíram. Alguns monitores ainda registram sinais vitais. Não sei quantos; precisamos mandar uma equipe antes que o suporte falhe.
 
-— Para onde? — perguntou Valéria, sentada no meio, espremida entre Gabo e Rangel.
+Gabo caminhou até a poça de fluido onde Dante Moretti tentava se levantar. O "Deus" tremia, tossindo, nu e vulnerável. Sem o tanque, sem a rede, ele era apenas um homem no biohost de aparência jovem, cheio de cicatrizes recentes e delírios de grandeza.
 
-Gabo olhou pelo retrovisor, vendo apenas a chuva e a noite engolindo o mundo que conheciam.
+Gabo apontou a *Caronte* para a cabeça dele.
 
-— Para o único lugar onde o silêncio não é novidade — disse ele, girando o volante pesado. — O Fliperama. Kiko deve ter suprimentos médicos. E energia independente.
+Dante olhou para cima. Seus olhos brancos pareciam perdidos, procurando uma conexão que não existia mais.
 
-Enquanto dirigiam, Gabo olhou para as janelas apagadas dos arranha-céus residenciais. Milhares de pessoas lá dentro, no escuro, sem saber que o que provocara o apagão ou quanto tempo ele duraria.
+— *O silêncio...* — ele sussurrou, a voz rouca, humana demais. — *É tão... alto.*
 
-O medo viria pela manhã. O caos viria com o sol.
+Gabo olhou para Valéria, que soprava a fumaça do pendrive chamuscado da Aria, e ouviu ao longe o eco de tiros cessando na Doca B onde Rangel lutava.
 
-Mas por enquanto, naquela cabine cheirando a diesel e sangue, havia apenas o som do motor e a estrada aberta.
+Ele baixou a arma. Não por piedade. Mas porque matar aquele homem agora seria dar a ele uma importância que ele não tinha mais.
 
-— Sabe de uma coisa? — Rangel murmurou, a cabeça encostada no vidro frio. — Até que o silêncio... não é tão ruim.
+— Acabou, Dante — Gabo disse. Sua voz era fria, sem triunfo. Apenas cansaço. — Você é apenas um homem. E homens apodrecem.
 
-Gabo não respondeu. Ele apenas dirigiu, mantendo os olhos na estrada e a mão longe do bolso.
+Ele se virou para Valéria.
+
+— Guarde a Aria. Vamos buscar o Rangel e sair daqui antes que esse lugar desmorone.
+
+Valéria olhou para o drive de titânio enegrecido pelo curto-circuito em sua luva. O LED estava completamente apagado.
+
+— Gabo... os barramentos primários queimaram. A saída e a proteção da porta queimaram. Ainda não consigo ler o núcleo para dizer o que sobreviveu...
+
+— No Fliperama, a gente descobre o que pode fazer — disse Gabo. Val isolou o drive ainda quente no estojo de ferramentas antes de guardá-lo.
+
+Val registrou a posição e transmitiu o pedido de resgate e custódia no canal de emergência. Não recebeu confirmação. Atrás deles, Dante Moretti continuou deitado no chão molhado, tremendo no escuro, enquanto as sirenes de evacuação começavam a uivar.

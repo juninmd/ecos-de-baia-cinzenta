@@ -22,9 +22,9 @@
 
 ### ⏳ Linha do Tempo e Evolução Visual
 
-* **Parte VII (interlúdio 30.5) - primeira aparição:** Flash-forward na cobertura de Miranda, já como líder dos Jardineiros. O capítulo 30.5 antecipa a seita sem colocá-la em operação pública antes do 76.
+* **Parte VII (interlúdio 30.5) - primeira aparição:** Flash-forward na cobertura de Miranda, já como líder dos Jardineiros. O capítulo 31 antecipa a seita sem colocá-la em operação pública antes do 76.
 * **Parte XII (O Profeta) - retrato `silas.png`:** Surgiu como líder da seita "Os Jardineiros", pregando a supremacia biológica sobre a tecnológica. Aparência: vivo, ereto, jaleco cerimonial limpo, olhos intactos.
 * **Parte XIV:** Arquiteto do "Projeto Gênesis". No momento de seu aparente triunfo (a ativação do biohost de Dante), foi traído pela própria criação. A entidade Dante absorveu sua biomassa para estabilizar o novo corpo, matando Silas instantaneamente.
-* **Parte XIV (A Casca) — retrato `silas_2.png`:** Visual canônico pós-drenagem, e o único válido do fim do Capítulo 103 em diante. Rosto mumificado colado ao crânio, órbitas escuras e vazias, boca escancarada no grito congelado da traição, cabelos brancos longos e ralos, jaleco de fibra natural rasgado e grande demais para o corpo encolhido — sempre na estufa dos Jardineiros. `silas.png` só é válido para as cenas anteriores à drenagem.
+* **Parte XIV (A Casca) — retrato `silas_2.png`:** Visual canônico pós-drenagem, e o único válido do fim do Capítulo 105 em diante. Rosto mumificado colado ao crânio, órbitas escuras e vazias, boca escancarada no grito congelado da traição, cabelos brancos longos e ralos, jaleco de fibra natural rasgado e grande demais para o corpo encolhido — sempre na estufa dos Jardineiros. `silas.png` só é válido para as cenas anteriores à drenagem.
 
 ---

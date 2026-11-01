@@ -1,130 +1,147 @@
 ---
+layout: doc
+title: "Capítulo 51: O Silêncio da Chuva"
+description: "Helena morre. O Colar de Sol já estava com Gabo desde antes da abertura; a perda muda o que o objeto significa, sem alterar sua procedência."
 image: /capitulo_51.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Capitão Jonas Vilar, Roberto Miranda, Marco Moretti, Helena Moretti, Elena Moretti
-Localização: "Beco atrás de clínica clandestina, Distrito da Névoa"
+Personagens Presentes: Gabriel "Gabo" Moretti, Clara Moretti, Valéria "Val" Cruz, Helena Moretti, Dra. Nise, equipe cirúrgica de plantão
+Localização: "Apartamento da família Moretti, Rua Vinte e Dois → Porão da Delegacia Central"
 ---
-# Capítulo 51: Mãos Limpas
 
-A chuva ácida de Baía Cinzenta tem o hábito de lavar as evidências, mas aquele corpo estava estranhamente imaculado.
+# Capítulo 51: O Silêncio da Chuva
 
-No quadragésimo quarto dia do Dilúvio, Elena ajudou Gabo a descer do Cobalt. Nise autorizara apenas deslocamentos assistidos com órteses e apoio depois da estabilização; aquilo não era alta. Suas botas tocaram a lama oleosa do beco atrás de uma clínica clandestina no Distrito da Névoa. Jonas Vilar já estava lá, segurando um guarda-chuva preto e fumando um cigarro que lutava para permanecer aceso.
+O som da chuva no telhado de zinco não é relaxante.
 
-— Você devia estar de repouso, Gabo — disse Vilar, sem olhar para ele. — Aquela queda na Torre quase te quebrou ao meio.
+Isso é uma coisa que as pessoas dizem sem nunca terem morado debaixo de um. Quatro horas de chuva em zinco é aconchego. Quarenta dias é uma broca. É um martelar sem intervalo e sem ritmo, e depois de duas semanas o cérebro para de filtrar e a pessoa começa a ouvir vozes dentro do barulho — nomes, conversas, alguém chamando da rua.
 
-— Eu quebro, mas não envergo, Jonas. O que temos?
+Clara Moretti ouvia a mãe chamando havia três dias, e a mãe estava a dois metros dela, e não chamava mais nada.
 
-Vilar apontou para o corpo encostado na parede de tijolos. Era um homem bem vestido, terno de seda sintética, sapatos italianos. A única coisa fora do lugar era o pescoço, torcido em um ângulo impossível, e as mãos.
+---
 
-Gabo pediu que aproximassem um banco e examinou o corpo sentado, sem dobrar as pernas além do limite das órteses. As mãos do homem estavam esmagadas. Cada dedo quebrado metodicamente. E sobre o peito, uma única moeda de prata antiga.
+O apartamento ficava no sétimo andar de um prédio da Rua Vinte e Dois, no lado errado do cerco.
 
-Os joelhos de Gabo protestaram mesmo sentado. A coluna ainda cobrava cada mudança de posição; ele pediu que não afastassem o banco até terminar de examinar as mãos. O tijolo atrás dele estava gelado mesmo através da luva, e a água entrava pelo cano da bota e subia dois dedos, morna de esgoto.
+Clara tinha atravessado a cidade no dia seis, quando ainda dava. Foi buscar a mãe e trazer para a delegacia, onde havia gerador, comida racionada e uma médica. Levou quatro horas para chegar e não conseguiu levar quarenta minutos para voltar, porque no meio da tarde a Aeterna fechou o anel norte e o que era um trajeto virou uma fronteira.
 
-Atrás dele, a porta de serviço da clínica abriu um palmo. Uma mulher de avental plastificado espiou pelo vão, o rosto amassado de quem não dormia havia dias. Não olhou para o corpo. Olhou para as mãos de Gabo, e para o coldre debaixo do casaco.
+Ela mandou uma mensagem naquele dia: *Estou com ela. Assim que abrir, eu volto.* Não abriu.
 
-— Ele cobrava em insulina, inspetor — disse ela, baixinho. — Não em crédito. Em ampola. Quem não tinha, tinha o nome riscado da lista.
+Diabetes tipo 1 não negocia com cerco. Helena Moretti dependia de duas coisas: insulina refrigerada e um monitor contínuo de glicose que rodava com bateria de lítio.
 
-— A senhora tem essa lista?
+No dia nove acabou a energia do prédio.
 
-A porta fechou. O ferrolho correu com um estalo seco, duas vezes, como quem tranca uma casa e uma consciência na mesma volta da chave.
+No dia dez acabou o gelo, e Clara passou a manter as ampolas dentro de uma garrafa térmica com água da chuva, sabendo — porque tinha lido, porque ela sempre lia — que fora das condições de conservação a insulina podia perder potência sem mudança visível. Clara já não tinha como verificar a conservação nem obter orientação ou reposição. Não sabia o que cada ampola ainda poderia fazer.
 
-— Quem é o sortudo? — perguntou Gabo.
+No dia doze, o monitor começou a piscar em vermelho nos dois indicadores ao mesmo tempo: bateria e leitura.
 
-— Marcos "O Farmacêutico" Viana. Controlava 60% do mercado negro de antibióticos e insulina da Zona Baixa. Um parasita de primeira.
+CRÍTICO.
+— Só mais um pouco, mãe — sussurrou Clara.
 
-Gabo sentiu um gosto amargo na boca. Insulina.
+Helena gemeu. Fazia dois dias que era só isso.
 
-— Roubo?
+Clara pegou o comunicador. Tinha três barras de bateria e um número salvo com um nome de três letras.
 
-— Carteira cheia, relógio de ouro no pulso. Não levaram nada. — Vilar tragou o cigarro. Gabo desviou o rosto, incomodado com a fumaça. — Exceto a vida. E a dignidade.
+Apertou o botão.
 
-— Isso não é coisa de gangue — murmurou Gabo, examinando os hematomas no pescoço. — Marcas de dedos. Polegares na traqueia. Força bruta, mas aplicada com precisão cirúrgica. Quem fez isso sabia exatamente onde apertar para desligar o cérebro.
+---
 
-— Tem mais — disse Vilar, puxando um tablet holográfico. — Uma câmera de farmácia, das que rodam em bateria própria, pegou um vulto. Val processou as imagens.
+Do outro lado da cidade, no subsolo da Delegacia Central, não havia ninguém para atender.
 
-Ele entregou o tablet a Gabo. O vídeo granulado mostrava "O Farmacêutico" sendo erguido do chão como um boneco de pano por uma figura encapuzada. A figura usava uma capa de chuva pesada, militar. O movimento era rápido: um golpe nas articulações e uma chave de braço. Sem áudio ou exame naquele instante, o vídeo não confirmava uma fratura.
+Havia uma pilha de roupa rasgada e suja de óleo num canto da sala fria, e dentro dela um aparelho piscando em silêncio.
 
-— Hapkido — disse Gabo, sentindo um arrepio. — Esse movimento... é o "Quebra-Nozes". Reconheço uma variação do que aprendi. Isso não identifica sozinho quem treinou a pessoa.
+Havia uma mesa, e em cima da mesa um homem aberto.
 
-— Alguém que treinou onde você treinou? — perguntou Vilar.
+— A pressão está caindo! — A Dra. Nise falava alto porque o gerador tinha entrado no modo de economia e a bomba estava fazendo barulho. Era uma nova intervenção, dias depois da estabilização inicial. Ela auxiliava a plantonista cirúrgica, segurando o campo enquanto a equipe procurava a origem do sangramento. — Ele chegou aqui com menos da metade do volume. Os ossos da pelve estão em frangalhos, tem esquirla em todo lugar e eu não tenho contraste, não tenho tomógrafo, não tenho sangue tipado e não tenho **luz** suficiente!
 
-— Meu mestre morreu há dez anos, Jonas. Só eu e... — Gabo parou. A memória de Roberto Miranda, seu ex-parceiro traidor, veio à mente, mas Miranda lutava sujo, com armas e implantes. Isso aqui era arte marcial pura. Disciplina.
+— Salva ele — disse Val, encostada na parede, branca. — Não importa como. Usa metal, usa peça, usa o que for. Só não deixa ele morrer.
 
-Gabo olhou para a moeda de prata no peito da vítima. Havia uma inscrição em latim desgastada: *Fiat Justitia*.
+— Menina, sai da minha sala.
 
-"Faça-se justiça".
+— Não.
 
-— O povo está chamando ele de "O Santo" — disse Vilar, jogando a bituca na poça. — Ou "O Penitente". Ele está limpando a sujeira que nós não conseguimos limpar, Gabo.
+— Então segura a lanterna e não fala mais nada.
 
-— Justiça sem lei é vingança, Jonas.
+O comunicador piscou de novo.
 
-— Talvez. Mas com a cidade debaixo d'água e metade do meu departamento na folha de pagamento do crime organizado... talvez vingança seja tudo o que nos resta.
+Ninguém ouviu, porque um comunicador em modo silencioso não faz som nenhum, e porque a equipe naquele porão estava ocupada com o mesmo corpo.
 
-Vilar tirou o cigarro da boca e olhou para ele de lado, e havia mais cansaço do que censura naquele olhar.
+Gabo flutuava embaixo da anestesia. Ele contou depois, uma única vez, à Dra. Weiss, que sonhou com engrenagem e com água, e que em algum momento do sonho o telefone da casa da mãe tocava na sala e ele não conseguia se levantar do sofá para atender.
 
-— Você está de licença. Licença médica, assinada por mim, com carimbo e tudo. Se eu te der esse dossiê, ele sai da delegacia como cópia informal. Você recebe uma cópia com origem e número. Se sair investigando sem designação, terá de responder por isso; não significa que toda prova deixe de existir.
+---
 
-— Desde quando o que eu acho vale em tribunal?
+Helena Moretti parou de respirar às 16h50 do dia doze.
 
-— Desde nunca. — Vilar esmagou a bituca no tijolo com o calcanhar. — Mas enquanto existe papel, alguém tem que responder por ele. Sem papel, quem responde é você.
+Não foi dramático. As pessoas imaginam que existe um instante. Não existe: existe uma respiração e depois um intervalo maior que os outros, e a gente espera a próxima, e é nessa espera que a coisa acontece — o luto começa dentro de um segundo em que ainda dá para ter esperança.
 
-Gabo pegou o tablet. O peso era ridículo para o que estava aceitando: dali em diante, cada porta que ele arrombasse seria arrombamento, cada tiro seria tiro de civil, cada intervenção teria de ser explicada e as cópias preservadas. A licença não lhe dava poder para invadir nem retirava automaticamente o valor de uma testemunha. Vilar já sabia. Era exatamente por isso que estava entregando.
+Clara ficou paralisada por um tempo que ela não soube medir.
 
-Gabo se levantou.
+Depois se levantou e fez tudo o que precisava ser feito, porque o luto em Baía Cinzenta é um item de luxo e a morte é um problema de logística.
 
-— Eu quero o dossiê desse "Farmacêutico". Quero saber quem ele extorquiu, quem ele matou indiretamente.
+Fechou os olhos da mãe. Trocou a camisola por um vestido azul, o bom, porque com quarenta e oito horas de calor e sem geladeira ela sabia o que ia acontecer com o corpo e não queria que fosse com a camisola. Amarrou o queixo com uma faixa de gaze. Escreveu num pedaço de papel: **HELENA MARIA MORETTI, 55**, e prendeu no pulso dela com fita, do jeito que a Dra. Nise ensinava a todo mundo desde o dia dois.
 
-— Pra quê?
+No pescoço da mãe havia uma faixa mais clara, onde o Colar de Sol costumava ficar. Helena o dera a Gabo anos antes, quando ainda havia visitas em que os três conseguiam sentar à mesa sem falar de Dante. Clara pensou em pedir que ele devolvesse. Depois pensou que a mãe não precisaria de metal dentro do forno.
 
-— Porque esse "Santo" não escolhe vítimas aleatórias. Ele tem uma lista. E se ele está seguindo uma lista, eu posso descobrir quem é o próximo.
+Ficou sentada na beira da cama com a mão sobre aquela marca. Não havia lembrança que pudesse pagar o transporte do corpo.
 
-Gabo voltou para o carro. A chuva parecia mais fria agora. Ele não conseguia tirar da cabeça a imagem das mãos quebradas. Eram as mãos de quem recebia dinheiro sujo. O assassino estava enviando uma mensagem.
+---
 
-Ele guardou a moeda num saco plástico antes que Vilar pudesse reclamar da cadeia de custódia que os dois tinham acabado de perder. O metal ainda estava morno, e não era do corpo. Era de bolso. A temperatura podia vir do corpo, de um bolso ou do ambiente. Sem preservar o horário e comparar as condições, ele não podia saber quanto tempo alguém esperara ali.
+Clara tentou descer o corpo sozinha e parou no primeiro lance. Chamou os vizinhos até uma porta abrir.
 
-Elena ligou o motor do Cobalt.
+Com os dois vizinhos, usou o lençol como maca de arrasto, degrau por degrau, e cada degrau fazia um som, e ela pediu desculpa em voz alta nos primeiros dez e depois parou de pedir. No térreo, os dois ajudaram a colocá-la no barco. Nenhum dos dois perguntou quem era. Todo mundo naquele prédio já tinha descido alguém.
 
-— Val — disse ele para o painel.
+O crematório improvisado funcionava no antigo galpão da feira, porque enterrar tinha deixado de ser possível: a água subiu e devolveu o cemitério do Setor 4 na semana anterior, e ninguém que viu aquilo queria ver de novo.
 
-— Na escuta, Chefe.
+O homem do forno pediu duzentos. Clara não tinha duzentos. Não tinha dois.
 
-— Cruze as listas de pedidos entregues pela clínica com as fichas dos abrigos e barqueiros. Preserve a origem de cada cópia. Quero saber quem ele *negou* atendimento na última semana.
+Ela tirou do bolso o relógio do pai — o Seiko de aço que Dante Moretti usou por vinte e dois anos e que Helena guardou na gaveta da cômoda dentro de uma meia, e que Clara tinha pegado por instinto ao sair do quarto, sem saber por quê.
 
-— Isso é uma lista longa, Gabo. Com a falta de remédios, ele negou metade da cidade.
+O homem olhou o relógio contra a luz, sacudiu perto do ouvido, e assentiu.
 
-— Filtre por óbitos recentes. Pessoas que morreram logo após terem o pedido negado.
+Queimou por quase três horas.
 
-Houve uma pausa do outro lado da linha. O som de teclas sendo digitadas furiosamente.
+Clara ficou o tempo inteiro do lado de fora, encostada na parede do galpão, debaixo da marquise, olhando a chuva cair na água parada da rua, e não chorou. Ela ia chorar meses depois, no meio de uma fila de distribuição de arroz, por causa de nada.
 
-— Gabo... — A voz de Val mudou. Ficou pequena.
+Naquela tarde, o que ela sentiu foi outra coisa, e a coisa tinha uma forma exata:
 
-— O que foi?
+Ele não está aqui.
+Não *ele não pôde vir*. Não *ele deve estar ferido*. Só a frase mais simples, a frase de irmã pequena, a que ela tinha aprendido aos nove anos e repetido aos catorze e aos dezoito: ele nunca está.
 
-— Cruzei essas cópias locais. São registros incompletos, não acesso ao cadastro inteiro. Tem três óbitos na área do Setor 7 na semana em que a sua mãe morreu, todos ligados à recusa de fornecimento de insulina desse cara.
+O luto e a raiva chegaram juntos e nunca mais se separaram direito, e é por isso que os dois irmãos Moretti passaram os meses seguintes conseguindo se ver, se falar, se ajudar — e não conseguindo, nunca, ficar sozinhos numa sala.
 
-— Nomes, Val.
+---
 
-— Um velho, uma criança... e uma mulher de cinquenta e cinco anos, no Setor 7. — A voz de Val falhou. — Helena Moretti.
+Três dias depois.
+Gabo acordou.
 
-Gabo ficou muito tempo sem respirar. O som da chuva sumiu, e o bater do limpador de para-brisa virou um metrônomo marcando o tempo de uma coisa que ele já sabia e não tinha nomeado.
+A dor era uma coisa viva instalada na metade inferior dele, com opinião própria: ela subia quando ele respirava fundo e descia quando ele parava, e o corpo aprendeu isso em dez minutos e passou a respirar pouco.
 
-— Repita — ele sussurrou.
+— Você está vivo — disse Val, sentada ao lado, com uma xícara de café frio que ela não tinha bebido.
 
-— Helena Moretti. Endereço registrado: Rua Vinte e Dois, 402, Setor 7. Óbito registrado pelo Sindicato dos Barqueiros no dia seguinte. Motivo relatado na ficha: coma diabético sem atendimento. A ficha do barqueiro não é um laudo médico.
+— Que dia é hoje?
 
-Gabo socou o painel com a mão livre. Elena segurou o volante quando ele tornou a golpear. Ele não gritou. A dor era grande demais para som. Era um buraco negro que engolia tudo.
+— Quinze.
 
-Sua mãe estava morta. Ele sabia disso desde o porão, pelo rosto da Val, no dia em que acordou. O que ele não sabia era o nome do homem que tinha dito não — e um nome era uma coisa que ele podia usar.
+Ele levou um tempo para fazer a conta e a conta não fechou, e ele deixou para depois.
 
-— E tem mais... — Val continuou, hesitante. — O nome da Clara apareceu num contrato da "Empréstimos O Dourado". Ela assinou alguma coisa, Gabo.
+— As minhas pernas.
 
-Clara. Sua irmãzinha.
+— Estão aí. — Val falou rápido. — Estão as duas aí, Gabo. Mas a Nise disse que a reconstrução leva meses e que você vai precisar de suporte mecânico para andar, e antes de você discutir com ela eu quero deixar registrado que eu não vou participar dessa discussão.
 
-— Onde ela está, Val? — A voz de Gabo era gelo e metal.
+Gabo fechou os olhos.
 
-- O contrato é de vinte e três mil, assinado quatro dias antes da sua mãe morrer, num coletor que subiu até o apartamento com o anel norte fechado, e a garantia não é imóvel, não é carro, não é nada que se possa penhorar. É a assinatura biológica dela. Gabo, se ela não pagou, esses homens não cobram em dinheiro.
+Ele ia perguntar sobre o Taxidermista, sobre a Elena, sobre quantos morreram na Orla Norte. Perguntou outra coisa, e nem ele soube por quê.
 
-Gabo pediu a Elena que seguisse até o endereço registrado, sem esperar que a notícia melhorasse. Os pneus cantaram no asfalto molhado.
+— A minha mãe. — A voz saiu áspera de tubo. — A Clara ligou?
 
-— Me dê a localização desse Dourado. Agora.
+Val baixou os olhos.
 
-O "Santo" podia estar matando os pecadores, mas Gabo Moretti estava prestes a invadir o inferno.
+Foi só isso. Ela não disse nada, não tentou explicar, não usou nenhuma das frases que as pessoas usam. Ela só olhou para o próprio café e não conseguiu levantar o rosto, e o silêncio que se instalou naquele porão durou onze segundos e teve peso, e volume, e uma temperatura.
+
+Gabo não gritou.
+
+Ele virou o rosto para o teto de concreto, e ficou olhando as manchas de infiltração, e a chuva continuou batendo no zinco lá em cima, sem parar, sem ritmo, com aquele barulho dentro do qual dá para ouvir alguém chamando.
+
+Pela primeira vez em trinta e cinco anos, Gabriel Moretti desejou não ter acordado.
+
+---
+
+Sob o curativo da mão esquerda, o Colar de Sol deixou uma marca no lençol. Gabo tentou alcançá-lo. Val cobriu a peça com a palma, sem tomá-la dele.
+
+Do outro lado da cidade, Clara esperava que alguém atendesse.

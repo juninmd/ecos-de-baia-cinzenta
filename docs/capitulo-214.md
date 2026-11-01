@@ -1,84 +1,80 @@
 ---
-Título: O Coração Estéril
+Título: O Batismo de Sangue Congelado
 Data In-Game: Pós-Colapso do Sentinel (Noite Eterna)
-Localização: Hub Principal, Setor 6
+Localização: Intersecção do Eixo Principal, Setor 6
 Personagens Presentes: Gabo, Valéria, Elias
 ---
 
-# Capítulo 214: O Coração Estéril
+# Capítulo 214: O Batismo de Sangue Congelado
 
-Eu me levantei apoiando o peso do corpo na coronha gasta da *Caronte*. Cada passo além das imensas portas blindadas de titânio enviava farpas de vidro através do meu sistema nervoso; não era uma queimação comum, era aquela fisgada fria e persistente dos nervos traumatizados se acomodando na carne machucada. Ainda assim, caminhei os primeiros dez metros de queixo erguido e passo firme, porque Elias estava logo atrás de mim e um garoto assustado precisa ver alguém de pé.
+- O vão está quase todo fechado - disse Valéria.
 
-O Hub Principal do Setor Seis não se parecia com nenhuma das ruínas que havíamos atravessado nas últimas horas.
+A luz do cyberdeck cortou a penumbra azulada do corredor além da porta de controle: um tubo monumental de concreto, com raízes mortas fundidas a cabos de alta tensão e chapas de blindagem corroídas pela Praga de Ferro. O bloqueio que fechava o eixo principal lembrava uma muralha viva petrificada no instante de uma explosão.
 
-Não havia a carne botânica do Jardim rastejando pelas paredes. Não havia a poeira alaranjada da Praga de Ferro devorando as juntas mecânicas. Havia uma esterilidade cirúrgica, quase assustadora.
+Val parou a quatro passos da barricada e examinou a massa escura com o feixe óptico. A franja azul cintilava em sintonia com a interface neural, destacando seus traços tensos e a boca marcada por uma careta de desdém.
 
-Gabinetes de servidores antigos, alinhados em fileiras regulares como monólitos em uma catedral de silício esquecida, banhavam o saguão com um brilho esmeralda suave emanado dos racks em repouso. O piso era composto por grades metálicas imaculadas, sem um grão de fuligem.
+- A crosta está congelada e há tensão residual nos fios. Não sei se o tecido sob ela está vivo. Um tiro pode mover a crosta e atingir o que está atrás dela. Não sei como as raízes reagem.
 
-E o ar... o ar era aquecido e filtrado.
+— É aqui que o Elias entra com o brinquedo dele, — respondi, apoiando o cano curto da *Caronte* na armação mecânica de sucata para aliviar a queimação na clavícula. O ombro direito latejava sem trégua onde a armação puxava o fixador instalado pela equipe; o sangue seco colava a atadura na carne viva, e as cicatrizes do Dilúvio repuxavam no frio extremo. — Elias, mostra como a gente quebra esse gelo corporativo.
 
-Dava para sentir na primeira inspiração profunda: aquela ausência total de cheiro, uma pureza artificial e estéril que só existia onde corporações com bolsos fundos pagavam fortunas para mantê-la. Os termômetros embutidos nas colunas marcavam vinte e um graus Celsius.
+Elias deu um passo à frente, as mãos protegidas por luvas surradas segurando a ferramenta sônica que calibrara na descida. Seus joelhos ainda tremiam, mas o brilho em seus olhos era de pura concentração técnica.
 
-Vinte e um graus positivos, a menos de quarenta metros de um túnel que congelava a carne a quinze graus negativos.
+— O cristal de óxido tem uma frequência de cisalhamento que a ferramenta ainda precisa encontrar no teste de contato, — disse ele, a voz firme apesar do frio que fazia seus dentes baterem. — Posso testar a vibração numa borda da crosta. Se ela ceder, tentamos ampliar a abertura; não sei como o material vai reagir. Quando a crosta soltar, pode haver tecido vivo embaixo. Não vou prever que morre antes de alcançar a gente.
 
-Elias deu três passos hesitantes pelo piso polido, piscando os olhos sob a luz verde e soltando o ar em um suspiro trêmulo de puro alívio.
+— Deixa a biomassa por nossa conta, garoto, — Valéria assegurou, sacando a pistola curta e verificando o compensador com um estalo seco. — Você foca em abrir o buraco. Eu e o brutamontes aqui cuidamos de qualquer tentáculo que tentar fazer carinho no seu pescoço.
 
-— A gente... a gente tá seguro aqui dentro? — sussurrou o rapaz, passando as mãos no rosto para conferir se o calor era real. — Isso aqui parece intocado, Moretti. Parece que ninguém pisa nesse chão faz cinquenta anos.
+Elias assentiu, ergueu o bocal de cerâmica da ferramenta sônica e encostou o bocal numa borda da muralha negra, depois que Val isolou a linha indicada e conferiu aquele trecho com a sonda.
 
-— Ou alguém continua limpando, — respondi. — Piso sem poeira não tem calendário.
+Ele apertou o acionador manual.
 
-— Então por que o aquecimento ainda tá ligado?
+Um assobio agudo, vindo do bocal em contato com a crosta, cortou o ar gélido do túnel. O som parecia vibrar dentro das minhas têmporas e nos dentes da frente. Na superfície da parede congelada, linhas finas e brilhantes começaram a se desenhar em espiral, como teias de aranha rasgando uma vidraça maciça. A crosta de Geada Negra estalou com uma série de estalos secos e sucessivos, soltando lascas que tilintavam no piso de concreto como cacos de obsidiana.
 
-Elias deixou a pergunta no ar e voltou a olhar para a porta que não conseguiriam fechar pelo mesmo comando.
+— Tá funcionando! — gritou Elias, aumentando a amplitude da frequência. — A crosta está soltando! Mas as raízes estão se mexendo!
 
-Valéria não perdeu tempo com o espanto estético. Caminhou em passos rápidos e decididos até o console central de processamento — uma torre monumental de quatro metros de altura que se conectava diretamente ao teto abobadado. Os fios holográficos azuis de sua franja piscaram em alta frequência, refletindo-se nas superfícies cromadas dos gabinetes.
+Mas o alarme do cyberdeck de Valéria apitou na mesma hora.
 
-— Interface física arcaica, padrão serial da década de setenta, — murmurou ela, tirando um adaptador de pinos dourados da bolsa do cyberdeck e engatando na porta de diagnóstico com um clique limpo. — Deixa eu ver o que esse silêncio todo tá escondendo.
+— Movimento nos nós laterais! — ela berrou, erguendo a arma e disparando três tiros certeiros contra gavinhas grossas que se desenrolavam do teto, cuspindo lodo marrom e fagulhas azuis. — As gavinhas estão se soltando! Moretti, quebra o núcleo agora!
 
-Sentei-me no chão ao lado de uma coluna de dados, esticando a perna direita para que a órtese emperrada pudesse esfriar. O ombro direito latejava no compasso do meu coração; a tração na válvula puxara o fixador instalado pela equipe, ao qual Vasco acoplara o suporte. Meus músculos estavam sangrando sob as bandagens sujas, manchando a sarja do casaco, mas o calor limpo da sala ajudava a relaxar a musculatura retesada pelo frio de amônia. As cicatrizes do Dilúvio formigavam, um mapa sensorial de todas as vezes em que Baía Cinzenta tentara me matar.
+Não hesitei. Avancei com a perna boa, ignorando o gemido áspero da órtese direita que arrastava no concreto, e desferi um golpe devastador com o punho de sucata de Vasco no ponto onde as fissuras sônicas convergiam.
 
-— O que você tá achando aí dentro, Val? — perguntei, observando as linhas de código que desciam em cascatas luminosas pelas ópticas dos olhos prateados dela.
+O impacto da massa de ferro forjado contra o bloco de gelo fragilizado soou como a detonação de uma mina subterrânea. A crosta de amônia cristalizada estourou em uma nuvem de pó gélido e farpas negras.
 
-Valéria soltou um assobio baixo, entrecortado por um riso seco e incrédulo.
+Apontei a *Caronte* para a abertura.
 
-— Isso aqui é muito mais antigo do que a Aeterna Corp, Moretti. Muito mais.
+— Espera! — Elias agarrou minha manga pela esquerda. — Se tiver alguém do outro lado...
 
-— Quanto mais antigo?
+Val tentou iluminar pela brecha. A lanterna mostrou um trecho de parede, depois uma curva; não alcançava o corredor inteiro. Uma das gavinhas bateu no chão perto da bota de Elias. Ele soltou minha manga e recuou, mas não retirou a pergunta.
 
-— A primeira entrada é a digitalização de um livro de manutenção de mil novecentos e vinte e dois. É a data das obras hidráulicas. Este console foi instalado depois; não havia computador registrando isso naquele ano.
+— Não consigo ver — disse Val. — Posso testar outra borda, se você cobrir ele.
 
-Elias aproximou-se, debruçando-se sobre o ombro dela para enxergar o monitor fosforescente.
+O deck apitou. A cópia da remessa continuava salva, mas a bateria já estava no último segmento depois da sala de controle. Val olhou para a tela e depois para Elias. A ferramenta dele ainda vibrava; a crosta continuava cedendo, devagar demais para eu saber se as raízes chegariam primeiro.
 
-— Vinte e dois? Foi o ano da fundação do Distrito de Prata e dos primeiros aterros do cais...
+— Recuem — falei.
 
-— Exatamente, garoto, — Valéria continuou, os dedos voando pelas teclas do console enquanto decodificava partições protegidas. — E olha o isolamento físico desse hub. As linhas principais deste nó foram **cortadas**. Ainda não sei se isso explica a ausência da Praga e do Jardim. Quatro linhas principais de fibra óptica e dutos de energia foram cortados a maçarico logo após o colapso inicial, e as pontas foram seladas com resina estrutural.
+Esperei que saíssem da linha. Enfiei o cano na abertura e apertei os dois gatilhos. O recuo torceu minha palma ferida contra a armação. A fumaça escondeu a parede, e por um instante eu não ouvi mais nada além do apito no ouvido esquerdo.
 
-— Alguém desceu até aqui no meio da carnificina só pra trancar esse lugar? — perguntei.
+Val já isolara a alimentação indicada e conferira aquele trecho com a sonda. Da brecha saiu fumaça, não arco. Quando ela baixou, havia uma abertura grande o suficiente para passarmos. A lanterna alcançava mais do corredor, mas ainda não o fim.
 
-— Não só pra trancar, — ela disse, girando o tronco e me encarando com uma seriedade profunda nos olhos prateados, despida de qualquer ironia. — Pra preservar uma plataforma vazia.
+Elias voltou a se aproximar. Não perguntou se eu tinha certeza; eu não tinha.
 
-— O que você quer dizer com "vazia"?
+Duas ramificações biomecânicas grossas chicotearam para fora das bordas da fenda, tentando agarrar o cano quente da escopeta e os tornozelos de Elias.
 
-— Os servidores estão ligados, alimentados por uma usina geotérmica com alimentação de serviço independente das linhas cortadas, operando com noventa e nove por cento de capacidade ociosa. Não tem dados corporativos aqui, Moretti. Não tem listas de acionistas, plantas de armamentos ou registros contábeis. A configuração prevê alojamento de padrões cognitivos. Pode ter sido um **ninho**, ou uma reserva nunca utilizada. Capacidade ociosa não diz quem esperava ocupá-la; vou copiar os arquivos de configuração antes de tentar qualquer comando.
+Valéria saltou para a frente com um movimento preciso e impiedoso, desferindo uma descarga de seu bastão tático no bulbo sensorial de uma delas, enquanto eu esmagava a outra contra o batente com o calcanhar reforçado da minha bota. A massa orgânica soltou um silvo asfixiado, contraiu-se em um espasmo final e desabou inerte sobre a poeira, congelando quase instantaneamente sob o ar polar.
 
-O peso daquelas palavras reverberou no silêncio do salão. Lembrei do sacrifício de Aria, do histórico que ela escolheu arriscar para abrir caminho até os arquivos executivos, e da obsessão de Dante Moretti por uma imortalidade de silício. Alguém, muito antes do meu pai, já sonhava com deuses digitais nas entranhas desta terra alagada.
+O silêncio voltou a reinar no túnel, quebrado apenas pela nossa respiração entrecortada e pelo som fino de poeira de ferro caindo sobre as poças de óleo.
 
-— E as rotas de saída? — indaguei, apontando com o queixo para o painel esquemático. — O mapa mostra pra onde esse complexo leva?
+Passei a mão enluvada no rosto, limpando a fuligem e o suor que já endureciam na pele fria. A fumaça de pólvora me fez tossir; o gosto de sangue na gengiva era o sinal inegável de que estávamos vivos, de que a travessia das catacumbas continuava rendendo território metro a metro desde a queda da Torre Aeterna.
 
-Valéria tocou no painel de comando, e um holograma tridimensional projetou-se no centro da sala em feixes de luz verde.
+— A passagem abriu — disse. Recarreguei com os dois cartuchos que restavam da caixa encontrada no armazém. A caixa vazia ficou no meu bolso.
 
-Não era um diagrama que subia para a superfície. Era uma espiral descendente, cortando camadas geológicas profundas até alcançar uma câmara blindada rotulada como *Arca Zero*.
+Elias desligou a ferramenta e iluminou o chão além da abertura. A sola da bota enfaixada deixou uma marca de sangue onde uma lasca rasgara o tecido. Val se agachou para conferir; ele pediu apenas que ela apertasse a faixa por fora.
 
-— As rotas descem direto pros alicerces tectônicos, abaixo do lençol freático, — Valéria explicou, traçando a linha com o dedo indicador. — Tem um poço de manutenção geológica logo atrás daquele portão dos fundos. Uma descida vertical de quatrocentos metros até a câmara da Arca.
+— Você disse que não sabia quem estava atrás — falou ele, enquanto Val trabalhava.
 
-— Quatrocentos metros no escuro... — Elias sussurrou, engolindo em seco enquanto encarava o abismo desenhado em luz verde. — As entranhas da rocha...
+— Não sabia.
 
-— É lá que a verdade dessa cidade tá enterrada, Elias, — eu disse, levantando-me devagar e firmando a escopeta na mão boa. — Valéria, quanto tempo pra destravar o elevador de carga do poço?
+— Então não chama de limpo.
 
-— Quinze minutos pra bypassar o intertravamento analógico da Aeterna, — ela respondeu, puxando o cyberdeck e desconectando os cabos com um estalo profissional. Ela olhou para Elias com uma sobrancelha arqueada. — E você, garoto? Se quiser esperar aqui, a escolha é sua. Mas a porta para o corredor ficou aberta e não sei quanto tempo este lugar continuará seguro.
+Assenti. Val guardou a lanterna quando ele conseguiu apoiar o pé. Antes de seguir, Elias olhou mais uma vez para o corredor e anotou a posição da barreira no mapa, ao lado dos tanques onde havíamos encontrado os três trabalhadores.
 
-Elias olhou para os servidores imaculados, depois para as cicatrizes e as armas que carregávamos. Suas mãos pararam de tremer.
-
-— Eu não fiquei vivo até aqui pra morrer sozinho numa sala de computadores velhos, — o garoto afirmou, a voz soando com uma convicção que me fez respeitá-lo ainda mais. — Eu vou com vocês até o fundo dessa Arca.
-
-— É a melhor resposta que você deu a noite inteira, Elias, — declarei, destravando a alça da escopeta. — Valéria, inicia a sequência. Nós vamos descer até o fundo do poço.
+Empurrei os pedaços soltos com a armação. Val passou primeiro, iluminando a curva; Elias a seguiu no próprio ritmo. Eu fiquei por último, ouvindo o gelo estalar atrás de nós.

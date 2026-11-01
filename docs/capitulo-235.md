@@ -1,124 +1,145 @@
 ---
-Título: O Lado B
-Data In-Game: Sétima madrugada na Velha Baía
-Localização: Subestação Orla Norte em Chamas, Velha Baía
-Personagens Presentes: Gabo, Valéria, Elias, Elena
+Título: Ponto Zero
+Data In-Game: Sexta manhã na Velha Baía
+Localização: Galpão de Impressão, Velha Baía
+Personagens Presentes: Gabo, Valéria, Elias, Elena, Dra. Elara Vance
 ---
 
-# Capítulo 235: O Lado B
+# Capítulo 235: Ponto Zero
 
-O som do rádio chegou antes da fumaça.
+A caixa não estava no inventário. Elias achou ela numa manhã em que estava reorganizando as pilhas para abrir corredor entre as prensas — atrás da quarta fileira, encostada na parede, coberta pela lona que a gente usou para cobrir o Duarte. Metal, com reforço nos cantos, do mesmo tipo da caixa do Estudo Longitudinal. Etiqueta datilografada, colada e recolada:
 
-A cinco quilômetros da costa, enquanto o jipe a diesel de Elias subia aos trancos pelas pistas esburacadas da Orla Norte, o rádio de painel chiou, estalou e explodiu na voz limpa da Dra. Vance. Não era apenas no nosso carro. Pelas janelas das oficinas abandonadas e dos casebres de estivadores, pontos de luz amarela acendiam na escuridão. Velhos rádios de pilha, alto-falantes de doca, comunicadores civis sintonizados na frequência de emergência.
+ARCA N.O.A. — TRANSMISSÕES RECEBIDAS
+ACESSO: DIRETORIA
+Ele a colocou na mesa e chamou a doutora, porque a essa altura já tinha aprendido que caixa de canto reforçado se abre com ela por perto.
 
-Naquela parte da orla, havia gente acordando para ouvir os nomes de seus carrascos.
+---
 
-— O transmissor entrou em regime de ressonância — disse Valéria, debruçada sobre o para-brisa trincado. Os sensores óticos dela refletiam o clarão avermelhado que tingia a linha do horizonte. — O sinal está distorcendo e perdendo potência. Não consigo medir a saída do transmissor daqui.
+A caixa exalou quando abriu. Ar frio e velho, com cheiro de óleo mineral e sal cristalizado — o mesmo cheiro que subiu do berço dela na galeria. Cheiro de coisa lacrada por gente que esperava não estar viva quando alguém abrisse. Elias virou a cara. Dentro havia rolos de fita e um livro de capa dura, do tipo que operador de rádio usa para registro de turno. Não era o diário de Arthur Vance. Era a **transcrição** — tudo que a Arca N.O.A. transmitiu para a superfície, capturado pela estação da Aeterna e transcrito por um terminal eletromecânico. O livro trazia os carimbos automáticos de recepção; as fitas permitiam conferir erros da transcrição.
 
-Quando dobramos a curva do quebra-mar, vimos a carcaça da subestação.
+A Dra. Elara Vance puxou o livro com as duas mãos. A capa era de couro duro e gelada, e continuou gelada mesmo depois de minutos no colo dela. Abriu ali mesmo, na cadeira de aço no meio do galpão, com as prensas batendo ao fundo. E ficou lendo. Levou quarenta minutos. A Elena mandou parar uma das prensas, depois as outras duas, e o galpão inteiro ficou em silêncio pela primeira vez em cinco dias. Quando terminou, fechou o livro e deixou as mãos em cima dele.
 
-A ala de potência tinha desabado. A sala de transmissão ainda estava de pé, separada pela parede corta-fogo. O que restava era uma cratera incandescente de metal e alvenaria retorcida, cuspindo labaredas azuis de óleo isolante contra o céu de chuva. A explosão do banco de capacitores havia arrancado a ala oeste como quem corta uma lata de sardinha. Três veículos blindados da força de contenção da Aeterna estavam reduzidos a carcaças de aço negro, com os pneus queimando em poças de borracha líquida.
+— A última transmissão recebida nesta caixa é do dia noventa e seis — ela disse. — Depois dela, não temos outra. Não sei o que restou do transmissor.
 
-Os drones sentinelas jaziam espalhados pelo cascalho como besouros pisoteados. Nenhum deles operava. A perda do alimentador derrubara os sentinelas ligados àquela subestação. Não sabíamos quantos outros continuavam operando além da orla.
+---
 
-Elena havia cumprido o que prometeu: ela mantivera a transmissão tempo bastante para alguém repeti-la.
+Ninguém sabia o que dizer, então eu disse a única coisa que sabia perguntar.
 
-— Para o carro, Elias — ordenei, batendo com a mão esquerda na chapa da porta.
+— A senhora quer contar?\
+— Eu quero que fique registrado. — Ela levantou o queixo. — Traga a jornalista. Elena puxou o caderno e sentou no cascalho ao lado da cadeira. E a Dra. Elara Vance leu a última voz do próprio pai em voz alta para nós quatro.
 
-O freio cantou no cascalho úmido. Esperei Elias parar e me ajudar a descer. A urgência não destravava o joelho.
+---
 
-A dor no meu ombro foi uma facada que me fez perder o fôlego, mas forcei a perna direita a avançar, arrastando a órtese travada entre vergalhões retorcidos e cacos de vidro blindado. O ar fedia a borracha queimada, óleo isolante e cabelo chamuscado. Um calor abafado, quase vulcânico, subia das grelhas de ventilação abertas.
+Nos primeiros dias, é um homem eficiente. Inventário de sistemas, diagnóstico de casco, ativação da Fase 2. Frases curtas, verbo no infinitivo. *Liberar unidades. Estabelecer perímetro. Aguardar consolidação.* No dia quatro, a primeira linha que não é ordem:
 
-— Gabriel — a voz de Valéria veio atrás de mim, mecânica e compassada. — Leitura de radiação térmica no piso de comando: setenta e oito graus. Risco de colapso estrutural do teto.
+"Oito. Contava com mais."
+No oitavo dia do Dilúvio as unidades alcançam a Orla Norte, e ele registra a chegada com uma satisfação que ainda atravessava os meses de papel: *"Perímetro estabelecido. A cidade responderá em 72h."* A cidade não respondeu em setenta e duas horas. No dia dezenove, duas unidades param de reportar. No vinte e três, mais uma. Ele anota cada perda com número de série e hipótese técnica — *falha de junta de quadril*, *perda de pressurização*, *causa não determinada* — e nunca, em nenhuma linha, escreve a palavra "ferrugem".
 
-— Fica atrás, Val.
+— Ele não podia — disse a doutora, sem levantar os olhos. — Ferrugem significa tempo. E tempo significa que ele dormiu demais. Eu me lembrei da praia. Da manhã em que aquela coisa de quarenta metros subiu o aterro da Orla Norte mancando, com a perna direita tremendo e o hidráulico vazando um filete escuro que formou poça antes de ela parar de andar. Na época eu achei que era dano de combate. O relatório aponta desgaste como outra possibilidade; não prova a causa da falha naquela máquina. Eu vi o vazamento de perto e não soube distinguir uma coisa da outra. O gosto de ferro voltou à minha boca só de lembrar.
 
-A comporta de aço marítimo estava arrancada de suas dobradiças, tombada sobre um monte de escombros de alvenaria.
+---
 
-Entrei na sala de comando.
+A parte insuportável começa no segundo mês. Porque ele continua. Continua emitindo ordem de manobra para unidades que não reportavam havia semanas. Continua fazendo chamada nominal — *L-04, reporte; L-04, reporte* — três vezes por dia, todos os dias, com a mesma repetição mecânica. Continua planejando a Fase 3, que era a administração da cidade pacificada, com organograma, distritos e turnos. Ele transmitiu o organograma inteiro. Está no livro, na página cento e quarenta e um. Uma caixa no topo escrita **COMANDO** e treze embaixo, e em três delas nomes de gente morta durante os vinte e sete anos de estase.
 
-A fumaça preta acumulava-se no teto, mas a chuva fria que descia pelo rombo da laje atravessava a fumaça sem torná-la respirável. Valéria me passou o equipamento de resgate do jipe antes de entrarmos. No centro do recinto, o console de baquelite verde continuava brilhando com relés incandescentes, sustentando o sinal que subia para a torre como um coração artificial teimoso.
+— As transmissões foram arquivadas, mas não achei aqui registro de quem as recebeu ou leu — disse Valéria. Tinha se aproximado sem ninguém perceber. — A queda da Torre não prova que toda estação ficou sem operador.\
+— Também não sabemos o que ele soube — falei.\
+— Neste material, ele não menciona o que veio depois. — A doutora apoiou os dedos na capa. — Ele não menciona a queda da Torre, a Praga de Ferro, o Jardim ou o Sentinel. Também não há aqui notícia de que soubesse até onde Krell ampliara o programa que ele mesmo autorizou antes de descer. Desconhecer o que veio depois não o inocenta do que deixou funcionando. Ela olhou para mim.\
+— Nessas transmissões, meu pai passou três meses achando que estava conquistando Baía Cinzenta. E Baía Cinzenta já tinha sido comprada, moída e revendida por um rapaz que ele contratou para digitalizar contrato de cemitério e cujo nome ele provavelmente nunca aprendeu.
 
-Apoiada na base do transmissor, sentada sobre o piso de borracha alagado, estava Elena.
+---
 
-A *Caronte* repousava ao lado de sua coxa, com a culatra aberta e dois cartuchos deflagrados fumegando no cascalho — a mesma arma que ela havia empunhado na Torre e que eu carregava desde o Dilúvio. A jaqueta verde-oliva estava empapada de um vermelho escuro e pesado que escorria até o chão, colorindo a poça de água salobra em que ela descansava as pernas esticadas.
+— Por que ele não subiu? — perguntou Elias, baixinho. — Não tinha um submersível? Alguma coisa?\
+— Tinha. — Ela abriu numa página marcada com o dedo. — Cápsula de ascensão, dois lugares, manutenção independente. Consta no inventário do dia um: *"Operacional. 100%."*\
+— Então ele podia sair a qualquer momento.\
+— O inventário dizia que estava operacional no primeiro dia. Não mostra se continuou assim até o ataque. O galpão ficou muito quieto.\
+— Ele não subiu porque não ia subir como refugiado. Está transmitido, no dia trinta e um, com essas palavras: *"Ascender antes da consolidação seria chegar como sobrevivente. Eu não passei vinte e sete anos aqui embaixo para chegar como sobrevivente."* Ela fechou o livro.\
+— Ao menos no dia trinta e um, ele dizia preferir esperar. Isso não prova que a cápsula estivesse disponível até o fim.
 
-Ela não estava se mexendo.
+---
 
-O queixo estava caído sobre o peito. As mechas do cabelo castanho claro estavam coladas na testa molhada de suor e fuligem. Lembrei-me da carta que ela me deixara antes de cruzar o perímetro, quando prometera levar a verdade para fora da cúpula para que os arquivos nunca morressem. Em sua mão direita, apertada contra o peito com os nós dos dedos brancos de esforço, repousava o gravador de microcassete de plástico cinza.
+— Doutora — falei, e a minha voz já estava errada, porque eu tinha feito a conta no meio da leitura e estava esperando o fim para ter certeza. — Que dia foi a última transmissão?\
+— Dia noventa e seis.\
+— Que **data**. Ela me olhou. E entendeu antes de responder, do jeito que ela entende tudo, meio segundo antes de todo mundo.\
+— O senhor sabe que data foi.
 
-Caí de joelhos ao lado dela.
+Eu sabia. Foi no ataque orbital. Eu estava num poço de ventilação no subsolo da Torre Aeterna, com a Val digitando ao meu lado e três plataformas orbitais em janela de lançamento, e um alvo padrão marcado no centro geométrico de Baía Cinzenta que ninguém precisava confirmar porque o *default* já estava lá. E eu escolhi um retângulo de água preta a leste. A Val me avisou que o arquivo de apoio ligado ao padrão do meu pai estava lá embaixo, e eu disse que meu pai estava na cidade e que o que tinha no fundo do mar era um arquivo corporativo com a cara dele, e ela confirmou o risco, registrou meu comando e digitou as coordenadas, e eu falei *fogo*. Quatro minutos e onze segundos. O céu ficou branco três vezes. O chão bateu de leste. Nove toneladas de tungstênio a doze mil quilômetros por hora, três vezes, num ponto do oceano onde eu sabia que tinha um cofre. Eu não sabia que tinha um homem.
 
-O impacto do cascalho estourou a dor no meu menisco remendado, mas eu não senti nada além do frio repentino que tomou minha nuca.
+---
 
-— Elena.
+Ninguém falou nada por um tempo muito longo. Foi a Elena que quebrou, e ela quebrou olhando para o caderno dela em vez de para nós dois.
 
-Estendi a mão esquerda e toquei a lateral do pescoço dela, logo abaixo da linha da mandíbula suja de carvão. A pele ainda guardava o calor da sala em chamas, mas não havia pulso. Apenas o silêncio liso e absoluto de quem cruzou a linha sem retorno.
+— Vocês querem que eu tire essa parte?\
+— Não — disse a doutora.\
+— Doutora—\
+— **Não.** — Ela virou a cadeira de aço com as mãos, encarando a Elena de frente. — Eu passei décadas preservando séries de um arquivo de sessenta e um anos justamente para que ele saísse inteiro. Não vou começar a editar agora que a linha ruim é minha. Depois virou para mim. E eu esperei. Eu não sei o que eu esperava — que ela gritasse, acho. Que me chamasse de assassino, que fosse justo, que fizesse sentido. Ela disse:\
+— O senhor tinha três hastes e o disparo estava apontado para o centro da cidade, inspetor. A alternativa escolhida foi a instalação no mar.\
+— Doutora, eu—\
+— **Quantas pessoas moravam naquele retângulo?** Eu abri a boca e não saiu nada.\
+— Não havia população cadastrada — ela mesma respondeu. — Isso não prova que só houvesse meu pai lá embaixo. O último registro da cápsula é anterior ao ataque; não temos confirmação do que restou. — E no centro geométrico de Baía Cinzenta moravam cerca de quarenta mil, considerando os abrigos. O senhor desviou o ataque dos abrigos para uma instalação sem população civil registrada. — Ela apoiou as mãos no livro outra vez. — Foi a decisão correta e continuaria sendo correta se o senhor soubesse quem estava lá dentro. Eu me recuso a fingir o contrário só porque a uma era meu pai.\
+— Isso não é... — engoli. — A senhora não precisa fazer isso.\
+— Eu não estou fazendo nada pelo senhor. — E aí a voz dela finalmente vacilou, uma vez, no meio. — Eu estou fazendo a conta. É o que eu sei fazer. É o que eu faço em vez de sentir, e é tarde demais para eu aprender outra coisa.
 
-Valéria ajoelhou-se do outro lado. Os dedos da mão direita de Val tocaram a carótida de Elena por alguns segundos antes de conferir o monitor portátil de resgate.
+---
 
-— Sem sinais de circulação detectáveis nesta avaliação. Hora em que a encontramos: quatro e vinte e sete — declarou Valéria. Houve uma pausa incomum na modulação de sua voz sintética. Ela interrompeu a frase para respirar e olhou para mim antes de continuar. — Os ferimentos balísticos e a perda de sangue são compatíveis com choque hipovolêmico; não posso determinar a causa clínica sem exame. O transmissor ainda opera, mas está falhando. Vamos tirar os dois daqui.
+A última página tem duas linhas.
 
-Atrás de nós, Elias tirou o boné de estivador da cabeça e deu dois passos para trás, encostando-se na parede de concreto descascada.
+"Dia 96. Chamada: nenhuma resposta."
+E, depois, sem hora, a única frase do livro que não é relatório:
 
-Fiquei olhando para o rosto dela.
+"Elara, se você estiver ouvindo isto: a culpa não foi sua. Eu te deixei sozinha com aquilo."
+A doutora leu essa parte em voz alta com absoluta firmeza. Depois ficou olhando para a página.
 
-Elena parecia mais jovem assim, sem a tensão que repuxava os cantos de sua boca toda vez que ela olhava para as minhas cicatrizes ou conferia o nível de água nos porões. Não havia horror na expressão dela. Havia apenas uma determinação teimosa, petrificada no formato de seus lábios entreabertos.
+— Isso é falso — ela disse.
 
-Eu não sabia tudo o que acontecera ali dentro. Ela tinha chegado ao transmissor e a voz da doutora ainda saía dos rádios. O resto estava espalhado pela sala, entre os cartuchos e os estilhaços.
+— Doutora—
 
-Valéria voltou com Elias e uma lona de resgate. Ele recolheu a Caronte; Val conferiu a coronha antes de levá-la ao jipe. Prendemos Elena na lona e a levamos para fora, devagar, afastando-nos da parede ameaçada. Eu quis carregar mais peso do que podia; Elias segurou a outra ponta quando meu joelho cedeu. Só no jipe, com a porta fechada contra a chuva, puxei o gravador de microcassete de seus dedos.
+— **É falso, inspetor.** — Os olhos azul-gelo estavam secos, e era pior assim. — Ele não me deixou sozinha. Ele me deixou **com autoridade**. Com acesso, com o arquivo inteiro e com uma chave de estase. Eu tinha tudo que era necessário para encerrar aquele programa. Eu li o protocolo, entendi o protocolo, escrevi que era indefensável, e recomendei que fizessem em escala. Bateu duas vezes na capa, devagar.
 
-A carcaça plástica estava quente ao toque, marcada com a impressão digital de sangue que ela havia deixado ao pressionar o botão de parada. O contador marcava poucos minutos de gravação. O transporte tinha parado.
+— Ele passa noventa e seis dias ordenando manobra para máquina afundada e, no último, encontra tempo para me isentar de uma coisa da qual eu não quero ser isentada. É uma absolvição que eu não aceito. Não vou atestar a honestidade de cento e quarenta páginas só porque reconheço a última mentira. Elena tinha parado de escrever.
 
-Desconectei o pequeno fone de ouvido de plástico que vinha enrolado no corpo do aparelho. Encaixei o fone no ouvido direito; o esquerdo já não me entregava aquela voz inteira.
+— A senhora não quer que eu publique.
 
-Apertei o botão de rebobinar. O zumbido agudo das engrenagens plásticas durou quinze segundos.
+— Publique. Inteiro, incluindo essa parte. — Ela ergueu o queixo. — E acrescente, com o meu nome embaixo: **a filha recusa a absolvição.**
 
-Parei. Apertei o *PLAY*.
+---
 
-O estalo característico do cabeçote magnético soou no meu tímpano, seguido por um ruído de fundo ensurdecedor — o rugido dos maçaricos corporativos cortando a porta, o alarme de emergência da subestação uivando em dois tons e o chiar contínuo da alta tensão da antena.
+Fiquei no galpão depois que os outros voltaram ao trabalho. Sentei no cascalho perto dela, porque o joelho já não me deixa fazer outra coisa.
 
-Depois, a respiração de Elena.
+— Não sobrou corpo — falei. Não era pergunta.
 
-Curta. Quebrada por uma tosse molhada.
+— Não temos recuperação de casco nem corpo, inspetor. Só a interrupção das transmissões e o registro do ataque. — Ela olhou para a porta aberta do galpão, para a luz. — Ponto Zero continua sem responder. Vou registrar a perda sem inventar o que ninguém conseguiu recuperar.
 
-— Gabriel — a voz dela chegou como se ela estivesse sentada no banco do carona do velho *Cobalt*, numa daquelas noites chuvosas antes do colapso de tudo. — Se você está ouvindo isso, liguei a difusão e isolei a purga no quadro. Não sei quanto vai durar nem se funcionou em toda a linha. Peçam aos assentamentos que retransmitam e preservem as matrizes.
+— Sinto muito.
 
-Ela tossiu, um som úmido e áspero que fez meu estômago revirar.
+— Eu também. — Do jeito que se confere um número. — Não pelo homem. Pelo desperdício. Ficamos ali. E aí ela falou mais uma coisa, e foi a única vez em que a voz dela saiu com alguma coisa dentro.
 
-— Lado A — ela continuou, recobrando a postura profissional da repórter que nunca errou uma data de arquivo. — A frequência de retorno da chave mestra de Krell é nove-zero-dois ponto quatro. Os registros que separei no galpão indicam um repetidor ligado ao iate executivo no setor marítimo de Ponto Zero. Não confirmam que ele esteja a bordo. Está tudo registrado no minidisc dentro da coronha oca da *Caronte*. Leva isso para a Dra. Vance. Ela sabe como decodificar os contratos de concessão.
+- Nós dois estivemos debaixo d'água ao mesmo tempo, sabia? Eu na Arca Zero, ele em Ponto Zero. Duzentos quilômetros de distância. Ele acordado, esperando uma cidade que não vinha. Eu acordada dentro do vidro, esperando duas pessoas que conseguissem concordar em girar uma chave. Ela apertou a capa do livro.
 
-O disco na coronha. Eu tinha visto aquilo entrar na arma, no galpão, e não tinha perguntado.
+— Ele esperou noventa e seis dias e não veio ninguém. Eu esperei meses e vieram vocês.
 
-O som de metal sendo rasgado ecoou na fita. Uma nova rajada atingiu o painel perto do microfone. Elena gemeu; ela começara a gravar já ferida.
+---
 
-Silêncio por cinco segundos intermináveis. Eu prendi a respiração, temendo que a gravação tivesse acabado ali.
+Antes de rodar o caderno, a Elena levou o gravador de bobina até a mesa e sentou a doutora na cadeira de aço.
 
-Então, o estalo do interruptor. A respiração dela voltou, mais baixa agora, quase um sussurro contra a membrana plástica do gravador.
+— Leia outra vez. Do começo. Para a fita.
 
-— Lado B, Gabriel.
+— Eu já li.
 
-A voz dela amoleceu. Perdeu a armadura de campo, perdeu a dureza das manchetes.
+— A senhora leu para quatro pessoas. A fita não cansa e não corrige. — Ela encaixou um carretel virgem da gráfica; os registros originais da caixa ficaram separados e identificados. — Esta será a matriz da nossa leitura. Se as doze mil cópias sumirem, essa bobina continua existindo. Levou três horas e quarenta minutos. A doutora leu o livro inteiro sem parar para café, e quando o carretel acabou ela esticou a mão sem pedir nada, e a Elena pôs outro no cabeçote. No fim, a Elena escreveu na etiqueta com caneta de bico: **LEITURA INTEGRAL — E. VANCE**. Embrulhou os carretéis em papel pardo, identificou a ordem e entregou o conjunto à equipe para guardar com as outras cópias.
 
-— Eu fui embora porque você usou meu nome sem me contar e depois quis escolher o risco por mim. Eu também tinha medo de ver você morrer devagar. As duas coisas eram verdade. Ter medo não fez de mim uma espectadora, Gabriel. Eu escolhi vir até aqui porque precisava transmitir aqueles nomes. Queria voltar.
+— Devia ficar no cofre — falei.
 
-Uma pausa longa. O som do sangue pingando nas lajotas da sala.
+— Cofre é o primeiro lugar que eles abrem, Gabriel. A doutora ficou olhando os carretéis nas mãos da equipe.
 
-— Não carregue minha escolha como se tivesse sido uma ordem sua. A culpa pelo que fizeram com Baía Cinzenta não é sua. Isso não apaga o que você fez; você ainda tem que responder por isso. Você nunca foi o grupo de controle do Krell por escolha; você ainda pode decidir o que fazer com aquilo que eles registraram. Não deixa eles te transformarem num número de pasta. Você é o Gabriel Moretti. O homem que me beijava na balsa do cais e que não sabia mentir sobre o preço do pão.
+— A senhora não vai perguntar para quê? — perguntei.
 
-Sua voz vacilou, quase apagada pelo uivo final do banco de capacitores.
+— Passei décadas sabendo para quê. — Ela endireitou a coluna na cadeira. — Só quero que fique registrado que eu li inteiro. Inclusive a última página.
 
-— O cordão de latão... fica com ele. O número gravado atrás identifica nossa velha caixa postal; a chave está presa no bolso interno da jaqueta. Tem algumas cartas que eu escrevi quando achava que a gente ia envelhecer juntos. Guarda isso. Mas agora... quando o sol nascer, desliga o rádio, Gabriel. Enterra o que precisa ser enterrado. E vai viver.
+---
 
-O mecanismo rodou em falso no final da fita plástica. *Clack.*
+À tarde, a Elena rodou o caderno especial. Dezesseis páginas, doze mil cópias, capa preta. No alto, uma linha só:
 
-O silêncio desceu sobre o fone.
+ARCA N.O.A. — AS ÚLTIMAS TRANSMISSÕES DE ARTHUR VANCE, FUNDADOR DA AETERNA S.A.
+E, no rodapé da última página, em corpo miúdo, exatamente como ela pediu:
 
-Tirei o fone do ouvido devagar. O vento entrava pela janela do jipe, trazendo o cheiro salgado do mar e da chuva.
-
-Aproximei minha mão do peito dela e desatei o cordão fino que prendia o pingente redondo de latão. O metal estava morno do sangue dela. Fechei os dedos ao redor da peça e apertei até que as bordas cortassem a palma da minha mão.
-
-Não gritei. Não quebrei nada.
-
-Apenas encostei minha testa contra a dela, ali no banco do jipe, sob a lona de resgate, e deixei as lágrimas lavarem a fuligem do meu rosto.
+Nota da Dra. Elara Vance, filha do autor: a filha recusa a absolvição.

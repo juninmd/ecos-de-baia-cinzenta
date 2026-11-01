@@ -1,146 +1,155 @@
 ---
 layout: doc
-title: "Capítulo 92: A Praga de Ferro"
-description: "O enclave dos Puros não é atacado: é cobrado. Vilar descobre que a ferrugem é a resposta ao preço que ele se recusou a pagar."
+title: "Capítulo 92: O Arquivista"
+description: "Numa biblioteca submersa, um velho entrega a Gabo um diário sobre o Jardim e uma hipótese perigosa sobre o Código Morto."
 image: /capitulo_92.jpg
-Personagens Presentes: Capitão Jonas Vilar
-Localização: 'Distrito Industrial — Setor dos "Puros". Nove dias depois da negociação'
+Personagens Presentes: Gabriel "Gabo" Moretti, Aloísio, o Arquivista
+Participação em referência: Silas Vance, Dante Moretti, Valéria "Val" Cruz e Aria
+Localização: "Biblioteca Municipal (submersa) — Nível -3"
 ---
 
-# Capítulo 92: A Praga de Ferro
+# Capítulo 92: O Arquivista
 
-Distrito Industrial — Setor dos "Puros". Nove dias depois da negociação.
-O ataque não veio na forma de monstros nem de soldados.
+Biblioteca Municipal (submersa) - Nível -3.
 
-Veio como uma conta vencida.
+A Biblioteca era um dos poucos lugares que o Jardim ainda não tinha comido. Gabo levou duas horas para perceber a diferença, e a resposta era humilhante: o Jardim evitava aquele circuito de estantes. Papel e cola podiam alimentar fungo; não era falta de comida. Havia sais secos nas pranchas e marcas de tratamento nas lombadas, uma barreira que alguém continuava renovando.
 
-Vilar estava na guarita leste às cinco e quarenta da manhã, limpando o rifle, com a coronha presa numa morsa, porque ainda reaprendia a desmontar a arma usando uma mão só. Óleo, estopa, vareta. O cheiro do solvente era ácido e limpo, e cortava o resto: o mofo das lonas, o suor de duzentas pessoas dormindo em galpão, e o cheiro adocicado que vinha da cidade lá fora e que já não era cheiro de cidade.
+Um milhão e duzentos mil volumes, e a coisa que estava devorando a cidade passou por cima e deixara um corredor estreito sem brotação. Ele remava um bote de alumínio pelos corredores inundados. A água estava a um metro e sessenta do piso original, escura e absolutamente parada, e refletia o teto com uma nitidez de espelho. As estantes emergiam dela como cânions, e a lombada dos livros dos três primeiros metros estava inchada e branca de mofo.
 
-Ele tinha feito aquilo dez mil vezes. Fazia no escuro havia trinta anos.
-
-Foi por isso que percebeu antes de ver. A estopa saiu vermelha.
-
-Não vermelha de sangue — sangue tem fundo doce, e ele conhecia. Aquilo era vermelho de tijolo moído, seco, farinhento. Vilar ficou olhando com o cérebro rodando devagar demais, e pensou *ferrugem*, e pensou *impossível, eu passei óleo ontem*, e nesse intervalo — dois segundos, talvez três — o cano do rifle mudou de cor na mão dele.
-
-Não enferrujou. Enferrujar leva anos. Aquilo **envelheceu**: como se alguém tivesse empurrado quarenta invernos para dentro do aço de uma vez só.
-
-Vilar apertou por reflexo.
-
-O rifle cedeu. Não quebrou, não partiu: virou pó entre os dedos e escorreu pelo antebraço abaixo, e o que restou caiu no concreto com um som de saco de areia rasgando.
-
-O gosto chegou depois. Ferro na língua, forte, o gosto que fica na boca quando se chupa uma moeda ou se leva um soco na cara.
-
-Aquilo estava no ar. Ele estava respirando aquilo desde que acordou.
+O cheiro era de papel molhado. Só isso. E, depois de quatro meses de terra doce e flor podre, aquilo era quase perfume.
 
 ---
 
-Ele tentou fechar a mão esquerda. A que já não tinha.
-
-O espasmo fantasma subiu pelo braço ausente e o fez bater o coto no batente. O curativo da amputação estava úmido; com a mão direita, ele puxou a manga e encontrou a tala externa manchada de laranja. A ferrugem não nascia da carne. Vinha dos grampos e do fecho que o ambulatório usara para prender a proteção.
-
-Arrancou a capa pelo velcro. Um dos grampos ficou preso na faixa e ele teve de rasgá-la com os dentes. O sangue apareceu antes de conseguir soltá-lo.
-
-Apoiado no concreto, pressionou uma compressa sobre o coto. Não tinha outra mão para prender a bandagem. Uma mulher da cozinha veio correndo e amarrou o pano sem perguntar.
-
-Vilar deixou a proteção no chão e foi para a muralha.
+— Quem navega nas águas do esquecimento? A voz veio das sombras, e ecoou, e o eco foi bonito, e Gabo entendeu na hora que era ensaiada. Ele parou de remar.\
+— Um homem que não quer esquecer. Uma pausa.\
+— Ah, essa foi boa. — A voz mudou de registro, ficando comum. — Normalmente eles respondem "polícia".
 
 ---
 
-— **CAPITÃO!** — A voz veio do alto da passarela. Era o Tenente Aldo Peçanha, trinta e dois anos, o único ali que ainda batia continência. — Capitão, as muralhas!
+A figura apareceu no topo de uma estante que emergia da água como ilha. Era um velho. Setenta e muitos, magro, com um terno de corte antigo — anos vinte, lapela larga — que estava impecavelmente preservado, e Gabo entendeu por que quando ele se moveu: por baixo do paletó havia uma camada de plástico, costurada no forro. Nas mãos, luvas cirúrgicas. Segurava um livro aberto, apoiado nas duas palmas, sem encostar o polegar na página.
 
-Vilar subiu a rampa com as pernas de cinquenta e cinco anos e viu.
+— Detetive Moretti — ele disse, fechando o volume com cuidado. — A sua reputação o precede. Ou, mais precisamente, a sua assinatura o precede.\
+— Que assinatura?\
+— O senhor cheira a Jardim. — O velho desceu da estante para uma prancha de madeira apoiada em dois carrinhos de livro, equilibrando-se com uma perícia irritante. — Não é ofensa. É diagnóstico. Que braço? Gabo não respondeu.
 
-As chapas de aço naval que eles tinham arrancado de um cargueiro encalhado, soldadas ao longo de sete meses, com quatro homens mortos no processo, estavam mudando de cor de baixo para cima. Uma maré alaranjada subindo pelo metal, silenciosa e uniforme, com a paciência de quem já ganhou.
-
-Não só as muralhas. Os geradores. As vigas do galpão. Os dois caminhões. Os barris, as correntes dos portões, os pregos das paredes, a estrutura da caixa d'água.
-
-Em algum lugar do pátio uma mulher gritou, e o grito foi cortado no meio pelo estrondo de uma viga cedendo.
-
-— É a Praga de Ferro — disse Vilar.
-
-— O quê?
-
-— O nome que eu estou dando agora, tenente. Alguém tinha que dar.
-
-Peçanha olhava para as próprias mãos, onde a fivela do cinto tinha manchado o uniforme de laranja.
-
-— Capitão, isso é uma arma nova. Eles desenvolveram uma arma nova, eles—
-
-— Não é nova.
-
-Vilar disse isso e sentiu a coisa se encaixar no peito com o barulho de uma porta se fechando.
-
-Não era arma. Arma se dispara contra a defesa do inimigo. Aquilo não estava rompendo defesa nenhuma: estava dissolvendo tudo ao mesmo tempo, no enclave inteiro, do lado de dentro, sem alvo e sem pressa. Não existe arma que faça isso.
-
-Existe **decisão**. Eles sempre puderam.
-
-Em todos aqueles meses de muralha, de turno dobrado, de gente morrendo pendurada em andaime para soldar chapa, os Jardineiros podiam ter feito aquilo em qualquer manhã. Não fizeram. Deixaram os Puros construírem. Deixaram Vilar acreditar que muralha era resposta, e o deixaram ensinar isso a duzentas e quarenta pessoas.
-
-E nove dias atrás um homem de dentes de quartzo tinha lhe dito um preço, e Vilar tinha voltado para casa sem responder.
-
-Nós não odiamos gente, Capitão. Nós odiamos o velho mundo.
-Aquilo não era um ataque. Era um recibo.
-
-— Capitão? — Peçanha estava com a mão no ombro dele. — O senhor ficou branco.
-
-Vilar respirou fundo uma vez.
-
-— Eu vou lhe contar uma coisa quando a gente estiver dentro do Hospital, tenente. Antes não.
+— Ah — disse o Arquivista. — Os dois.
 
 ---
 
-O Jardim entrou pela muralha norte às seis e dois.
+— Eu preciso de informação sobre o Projeto Gênesis.
 
-Não escalou: passou por onde a chapa já era pó. Vieram primeiro as coisas de quatro patas — cães de raiz trançada, com dentes de pedra encravados na mandíbula, correndo com um passo errado, longo demais na frente e curto atrás. Depois vieram os grandes, de carapaça de queratina, cinza como unha.
+— Naturalmente.
 
-Nenhum deles fazia barulho de bicho. Faziam barulho de mato sendo pisado.
+— E sobre um homem chamado—
 
-— **CERÂMICA! PLÁSTICO! MADEIRA!** — Vilar berrou, arrancando com a mão boa a pistola de polímero impressa do coldre. — ESQUECE O METAL! QUEM ESTIVER COM ARMA DE AÇO, LARGA A ARMA E PEGA UM CANO DE PVC! **AGORA!**
+— Dr. Silas Vance — completou o velho. Gabo parou de remar de vez.
 
-O primeiro tiroteio durou onze segundos.
+— O senhor conhece.
 
-Depois disso, não houve mais tiroteio.
+— Eu **arquivei**. — Ele bateu de leve na estante ao lado. — Setor de teses da Universidade Municipal, ala de biologia aplicada. Eu era o bibliotecário desta casa quando o Dr. Vance ainda vinha aqui pessoalmente pedir material por escrito, com formulário, porque ele detestava telefone.
 
-Porque as balas eram de chumbo com camisa de latão, e latão é cobre com zinco, e o que estava no ar não fazia distinção fina entre metais. Os estojos falhavam nas câmaras; as armas contaminadas engasgavam e rompiam. Vilar viu, com uma clareza que ia lhe custar noites, um dos seus disparar três vezes à queima-roupa contra um cão de raiz e produzir estalos fracos na culatra, sem deter o bicho. Na última tentativa, a arma abriu junto à mão.
+— Ele é filho do Arthur Vance.
 
-O homem olhou para a arma.
+— É o filho **homem** do Arthur Vance, que é uma coisa diferente e que explica quase tudo o que veio depois. — O Arquivista sorriu sem alegria nenhuma. — A irmã dele, a Elara, herdou a empresa. Ele herdou o laboratório do subsolo e a certeza de que o pai tinha escolhido errado.
 
-O cão não olhou para nada.
+— Todo mundo acha que ele morreu no primeiro surto da Febre Cinzenta.
 
-— **RECUAR!** — gritou Vilar. — Túnel de serviço! Para o Hospital! O túnel ainda está livre e o Hospital tem isolamento! ANDA! **ANDA!**
-
----
-
-O enclave dos Puros caiu em nove minutos.
-
-Vilar levou vinte e sete pessoas até a boca do túnel, contando a si mesmo e Peçanha. Ao acordar, eram duzentas e quarenta no enclave; os vinte e sete estavam incluídos nesse total.
-
-Peçanha ficou por último, empurrando os mais lentos escada abaixo, do jeito que Vilar tinha ensinado — porque Vilar tinha ensinado errado. Oficial sair por último é regra de incêndio em prédio. Não é regra de selva.
-
-A vinha brotou do asfalto entre as botas dele.
-
-Não houve luta. Enrolou no tornozelo, subiu até a cintura em menos de um segundo e puxou. O concreto se abriu como se sempre tivesse sido feito para abrir. Peçanha não gritou por socorro: gritou o posto do Capitão, uma vez só, com entonação de pergunta.
-
-Depois a rua se fechou por cima dele e ficou lisa, e não dava para saber onde tinha sido.
-
-Vilar viu tudo, da boca do túnel, a doze metros de distância, com uma pistola de plástico na única mão que lhe restava.
-
-Não voltou.
-
-Não por ser forte. Por ser velho o bastante para saber que voltar ali transformava um morto em vinte e sete, e essa é a única aritmética que um comandante não tem permissão de errar.
+— O diário sugere que ele se **plantou**. — O velho deu de ombros. — Um obituário e essas páginas não bastam para eu dizer o que aconteceu com o homem.
 
 ---
 
-O túnel de serviço cheirava a água parada e mofo. Era escuro, estreito e não tinha uma peça de metal em lugar nenhum: canos de PVC, escadas de fibra, parafusos de nylon. Uma obra barata dos anos vinte, feita para economizar cimento, que naquela manhã virou a construção mais bem projetada de Baía Cinzenta.
+— Ele é o Jardineiro?
 
-Vilar seguia na frente com a lanterna presa entre o ombro e o queixo, porque não dava mais para segurar lanterna e arma ao mesmo tempo. Toda vez que precisava apontar a luz para o lado, precisava virar o corpo inteiro. Ele ia levar meses para se acostumar com isso, e naquela manhã descobriu em cinco minutos.
+— O diário o chama de Pai. — O Arquivista se aproximou com a prancha. — "Jardineiro" aparece como função, não como nome. O senhor já conheceu pelo menos uma, imagino. Verde-pálida? Cicatriz de cesárea?
 
-Atrás dele, alguém chorava baixo. Alguém rezava. A maioria não fazia nada, que é o que as pessoas realmente fazem.
+— Conheci.
 
-Ele pensou em Nise, que jurara proteger. Pensou no servidor. Pensou no mundo de aço e pólvora, onde Jonas Vilar tinha sido um homem competente por trinta anos — e entendeu, com uma calma que o assustou mais do que o medo, que aquele mundo tinha acabado às cinco e quarenta da manhã, num pedaço de estopa sujo de vermelho.
+— Acho que era Adriana, professora de educação física da Rua Onze. Ela vinha buscar livros para a escola. — O cuidado na voz dele foi quase carinho. — A transformação pode ter me confundido. Se encontrar alguém que a conheceu, confirme o nome.
 
-Agora era a lei da selva. E, na selva, ele não era Capitão de coisa nenhuma.
+---
 
-Faltavam quatro quilômetros até o Hospital Central.
+Gabo remou até a base da estante.
 
-Tempo suficiente para ele ensaiar a frase que ia ter de dizer ao Moretti quando chegasse: Peçanha era um dos duzentos e catorze mortos naquela manhã, depois da ameaça que Vilar escondera. O assassino estava do lado de fora; o silêncio fora dele.
+— Por que o senhor está me ajudando?
+
+— Porque eu tenho setenta e oito anos e não tenho nada para trocar. — O velho se sentou na beirada, com os pés a vinte centímetros da água. — E porque, se eu não contar isso para alguém antes de a água subir outra vez, não vai sobrar ninguém que saiba ler. Ele estendeu um livro. Um diário de campo encadernado em couro sintético, com a lombada rachada e um elástico segurando as folhas soltas. Gabo pegou.
+
+— Está tudo aí — disse o Arquivista. — O plano, as fases, a formulação. E a fraqueza.
+
+— Fraqueza.
+
+— Toda floresta tem medo de uma coisa, detetive.
+
+— Fogo.
+
+— Errado. — O velho balançou o dedo. — Floresta tem medo de fogo do jeito que uma cidade tem medo de chuva forte: incomoda, custa caro, e no ano seguinte cresce melhor. O Jardim já queimou duas vezes desde o Sol Negro. O senhor não soube porque a fumaça não subiu.
+
+— Então o que ele teme?
+
+— Ele teme uma coisa que queime a **informação** e não a matéria.
+
+---
+
+Gabo ficou olhando para ele.
+
+— Radiação.
+
+— Pior, e melhor. — O Arquivista falava agora com a paciência de quem explica para um aluno que está quase chegando. — Radiação embaralha em massa, e coisa embaralhada em massa se recompõe por seleção. O que essa coisa não sabe combater é um agente que entra pela linguagem: que fala com o código, é aceito como código, e reescreve de dentro.
+
+— Um vírus.
+
+— Uma rotina que o autor acreditava capaz de explorar controladores incorporados ao substrato. O diário chama de retrovírus **digital**; o nome é uma analogia, detetive. Ele atribui o projeto ao seu pai, mas não registra um teste contra este Jardim. Gabo sentiu o estômago descer.
+
+— O Código Morto.
+
+— Ah — disse o Arquivista. — Então o senhor já ouviu falar do trabalho do seu pai.
+
+---
+
+Gabo ficou um tempo em silêncio, com o bote balançando na água parada.
+
+— E onde está esse código?
+
+— O senhor já sabe.
+
+— Eu quero ouvir o senhor dizer. O Arquivista suspirou.
+
+— O diário menciona uma IA tática num módulo portátil. Uma requisição que chegou ao arquivo público identifica um berço de diagnóstico pedido por Valéria Cruz para o hospital. O resto — que seja a mesma IA e que ela esteja lá — eu deduzi. Posso estar errado.
+
+— Como o senhor sabe disso?
+
+— Eu sei o que esta cidade assinou enquanto ainda sabia assinar. — O velho deu de ombros, sem nenhum orgulho. — Berço de diagnóstico sai do almoxarifado em duas vias. Uma fica no hospital. A outra vem para a biblioteca, porque é assim que funciona arquivo público, detetive, e porque ninguém nunca deu baixa nesse costume.
+
+— Ela é o portador.
+
+— Ela carrega uma versão do código, segundo estas páginas. Talvez tenha sido compilada pela equipe do seu pai, talvez modificada depois: essa é a hipótese anotada no diário. Não tenho como provar quem levou o módulo à cabine, nem se o senhor era o destinatário.
+
+---
+
+— E como se libera?
+
+— Alguém precisa se conectar à Raiz e executar o comando de dentro. — O velho falou sem drama nenhum, e por isso foi pior. — Não dá para transmitir. Não dá para injetar à distância. O Jardim é uma rede de confiança: ele só aceita instrução de quem já é parte dele e espetar o conector direto na fonte.
+
+— Então tem que ser alguém infectado.
+
+— O autor propõe alguém conectado, consciente e disposto. — O Arquivista olhou para os braços de Gabo. — Ele prevê perda dos estados ligados ao controlador atacado. Não sei quantos seriam alcançados. Nem o que aconteceria com o operador.
+
+— E ela.
+
+— E pode corromper o drive dela. É a previsão do autor; alguém vai ter de conferir o código antes de chamar isso de sentença. Gabo baixou os olhos para o diário no colo.
+
+— Salvar a cidade ou apagar a Aria — ele disse. — De novo.
+
+---
+
+O Arquivista se levantou na prancha, e se equilibrou, e ficou olhando o corredor de estantes submersas por um tempo.
+
+— A história é um círculo, detetive. Ela sempre devolve a mesma pergunta com um figurino diferente, até a pessoa responder direito. — Ele começou a se afastar, empurrando a prancha com um cabo de vassoura. — Cabe ao senhor decidir quando quebrar o círculo.
+
+— Espera. — Gabo levantou o remo. — Como é o seu nome? O velho parou. E, pela primeira vez naquela tarde, pareceu genuinamente satisfeito.
+
+— Ninguém pergunta isso — ele disse. Ele sumiu atrás de uma estante, e a voz voltou de longe, com o eco:
+
+— Aloísio. Bibliotecário-chefe, aposentado em quarenta e quatro. Anota aí na sua lista, detetive. Eu ouvi dizer que o senhor tem uma.
+
+E Gabo, sozinho num bote de alumínio no meio de um milhão de livros molhados, tirou o caderno do bolso e anotou.

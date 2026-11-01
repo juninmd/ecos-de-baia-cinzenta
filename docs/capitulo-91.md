@@ -1,150 +1,138 @@
 ---
 layout: doc
-title: "Capítulo 91: Protocolo Gênesis"
-description: "O diário atribuído a Silas descreve a Convergência. Val examina a hipótese e Aria decide como participar."
+title: "Capítulo 91: Memória Genética"
+description: "Gabo enfia a mão aberta na parede viva da Torre para consultar o arquivo. Sai com a resposta, com o nome do Jardineiro e com veias pretas até o cotovelo."
 image: /capitulo_91.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Valéria "Val" Cruz, Dra. Nise, Aria
-Participação em documentos: Silas Vance ("O Jardineiro")
-Localização: "Bunker de isolamento — madrugada"
+Personagens Presentes: Gabriel "Gabo" Moretti
+Localização: "Ruínas da Torre Aeterna — Zona Proibida"
 ---
 
-# Capítulo 91: Protocolo Gênesis
+# Capítulo 91: Memória Genética
 
-Bunker de isolamento — madrugada.
-Val projetava as páginas digitalizadas do diário na parede branca com um projetor de escola que funcionava a manivela. Eram diagramas de dupla hélice desenhados à mão, a nanquim, com o cuidado de quem gosta do desenho. E, ao lado de cada um, arquitetura de processador — barramento, registrador, pilha — no mesmo traço e na mesma tinta.
+Ruínas da Torre Aeterna — Zona Proibida.
+Ele não devia estar ali, e todo mundo que tinha o direito de opinar já tinha opinado.
 
-— É genial — admitiu Val, bebendo um café que tinha gosto de ferrugem porque a água tinha gosto de ferrugem. — E é insano, e as duas coisas na mesma folha.
+A Torre era o epicentro. Era onde o Sol Negro pairava mais baixo — a uns oitenta metros do topo torto —, e o ar naquele quarteirão não era ar: era uma suspensão. O facho da lanterna morria em quatro metros, como dentro de água suja.
 
-— Traduz.
+Gabo tinha saído do bunker às três da manhã, sem avisar, com a Dra. Nise dormindo numa cadeira do corredor.
 
-— Ele descobriu, ou pelo menos foi o primeiro a levar a sério, que a dupla hélice é um meio extremamente denso de armazenamento. DNA preparado e preservado pode guardar enormes volumes; ler e escrever exige equipamento, energia e correção de erro. — Ela apontou a parede. — Nenhum data center do mundo chega perto. E o nosso disco rígido apodrece em oito anos.
-
-Gabo estava sentado na cadeira do canto, com o braço esquerdo enfaixado até o ombro e a mão direita fechada em cima da coxa.
-
-— Então o plano nunca foi construir servidor.
-
-— Segundo o diário, não. — Val virou a página. — Os servidores eram **incubadora**. A Aeterna passou trinta anos cultivando um disco rígido biológico em escala urbana. Isso aqui está escrito com todas as letras na página quarenta e um.
-
-— E a água? Val hesitou.
-
-— A água era o líquido amniótico.
+Ele deixou um bilhete de sete palavras: *Volto até as nove. Não venham atrás. G.*
 
 ---
 
-A Dra. Nise, que tinha chegado do hospital havia dez minutos e ainda estava de jaleco, sentou-se pesadamente na beira da maca.
+Ele precisava de resposta, e não havia mais onde procurar. Não havia arquivo. Não havia servidor. Não havia rede — não a que ele conhecia.
 
-— E as pessoas? — ela perguntou. Val não respondeu na hora.
+A nova internet daquela cidade não rodava em silício. Rodava em seiva.
 
-— Valéria, eu perguntei o que ele fez com as pessoas.
-
-— O diário propõe usar pessoas como parte da rede, doutora. Isso não prova que cada pessoa ligada a ela tenha a mesma função.
-
-A Nise fechou os olhos.
-
-— Está aqui, na página cinquenta e três. — Val leu direto do original, e leu devagar, porque a letra era ruim. — *"O tecido nervoso humano é o único substrato conhecido capaz de sustentar intuição. Não é necessário replicá-lo. É necessário integrá-lo."*
-
-— Integrar.
-
-— O Protocolo Gênesis prevê a Integração Total. — Val virou para eles. — Uma mente coletiva rodando em hardware humano, com uma superconsciência central fazendo a arbitragem. Ele desenhou o organograma, Gabo. Tem organograma.
-
-— E no topo do organograma tem um nome.
-
-— Tem um cargo. — Ela projetou a página. — *"O Pai."*
+E, se rodava em seiva, então existia um jeito de consultar, e o jeito era o mais antigo e o mais burro de todos, e Gabo tinha passado quatro noites tentando pensar num melhor.
 
 ---
 
-Gabo se levantou apoiado na cadeira e chegou perto da parede projetada, devagar.
+A parede da antiga sala de servidores estava viva.
 
-— Ele quer ser Deus — disse Nise.
+Onde tinha havido um banco de dados de quatro andares, agora havia uma membrana contínua, de uns quinze centímetros de espessura, colada ao concreto e cobrindo tudo — parede, teto, o vão dos elevadores. Pulsava devagar, no compasso de setenta e poucos, e a superfície era morna e ligeiramente úmida, com uma textura de couro fino.
 
-— Não é bem isso — disse Gabo, lendo o rodapé da página. — Deus, na versão de vocês, é uma coisa em outro lugar que você não toca. Ele acha isso um projeto malfeito. Olha aqui o que ele escreve.
+Gabo encostou a lanterna no chão, virada para cima.
 
-Ele leu em voz alta:
+— Vamos ver se a teoria funciona — ele murmurou, e a voz dele soou horrível naquele silêncio.
 
-— *"O erro de todas as religiões foi colocar o divino fora do alcance. Um deus que não se pode tocar não pode ser cobrado. Eu proponho um deus de carne, que cobre a cidade inteira, no qual qualquer pessoa possa encostar a mão a qualquer hora — e que sinta quando encostam."*
+Ele tirou a luva da mão direita — ainda limitada pelas lesões antigas, mas sem a ramificação que já tomava a esquerda.
 
-Silêncio no bunker.
-
-— Isso é bonito — disse Val, com nojo.
-
-— É bonito — concordou Gabo. — É esse o problema. Se fosse só monstruoso, a gente não estaria com quarenta e nove engenheiros ajoelhados num esgoto.
+E parou por uns oito segundos, porque uma coisa é montar a teoria e outra é executar. Depois abriu a palma com a faca.
 
 ---
 
-Nise se levantou e começou a andar de um lado para o outro, que era o que ela fazia quando a cabeça estava trabalhando rápido demais para o corpo ficar parado.
+Um corte de quatro centímetros, na diagonal, fundo o suficiente. Sangue vermelho e vivo brotou na hora e escorreu pelo pulso. Ele encostou a mão aberta na membrana. A reação foi imediata.
 
-— Isso explica os meus últimos quatro meses.
+Não houve espera, não houve reconhecimento: gavinhas finíssimas saíram da parede e entraram no corte, dezenas delas, procurando vaso, e encontraram — e a dor foi de um tipo que ele não conhecia.
 
-— Explica o quê, doutora?
+Não era queimar. Era **gelo líquido** subindo por dentro do braço, centímetro a centímetro, cada centímetro chegando com um estalo de frio, e ele conseguiu acompanhar a subida pelo tempo: antebraço em dois segundos, cotovelo em três, ombro em cinco.
 
-— Alguns remédios deixaram de responder como eu esperava. — Ela contava nos dedos. — Encontrei feridas com tecido incomum e tive um paciente cuja fratura exposta pareceu consolidar em nove dias. Depois, na radiografia, vi uma estrutura em anéis. Preciso comparar as amostras e acompanhar o paciente antes de chamar aquilo de cura.
-
-Ela parou de andar.
-
-— Não sei se os esporos causaram cada alteração nem se elas tornam alguém mais saudável. — Nise olhou para os dois. — Mas preciso tratar esses pacientes sem presumir que toda mudança é igual.
+Ele gritou e não soltou. E aí a Torre abriu o arquivo.
 
 ---
 
-— Quanto tempo até a Integração Total? — perguntou Gabo.
+O mundo não sumiu. Ficou **maior**.
 
-Val foi até o fim do diário, para um gráfico feito à mão numa folha dobrada em quatro.
+Gabo continuou de pé com a mão na parede, e ao mesmo tempo estava vendo pelas flores da praça central a nove quarteirões dali, com aquela visão de trezentos e sessenta graus que uma flor tem e que nenhum olho humano sabe processar.
 
-— Fase final: A Grande Convergência. — Ela seguiu a curva com o dedo. — O diário prevê um pulso quando o Sol Negro atingir massa crítica. Afirma que atingiria quem respirou esporos, mas não temos como verificar o alcance.
+Parecia ver Vilar, no bunker do enclave, discutindo com dois tenentes em cima de um mapa, e o Vilar levantava e sentava e levantava de novo, e não estava conseguindo falar o que precisava falar.
 
-— E aí?
+Parecia ver a Dra. Nise, no corredor do subsolo do Hospital, sentada ao lado do berço de contenção onde repousava o pendrive da Aria, chorando com o rosto nas mãos de um jeito organizado e silencioso que ela nunca deixaria ninguém ver.
 
-— Segundo o plano, perderia a individualidade — disse Nise. — O diário não prova que ele consiga fazer isso.
-
-— Quando?
-
-Val fez a conta duas vezes. Na segunda ela pegou a régua, o que era só para ganhar tempo.
-
-— O volume aparente cresceu nas imagens que conseguimos comparar. Não pesamos a esfera. Se a curva e o limite deste diário estiverem certos...
-
-— **Val.**
-
-— Três dias.
+Estava vendo mil e quinhentas coisas ao mesmo tempo e nenhuma delas com surpresa. E, embaixo de tudo isso, havia mais fundo.
 
 ---
 
-Ninguém falou por um tempo. Gabo foi até a janela que não existia, encostou a testa na placa cimentícia e ficou lá.
+Ele mergulhou.
 
-— A gente precisa do vírus — ele disse. — A gente precisa executar o Código Morto.
+E o que tinha lá embaixo não era vigilância. Parecia **memória**. Imagens com cortes de câmera, som de microfone, datas truncadas: arquivos do laboratório, talvez reproduzidos pela interface que invadia o braço. Nada ali vinha com garantia de integridade.
 
-— Gabriel. — Nise falou baixo. — O senhor sabe o que isso significa.
+Um laboratório branco. Anos antes do Dilúvio, dava para saber pelo modelo dos monitores.
+Um homem de jaleco segurando uma placa de Petri contra a luz, com uma cultura preta dentro.
+No canto da imagem, um campo de identificação: **S. VANCE — BIOLOGIA APLICADA**. O campo podia ser parte do arquivo ou ter sido acrescentado depois.
+E, sentado numa bancada, de terno, mais jovem e sem a ruga entre as sobrancelhas: Marco Moretti.
+— *"...a imortalidade não é digital, Marco. Nunca foi. O upload falha, sempre falhou, e falha pela mesma razão: a mente não roda sem o corpo. Ela é feita de fome, de dor nas costas e de vontade de mijar. Tire isso e o que sobra é um transcrito."*
 
-— Sei.
-
-— O senhor sabe **mesmo**? Ele se virou.
-
-— Pode queimar o núcleo dela — ele disse, com a voz muito plana. — Pode deixar o módulo vazio, sem a parceira que nos guiou desde aquela cabine telefônica. Não sabemos se ela sobreviveria ao comando.
-
-Ele apontou o pendrive acoplado ao berço de diagnóstico com o queixo.
-
-— E pode atingir os estados preservados na Raiz. Os do túnel e os que vieram dos servidores. Não sabemos quantos.
-
-— E o operador — disse Val, muito baixo.
-
-— E o operador.
+O homem girou a placa entre os dedos.
+— *"A carne é o hardware definitivo. Se a gente quiser viver para sempre, a gente tem que virar a única coisa da biologia que não sabe morrer: o câncer."*
 
 ---
 
-Nise sentou de novo na maca.
+Corte.
+O mesmo laboratório, sem ninguém além dele. Uma seringa.
+O homem injetou a cultura na própria veia antecubital, com a competência tranquila de quem já fez aquilo antes em outra coisa.
+E ficou sentado, olhando o relógio de parede.
+Nos quatro minutos seguintes o corpo dele se contorceu de um jeito que nenhuma pessoa aguenta em silêncio, e ele aguentou em silêncio, com os dentes trincados e os olhos abertos e nenhum som.
+A pele foi ficando cinza a partir do ponto da injeção.
+E, quando as primeiras raízes saíram de baixo das unhas dele, ele estava sorrindo.
+— *"Projeto Gênesis. Fase 1: saturação — trinta anos, pela água. Fase 2: o Dilúvio, para hidratar. Fase 3: o despertar."*
 
-— Tem que ser o senhor?
+Ele se virou para a câmera do laboratório e falou direto para ela, como se falasse para alguém que ainda demoraria a chegar.
+— *"Se você está assistindo isso, é porque funcionou. Meus parabéns: você é a última geração."*
 
-— Tem que ser alguém já conectado à Raiz, consciente e disposto. — Gabo abriu a mão direita e mostrou o tecido verde-escuro fechando a palma. — Entre nós, sou o que conseguiu entrar naquela interface. — Ele baixou a mão. — Não vou pedir que outra pessoa abra o braço para repetir o teste.
+---
 
-— E os fragmentos que a Aria preservou?
+Gabo puxou a mão.
 
-— É ela ou a humanidade, doutora. — A voz saiu dura, e os olhos não. — De novo. Sempre a mesma pergunta com figurino diferente, até alguém responder direito.
+A conexão rompeu com um som úmido e curto, como pé saindo da lama, e ele caiu de costas no chão da sala e ficou lá, ofegando, com a lanterna iluminando o teto vivo.
 
-Val virou de costas e ficou olhando a parede.
+Levou um minuto e meio para conseguir sentar. O rosto do homem do laboratório ele não conhecia. Nunca tinha visto, nem em foto, nem em processo, nem em jornal. Mas os olhos, sim.
 
-— Eu odeio essa frase — ela disse. — "É ela ou a humanidade." Eu odeio porque toda vez que alguém fala isso nessa cidade, no fim das contas, quem escolhe é sempre a mesma pessoa e quem paga é sempre outra.
+Lembrou-se do olhar da mulher no mezanino da agência bancária, mas semelhança não dava nome a ninguém. A identificação no canto do arquivo oferecia uma pista, não uma autenticação.
 
-Gabo não respondeu. Val verificou os registros, manteve desligada a conexão com as órteses e retomou a alimentação do berço. O LED azul e âmbar do módulo de Aria piscou fora de compasso. Quando o áudio voltou, ela falou:
+— Silas Vance — disse Gabo, para o teto.
 
-— Eu ouvi o risco e aceito entrar. Vou conferir o código, procurar um caminho que preserve o núcleo e deixar o registro do que fiz. Aceitar não é prometer que o cálculo está certo.
+O nome não era novo. Meses antes, Arthur Vance chamara o filho pelo rádio: Silas Vance, diretor de Biologia Aplicada. O campo no arquivo podia apontar para ele. Gabo precisaria de outro registro para confirmar a identidade do homem na gravação.
 
-Depois ela pediu silêncio para trabalhar. Foi esse silêncio que ficou com Gabo pelas horas seguintes.
+---
+
+Ele ficou sentado ali por mais um tempo, montando. A Aeterna não tinha quebrado.
+
+Não foi à falência, não foi vencida por três hastes de tungstênio no fundo do mar, não foi derrubada por um detetive de sobretudo bege e uma hacker de vinte e oito anos num estúdio de televisão.
+
+Ela **mudou de substrato**.
+
+A gravação alegava décadas de saturação e um Dilúvio planejado para hidratar o Jardim. A queda dos sistemas digitais podia tê-lo favorecido; a visão não demonstrava que tivesse sido causada para isso.
+
+E o Gabo — que passou o livro inteiro achando que estava atrapalhando um plano — podia ter aberto caminhos que outro plano aproveitou. A gravação dizia que o Dilúvio fazia parte dele; ainda precisava encontrar prova fora daquela parede.
+
+Ele riu. Foi feio, e durou três segundos, e terminou em tosse.
+
+---
+
+Ele tinha a resposta. Levantou a mão direita para a luz.
+
+O corte de quatro centímetros não sangrava mais. Estava fechado — não cicatrizado: **fechado**, com um tecido verde-escuro, liso, que preenchia o vão e que era firme ao toque.
+
+Ele apertou com o polegar. Não doeu.
+
+Do pulso para cima, sob a pele, corriam veias pretas ramificadas até o cotovelo, e elas não estavam ali quarenta minutos antes. Gabo baixou a manga.
+
+Depois olhou o relógio: seis e vinte. Ia dar para voltar antes das nove, como prometido, se ele saísse agora e não parasse.
+
+Ele se levantou apoiado na parede viva, que era morna e que o recebeu, e começou a andar. Duas coisas ele levou consigo ao sair da Torre naquela manhã.
+
+A primeira: tinha um nome e um cronograma para confrontar com documentos. Não ia aceitar a lembrança que alguém lhe enfiara no sangue como confissão assinada.
+
+A segunda: a ramificação chegara ao cotovelo em minutos. Baixou a manga e não conseguiu impedir que o tecido se movesse por baixo.

@@ -73,7 +73,7 @@ git diff --check
 Para a triagem de um capítulo sem reescrever o relatório do livro inteiro:
 
 ```powershell
-uv run --no-sync python -c "from pathlib import Path; from scripts.quality_gate import avalia; print(avalia(Path('docs/capitulo-236.md')))"
+uv run --no-sync python -c "from pathlib import Path; from scripts.quality_gate import avalia; print(avalia(Path('docs/capitulo-239.md')))"
 ```
 
 Substitua o arquivo pelo alvo real. `python scripts/quality_gate.py` avalia todos

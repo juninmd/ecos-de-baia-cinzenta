@@ -1,67 +1,55 @@
 ---
-title: "Capítulo 149: Filtros de Sangue"
+title: "Capítulo 149: O Peso do Ar"
 Data In-Game: "Pós-Colapso da Usina Prometeu (Noite Eterna)"
-Localização: "Necrópole (Subnível 6.0 - Setor de Purga)"
+Localização: "Necrópole (Subnível 6.0 - Corredor de Descontaminação / Avanço)"
 Personagens Presentes: "Gabo, Valéria, Aria (Reboot), Rangel (Inconsciente)"
 ---
 
-# Capítulo 149: Filtros de Sangue
+# Capítulo 149: O Peso do Ar
 
-O Setor de Purga não era um lugar para vivos, nem para mortos. Era o intestino mecânico de Baía Cinzenta.
+O corredor de descontaminação estendia-se diante deles como o esôfago de um leviatã metálico morto. As paredes pareciam suar uma umidade espessa e oleosa sob as raras e falhas lâmpadas de emergência. O silêncio absoluto do local era perturbado apenas pela respiração áspera de Gabo, o chiado superficial de Rangel e os bipes analíticos e invariavelmente rítmicos do pendrive de Aria acoplado ao deck de Valéria.
 
-Assim que Gabo e Val arrastaram a prancha de Rangel para dentro da câmara além da eclusa, o cheiro de formol e ozônio foi substituído por algo mais espesso e corrosivo. Um aroma de ferrugem molhada, misturado com o adocicado doentio de carne em decomposição e produtos químicos industriais que subia desde os dias do Dilúvio. O ambiente era um vasto complexo de tanques de decantação circulares, cheios de um líquido espesso e escuro que borbulhava sob a luz pálida de lâmpadas de vapor de sódio falhas.
+Gabo puxava a cinta da prancha com o antebraço esquerdo, protegendo o antebraço que Val acabara de enfaixar. O peso do inspetor, agravado pela febre e pela sepse que o consumia, ameaçava arrastá-los para o chão a cada passo. Gabo sentia o latejar surdo da sangria exigida pela biometria da eclusa, uma lembrança constante do sacrifício que os trouxera até ali.
 
-Os tanques trabalhavam. Não havia motor visível, mas o líquido subia pelas paredes de concreto em ondas lentas e voltava, e cada volta deixava um anel de espuma ocre que secava e rachava. O calor subia do piso como respiração. Em algum ponto do complexo, uma válvula abria e fechava sozinha num intervalo regular, e aquele som — *tec*, dez segundos, *tec* — era a única coisa ali com ritmo de coração.
+Mas o que realmente o esgotava não era a perda de sangue, embora as bordas de sua visão escurecessem em pulsos rítmicos, sincronizados com os batimentos erráticos do próprio coração. O que o corroía por dentro era o ar.
 
-O lugar não tinha sido construído para gente entrar. Gabo percebeu isso pela altura das grades, pelo espaçamento dos corrimãos, pela ausência de qualquer coisa parecida com saída de emergência. Ali embaixo quem trabalhava era máquina, e máquina não precisa correr.
+O ar naquele corredor não era apenas rarefeito; era denso, carregado com o cheiro residual de décadas de abandono, poeira de ossos e um odor químico corrosivo de formol e solventes industriais. A cada respiração forçada, a garganta de Gabo arranhava, provocando uma tosse sufocada que ameaçava desequilibrar seus passos.
 
-Gabo soltou a cinta da prancha e caiu de joelhos sobre a grade de metal que formava o piso. Cada respiração parecia rasgar seus pulmões. A perda de sangue e o esforço pesavam sobre ele. Sua visão periférica escurecia, pontuada por flashes brancos.
+Ele travou a prancha junto à parede e esperou a tontura ceder. O ar carregado arranhava a garganta a cada inspiração; forçar o passo sem recuperar o fôlego podia derrubá-los antes da porta.
 
-E então, o gatilho. O cheiro de produtos químicos reagiu com o pânico latente em seu subconsciente. A fumaça.
+— Gabo... — Valéria murmurou, caminhando ao seu lado, segurando a outra metade do peso de Rangel. Seus olhos cibernéticos brilhavam fracamente na penumbra. — Você tá pálido demais. Se continuar perdendo sangue assim...
 
-O odor fantasma do cigarro barato invadiu suas narinas, um espectro zombeteiro que trazia consigo a imagem do legista sorrindo torto anos atrás, a maca de aço frio, o corpo pálido de Bia sob os lençóis. O estômago de Gabo se contorceu em um espasmo violento. Ele engasgou, a náusea subindo como bile amarga e fervente até a língua.
+— Eu... tô bem, — ele sibilou por entre os dentes semicerrados, concentrando-se em colocar um pé na frente do outro. — Foca na frente. O que tem... lá na frente?
 
-Não. Aqui não. Agora não.
-Ele cerrou os punhos. A dor das queimaduras em suas mãos, ainda em carne viva do duto de incineração, explodiu por seus braços. A dor fez a mão falhar quando ele tentou se apoiar. Val aproximou a ferramenta para que ele se levantasse sem raspar as queimaduras na grade.
+Valéria ergueu o braço livre, apontando os sensores do *Phantom V3* e o LED azul-gelo do drive de Aria para um enorme portal de metal que bloqueava o fim do corredor. O portal era adornado com símbolos desbotados de risco biológico e uma roda de travamento manual que parecia soldada pela ferrugem.
 
-Valéria caiu sentada a poucos metros, encostada na base de um dos tanques, tossindo a poeira ocre que havia engolido no duto de ventilação. Seus olhos cibernéticos tentavam ajustar-se à penumbra amarelada do setor enquanto o pendrive blindado de Aria, acoplado ao seu cyberdeck de pulso, refletia seu LED azul-gelo na superfície viscosa do fluido abaixo da grade.
+— *O obstáculo à frente é uma Câmara de Despressurização Secundária,* — a voz sintética de Aria ecoou pelo comunicador, destituída de qualquer emoção, apenas informando os dados crus captados pelo scanner do deck. — *O selo hermético está comprometido, mas a trava de segurança primária permanece engajada devido à corrosão severa.*
 
-— O que... o que é essa piscina de esgoto? — ela perguntou, a voz rouca.
+Valéria firmou a prancha junto à parede amarela antes de se aproximar da porta. Ela se aproximou da porta pesada, inspecionou a roda de travamento e espetou o pendrive de Aria na fenda de diagnóstico ao lado do batente. O LED azul piscou rapidamente e apagou para um tom estável.
+— Merda... tá travada no ferro mesmo. Nem a Aria consegue forçar daqui, o atuador elétrico nem existe mais; é puramente mecânico do lado de lá. E a ferrugem fundiu o eixo central.
 
-No pulso de Valéria, o módulo aqueceu levemente enquanto Aria lia uma placa junto ao tanque pela câmera do *Phantom V3*.
-— *A placa identifica um sistema de filtragem e alerta para resíduos corrosivos* — informou pelo comunicador. — *O cadastro antigo aponta descarga para o porto. Não posso determinar a composição atual dos tanques nem se a saída continua aberta.*
+Gabo apoiou as mãos nos joelhos, tentando estabilizar a respiração ofegante e combater a tontura que ameaçava derrubá-lo. Ele cerrou o punho machucado, cravando as unhas na palma para forçar a mente a se concentrar no objetivo imediato.
+— Tem... que ter... um jeito de abrir.
 
-Gabo usou as mãos em carne viva para se empurrar contra o chão, levantando-se com as pernas trêmulas. Ele sentia as veias do pescoço pulsarem.
-— É o lixo do lixo... — murmurou Gabo, cuspindo saliva grossa no chão de grade. — Tem uma saída no mapa, Aria?
+— *A análise estrutural indica que a força necessária para romper o selo mecânico por este lado é superior à capacidade física combinada de vocês no estado atual,* — Aria informou pelo alto-falante, enquanto Valéria recolocava o pendrive no cyberdeck e iluminava o teto. — *Há uma via alternativa. Acima de nós, o sistema de ventilação auxiliar conecta este corredor diretamente à câmara de tratamento adjacente.*
 
-— *Afirmativo,* — respondeu a IA pelo alto-falante, projetando um vetor luminoso no visor do deck de Valéria que apontava para o extremo oposto da câmara, a cerca de cem metros de distância. Uma imensa comporta circular marcava o fim do trajeto. — *O duto primário de expurgo. O fluxo barométrico naquela direção indica uma brecha estrutural ou conduíte para o nível superior.*
+O feixe laser do deck de Valéria destacou uma grade de exaustão corroída presa ao teto, cerca de três metros acima do chão.
+— *Contudo,* — a IA continuou, seu tom impessoal cortando o silêncio opressivo. — *A grade possui quarenta e cinco centímetros de diâmetro. O duto é estreito e a integridade estrutural das chapas é duvidosa.*
 
-Entre eles e a comporta, no entanto, havia apenas uma passarela estreita e corroída que cruzava por cima dos tanques abertos e ao redor de tubulações massivas que bombeavam a lama escura.
+Valéria olhou para cima, avaliando a distância.
+— Eu posso subir e tentar soltar a trava da porta pelo outro lado. Mas... e o Rangel? Se a porta não abrir por lá, como a gente vai içar ele?
 
-— *Vejo corrosão nos tirantes centrais* — Aria continuou, varrendo a rota com o feixe laser do deck de Valéria. — *A passarela precisa receber a carga por etapas. Não consigo medir a espessura restante nem calcular uma margem de segurança pela imagem.*
+O pendrive no pulso de Valéria pulsou frio enquanto os biossensores do deck liam a frequência cardíaca quase inaudível do inspetor encostado na parede.
+— *A passagem de um indivíduo da massa corporal dele, em estado de inconsciência, por aquele duto é logisticamente inviável,* — a IA concluiu friamente. — *Rangel não passa pelo duto na prancha. Val pode alcançar a trava pelo outro lado enquanto Gabo fica com ele. Vou marcar o caminho sem propor outra vez uma rota que exclua o paciente.*
 
-Valéria olhou de Rangel, cuja respiração agora era um chiado irregular e úmido, para o pequeno drive brilhando em seu antebraço.
-— O cabo alcança o outro lado? — perguntou Valéria.
+O silêncio que se seguiu foi pesado como chumbo. A lógica de Aria era matemática, impecável e absolutamente aterradora em sua eficiência pragmática. Valéria olhou para o pequeno drive em seu pulso como se o componente fosse radioativo.
 
-— *Não consigo ver a extremidade do cabo nem confirmar a fixação do outro lado* — respondeu Aria. — *Ele alcança o trecho iluminado. Podemos prendê-lo à prancha, mas isso não garante a travessia.*
+Gabo ergueu a cabeça, o olhar faiscando de raiva contida. A tontura recuou por um instante, substituída por um ódio gélido.
+— Vai, Val — disse Gabo. — Eu fico com ele e mantenho a barra pronta.
 
-— Prende primeiro — disse Gabo. — Eu testo a chapa sem a prancha. Se ceder, voltamos.
+— *O apoio que você está oferecendo a Val também precisa mudar,* — Aria rebateu pelo fone, sem tom de julgamento, apenas constatação. — *Ela não pode subir no seu ombro ferido. Há um suporte de manutenção junto à porta; confirmem a fixação e usem a cinta como degrau.*
 
-O indicador luminoso do pendrive piscou duas vezes em silêncio glacial.
-— *Compreendido, Detetive Moretti. Vou acompanhar o cabo enquanto ele estiver no campo da câmera.*
+Gabo olhou para o suporte indicado e depois para Valéria.
+— Você sobe com a Aria no deck, acha a trava do outro lado e solta o pino. Eu forço a porta pela fenda quando você destravar.
 
-Valéria prendeu o cabo de inspeção à armação da prancha e verificou a trava com a mão direita.
-
-Valéria se abaixou ao lado do inspetor e colocou dois dedos no pescoço dele. Ficou mais tempo do que precisava.
-
-— Ainda tem — ela disse, e a voz não combinou com o rosto.
-
-— Quanto?
-
-— O suficiente para a gente tentar.
-
-Gabo reparou que ela não olhou para ele ao responder. Reparou também que a mão dela, ao sair do pescoço de Rangel, limpou a espuma do canto da boca dele com o polegar, devagar, como se aquilo fosse uma coisa que se faz.
-
-— *A fixação do outro lado continua sendo suposição. A cinta pode limitar a queda, mas não torna a travessia segura,* — avisou Aria.
-
-Gabo testou a chapa com a bota esquerda. Ela rangeu, mas sustentou seu peso. Ele puxou a cinta da prancha enquanto Val guiava a cabeceira e observava o apoio adiante. Juntos, deram o primeiro passo na passarela rangente. Abaixo deles, o mar de fluido negro borbulhava, como um estômago faminto à espera da próxima refeição.
+Valéria hesitou, olhando entre a determinação insana de Gabo e o brilho glacial do pendrive de Aria. Mas ela conhecia Gabo; sabia que ele preferiria morrer naquele corredor a abandonar Rangel à própria sorte para se salvar. Ela assentiu, os olhos cibernéticos adquirindo um brilho de determinação obstinada. Prendeu a cinta no suporte de manutenção e testou o apoio antes de subir. Gabo firmou a base com a haste da órtese; Val alcançou a grade usando a mão direita, com a esquerda rígida apoiada na borda.

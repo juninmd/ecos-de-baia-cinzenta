@@ -1,145 +1,142 @@
 ---
-layout: doc
-title: "Capítulo 42: O Campo de Refugiados"
-description: "A Delegacia Central vira barco salva-vidas, e Gabo descobre que o pior trabalho do mundo é decidir quem entra."
 image: /capitulo_42.jpg
-Personagens Presentes: Gabriel "Gabo" Moretti, Elena Moretti, Valéria "Val" Cruz, Capitão Jonas Vilar, Clara Moretti
-Localização: "Delegacia Central do Setor 4, segundo dia de chuva"
+Personagens Presentes: Gabriel "Gabo" Moretti, Elena Moretti, Valéria "Val" Cruz
+Localização: "Avenida da Indústria, Distrito Baixo (enchente)"
 ---
+# Capítulo 42: Maré Alta
 
-# Capítulo 42: O Campo de Refugiados
+A chuva não parava. Não era mais água caindo; era o oceano decidindo que a terra lhe pertencia.
 
-Delegacia Central do Setor 4, segundo dia de chuva.
-A Delegacia Central não era mais um prédio da lei.
+Baía Cinzenta foi construída sobre pântano por gente que sabia que era pântano e construiu assim mesmo, porque o terreno era barato e a próxima administração que resolvesse. Os diques do Distrito Baixo foram erguidos no ano vinte e dois, projetados para uma maré centenária, com manutenção prevista a cada oito anos.
 
-Era um barco salva-vidas de concreto, e como todo barco salva-vidas tinha um problema aritmético que ninguém queria formular em voz alta.
+A última manutenção foi em quarenta e um. Gabo sabia disso porque tinha lido no relatório que o Rangel arquivou, e que ninguém mais leu.
 
-O saguão estava coberto de colchões, papelão e cobertor de doação. Famílias inteiras ocupavam os corredores em faixas territoriais definidas por mochilas e sacolas de mercado. As celas — esvaziadas e mantidas abertas para abrigar famílias — estavam com nove, doze, catorze pessoas cada uma, e eram as vagas mais disputadas do prédio, porque tinham porta.
-
-O cheiro batia na cara de quem entrava.
-
-Roupa molhada, antes de tudo: trezentas pessoas ensopadas em ambiente fechado produzem um vapor morno e azedo que gruda no céu da boca. Por baixo, sopa comunitária — o cheiro doce e chato de caldo de legumes feito em panelão. Por baixo dos dois, o desinfetante barato que a Clara mandava jogar de duas em duas horas nos corredores. E, no fundo de tudo, o cheiro que o desinfetante não vencia, e que Gabo levou meio dia para identificar porque nunca o tinha sentido em escala:
-
-banheiro entupido.
-
-Trinta e duas horas de enchente. Quatro vasos sanitários para trezentas e sete pessoas. A rede de esgoto tinha parado de aceitar qualquer coisa desde a segunda-feira, porque a rede de esgoto agora era parte do mar.
-
-Empurraram a cadeira de Gabo pela rampa dos fundos, com uma caixa de suprimentos sob o assento, e a primeira coisa que fez foi contar as pessoas do corredor por hábito profissional, e a segunda foi parar de contar.
+Em menos de três horas, os Níveis 1 ao 10 tinham desaparecido.
 
 ---
 
-Elena estava no centro do saguão, em cima de uma escrivaninha virada, sem distintivo.
+Elena parou o Cobalt no trecho alto da Avenida da Indústria. A pista abaixo já não existia. Gabo permanecia no banco do passageiro, com a perna direita imobilizada.
 
-Ela usava uma braçadeira vermelha feita de um pedaço de bandeira do time do bairro, e Gabo notou — com uma pontada de alguma coisa que não era orgulho, era mais velha e mais triste que orgulho — que as pessoas obedeciam à braçadeira. Não ao distintivo dele. À braçadeira dela.
+No lugar dela havia um rio marrom de dois metros correndo em direção ao mar, carregando tudo que a cidade tinha deixado solto: contêineres de lixo, motos, um caixa eletrônico arrancado da parede, um sofá de três lugares girando devagar como se estivesse pensando.
 
-— **TRIAGEM MÉDICA NO SEGUNDO ANDAR!** — gritava ela, apontando com o braço inteiro, porque dedo não se enxerga em multidão. — Hipotermia na sala de interrogatório 1! Febre na 2! Quem tem ferida aberta, ferida aberta é a 3, **não misturem**! E alguém consiga mais balde para as goteiras do corredor leste, aquilo já está entrando na parte elétrica!
+Nos carros abandonados abaixo da rampa, a água batia nas portas. No trecho alto, a chuva entrava pelas vedações rachadas, e o carro cheirava a óleo queimado, esgoto e o cheiro específico e inconfundível de sarjeta revirada - doce, quente, orgânico.
 
-Ela viu Gabo e desceu da mesa.
+— Não entra nessa água — disse Gabo a Elena. — O motor não segura um carro que perdeu o chão. Val, tem rota acima da avenida?
 
-Trinta e três anos e duas noites mal dormidas. Os olhos dela estavam com aquele brilho errado que Gabo já tinha visto em bombeiro no fim de plantão longo.
+— Do que? — Valéria estava no banco de trás com o deck no colo, tentando puxar qualquer coisa da rede e conseguindo estática. — Não tem sinal de nada. Nem sirene, nem rádio municipal, nem alerta de evacuação. Gabo, ninguém **avisou** essas pessoas.
 
-— Como está lá fora?
+— Eu sei.
 
-— Pior. — Indicou a caixa sob a cadeira. — A água chegou no Nível 15. A Zona Industrial já era. O viaduto da Norte caiu às sete da manhã com gente em cima.
+— O sistema de alerta é automatizado, ele devia ter disparado sozinho—
 
-— Quantos?
+— O sistema de alerta é da Aeterna, Val. — Elena desviou de um poste caído no piso ainda exposto. — E a Aeterna não avisa quem não paga.
 
-— Não dá para saber. — Ajustou a perna sobre o apoio da cadeira. — E não vai dar nunca. É esse o número que ninguém vai escrever em lugar nenhum.
+Elena parou junto ao guarda-corpo e ergueu a câmera sem fotografar. Só olhando pelo visor, do jeito que ela faz quando não quer olhar direto.
 
-Elena esfregou a cara com as duas mãos.
-
-— Aqui dentro tem trezentas e sete pessoas, Gabo. A comida dura dois dias se ninguém repetir. Água potável... talvez um. E não para de chegar gente.
-
-— Onde está o Jonas?
-
-— No telhado. — Ela apontou para cima com o queixo. — Há seis horas. Tentando consertar a antena de rádio para pedir socorro às Cidades Altas.
-
-Gabo riu. Não teve graça nenhuma no som.
-
-— As Cidades Altas devem estar ocupadas construindo muro para a gente não subir.
-
-— Eu sei. — Elena falou baixo. — Deixa ele. É a única coisa que está impedindo aquele homem de encostar a arma no queixo.
+— Ali — ela disse.
 
 ---
 
-Às quatro da tarde, o problema aritmético apareceu na porta.
+O transporte escolar estava tombado de lado a uns quarenta metros, encalhado num canteiro central que ainda resistia. A água já cobria as janelas. Em cima da lataria, agachadas, havia treze crianças e dois adultos, e um deles agitava a lanterna do celular num arco desesperado.
 
-A escada da entrada principal virou cais, e o cais estava cheio. Trinta, quarenta pessoas chegando de balsa improvisada, de porta de armário, de caixa d'água virada. E, atrás dessas, mais.
+O ônibus estava tremendo. Não de vento. A correnteza estava empurrando, e o canteiro estava cedendo.
 
-Clara subiu do porão com o rosto duro e uma lista na mão.
+— Aquilo vai sair do lugar — disse Elena.
 
-— A gente não cabe.
+— Vai. — Gabo apontou o pilar da rampa. — Precisamos de uma linha até o canteiro.
 
-— A gente arruma espaço — disse Gabo.
+Elena avançou apenas sobre o piso exposto e estacionou atrás de um pilar. Dois moradores que puxavam uma balsa de portas vieram quando ela chamou. O adulto no ônibus alcançou a corda lançada por um deles. O carro ficou em terreno firme, como ponto de apoio. Gabo não conseguiria puxar ninguém; podia conferir a linha e avisar quando um nó começasse a ceder.
 
-— Não é espaço, Gabriel, é comida. — Ela empurrou a lista contra o peito dele. — Eu estou distribuindo trezentas e sete rações de um estoque de quatrocentas. Cada pessoa a mais que entra por aquela porta não tira comida de você e de mim. Tira das crianças que já estão aqui há dois dias, e essas eu conheço pelo nome.
+— Elena! Corda!
 
-— Clara—
+Ela já estava no trecho seco da rampa. Trinta e três anos e nenhum treinamento de resgate, com a ponta livre da corda e a chuva batendo horizontal na cara dela.
 
-— Eu não estou pedindo permissão para ser boa. — A voz dela nem subiu. — Eu estou te falando o número, porque alguém tem que segurar a porta, e quem segura a porta precisa saber o número.
+— **AMARRA NAS CRIANÇAS PRIMEIRO!** — ela gritou, e a voz dela cortou o barulho da água. — MENOR PRIMEIRO! DEPOIS OS ADULTOS!
 
-Gabo olhou para a irmã. Dezoito anos, mãos rachadas de água sanitária, e absolutamente nenhum tremor.
+O homem da lanterna hesitou.
 
-Pediu que levassem a cadeira até o patamar da entrada.
+— A gente não sabe nadar—
 
----
-
-Ele segurou a porta por duas horas e vinte minutos.
-
-Deixou entrar criança. Deixou entrar quem estava carregando criança. Deixou entrar gente ferida, gente idosa, gente com tosse de água nos pulmões. Empurrou de volta para a chuva quatro homens adultos saudáveis que ele conhecia de vista da rua do peixe e que ele sabia que não iam morrer naquela noite — provavelmente.
-
-O quarto se chamava Adilson. Vendia peixe frito na esquina da Rua Onze havia vinte anos e uma vez tinha dado comida de graça a um detetive falido no fim do mês.
-
-— Gabo — disse ele, na chuva, agarrado ao corrimão, com água na altura do peito. — Sou eu.
-
-— Eu sei quem é o senhor.
-
-— Então abre.
-
-— Não posso.
-
-— Tem lugar aí dentro, eu tô vendo o corredor daqui.
-
-— Tem lugar e não tem comida. — Gabo ouviu a própria voz sair no tom de interrogatório, o tom neutro, e se odiou por ele sair sozinho, sem que ele mandasse. — Vai para a igreja da Rua Doze, seu Adilson. A torre é alta e o padre não conta ninguém.
-
-O homem ficou olhando para ele por três segundos.
-
-Depois soltou o corrimão e foi.
-
-Gabo não soube nunca se ele chegou.
-
-Essa é a parte que ninguém conta sobre catástrofe: não é a água. É que a água transforma um homem comum num sujeito que decide, na porta, com a mão no batente, e depois esse sujeito tem de continuar existindo pelos quarenta anos seguintes.
+— **NINGUÉM AQUI VAI NADAR! AMARRA!**
 
 ---
 
-Valéria apareceu às sete e vinte com um tablet de tela rachada e uma expressão que fez Gabo se endireitar na cadeira antes de ela falar.
+Levou dezenove minutos.
 
-— Gabo. Elena. Tem um problema maior que a comida.
+O adulto do ônibus prendia a linha, e os moradores traziam as crianças para a rampa. Elena as recebia junto do guarda-corpo. Val indicava onde sentar, protegendo o ombro. Gabo contava quem ainda estava no teto. O Cobalt não sairia dali levando dezoito pessoas.
 
-— O que é maior que morrer de fome?
+Uma. Duas. Cinco. Nove.
 
-— Morrer envenenado.
+A décima escorregou.
 
-Ela virou a tela. Uma malha de pontos verdes espalhados pelo mapa do Distrito Baixo — a rede *mesh* de sensores caseiros que os moradores instalaram por conta própria depois do escândalo do ar, em quarenta e três. O receptor local a bateria trouxera as leituras. Metade dos pontos não respondia; os restantes indicavam valores fora da faixa, alguns com calibração vencida.
+Foi uma menina de uns sete anos, com um casaco amarelo grande demais, e o nó frouxou no meio da travessia e ela saiu do laço e a correnteza pegou ela como pega uma folha.
 
-Não vermelho de alerta. Vermelho saturado, o vermelho que um sensor mostra quando a leitura passou do fim da escala e ele não tem mais números.
+Elena pulou.
 
-— Mercúrio. Chumbo. Solvente clorado. — Val foi lendo, e a voz dela ficava mais fina a cada item. — E uns picos que o sensor não sabe classificar, então ele só registra "orgânico não catalogado", que só quer dizer que o aparelho não identificou o composto. Pode haver rejeito industrial; precisamos de análise para saber o que é.
+Não houve discussão, não houve aviso, não houve um segundo de cálculo. Ela largou a ponta livre e entrou na água junto da rampa, e Gabo gritou o nome dela e o grito não serviu para nada.
 
-— A água da enchente — disse Elena.
+Vinte segundos. Vinte segundos em que Gabo ficou preso ao banco, incapaz de oferecer um braço ou alcançar a água, e aprendeu uma coisa sobre si mesmo que ele ia levar quinze anos para admitir: que ele preferia, naquele instante, que a menina se afogasse.
 
-— A água da enchente passou por cima dos depósitos do subsolo industrial. Lavou tudo. — Val engoliu. — Gabo, essa água não é água suja. É rejeito diluído. Não dá para estimar a dose por esse mapa. Mas não podemos tratar essa água como potável, nem prometer segurança com sensores sem calibração.
+Elena emergiu oito metros abaixo, agarrada num poste de sinalização, com o casaco amarelo preso no braço e a criança dentro dele.
 
-Gabo se virou devagar para a janela do corredor leste.
+Val apontou o poste aos moradores. Eles lançaram outra ponta e puxaram as duas para a rampa.
 
-Lá embaixo, no pátio interno da delegacia, estavam as lonas azuis que eles tinham esticado entre os postes no primeiro dia. A ideia tinha sido dele. Foi a única ideia boa que ele teve em três dias: coletar água de chuva, porque a da torneira já não vinha e a do rio ninguém ia beber.
+Quando Elena voltou ao piso da rampa, cuspindo água, ela olhou para ele através do para-brisa e viu no rosto dele exatamente o que tinha passado ali.
 
-A chuva escorria pelas lonas e caía em vinte e dois baldes. Os recipientes tinham sido retirados do pátio depois de o refluxo da enchente alcançá-los. Uma marca marrom passava pelo plástico por dentro. Na urgência, tinham lavado alguns apenas com a água disponível, sem testar o conteúdo antes da distribuição.
+Não disse nada. Nunca disse.
 
-E, na fila dos baldes, com as canecas na mão, aguardando a vez com aquela paciência mansa que a fome ensina em quarenta e oito horas, estavam as famílias do segundo andar.
+---
 
-Entre elas, uma menina pequena com um casaco amarelo grande demais, segurando a caneca com as duas mãos.
+As últimas três crianças e os dois adultos vieram em seis minutos.
 
-— Merda — disse Gabo.
+O último homem tinha acabado de soltar a corda quando o canteiro central cedeu. O ônibus escolar girou lentamente, quase com elegância, e a correnteza levou dezoito toneladas de aço avenida abaixo como se fosse uma caixa de papelão. Bateu no pilar do viaduto duzentos metros adiante com um som que Gabo sentiu no peito antes de ouvir, e afundou.
 
-Gritou para suspenderem a distribuição. Elena correu até os baldes enquanto um voluntário empurrava sua cadeira. A primeira caneca já voltava vazia.
+Ninguém no carro falou.
+
+Uma criança começou a chorar e as outras não.
+
+---
+
+Eram treze crianças e dois adultos resgatados, além de Gabo, Val e Elena. As crianças se apertavam junto dos adultos no trecho alto, aguardando as balsas dos moradores. O Cobalt receberia o homem da lanterna e a menina que engolira água, além do trio, e um cheiro insuportável de roupa molhada, xixi e medo — que tem cheiro, e é metálico, e gruda.
+
+— O dique não rompeu — disse o homem da lanterna, no banco de trás, tremendo tanto que os dentes batiam. — Eu trabalho na Companhia de Águas. Eu **vi**. Não rompeu.
+
+Gabo olhou para ele pelo retrovisor.
+
+— Como assim, não rompeu?
+
+— As comportas abriram. — O homem apertou os olhos, como quem tenta desver uma coisa. — As três, uma depois da outra. Tem um alarme que toca antes da abertura programada, e o alarme tocou, moço. O alarme tocou e ninguém mandou tocar.
+
+Elena virou o corpo inteiro no banco.
+
+— O senhor está dizendo que alguém abriu.
+
+— Eu estou dizendo que aquilo foi **operado**.
+
+— O rádio da polícia disse falha estrutural — falou Elena. — Eu ouvi o Vilar dizer isso antes de a gente entrar na avenida. Falha estrutural crítica, ruptura em quatro horas.
+
+— Falha estrutural não toca alarme de abertura — disse o homem. — E não abre três comportas em sequência. Eu estava na sala de controle quando a de Leste subiu, moça. Tinha gente ali que não devia estar.
+
+Valéria parou de mexer no deck.
+
+E Gabo, com as mãos sobre o colo e um rio no lugar da avenida, sentiu a coisa fria e conhecida se instalar no estômago — a mesma coisa que ele sentia quando um caso deixava de ser tragédia e virava crime.
+
+---
+
+— Para onde? — perguntou Elena, baixo, para ele não ouvirem atrás.
+
+Gabo olhou o retrovisor. Dezoito pessoas. Três horas de combustível. Uma cidade virando lago.
+
+E, muito ao longe, atrás da cortina de chuva, a silhueta do Distrito Alto — seco, iluminado, com as luzes todas acesas, porque lá em cima a energia nunca cai.
+
+— Delegacia Central — ele disse. — É alto, é seco e tem gerador.
+
+— E depois?
+
+— Depois eu quero saber quem operou aquela comporta.
+
+Elena levou o Cobalt pelo trecho alto. Os demais seguiram nas balsas até a escada do abrigo indicada pelo rádio; os moradores ficaram de conferir a chegada. Isso ainda não era confirmação de que todos alcançariam a delegacia.
+
+Atrás deles, o Distrito Baixo — o bairro onde Gabo nasceu, onde a mãe dele tinha criado três filhos, onde ficava a pizzaria dos Rossi e a catedral do Padre Miguel e o barraco setenta e um da Vila do Porto Velho — desapareceu debaixo de dois metros de água em três horas e onze minutos.
+
+E o alarme tinha tocado.

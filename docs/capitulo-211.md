@@ -1,68 +1,68 @@
 ---
-Título: O Altar de Gelo
+Título: Cristais de Óxido
 Data In-Game: Pós-Colapso do Sentinel (Noite Eterna)
-Localização: Dutos Superiores de Resfriamento, Setor 6
+Localização: Dutos Inferiores de Resfriamento, Setor 6
 Personagens Presentes: Gabo, Valéria, Elias
 ---
 
-# Capítulo 211: O Altar de Gelo
+# Capítulo 211: Cristais de Óxido
 
-Naquela galeria superior, o frio parecia ter dentes de aço mastigando cada centímetro de pele exposta.
+O frio da câmara de resfriamento cobrava um tributo metódico e implacável a cada respiração. Frio subterrâneo não é apenas desconforto térmico; é um imposto biológico. Ele rouba a sensibilidade das pontas dos dedos, reduz a flexibilidade dos tendões e transforma a cartilagem dos joelhos em vidro quebradiço. Minha perna direita tremia em espasmos involuntários, com a órtese emperrada arranhando o piso a cada passo claudicante.
 
-Arrastávamos nossos corpos pelos dutos de manutenção do Setor Seis como náufragos escalando um navio fantasma. Depois de escapar do abismo forrado de cristais de óxido, cada passo sobre a passarela elevada era uma negociação dolorosa entre a gravidade e o que restava da minha carcaça física. Meu ombro direito pulsava com a ferocidade de uma fornalha, onde a armação de Vasco puxava o fixador instalado pela equipe; o músculo lacerado sangrando sob as bandagens sujas mandava ferroadas agudas até as pontas dos meus dedos enregelados.
+A dor no braço direito, onde a equipe instalara o fixador ao qual Vasco acoplara a armação, tinha mudado de natureza: ardia em um pulsar surdo e profundo, como se agulhas de gelo estivessem sendo cravadas na minha clavícula. As cicatrizes do Dilúvio queimavam sob a sarja encharcada. Precisei piscar várias vezes para distinguir a borda da passarela sob a geada.
 
-Minha órtese direita soltava um uivo rouco a cada passada, com a graxa congelada travando as engrenagens em ângulos imperfeitos. Elias vinha colado ao meu flanco, os dentes batendo em um ritmo incontrolável e os braços cruzados sobre o peito em uma tentativa desesperada de reter o calor residual do corpo.
+— Se a gente ficar parado mais dez minutos nessa névoa polar, Moretti, — disse Valéria, parando na bifurcação da grade com as mãos enfiadas nos bolsos da jaqueta de couro, — suas articulações vão soldar por congelamento e eu vou ter que arrastar você de trenó até o Hub.
 
-— Temperatura ambiente em doze graus negativos e caindo, — disse Valéria, soprando o vapor branco das próprias mãos enluvadas enquanto examinava a grade metálica à frente. A luz prateada de suas lentes ópticas cortava a névoa de gelo, e os fios holográficos da franja brilhavam com uma teimosia elétrica. — A temperatura continua caindo. Precisamos sair do frio e procurar atendimento para essa mão.
+— Não precisa de trenó, Val, — resmunguei, batendo o calcanhar da bota boa no ferro para manter a circulação ativa. Minha respiração formava uma nuvem densa e leitosa que se dissipava contra o teto baixo. — Eu ainda sei andar sobre as minhas próprias pernas.
 
-— O Vasco já cobrou caro demais pelo braço, Val, — respondi, cuspindo um escarro escurecido pela fuligem no concreto congelado. — Minha cota de armações de ferro acabou nesta encarnação.
+— "Andar" é uma palavra muito generosa pro que você tá fazendo, — ela rebateu, com os olhos prateados faiscando sob o brilho azul da franja holográfica. — Tá mais pra um guindaste bêbado arrastando uma âncora. E o Elias tá quase virando estátua de sal ali atrás.
 
-— Então para de arrastar esse coturno igual um morto-vivo e aperta o passo, — ela retrucou com aquele estalo de língua ácido e protetor que eu aprendera a decifrar nos becos da Doca Três. — A estação de controle secundária fica logo depois daquela porta estanque. Se as conexões não tiverem sido comidas pelo gelo, a gente descobre como abrir o Hub sem acordar o resto dos monstros da Aeterna.
+Elias estava encostado na tubulação mestra, abraçando os próprios joelhos com os dentes castanholando em um ritmo frenético. O rapaz olhava para a frente com os olhos arregalados, a lanterna tremendo em sua mão enluvada.
 
-A passarela terminava em um vão largo onde uma pesada porta corta-fogo de duas polegadas repousava entreaberta, travada por uma grossa camada de gelo químico e lodo petrificado.
+— Gabo... olha pro chão logo depois da curva... — a voz de Elias saiu em um fio rouco. — Aquilo... aquilo não é grade.
 
-Entramos na sala de controle e manutenção em ruínas.
+Dei dois passos à frente, apoiando o cano curto da *Caronte* na cintura, e mirei a lanterna na direção que ele apontava.
 
-O espaço era um santuário industrial esquecido pelo tempo. Fileiras de consoles analógicos dos anos cinquenta estendiam-se sob uma abóbada de vigas enferrujadas. A Geada Negra havia subido pelos pés das mesas de metal, congelando relés, monitores de fósforo verde e quilômetros de fiação em espigões rígidos e negros que pareciam espinhos de roseiras gigantes. O vapor denso de nossas respirações preenchia o ar parado, com o cheiro penetrante de amônia anidra misturado ao aroma enjoativo de vegetação morta e ozônio estático.
+O piso de aço da passarela desaparecia completamente cinquenta metros adiante. No lugar da grade perfurada, erguia-se uma floresta mineral bizarra: centenas de agulhas translúcidas e negras, medindo de trinta a sessenta centímetros de comprimento, brotando do chão e das paredes curvas em ângulos pontiagudos e desordenados.
 
-Aproximei-me da bancada central, limpando a crosta de gelo de um mostrador com a chapa de proteção da armação. O metal estalou sob o atrito térmico, desprendendo lascas translúcidas que tilintaram no chão.
+Cristais de óxido.
 
-— Isso aqui parece uma sala de autópsia de máquinas, — murmurou Elias, aproximando-se com a lanterna trêmula e olhando as telas rachadas. — Quem controlava esse setor quando as comportas foram fechadas?
+Era a bocarra química da cidade. A formação misturava crostas escuras, gelo e ferrugem em espigões afiados. Nenhum de nós sabia como aquilo crescera. O teto e o piso pareciam mandíbulas de um predador colossal que ainda não havia terminado de fechar a boca.
 
-— Não sabemos quem controlava esta sala — respondi. — Nem quem fechou aquelas portas ou quantas equipes ficaram lá dentro.
+— Que porcaria é essa? — sussurrei, sentindo o cheiro fétido de gás freon escapar da tubulação e o gosto amargo de ozônio queimar no fundo da língua.
 
-Valéria já estava debruçada sobre o console principal. Ela sacou uma chave de fenda de titânio do cinto, quebrou a crosta de gelo que selava a baia de manutenção e plugou o cabo do cyberdeck diretamente nos barramentos de cobre da placa-mãe.
+Valéria se agachou com cautela na beirada da formação cristalina, iluminando a base de um dos espigões com o feixe óptico do cyberdeck. Ela sacou uma faca tática curta da cintura e tocou de leve a ponta da lâmina na ponta de um cristal.
 
-Faíscas azuis estalaram no ar frio, e um zumbido mecânico grave e adormecido ressoou no piso de concreto quando o painel recebeu a corrente da bateria portátil dela.
+Um estalido fino e cristalino ecoou no silêncio gélido.
 
-— Terminal primário parcialmente responsivo, — ela avisou, com os olhos prateados correndo por linhas de telemetria corrompidas que piscavam em verde doentio na tela portátil. — A rede local tá fragmentada, mas o mapa da infraestrutura do Setor Seis ainda tá gravado nas memórias de ferrite.
+— Pontas de material cristalizado, — ela explicou, guardando a lâmina e me encarando com uma seriedade límpida. — Frágil ao impacto, mas o fio de corte é mais fino que bisturi a laser. Se você pisar nisso aí, a bota rasga igual papel e os espinhos cravam na carne. Qualquer sujeira aderida pode entrar na ferida. Não sei o que há aderido nessas pontas, mas não quero descobrir pelo seu sangue.
 
-— Onde fica o Hub Principal? — perguntei, escorando a *Caronte* na cintura para aliviar a tensão do ombro esfolado.
+— E dá pra contornar? — Elias perguntou, o desespero fazendo sua voz falhar.
 
-— A trezentos metros a leste, logo abaixo do nível dos tanques de sedimentação, — ela apontou para um diagrama esquemático que piscava na tela. — Mas tem uma complicação feia no caminho. A câmara de transbordo entre este duto e as comportas do Hub tá bloqueada por uma barricada mista.
+— Não tem contorno, gênio, — Valéria respondeu, apontando a luz para o alto. — A galeria inteira tá selada por esses dentes de ferro. O único caminho livre é por cima.
 
-— Mista como? — Elias franziu o cenho, engolindo em seco.
+Ergui os olhos, acompanhando o feixe da lanterna. Seis metros acima da floresta de cristais, presa à viga mestra do teto de concreto, uma plataforma estreita de manutenção corria paralela à tubulação de descarte, sustentada por correntes industriais e roldanas antigas. O piso daquela passarela suspensa estava enferrujado, mas livre da geada negra.
 
-— O último relatório de manutenção registra cabos e obstrução na câmara. Não mostra a situação de agora. — Valéria abriu o anexo e franziu a testa. — Tem mais uma coisa: uma ordem de remessa para Arca Zero, saindo desse Hub. A carga está descrita só como caixa lacrada. Não tem inventário nem nome de destinatário.
+— A gente usa a plataforma elevada, — determinei, avaliando a distância vertical. — Valéria, você é a mais leve e tem a agilidade que me falta. Sobe pela escada de marinheiro chumbada na coluna oeste. O concreto ali parece firme. Alcança a roldana mestra e desce o cabo guia pra gente içar o Elias.
 
-— E se a gente tentar cortar? — sugeri.
+Valéria olhou para a escada enferrujada coberta por uma fina película de gelo, depois para o leito de cristais mortais logo abaixo.
 
-— Se ainda houver cabo energizado, cortar pode nos atingir. E não sabemos o que reage ao barulho. — Ela olhou a bateria. — Posso guardar a ordem e a origem no deck, mas vou perder carga que talvez faça falta no portão.
+— Se aquele cabo arrebentar enquanto eu estiver lá em cima, Moretti, eu caio direto numa cama de faquir de três mil pontas de ferro envenenado.
 
-Elias deu um passo à frente, tirando do bolso da jaqueta uma ferramenta cilíndrica com bocal de cerâmica e reguladores manuais.
+— A placa diz três toneladas quando era novo, Val. Vamos prender a segunda linha antes de testar com alguém, — afirmei, olhando firme nos olhos prateados dela. — Testa os apoios antes de subir. Se algum ceder, volta.
 
-— A ferramenta sônica de calibração que eu usei na descida... — disse ele, a voz ganhando uma centelha de coragem inesperada. — Se eu sintonizar na frequência harmônica do gelo de amônia, a vibração em contato pode soltar parte da crosta. Antes, preciso que Val isole os condutores; não dá para prometer que só o gelo vai se romper.
+Um sorriso fino e desafiador desenhou-se nos lábios pálidos dela. O cinismo deu lugar àquela determinação inabalável que sempre nos salvara da cova.
 
-Valéria olhou para o garoto, as sobrancelhas erguidas em surpresa genuína.
+— Só se você prometer não desmontar esse seu ombro postiço enquanto eu tiver lá em cima, — ela disparou, ajustando as correias do cyberdeck nas costas. — Elias, fica de olho no meu apoio. Se a solda mexer, me avisa.
 
-— Primeiro eu isolo o circuito que este painel identificar — disse ela. — Na parede, a gente confirma se ainda há tensão. Não vou prometer que o mapa mostra todas as linhas.
+Ela não perdeu tempo. Com passos calculados e firmes, aproximou-se da base da coluna de concreto, cravou as pontas das botas reforçadas nos degraus de ferro e começou a subida vertical. A cada movimento, lascas de gelo seco desprendiam-se da parede, tilintando contra os cristais negros lá embaixo como vidro quebrado.
 
-— Guarda a ordem — pedi. — Se chegarmos à Arca, precisamos saber o que procurar e de onde saiu a pista.
+Elias sentou-se ao meu lado, as mãos nos joelhos, assistindo à subida com o fôlego preso.
 
-Val hesitou, depois copiou a página inteira, com data, origem e as partes ilegíveis. O indicador da bateria perdeu um segmento. Elias anotou o número da remessa no verso do próprio mapa. Val isolou a linha indicada no painel antes de desligar o terminal.
+— Gabo... se ela não conseguir fixar a roldana... como a gente sai daqui?
 
-— Não prova o que tinha na caixa — disse ele.
+— Não sei — respondi. — Se o apoio falhar, ela volta e a gente procura outro caminho.
 
-— Não. Mas agora temos uma pergunta para quem recebeu. — Apertei a empunhadura de *Caronte* com a esquerda; a palma ferida escorregou, e tive de mudar a pegada.
+Elias acompanhou com a lanterna o ponto onde a escada encontrava a viga. — A solda de cima está descascando — avisou. Val testou o apoio antes de passar o peso e escolheu a outra lateral.
 
-— Vamos nos mover, — avisei, indicando o corredor leste com o cano da arma. — A cidade pode ter nos jogado neste túmulo de gelo, mas nós ainda temos munição e ferramentas pra abrir a saída.
+O silêncio do abismo voltou a nos cercar, pesado e indiferente, quebrado apenas pelo tique-taque distante dos cristais de óxido que continuavam crescendo na escuridão, devorando o pouco calor que ainda nos mantinha vivos.

@@ -1,148 +1,149 @@
 ---
 image: /capitulo_106.jpg
-Personagens Presentes: Dante Moretti, Gabriel "Gabo" Moretti, Marco Moretti, Inspetor Rangel, Elena Moretti
-Localização: "Delegacia da Biblioteca - 14 horas após a Ascensão"
+Personagens Presentes: Inspetor Rangel, Gabriel "Gabo" Moretti, Dante Moretti, Elena Moretti
+Localização: "Superfície - Acesso de Manutenção Sul"
 ---
-# Capítulo 106: Fios Invisíveis
+# Capítulo 106: O Preço da Alvorada
 
-Delegacia da Biblioteca - 14 horas após a Ascensão
-A eficiência tinha um som. Não era o som de engrenagens ou pistões, mas o som de canetas riscando papel em uníssono, de passos sincronizados, de ordens sendo cumpridas antes mesmo de serem terminadas.
+Superfície - Acesso de Manutenção Sul
+O primeiro sinal do mundo exterior não foi a luz, mas o cheiro.
 
-Dante Moretti transformara o caos da Delegacia da Biblioteca em uma sinfonia burocrática. Ele deixara o gabinete do Comissário e instalara uma mesa simples no centro do salão, sem assumir oficialmente o cargo, processando pilhas de relatórios que Inspetor Rangel lhe entregava com mãos trêmulas.
+Depois de horas respirando o ar reciclado, metálico e adocicado de sangue do Berçário, o fedor de ozônio, lixo molhado e maresia de Baía Cinzenta parecia perfume.
 
-Atrás dele, movendo-se com um silêncio antisséptico, estavam três figuras vestidas de branco imaculado. "Os Enfermeiros". Eram homens e mulheres de expressão vazia, usando máscaras cirúrgicas que cobriam metade do rosto. Eles não falavam. Apenas pegavam os papéis assinados por Dante e os arquivavam ou despachavam com uma eficiência robótica. Eram a nova Guarda Branca da cidade, os executores da "higiene pública" que Dante impunha.
+Gabo emergiu do bueiro de manutenção, puxando-se com os braços. Elena o ajudara na escada depois que a porta presa pelo pé de cabra cedeu atrás deles. As órteses danificadas eram peso morto; a trava do joelho direito prendia a cinta a cada movimento.
 
-Dante não lia. Ele escaneava. Seus olhos varriam as páginas em frações de segundo.
+Ele rolou para o asfalto úmido, ofegante. O céu acima era de um cinza chumbo, clareando lentamente no leste. A alvorada estava chegando, uma mancha pálida tentando perfurar a camada eterna de poluição.
 
-— Divergência de suprimentos no Setor 4 — disse Dante, sem levantar a cabeça. — Remova o Tenente Barros do comando. Coloque a Sargento Lima.
+Ficou de barriga para cima por três segundos, o tempo de o corpo decidir se ainda servia. O joelho direito estalou e a cinta plástica rasgou mais um pouco. Havia um corte no antebraço que ele não lembrava de ter feito, e a manga em volta estava rígida de sangue seco. Lá em cima, o céu tinha a cor de água de lavar louça.
 
-— Mas... como você sabe? — gaguejou Rangel. — Esse relatório é sobre distribuição de cobertores.
+— Gabo? — A voz de Elena veio de baixo.
 
-— O estoque declarado não acompanha as solicitações. Barros tem dívidas de jogo; quero sua suspensão até a conferência. Lima assume a distribuição. Execute.
+Ele se virou e estendeu a mão. Elena subiu, o rosto manchado de graxa e poeira, os olhos verdes arregalados de choque. Ela segurava a escopeta com tanta força que seus dedos estavam brancos.
 
-— Isso não prova desvio — disse Rangel. Dante estendeu a folha, sem discutir. Rangel engoliu em seco e foi cumprir a ordem. No canto do salão, sentado em uma caixa de munição vazia, Gabo tentava consertar a própria perna.
+E então, o terceiro.
 
-Ele tinha uma chave de fenda enferrujada na mão e o painel da órtese aberto. O cheiro de ozônio queimado e graxa velha subia de suas calças. A dobradiça do joelho direito não destravava. O suporte passivo se tornara peso morto.
+Não houve esforço. Nenhuma respiração pesada. A figura escalou os apoios da escada sem pausa aparente, usando braços e pernas numa sequência rápida demais para parecer humana.
 
-— Merda — sussurrou Gabo, forçando um parafuso espanado. A chave deslizou e cortou seu dedo. Ele nem sentiu. A dor fantasma na coluna era mais alta.
+Dante Moretti pisou no asfalto.
 
-Ele olhou para Dante. O homem que fora seu pai parecia uma estátua de mármore viva. Perfeito. Incansável. Enquanto Gabo era carne quebrada e metal enferrujado, Dante era a fusão ideal que a Aeterna sempre sonhou, mas nunca conseguiu criar.
+Ele estava vestindo um macacão técnico cinza que haviam encontrado no vestiário da saída, mas ele o usava como se fosse um terno italiano sob medida. Seus pés estavam descalços.
 
-— Você está usando a chave errada — disse Dante. Ele não tinha olhado para Gabo. Continuava assinando documentos. — O torque necessário para o acoplamento do suporte tibial é de 40 newton-metros. Sua força manual está comprometida pelo tremor nas mãos. Nível de ansiedade: elevado. Isso não é uma dosagem de cafeína. Não preciso dela para ver que o senhor está tremendo.
+Ele parou e fechou os olhos. Inspirou profundamente.
 
-Gabo jogou a chave no chão. O barulho metálico fez alguns policiais olharem.
+— Nitrogênio, oxigênio, dióxido de carbono... e traços significativos de enxofre — disse Dante. A voz era a dele, o timbre profundo e rouco que Gabo lembrava da infância, mas a cadência era estranha. Precisa demais. Sem as pausas para pensar, sem as hesitações de quem busca a palavra certa.
 
-— Você pode parar de me escanear? — rosnou Gabo. — Eu não sou um dos seus arquivos.
+Dante abriu os olhos. Eles varreram a rua deserta, os prédios em ruínas, os cabos pendurados como teias de aranha mortas.
 
-Dante parou. Ele levantou a cabeça lentamente. Pela primeira vez, havia algo humano em seus olhos. Impaciência.
+— A cidade está... quieta — observou ele.
 
-— Você é o arquivo mais complexo que eu tenho, Gabriel. E o mais danificado.
+Elena tinha tirado um gravador do bolso do casaco. Modelo antigo, de fita, com o botão vermelho gasto de tanto dedo.
 
-Antes que Gabo pudesse responder, um estrondo veio lá de fora. O som de vidro quebrando e gritos.
+— Não — disse Gabo, sem virar a cabeça.
 
-— Protesto no perímetro externo — anunciou Dante. — Grupo não identificado. Objetos que podem servir como armas.
+— É a única prova que vai sobrar de hoje.
 
-Gabo se levantou, apoiando o peso na perna boa e arrastando a morta. Ele mancou até a janela. Lá fora, na chuva que voltava a cair fina e ácida, uma multidão se reunia. Não eram bandidos. Eram sobreviventes. Pessoas com roupas feitas de lona plástica, segurando tochas e pedaços de pau.
+— Ele ouve.
 
-— Não queremos a Máquina de volta! — gritou uma mulher, jogando uma pedra contra a fachada da biblioteca. — Morte aos Conectados!
+Dante não olhou para o gravador. Olhou para o bolso.
 
-Nas paredes da praça, pichações em tinta neon, remanescentes do estoque de contrabandistas, brilhavam sob a chuva: "Kiko Vibe Vive" e rostos estilizados do Mártir Digital chorando pixels. Eles eram os "Desconectados". Gente que viu o que a tecnologia fez com a cidade — o Projeto Gênesis, a Aeterna, os chips mentais — e decidiu que a Idade da Pedra era melhor.
+— Fita magnética — disse ele, com a paciência de quem corrige um aluno. — Ainda funciona. Guarde. Você vai precisar.
 
-— Eles estão com medo — disse Elena, aparecendo ao lado de Gabo. Ela segurava sua câmera, mas não estava tirando fotos. — Eles acham que você vai trazer a Aeterna de volta, Dante.
+Elena não guardou. Também não apertou o botão. Ficou com o aparelho no meio da mão, como quem segura uma pedra e ainda não decidiu se atira.
 
-Dante se levantou. Ele caminhou até a porta.
+— Nós cortamos a maior parte das conexões depois da Convergência — disse Gabo, apoiando-se num poste. — Chamamos isso de Vazio. Você sabe alguma coisa sobre isso?
 
-— O medo é uma reação evolutiva à falta de controle — disse ele. — Eu vou restaurar o controle.
+Dante virou a cabeça lentamente para Gabo. O movimento foi fluido, líquido.
 
-— Espere — Gabo tentou alcançá-lo, mas sua perna falhou. Ele caiu de joelhos. — Dante! Não machuque eles!
+— Não tenho registro desse nome. — Ele olhou para as próprias mãos, flexionando os dedos. — Se vocês cortaram as conexões para impedir vigilância, foi eficaz até agora. O frio, porém, é ineficiente.
 
-Dante não parou. Ele saiu para a varanda da biblioteca. A chuva molhou seu rosto, mas ele nem piscou. A multidão rugiu ao vê-lo. Mais pedras voaram. Uma acertou o ombro de Dante. Ele nem se moveu.
+— É a realidade, pai — retrucou Gabo, a palavra "pai" saindo com um gosto de cinza na boca.
 
-— Cidadãos de Baía Cinzenta — a voz de Dante não precisou de megafone. Ela parecia ressoar nos ossos de todos. — A desordem acabou. Voltem para suas casas.
+Dante sorriu. Não foi o sorriso caloroso que Gabo via nas fotos antigas. Foi um esgar de reconhecimento, uma emulação de afeto.
 
-— Você é um demônio! — gritou um homem, avançando com um coquetel molotov. — Fogo na máquina!
+— Sim. A realidade. O hardware final.
 
-Ele arremessou a garrafa. O tempo pareceu desacelerar para Gabo, que assistia da janela. Dante levantou a mão. Não houve magia, nem campos de força visíveis. Apenas um estalo seco, como um chicote elétrico. A garrafa explodiu no ar, a cinco metros de distância, atingida por um disparo preciso. Não foi Dante quem atirou.
+Dante baixou os olhos para as pernas de Gabo, para o ângulo errado do joelho, e a expressão dele passou para algo parecido com atenção.
 
-Do alto dos postes de luz ao redor da praça, as câmeras de segurança giraram. Acopladas a elas, pequenos drones de vigilância — presos aos postes por cabos de alimentação que ninguém tinha cortado — despertaram. Um deles tinha um cano fumegante. A multidão recuou, aterrorizada. As luzes da praça piscaram e ficaram vermelhas.
+— A dobradiça direita está empenada. Se continuar andando, a cinta pode abrir e derrubar você. — Ele estendeu dois dedos, como quem pede uma ferramenta. — Eu conserto em quatro minutos. Sem anestesia, mas sem dor desnecessária.
 
-— A infraestrutura desta cidade é minha extensão — disse Dante. — Cada câmera é um olho. Cada cabo é um nervo. Vocês não podem lutar contra a cidade.
+— Não encosta em mim.
 
-— Dante, pare! — Gabo finalmente conseguiu se arrastar até a varanda, apoiado em Elena. — Eles são civis!
+A mão ficou no ar. Dante recolheu-a sem constrangimento, do jeito que se recolhe uma hipótese descartada.
 
-Dante olhou para a multidão, que agora fugia em pânico.
+— Como quiser. O cálculo continua válido.
 
-— Eles são variáveis instáveis. Mas eu não vou desperdiçar recursos eliminando-os. Ainda.
+Gabo não perguntou qual cálculo. Já sabia.
 
-Ele se virou para Gabo.
+Luzes azuis e vermelhas piscaram no fim da rua. O som de pneus cantando no asfalto molhado quebrou o silêncio.
 
-— Precisamos conversar, Gabriel. No subsolo. Agora.
+Dois carros da polícia, modelos antigos recuperados, frearam bruscamente a vinte metros deles.
 
-***
+Inspetor Rangel saiu do primeiro veículo, a barriga forçando os botões da camisa, o revólver na mão trêmula. Atrás dele, o Oficial Silva e outros dois recrutas apontavam lanternas e armas.
 
-No porão da biblioteca, o ar era frio e cheirava a papel velho. Dante guiou Gabo e Elena por entre as estantes de arquivos mortos até uma sala isolada nos fundos.
+— Parados! — gritou Rangel. — Gabo? Elena?
 
-Lá dentro, iluminado apenas por uma lâmpada fraca, um homem estava sentado em uma escrivaninha pequena, cercado por formulários. Rangel o encontrara no atendimento de triagem e o trouxera à biblioteca naquela madrugada. Ele escrevia sem parar; uma moeda de prata repousava intocada sobre a pilha de documentos.
+— Somos nós, Rangel! — gritou Elena, levantando as mãos vazias.
 
-Ele estava magro, o terno antes impecável agora largo nos ombros, a barba por fazer. Gabo parou, o choque travando sua garganta.
+Rangel baixou a arma, soltando um suspiro. O palito caiu do canto da boca e ele não tentou pegar.
 
-— Marco?
+— Puta que pariu, vocês parecem que foram mastigados e cuspidos pelo diabo. O que aconteceu lá embaixo? O sismógrafo na delegacia registrou um abalo nível 4 na Zona Sul...
 
-O homem não levantou a cabeça. Continuou preenchendo planilhas de logística de distribuição de água.
+A voz de Rangel morreu na garganta. Dante deu um passo à frente, entrando no feixe de luz dos faróis.
 
-— Ele só responde aos estímulos que autorizei — disse Dante, fechando a porta. — Eu extraí Marco da consciência coletiva do Gênesis. Separei o "Administrador" do "Político". O ego, a ambição, a crueldade... eu bloqueei o acesso. O que ele ainda entende disso não é relevante para a tarefa. Ele é útil agora.
+Os recrutas recuaram. Silva deixou a lanterna cair. Rangel ficou pálido, a cor drenando de seu rosto redondo até deixá-lo com a aparência de cera velha.
 
-Dante caminhou até a mesa e pegou uma das folhas que Marco preenchia.
+— Co... Comissário? — sussurrou Rangel. — Mas... nós enterramos você. Eu carreguei o caixão.
 
-— A iniciativa "Nova Alvorada", que ele criou para limpar as ruas dos viciados em Lázaro... foi surpreendentemente eficiente. Você se lembra dos "Drenados" que atacavam as pessoas por créditos? Marco resolveu o problema.
+Dante inclinou a cabeça.
 
-— Ele prendeu todos? — perguntou Gabo, desconfiado.
+— Inspetor Rangel. O senhor está tremendo. Recomendo respirar fundo. A viatura atrás de você tem uma válvula batendo.
 
-— Não. Prisões consomem recursos. Marco os converteu em recursos. — Dante colocou o papel na frente de Gabo. Era um relatório de rendimento energético. — Aqueles viciados agora são a biomassa que alimenta os servidores do Setor 7. Seus corpos, já viciados em conexão, aceitaram a integração neural sem rejeição. Marco forneceu o combustível para a cidade que você vê acesa lá fora. Eu apenas otimizei a combustão.
+Rangel deu um passo para trás, esbarrando no capô do carro.
 
-Gabo olhou para o irmão. Marco parecia um autômato, uma casca executando funções, alheio ao fato de que havia condenado milhares ao processamento eterno.
+— Isso é impossível. É um truque. Um holograma. Gabo, que porra é essa?
 
-— Isso é pior que a morte — sussurrou Gabo, sentindo o estômago revirar.
+Gabo mancou até ficar entre Dante e a polícia.
 
-— Isso é redenção através do serviço — corrigiu Dante, sem emoção. Ele caminhou até o centro da sala e limpou uma mesa com um gesto. — E eu posso fazer mais, Gabriel.
+— Não é um holograma, Rangel. É... complicado. É o Projeto Gênesis.
 
-Dante conectou seu terminal ao projetor da mesa e abriu um arquivo. Era uma mulher na cozinha da casa antiga deles, sorrindo enquanto regava uma samambaia. A luz batia em seu rosto, iluminando as linhas de expressão que Gabo conhecia tão bem. Helena Moretti. Gabo deu um passo para trás, batendo nas estantes.
+— Gênesis? — Rangel olhou de Gabo para Dante, o medo lutando com a reverência em seus olhos. — O mito?
 
-— Desligue isso. Agora.
+— A ciência — corrigiu Dante. Ele caminhou até Rangel. Os policiais tencionaram, dedos nos gatilhos.
 
-— Ela está preservada, Gabriel. O backup neural que Marco fez dela... está intacto. Eu posso trazê-la de volta. Não como Marco, não como uma ferramenta. Mas como ela era. — Dante olhou para o holograma com uma expressão indescritível. — Eu posso nos dar a família de volta. O irmão eficiente. A mãe amorosa. O pai protetor. Basta você aceitar a Ordem.
+Dante parou a um metro do inspetor. Ele estendeu a mão. Não para cumprimentar, mas para tocar o distintivo enferrujado no peito de Rangel.
 
-Gabo olhou para a imagem da mãe. Era perfeita. A tentação perfurou seu peito mais fundo que qualquer bala. Ter ela de volta. Ouvir a voz dela. Ele fechou os olhos, a mão tremendo sobre a arma.
+— A lei ainda existe nesta cidade, Inspetor? Ou apenas a sobrevivência?
 
-— Minha mãe odiava gaiolas, Dante. Mesmo as douradas. — Gabo abriu os olhos. Eram aço frio. — E ela preferiria estar morta a ver o que você fez com o Marco.
+Rangel engoliu em seco.
 
-Dante suspirou. O holograma piscou e transformou-se em um mapa da cidade, brilhando em azul com manchas negras.
+— Tentamos manter a ordem, senhor. Do jeito antigo. Papel e tinta. Sem a Nuvem.
 
-— Decepcionante. Mas previsível. — Dante apontou para as manchas negras. — Se você não luta pela família, lutará pela sobrevivência. Olhe. Isso não são áreas sem energia. São áreas onde a rede foi... devorada.
+— Louvável — disse Dante. Ele retirou a mão e olhou para o horizonte, onde o sol finalmente rompia a barreira de poluição, banhando a cidade em uma luz acobreada e doente. — Mas a sobrevivência não é suficiente. A cidade precisa de propósito. Ela precisa de... direção.
 
-Gabo se aproximou. As manchas estavam crescendo. Elas vinham do leste, da zona portuária abandonada.
+— O que você vai fazer? — perguntou Elena, a voz trêmula.
 
-— O que é isso? — perguntou Elena.
+Dante se virou para ela. Seus olhos refletiam o nascer do sol, mas pareciam conter um abismo muito mais profundo.
 
-— Eu chamo de "O Silêncio" — disse Dante. — Quando eu me conectei à rede, eu senti. Há algo lá fora. Algo antigo. Algo que não quer ser visto. E está comendo os dados da cidade. Apagando a história.
+— O que eu fui projetado para fazer, Srta. Moretti. Eu vou consertar.
 
 Ele olhou para Gabo.
 
-— Eu não estou organizando a polícia para oprimir os sobreviventes, Gabriel. Estou organizando um exército. Porque o que está vindo do porto não é humano. E não é máquina. É algo pior.
+— O Vazio serviu ao seu propósito, Gabriel. Ele nos protegeu enquanto estávamos vulneráveis. Mas o silêncio acabou. Agora... nós vamos falar.
 
-Gabo olhou para o mapa. As manchas negras pareciam feridas de gangrena na cidade luminosa.
+Gabo sentiu um calafrio percorrer sua espinha, mais frio que o vento da manhã.
 
-— O que poderia ser pior que o Projeto Gênesis? — perguntou Gabo.
+— Falar com quem? A Aeterna se foi. Silas se foi.
 
-Dante apagou o mapa. A escuridão voltou ao porão.
+— Com a infraestrutura. — Dante abriu a tampa de serviço do poste e encaixou um contato na linha de controle que ainda recebia energia. — Os cabos subterrâneos, os relés analógicos. Esta parte da cidade tem um sistema nervoso, Gabriel. Quero saber até onde alcança.
 
-— O esquecimento total.
+Ele começou a caminhar em direção à viatura de Rangel.
 
-***
+— Leve-me para a Delegacia, Inspetor. Tenho novos protocolos para ditar.
 
-Zona Portuária - O Olho do Furacão
-Longe dali, no topo de um guindaste enferrujado que pendia sobre o mar revolto, não havia ninguém. Só chuva, ferrugem e um emaranhado de cabos improvisados que se perdiam nos contêineres. O Silêncio não era uma pessoa; era uma ferida na rede, construída com geradores de pulso eletromagnético, antenas quebradas e a obsessão de quem precisava desaparecer.
+Rangel olhou para Gabo. Ele contou os policiais, avaliou o corpo que acabara de drenar Silas e não viu como contê-lo ali sem transformar a rua num massacre. — Você vai com escolta, Rangel. Não deixe ninguém sozinho com ele. — O inspetor assentiu, sem baixar a arma.
 
-Quando Dante acordou, a onda de choque da consciência dele encontrou um buraco. Os dados da zona portuária não existiam mais para os sensores. Registros apagados. Leituras de calor encobertas por anteparos e fontes térmicas falsas. O som das ondas mascarado por ruído branco. O Silêncio não foi criado para destruir, mas para esconder.
+A viatura deu a volta na praça e sumiu na neblina.
 
-Ali, a ordem de Dante encontrava o erro humano que ele não conseguia calcular. E naquele erro, algo mais se movia: o Código Morto, pulsando como um vírus antigo em um corpo novo.
+Então a rua acendeu. Não a lâmpada quebrada do poste em frente — o quarteirão inteiro: janelas, vitrines, o letreiro de uma farmácia que estava morto desde o Dilúvio. Depois o quarteirão seguinte, e o outro, e o outro.
+
+A luz seguia o trecho ligado àquela linha. Mais longe, o restante da avenida continuava escuro.

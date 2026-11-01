@@ -13,12 +13,12 @@
 * **Olhos:** Castanhos profundos, quase pretos. Cercados por olheiras severas.
 * **Marcas Distintivas:** Mãos trêmulas (pelo café), mas que firmam instantaneamente em combate. Tique nervoso de tamborilar os dedos no coldre (para canalizar a ansiedade). Odeia cigarro e nunca fumou (trauma relacionado ao pai). Cicatriz em forma de raiz negra no braço (marca da infecção Gênesis).
 * **Vestuário:** Sobretudo bege manchado de fuligem sobre camisas sociais amarrotadas.
-* **⚠️ O Cigarro Fantasma (traço canônico, não confundir com vício):** Gabo **nunca fumou um cigarro na vida**. O que ele sente a partir do Capítulo 116 não é fissura de ex-fumante: é uma **alucinação sensorial** — gosto e cheiro de tabaco que o cérebro fabrica sob estresse extremo, montada em cima da memória do pai fumante e dos cinzeiros transbordando da infância. Ele reage a ela como reage a qualquer alucinação: com dor física deliberada (apertar o Colar de Sol até romper a pele, bater nas próprias queimaduras) para reancorar a mente. Nenhum capítulo pode mostrá-lo fumando, comprando cigarro ou sendo descrito como "ex-fumante".
-  * **Encerrado no Capítulo 225.** Depois da fita de admissão, sem apagar o abandono e os abusos reais, Gabo reconhece que a lembrança do pai não autoriza seus próprios crimes. Gabo nomeia a alucinação pelo que ela é — uma figura que *ele* montou com quinze anos de raiva — e ela se dissolve sozinha, sem dor, pela primeira vez. **Do 225 em diante o cheiro fantasma não volta.** Trazê-lo de volta anularia o único arco interno que o protagonista fecha no livro inteiro.
+* **⚠️ O Cigarro Fantasma (traço canônico, não confundir com vício):** Gabo **nunca fumou um cigarro na vida**. O que ele sente a partir do Capítulo 118 não é fissura de ex-fumante: é uma **alucinação sensorial** — gosto e cheiro de tabaco que o cérebro fabrica sob estresse extremo, montada em cima da memória do pai fumante e dos cinzeiros transbordando da infância. Ele reage a ela como reage a qualquer alucinação: com dor física deliberada (apertar o Colar de Sol até romper a pele, bater nas próprias queimaduras) para reancorar a mente. Nenhum capítulo pode mostrá-lo fumando, comprando cigarro ou sendo descrito como "ex-fumante".
+  * **Encerrado no Capítulo 227.** Depois da fita de admissão, sem apagar o abandono e os abusos reais, Gabo reconhece que a lembrança do pai não autoriza seus próprios crimes. Gabo nomeia a alucinação pelo que ela é — uma figura que *ele* montou com quinze anos de raiva — e ela se dissolve sozinha, sem dor, pela primeira vez. **Do 225 em diante o cheiro fantasma não volta.** Trazê-lo de volta anularia o único arco interno que o protagonista fecha no livro inteiro.
 * **Equipamento:**
   * **Veículo:** Sedan Azul Metálico (Cobalt) antigo e enferrujado.
   * **Armas:** Pistola Glock (serviço), Lançador de Projéteis Modulares ("Leviatã" - antiga "Mara"), Escopeta de cano serrado ("Caronte" - antiga "Vilha").
-  * **Auxiliar:** Exoesqueleto passivo de pernas (ruidoso, mas funcional) e o **componente físico tipo pendrive da Aria** (acoplado ao painel do Cobalt, ao comunicador de lapela ou ao deck de Valéria até o Capítulo 167).
+  * **Auxiliar:** Exoesqueleto passivo de pernas (ruidoso, mas funcional) e o **componente físico tipo pendrive da Aria** (acoplado ao painel do Cobalt, ao comunicador de lapela ou ao deck de Valéria até o Capítulo 169).
 * **Gostos/Traços:** Viciado em pizza e café. Insone e paranoico.
 * **Perfil Psicológico:** Cínico e violento, mas com um código de honra rígido. Protege os inocentes com uma fúria silenciosa.
 * **Cargo / ocupação:** Ex-inspetor e investigador criminal da Divisão de Casos Esquecidos da DPBC; depois, investigador independente na resistência.
@@ -29,16 +29,16 @@
 ### Linha do Tempo e Evolução Visual
 
 * **Capítulos 1-3:** Sobretudo bege; colar recebido de Helena antes da história. Queimadura e corte na mão direita em 2, persistem 3.
-* **Capítulos 24-35:** Perda auditiva esquerda; lesões de coluna e perna direita 30; suporte, cadeira e ajuda. Leviatã abandonado 25. Executa Éder 35.
-* **Capítulos 36-55:** Cadeira e transferências assistidas. Queda 47 agrava as lesões, sem recuperação instantânea. Helena morre 50. Acesso ao Cobalt por controles adaptados 56.
-* **Capítulos 56-96:** As fraturas na coluna e perna direita persistem. Órteses e assistência; alimentação de motores vem de baterias externas, não do pendrive. Braço esquerdo contaminado pelo Jardim.
-* **Capítulos 97-106:** Exoesqueleto passivo (órteses), bengala em deslocamentos curtos e cadeira nos longos. Sem cura da coluna.
-* **Capítulo 107:** Equipe e Nise acompanham reparo externo das órteses motorizadas, com liberação manual. O corpo continua lesionado.
-* **Capítulos 118-153:** Ferimentos acumulados; não realiza cirurgia vascular em Rangel. Mantém registro da morte 150 e da localização do corpo 151.
-* **Capítulos 154-174:** Fratura do braço direito 154; tala e curativo 155. Não usa plasma para curar as mãos. Aria destruída 167.
-* **Capítulos 175-224:** Cinco dias de atendimento; fixador clínico instalado pela equipe. Vasco adiciona armação externa industrial de 20 kg com arnês e suporte de cintura. Mão biológica direita imobilizada, pinça externa comandada. Feridas e infecção persistem.
-* **Capítulo 221:** Módulo médico estabiliza sem curar fratura ou declarar alta; Valéria não se torna cirurgiã por ler um manual.
-* **Capítulo 225:** Cortam hastes externas para usar a armação como cunha; fixações clínicas preservadas. Braço de carne continua no corpo, imobilizado na tipoia. Enfrenta a alucinação sem se ferir; ausência e abuso paternos não são apagados pela fita.
-* **Capítulos 226-236:** Mão esquerda ainda enfaixada, perna com órtese, braço direito na tipoia. Atendimento e reabilitação necessários. Executa Braga 232 recusando custódia possível; entrega relato à imprensa. Enterra Elena 236. Sem retorno de Aria ou da alucinação de tabaco após 225.
+* **Capítulos 24-36:** Perda auditiva esquerda; lesões de coluna e perna direita 30; suporte, cadeira e ajuda. Leviatã abandonado 25. Executa Éder 35.
+* **Capítulos 37-56:** Cadeira e transferências assistidas. Queda 47 agrava as lesões, sem recuperação instantânea. Helena morre 50. Acesso ao Cobalt por controles adaptados 56.
+* **Capítulos 57-98:** As fraturas na coluna e perna direita persistem. Órteses e assistência; alimentação de motores vem de baterias externas, não do pendrive. Braço esquerdo contaminado pelo Jardim.
+* **Capítulos 99-108:** Exoesqueleto passivo (órteses), bengala em deslocamentos curtos e cadeira nos longos. Sem cura da coluna.
+* **Capítulo 109:** Equipe e Nise acompanham reparo externo das órteses motorizadas, com liberação manual. O corpo continua lesionado.
+* **Capítulos 120-155:** Ferimentos acumulados; não realiza cirurgia vascular em Rangel. Mantém registro da morte 150 e da localização do corpo 151.
+* **Capítulos 156-176:** Fratura do braço direito 154; tala e curativo 155. Não usa plasma para curar as mãos. Aria destruída 167.
+* **Capítulos 177-226:** Cinco dias de atendimento; fixador clínico instalado pela equipe. Vasco adiciona armação externa industrial de 20 kg com arnês e suporte de cintura. Mão biológica direita imobilizada, pinça externa comandada. Feridas e infecção persistem.
+* **Capítulo 223:** Módulo médico estabiliza sem curar fratura ou declarar alta; Valéria não se torna cirurgiã por ler um manual.
+* **Capítulo 227:** Cortam hastes externas para usar a armação como cunha; fixações clínicas preservadas. Braço de carne continua no corpo, imobilizado na tipoia. Enfrenta a alucinação sem se ferir; ausência e abuso paternos não são apagados pela fita.
+* **Capítulos 228-239:** Mão esquerda ainda enfaixada, perna com órtese, braço direito na tipoia. Atendimento e reabilitação necessários. Executa Braga 232 recusando custódia possível; entrega relato à imprensa. Enterra Elena 236. Sem retorno de Aria ou da alucinação de tabaco após 225.
 
 ---
