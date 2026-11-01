@@ -1,6 +1,7 @@
 <script setup>
 import DefaultTheme from 'vitepress/theme'
 import AudioPlayer from './AudioPlayer.vue'
+import ChapterCarousel from './components/ChapterCarousel.vue'
 import { useData, useRouter } from 'vitepress'
 import { ref, onMounted, onUnmounted, computed, watch, nextTick, defineAsyncComponent } from 'vue'
 import { buildChapterIndex, neighbors } from './chapter-index.mjs'
@@ -17,6 +18,7 @@ const furthest = ref(1) // capítulo mais avançado já aberto: o terminal não 
 
 const WORDS_PER_MINUTE = 200
 const chapterIndex = computed(() => buildChapterIndex(theme.value.sidebar))
+const gallery = computed(() => frontmatter.value.gallery ?? [])
 
 const isTerminalOpen = ref(false)
 const isReaderMode = ref(false)
@@ -208,7 +210,9 @@ onUnmounted(() => {
   <div class="reading-progress-bar" :style="{ width: progress + '%' }"></div>
   <Layout>
     <template #doc-before>
-      <div v-if="frontmatter.image" class="chapter-cover-container">
+      <!-- Várias imagens (capa + cenas): carrossel. Uma só: a capa de sempre. -->
+      <ChapterCarousel v-if="gallery.length > 1" :key="page.relativePath" :images="gallery" :title="page.title" />
+      <div v-else-if="frontmatter.image" class="chapter-cover-container">
         <img :src="frontmatter.image" class="chapter-cover" fetchpriority="high" decoding="async" :alt="frontmatter.title || 'Imagem do Capítulo'" />
       </div>
       
