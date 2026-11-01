@@ -14,7 +14,6 @@ This is an AI-collaborative cyberpunk noir novel published as an interactive Vit
 - **Backend (Python)**: Content generation scripts
   - Dependency manager: `uv` (NOT pip) - see [AGENTS.md](AGENTS.md)
   - Primary scripts: `scripts/` (video generation, image sync)
-  - Tools: `tools/` (prompt generation for AI characters)
 
 ### Chapter Structure
 Each chapter is markdown with YAML frontmatter:
@@ -63,7 +62,7 @@ python scripts/video_generator.py --chapter 1
 
 ### Content Rules
 - **Lore Bible**: [docs/lore-do-livro.md](docs/lore-do-livro.md) defines the universe's "constitution" (Gray Bay setting, Aeterna Corp, drug "Lázaro", etc.)
-- **Character Consistency**: Character visuals defined in [tools/prompt_generator.py](tools/prompt_generator.py) for AI image generation
+- **Character Consistency**: Character visuals live in [docs/personagens.md](docs/personagens.md) (`**Prompt Visual:**` field); portraits in `docs/public/personagens/`
 - **Chapter Naming**: `capitulo-{N}.md` (Portuguese), NOT `chapter-{N}.md`
 
 ### Image Management
@@ -104,7 +103,7 @@ Auto-generated from [docs/.vitepress/config.js](docs/.vitepress/config.js):
 4. GitHub Actions will auto-generate video
 
 ### Modifying Character Descriptions
-Edit `CHARACTERS` dict in [tools/prompt_generator.py](tools/prompt_generator.py) - used by image generation pipelines.
+Edit the character profile and its `**Prompt Visual:**` in [docs/personagens.md](docs/personagens.md); `scripts/art_gen/portraits.py` reads it.
 
 ### Debugging VitePress Build
 - Check theme components in `docs/.vitepress/theme/`
