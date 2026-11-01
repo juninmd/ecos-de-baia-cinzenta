@@ -1,14 +1,19 @@
 <script setup>
 import DefaultTheme from 'vitepress/theme'
 import AudioPlayer from './AudioPlayer.vue'
-import LazaroTerminal from './components/LazaroTerminal.vue'
 import { useData, useRouter } from 'vitepress'
-import { ref, onMounted, onUnmounted, computed, watch, nextTick } from 'vue'
+import { ref, onMounted, onUnmounted, computed, watch, nextTick, defineAsyncComponent } from 'vue'
 import { buildChapterIndex, neighbors } from './chapter-index.mjs'
 
 const { Layout } = DefaultTheme
 const { frontmatter, page, theme } = useData()
 const router = useRouter()
+
+// O terminal só é baixado na primeira abertura: não pesa na leitura de quem nunca o usa.
+const LazaroTerminal = defineAsyncComponent(() => import('./components/LazaroTerminal.vue'))
+const terminalLoaded = ref(false)
+const FURTHEST_KEY = 'lazaro:furthest-chapter'
+const furthest = ref(1) // capítulo mais avançado já aberto: o terminal não passa disso (sem spoiler)
 
 const WORDS_PER_MINUTE = 200
 const chapterIndex = computed(() => buildChapterIndex(theme.value.sidebar))
@@ -23,7 +28,25 @@ let ticking = false
 let resizeObserver = null
 
 const toggleTerminal = () => {
+  terminalLoaded.value = true
   isTerminalOpen.value = !isTerminalOpen.value
+  if (!isTerminalOpen.value) document.querySelector('.terminal-fab')?.focus()
+}
+
+const closeTerminal = () => {
+  if (isTerminalOpen.value) toggleTerminal()
+}
+
+const openFromTerminal = (n) => {
+  closeTerminal()
+  goTo({ link: `/capitulo-${n}` })
+}
+
+const trackProgress = () => {
+  const n = currentChapterNumber.value
+  if (n === null || n <= furthest.value) return
+  furthest.value = n
+  try { localStorage.setItem(FURTHEST_KEY, String(n)) } catch { /* modo privado: só vale na sessão */ }
 }
 
 const toggleReaderMode = () => {
@@ -156,10 +179,14 @@ onMounted(() => {
   
   // Initialize font scale
   document.documentElement.style.setProperty('--reader-font-scale', 1)
+
+  try { furthest.value = Number(localStorage.getItem(FURTHEST_KEY)) || 1 } catch { /* sem storage */ }
+  trackProgress()
 })
 
 // Tempo de leitura e altura do documento pertencem à página aberta, não ao primeiro mount.
 watch(() => page.value.relativePath, () => nextTick(() => {
+  trackProgress()
   calculateReadingTime()
   calculateDocHeight()
   progress.value = 0
@@ -216,7 +243,8 @@ onUnmounted(() => {
       <button class="fab-btn terminal-fab" @click="toggleTerminal" aria-label="Abrir Terminal Lázaro" title="Acessar Sistema (` ou Ctrl+K)">
         <span class="terminal-icon">_></span>
       </button>
-      <LazaroTerminal :is-open="isTerminalOpen" @close="isTerminalOpen = false" />
+      <LazaroTerminal v-if="terminalLoaded" :is-open="isTerminalOpen" :chapter="furthest"
+        :total="chapterIndex.at(-1)?.number ?? 1" @close="closeTerminal" @go="openFromTerminal" />
     </template>
   </Layout>
 </template>
