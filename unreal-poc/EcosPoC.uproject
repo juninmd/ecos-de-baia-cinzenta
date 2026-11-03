@@ -1,0 +1,9 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "5.4",
+	"Category": "",
+	"Description": "PoC 3D de Ecos de Baia Cinzenta: Vila da Ferrugem (capitulo 1)",
+	"Modules": [
+		{ "Name": "EcosPoC", "Type": "Runtime", "LoadingPhase": "Default" }
+	]
+}
