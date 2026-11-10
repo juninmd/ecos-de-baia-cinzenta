@@ -33,22 +33,22 @@
   },
   "homepage": "https://github.com/juninmd/ecos-de-baia-cinzenta#readme",
   "devDependencies": {
-    "@semantic-release/changelog": "6.0.3",
-    "@semantic-release/git": "10.0.1",
-    "@types/node": "20.19.43",
-    "mermaid": "11.16.1",
-    "semantic-release": "23.1.1",
-    "typescript": "5.9.3",
+    "@semantic-release/changelog": "7.0.0",
+    "@semantic-release/git": "11.0.1",
+    "@types/node": "26.6.6",
+    "mermaid": "12.3.0",
+    "semantic-release": "25.0.9",
+    "typescript": "7.0.2",
     "vitepress": "1.6.4",
     "vitepress-plugin-mermaid": "2.0.17"
   },
   "dependencies": {
-    "medium-zoom": "1.1.0"
+    "medium-zoom": "1.1.2"
   },
   "optionalDependencies": {
-    "@capacitor/android": "6.2.2",
+    "@capacitor/android": "8.6.0",
     "@capacitor/cli": "6.2.2",
-    "@capacitor/core": "6.2.2"
+    "@capacitor/core": "8.6.0"
   },
   "packageManager": "pnpm@10.30.3",
   "release": {
