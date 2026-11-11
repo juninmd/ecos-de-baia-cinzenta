@@ -42,14 +42,16 @@ export default withMermaid(defineConfig({
     },
   },
   lang: 'pt-BR',
+  // A cidade é noturna: escuro por padrão, com o claro ainda a um clique.
+  appearance: 'dark',
   title: "Ecos de Baía Cinzenta",
   description: "Um thriller noir cyberpunk em uma cidade onde a chuva nunca para.",
   transformHead: socialMeta,
   head: [
     ['link', { rel: 'preconnect', href: 'https://fonts.googleapis.com' }],
     ['link', { rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: '' }],
-    ['link', { href: 'https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500&family=Literata:ital,opsz,wght@0,7..72,400..700;1,7..72,400..700&family=Orbitron:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,700;1,400&family=Rajdhani:wght@400;500;600;700&display=swap', rel: 'stylesheet' }],
-    ['meta', { name: 'theme-color', content: '#0a0a0f' }],
+    ['link', { href: 'https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@500;800;900&family=JetBrains+Mono:wght@400;600&family=Newsreader:ital,opsz,wght@0,6..72,400..600;1,6..72,400..600&display=swap', rel: 'stylesheet' }],
+    ['meta', { name: 'theme-color', content: '#06080c' }],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black-translucent' }],
     ['link', { rel: 'manifest', href: `${base}manifest.json` }],
@@ -97,10 +99,10 @@ export default withMermaid(defineConfig({
   mermaid: {
     theme: 'dark',
     themeVariables: {
-      primaryColor: '#1b2430',
+      primaryColor: '#151b24',
       primaryTextColor: '#e8e6e3',
-      lineColor: '#7a8b99',
-      fontFamily: 'Rajdhani, sans-serif',
+      lineColor: '#ffb547',
+      fontFamily: '"Big Shoulders Display", sans-serif',
     },
   }
 }))
