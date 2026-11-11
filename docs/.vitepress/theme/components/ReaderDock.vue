@@ -1,6 +1,6 @@
 <script setup>
 // Dock único de leitura: substitui os botões flutuantes. Anel = progresso do capítulo.
-import { computed, ref } from 'vue'
+import { computed, ref, watch } from 'vue'
 import { useReading, showDock } from '../composables/useReading.js'
 import { useReaderPrefs, toggleFocus } from '../composables/useReaderPrefs.js'
 import { useNarration, toggle as toggleVoice } from '../composables/useNarration.js'
@@ -11,7 +11,7 @@ defineProps({ prev: Object, next: Object, isChapter: Boolean })
 const emit = defineEmits(['go', 'lazaro'])
 const { progress, dockVisible } = useReading()
 const { focus } = useReaderPrefs()
-const { supported, playing, paused, progress: spoken } = useNarration()
+const { supported, playing, paused, progress: spoken, error } = useNarration()
 const panel = ref('')
 const C = 2 * Math.PI * 19
 const pct = computed(() => Math.round((playing.value ? spoken.value : progress.value) * 100))
@@ -19,10 +19,12 @@ const speaking = computed(() => playing.value && !paused.value)
 
 const open = (name) => { panel.value = panel.value === name ? '' : name }
 const onPlay = () => toggleVoice()
+// Sem voz no aparelho: abre o painel com o aviso em vez de falhar calado.
+watch(error, (msg) => { if (msg) panel.value = 'audio' })
 </script>
 
 <template>
-  <div :class="['reader-dock-wrap', { hidden: !dockVisible && !panel && !speaking }]" @pointerenter="showDock">
+  <div :class="['reader-dock-wrap', { hidden: !dockVisible && !panel && !playing }]" @pointerenter="showDock">
     <Transition name="sd-pop">
       <TypePanel v-if="panel === 'type'" class="dock-pop" @close="panel = ''" />
     </Transition>

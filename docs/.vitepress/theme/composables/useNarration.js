@@ -3,6 +3,8 @@
 import { ref, shallowRef, computed } from 'vue'
 import { attachMarkers, clearHighlight, collectSegments, highlight } from '../lib/narration-dom.mjs'
 import { speakable } from '../lib/sentences.mjs'
+import { MAX_SKIPS_IN_A_ROW, NO_VOICE, speechErrorAction } from '../lib/speech-errors.mjs'
+import { pickVoices } from '../lib/voices.mjs'
 
 const CONTINUOUS_KEY = 'tts_continuous'
 const PREFS_KEY = 'sodio:narration'
@@ -17,26 +19,23 @@ const follow = ref(true) // seguir para o próximo capítulo ao terminar
 const segments = shallowRef([])
 const index = ref(0)
 const countdown = ref(0) // segundos até abrir o próximo capítulo (0 = sem contagem)
+const error = ref('') // aviso quando o aparelho não consegue narrar
+let skips = 0
 let synth = null
 let goNext = null
 let timer = null
 let current = null // utterance em curso: eventos de uma fala cancelada são ignorados
 
-const store = (k, v) => { try { v === undefined ? localStorage.removeItem(k) : localStorage.setItem(k, JSON.stringify(v)) } catch { /* sem storage */ } }
+const store = (k, v) => { try { localStorage.setItem(k, JSON.stringify(v)) } catch { /* sem storage */ } }
 const load = (k) => { try { return JSON.parse(localStorage.getItem(k)) } catch { return null } }
-const setContinuous = (on) => { try { sessionStorage.setItem(CONTINUOUS_KEY, on ? 'true' : 'false') } catch { /* privado */ } }
+const setContinuous = (on) => { try { sessionStorage.setItem(CONTINUOUS_KEY, String(on)) } catch { /* privado */ } }
 const isContinuous = () => { try { return sessionStorage.getItem(CONTINUOUS_KEY) === 'true' } catch { return false } }
 const savePrefs = () => store(PREFS_KEY, { rate: rate.value, voice: voiceName.value, follow: follow.value })
 
 function loadVoices() {
-  const all = synth.getVoices()
-  const pt = all.filter((v) => /^pt[-_]BR$/i.test(v.lang))
-  voices.value = pt.length ? pt : all
-  if (!voices.value.some((v) => v.name === voiceName.value)) {
-    // Preferência histórica: voz masculina/Microsoft quando houver.
-    const male = voices.value.find((v) => /Daniel|Microsoft|Felipe|Ricardo/.test(v.name)) ?? voices.value.find((v) => !/Google/.test(v.name))
-    voiceName.value = (male ?? voices.value[0])?.name ?? ''
-  }
+  const { list, name } = pickVoices(synth.getVoices(), voiceName.value)
+  voices.value = list
+  voiceName.value = name
 }
 
 export function initNarration(next) {
@@ -61,17 +60,20 @@ function speakCurrent() {
   if (voice) { u.voice = voice; u.lang = voice.lang } else u.lang = 'pt-BR'
   u.rate = rate.value
   const advance = () => { if (u !== current) return; index.value++; speakCurrent() }
+  u.onstart = () => { skips = 0; error.value = '' }
   u.onend = advance
-  u.onerror = (e) => { if (e.error !== 'interrupted' && e.error !== 'canceled') advance() }
+  u.onerror = (e) => {
+    if (u !== current) return
+    const { action, message } = speechErrorAction(e.error)
+    if (action === 'skip' && ++skips < MAX_SKIPS_IN_A_ROW) advance()
+    else if (action !== 'ignore') { stop(); error.value = message ?? NO_VOICE }
+  }
   current = u
   synth.speak(u)
 }
 
 function finish() {
-  playing.value = false
-  paused.value = false
-  clearHighlight()
-  index.value = 0
+  reset()
   if (!follow.value || !isContinuous() || !goNext?.()) return
   countdown.value = 5
   timer = setInterval(() => {
@@ -96,6 +98,7 @@ export function prepare() {
 
 export function startFrom(i) {
   if (!supported.value || i < 0) return
+  error.value = ''; skips = 0
   synth.cancel()
   cancelCountdown()
   setContinuous(true)
@@ -106,34 +109,30 @@ export function startFrom(i) {
   speakCurrent()
 }
 
-export const play = () => {
-  if (paused.value) { synth.resume(); paused.value = false; setContinuous(true); return }
-  if (!playing.value) startFrom(index.value)
-}
-export const pause = () => { if (playing.value) { synth.pause(); paused.value = true; setContinuous(false) } }
+// Pausa = cancelar e lembrar a frase: speechSynthesis.pause() é ignorado no Linux e falha no
+// Android. Retomar recomeça a frase em que parou, o que funciona em todo navegador.
+export const play = () => { if (paused.value || !playing.value) startFrom(index.value) }
+export const pause = () => { if (playing.value) { current = null; synth.cancel(); paused.value = true; setContinuous(false) } }
 export const toggle = () => (playing.value && !paused.value ? pause() : play())
 
-export function stop() {
+function reset() {
   current = null
   synth?.cancel()
   playing.value = false
   paused.value = false
   index.value = 0
   clearHighlight()
-  setContinuous(false)
 }
+
+export function stop() { reset(); setContinuous(false) }
 
 // Troca de página: para o que estava falando, recoleta e retoma se o modo contínuo estiver ligado.
 export function onPageChange() {
   const resume = isContinuous()
-  current = null
-  synth?.cancel()
+  reset()
   clearInterval(timer)
   countdown.value = 0
-  playing.value = false
-  paused.value = false
-  index.value = 0
-  clearHighlight()
+  error.value = ''
   setTimeout(() => { prepare(); if (resume && supported.value) startFrom(0) }, 400)
 }
 
@@ -144,5 +143,5 @@ export function setFollow(on) { follow.value = on; savePrefs() }
 const progress = computed(() => (segments.value.length ? index.value / segments.value.length : 0))
 
 export function useNarration() {
-  return { supported, playing, paused, rate, voices, voiceName, follow, segments, index, progress, countdown }
+  return { supported, playing, paused, rate, voices, voiceName, follow, segments, index, progress, countdown, error }
 }

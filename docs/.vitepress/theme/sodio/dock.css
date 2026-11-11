@@ -61,6 +61,7 @@
 .dp-select { width: 100%; background: var(--sd-wet); border: 1px solid var(--sd-line); border-radius: 10px; padding: 8px; color: var(--sd-paper); font: 13px var(--sd-mono); }
 .dp-check { display: flex; gap: 8px; align-items: center; font-size: 14px; cursor: pointer; }
 .dp-check input { accent-color: var(--sd-sodium); }
+.np-error { margin: 0; padding: 10px 12px; border-radius: 10px; border: 1px solid var(--sd-signal); color: var(--sd-signal); font-size: 13px; line-height: 1.45; }
 .dp-stop:hover { border-color: var(--sd-signal); color: var(--sd-signal); }
 .np-head { display: flex; gap: 14px; align-items: center; }
 .np-head strong { display: block; font: 800 20px var(--sd-display); text-transform: uppercase; }

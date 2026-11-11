@@ -3,7 +3,7 @@
 import { useNarration, setRate, setVoice, setFollow, stop } from '../composables/useNarration.js'
 
 const emit = defineEmits(['close'])
-const { voices, voiceName, rate, follow, playing, paused, index, segments } = useNarration()
+const { voices, voiceName, rate, follow, playing, paused, index, segments, error } = useNarration()
 const rates = [0.8, 0.9, 1, 1.2, 1.5]
 const short = (n) => n.replace(/^(Microsoft|Google)\s+/, '').replace(/\s*\(.*\)$/, '')
 </script>
@@ -17,6 +17,7 @@ const short = (n) => n.replace(/^(Microsoft|Google)\s+/, '').replace(/\s*\(.*\)$
         <small aria-live="polite">{{ playing ? `Frase ${index + 1} de ${segments.length}` : 'Toque ▶ ao lado de um parágrafo para começar dali' }}</small>
       </div>
     </div>
+    <p v-if="error" class="np-error" role="alert">{{ error }}</p>
     <label class="dp-label" for="sd-voice">Voz</label>
     <select id="sd-voice" class="dp-select" :value="voiceName" :disabled="!voices.length" @change="setVoice($event.target.value)">
       <option v-if="!voices.length" value="">Carregando vozes…</option>

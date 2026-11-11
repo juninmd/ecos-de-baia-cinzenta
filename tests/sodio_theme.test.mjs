@@ -84,3 +84,16 @@ test('arquivos do tema Sódio respeitam o limite de 150 linhas', () => {
   }
   assert.ok(readFileSync(join(THEME, 'Layout.vue'), 'utf8').split('\n').length <= 150)
 })
+
+test('narração para com aviso quando o aparelho não tem voz (não varre o capítulo)', async () => {
+  const { speechErrorAction, NO_VOICE } = await import('../docs/.vitepress/theme/lib/speech-errors.mjs')
+  assert.equal(speechErrorAction('interrupted').action, 'ignore')
+  assert.equal(speechErrorAction('text-too-long').action, 'skip')
+  assert.deepEqual(speechErrorAction('synthesis-failed'), { action: 'stop', message: NO_VOICE })
+  assert.match(speechErrorAction('not-allowed').message, /bloqueou/)
+  const { pickVoices } = await import('../docs/.vitepress/theme/lib/voices.mjs')
+  const all = [{ name: 'Google português', lang: 'pt-BR' }, { name: 'Microsoft Daniel', lang: 'pt-BR' }, { name: 'Alex', lang: 'en-US' }]
+  assert.deepEqual(pickVoices(all, ''), { list: all.slice(0, 2), name: 'Microsoft Daniel' })
+  assert.equal(pickVoices(all, 'Google português').name, 'Google português')
+  assert.deepEqual(pickVoices([], 'x'), { list: [], name: '' })
+})
