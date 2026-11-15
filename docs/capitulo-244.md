@@ -46,7 +46,7 @@ Não vi a mão dele fazer o primeiro traço. Vi o que a mão fez no fim. A rubri
 
 — Eu sei onde fica.
 
-— Eu sei que sabe. — Ela pôs a lupa sobre o papel e manteve o olho nela. — É a mesma hesitação. Não é a mesma mão. A mão de quem assinou os doze é a de uma pessoa que sabia o desenho e não queria fazê-lo. Quem copia pensa em cada traço. O senhor pensou no laço.
+— Eu sei que sabe. — Ela pôs a lupa sobre o papel e manteve o olho nela. — É a mesma hesitação. Não é a mão do Krell. A mão de quem assinou os doze é a de uma pessoa que sabia o desenho e não queria fazê-lo. Quem copia pensa em cada traço. O senhor pensou no laço.
 
 Marco fechou a boca, e a pausa dele foi a primeira coisa honesta que fez naquela sala.
 

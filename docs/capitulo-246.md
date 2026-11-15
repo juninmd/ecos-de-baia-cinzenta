@@ -48,7 +48,7 @@ Escrevi o relato inteiro. Não usei adjetivos, porque ninguém precisa deles par
 
 *3. A faca de 2042, com o sangue velho da câmara fria e a etiqueta preenchida de madrugada. A estagiária que assinou o laudo viu a tinta fresca demais e calou. Tinha vinte e um anos. Eu contei com o silêncio dela, e ela me deu.*
 
-*4. O nome de Elena. Usei sem lhe contar. Ela sabia disso quando leu a carta, e ainda assim pagou a conta por mim, no galpão, com as duas mãos.*
+*4. O nome de Elena. Usei sem lhe contar. Ela sabia disso quando escreveu a carta, e ainda assim pagou a conta por mim, no galpão, com as duas mãos.*
 
 *5. Helena. Não fui ao túmulo. Não fui ao lugar do cerco. Enquanto eu não fosse, ela não tinha morrido, e eu continuava com uma coisa para consertar.*
 
@@ -116,4 +116,4 @@ Elias encostou o lápis na coluna e foi contando as letras em voz baixa, uma a u
 
 Valéria leu em voz alta, sem entonação, do jeito que lia os registros de morte e as listas de carga, para que a frase não tivesse nenhuma intenção além da que estava escrita. A lâmpada tremeu no pavio, e ninguém pediu que ela repetisse.
 
-— "A.T., 14 de março."
+— "A.T., 14 de setembro."

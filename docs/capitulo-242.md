@@ -12,7 +12,7 @@ A Carta passou a noite na mesa da prensa, aberta, com um peso de chumbo em cada 
 
 — *Assina-se com o polegar* — leu ele, e parou. — Quem é I. Nogueira?
 
-— Uma perita — disse Val. — O nome está na caixa postal, e na carta. A doutora escreveu para ela, ou ela escreveu para a doutora. A ordem não está clara.
+— Uma perita — disse Val. — O nome está na caixa postal, e na carta. A Elena escreveu para ela, ou ela escreveu para a Elena. A ordem não está clara.
 
 — A Elena não deixava nada sem ordem.
 
