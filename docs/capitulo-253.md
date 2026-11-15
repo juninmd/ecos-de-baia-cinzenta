@@ -17,7 +17,7 @@ Eu esperei no corredor, do lado de fora do camarim, sentado no degrau da escada 
 
 A porta não fechou por completo. Pela fresta eu via um pedaço do lençol branco, as luvas de Nise e a lâmpada de cirurgia, ligada à bateria de um caminhão. Valéria estava de pé do outro lado da mesa, com a caixa de plástico que carregava desde antes do enterro. Estava lacrada desde que ela a levara sem usar.
 
-— Pode não devolver nada — disse Nise. Não levantou a voz, como nunca levantava. — Um nervo que ficou calado dois anos pode continuar calado. Pode devolver só a dor.
+— Pode não devolver nada — disse Nise. Não levantou a voz, como nunca levantava. — Um nervo que ficou calado tanto tempo pode continuar calado. Pode devolver só a dor.
 
 — Já tenho dor.
 

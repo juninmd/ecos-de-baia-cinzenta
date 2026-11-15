@@ -62,7 +62,7 @@ Nina Duarte desceu o corredor entre as poltronas com a jaqueta do irmão nos omb
 
 — Parentesco.
 
-— Irmã de Duarte Falcão.
+— Irmã de Duarte Falcão. Nossa mãe era Duarte; deu o sobrenome a mim e o nome a ele.
 
 Ela não olhou para o chão. Olhou para mim.
 

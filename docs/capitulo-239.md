@@ -109,7 +109,7 @@ Uma pausa longa. O som do sangue pingando nas lajotas da sala.
 
 Sua voz vacilou, quase apagada pelo uivo final do banco de capacitores.
 
-— O cordão de latão... fica com ele. O número gravado atrás identifica nossa velha caixa postal; a chave está presa no bolso interno da jaqueta. Tem algumas cartas que eu escrevi quando achava que a gente ia envelhecer juntos. Guarda isso. Mas agora... quando o sol nascer, desliga o rádio, Gabriel. Enterra o que precisa ser enterrado. E vai viver.
+— O cordão de latão... fica com ele. O número gravado atrás identifica nossa velha caixa postal; a chave está presa no bolso interno da jaqueta. Deixei lá umas cartas. Nem todas são para você. Guarda isso. Mas agora... quando o sol nascer, desliga o rádio, Gabriel. Enterra o que precisa ser enterrado. E vai viver.
 
 O mecanismo rodou em falso no final da fita plástica. *Clack.*
 

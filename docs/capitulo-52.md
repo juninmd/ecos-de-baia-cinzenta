@@ -7,7 +7,7 @@ Localização: "Beco atrás de clínica clandestina, Distrito da Névoa"
 
 A chuva ácida de Baía Cinzenta tem o hábito de lavar as evidências, mas aquele corpo estava estranhamente imaculado.
 
-No quadragésimo quarto dia do Dilúvio, Elena ajudou Gabo a descer do Cobalt. Nise autorizara apenas deslocamentos assistidos com órteses e apoio depois da estabilização; aquilo não era alta. Suas botas tocaram a lama oleosa do beco atrás de uma clínica clandestina no Distrito da Névoa. Jonas Vilar já estava lá, segurando um guarda-chuva preto e fumando um cigarro que lutava para permanecer aceso.
+No quadragésimo quarto dia do Dilúvio, Elena ajudou Gabo a descer do Cobalt. Nise autorizara apenas deslocamentos assistidos com órteses e apoio depois da estabilização; aquilo não era alta. Suas botas tocaram a lama oleosa do beco atrás de uma clínica clandestina no Distrito da Névoa. Jonas Vilar já estava lá, segurando um guarda-chuva preto e fumando um charuto barato que lutava para permanecer aceso.
 
 — Você devia estar de repouso, Gabo — disse Vilar, sem olhar para ele. — Aquela queda na Torre quase te quebrou ao meio.
 
@@ -35,7 +35,7 @@ Gabo sentiu um gosto amargo na boca. Insulina.
 
 — Roubo?
 
-— Carteira cheia, relógio de ouro no pulso. Não levaram nada. — Vilar tragou o cigarro. Gabo desviou o rosto, incomodado com a fumaça. — Exceto a vida. E a dignidade.
+— Carteira cheia, relógio de ouro no pulso. Não levaram nada. — Vilar tragou o charuto. Gabo desviou o rosto, incomodado com a fumaça. — Exceto a vida. E a dignidade.
 
 — Isso não é coisa de gangue — murmurou Gabo, examinando os hematomas no pescoço. — Marcas de dedos. Polegares na traqueia. Força bruta, mas aplicada com precisão cirúrgica. Quem fez isso sabia exatamente onde apertar para desligar o cérebro.
 
@@ -59,7 +59,7 @@ Gabo olhou para a moeda de prata no peito da vítima. Havia uma inscrição em l
 
 — Talvez. Mas com a cidade debaixo d'água e metade do meu departamento na folha de pagamento do crime organizado... talvez vingança seja tudo o que nos resta.
 
-Vilar tirou o cigarro da boca e olhou para ele de lado, e havia mais cansaço do que censura naquele olhar.
+Vilar tirou o charuto da boca e olhou para ele de lado, e havia mais cansaço do que censura naquele olhar.
 
 — Você está de licença. Licença médica, assinada por mim, com carimbo e tudo. Se eu te der esse dossiê, ele sai da delegacia como cópia informal. Você recebe uma cópia com origem e número. Se sair investigando sem designação, terá de responder por isso; não significa que toda prova deixe de existir.
 

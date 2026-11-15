@@ -51,7 +51,7 @@ Não era troca de elogios. Era troca de arquivos. Cada um sabia onde o outro tin
 
 — Conceda-se.
 
-— Examinei trezentas rubricas do índice. Vou enumerar. Pressão de traço: a mesma mão em duzentas e oitenta e oito, com a queda de pressão no mesmo ponto do K. Laço fechado sempre no mesmo sentido. Ritmo: a entrada do traço chega antes, três centímetros antes. Fibra e tinta: do lote de 2049, da mesma idade. — Ela tirou os óculos e tornou a colocá-los, gesto de conferência, não de nervosismo. — Duzentas e oitenta e oito são do senhor.
+— Examinei trezentas rubricas do índice. Vou enumerar. Pressão de traço: a mesma mão em duzentas e oitenta e oito, com a queda de pressão no mesmo ponto do K. Laço fechado sempre no mesmo sentido. Ritmo: a entrada do traço chega antes, três milímetros antes. Fibra e tinta: compatíveis com a data de cada ficha. — Ela tirou os óculos e tornou a colocá-los, gesto de conferência, não de nervosismo. — Duzentas e oitenta e oito são do senhor.
 
 — Não nego ter assinado.
 
