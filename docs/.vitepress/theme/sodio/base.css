@@ -1,0 +1,74 @@
+/* Moldura: navegação, barra lateral, botões e elementos gerais do VitePress na pele Sódio. */
+body { background: var(--sd-ink); color: var(--sd-paper); }
+::selection { background: var(--sd-sodium); color: var(--sd-ink); }
+:focus-visible { outline: 2px solid var(--sd-sodium); outline-offset: 3px; }
+
+/* Barra superior de vidro fosco */
+.VPNav, .VPNavBar, .VPNavBar.has-sidebar .content { background: transparent !important; }
+.VPNavBar { backdrop-filter: blur(14px) saturate(1.3); -webkit-backdrop-filter: blur(14px) saturate(1.3); }
+.VPNavBar:not(.home.top) { background: var(--vp-nav-bg-color) !important; border-bottom: 1px solid var(--sd-line); }
+.VPNavBar .divider { display: none; }
+.VPNavBarTitle .title { font-family: var(--sd-display); font-weight: 900; text-transform: uppercase; letter-spacing: .06em; font-size: 20px; }
+.VPNavBarMenuLink, .VPNavBarMenuGroup .text, .VPNavScreenMenuLink {
+  font-family: var(--sd-mono) !important; font-size: 12px !important; text-transform: uppercase; letter-spacing: .12em; color: var(--sd-fog) !important;
+}
+.VPNavBarMenuLink:hover, .VPNavBarMenuLink.active { color: var(--sd-sodium) !important; }
+
+/* Barra lateral: livros como capítulos de um arquivo policial */
+.VPSidebar { border-right: 1px solid var(--sd-line); }
+.VPSidebarItem.level-0 > .item > .text { font-family: var(--sd-display); font-weight: 800; font-size: 18px; text-transform: uppercase; letter-spacing: .04em; }
+.VPSidebarItem.level-1 > .item > .text { font-family: var(--sd-mono); font-size: 11px; text-transform: uppercase; letter-spacing: .12em; color: var(--sd-fog); }
+.VPSidebarItem .link .text { transition: color .2s, transform .2s var(--sd-ease); }
+.VPSidebarItem .link:hover .text { color: var(--sd-sodium); transform: translateX(3px); }
+.VPSidebarItem.is-active > .item > .link > .text { color: var(--sd-sodium); font-weight: 600; }
+.VPSidebarItem.is-active > .item > .indicator { background: var(--sd-sodium); }
+
+/* Botões e links */
+.VPButton { font-family: var(--sd-mono); text-transform: uppercase; letter-spacing: .1em; font-size: 13px !important; border-radius: 99px !important; transition: transform .25s var(--sd-ease), background .25s; }
+.VPButton:hover { transform: translateY(-2px); }
+.vp-doc a { color: var(--sd-sodium); text-decoration: underline; text-decoration-color: color-mix(in oklab, var(--sd-sodium) 40%, transparent); text-underline-offset: 3px; transition: text-decoration-color .2s; }
+.vp-doc a:hover { text-decoration-color: var(--sd-sodium); }
+
+/* Esconde o que é de documentação técnica, não de livro */
+.edit-link, .last-updated, .VPDocFooter .edit-link-button { display: none !important; }
+
+/* Paginador anterior/próximo */
+.VPDocFooter .pager-link { min-height: 72px; border: 1px solid var(--sd-line); border-radius: 16px; background: var(--sd-asphalt); transition: border-color .25s, transform .25s var(--sd-ease); }
+.VPDocFooter .pager-link:hover { border-color: var(--sd-sodium); transform: translateY(-2px); }
+.VPDocFooter .pager-link .desc { font-family: var(--sd-mono); font-size: .7rem; letter-spacing: .14em; text-transform: uppercase; }
+.VPDocFooter .pager-link .title { font-family: var(--sd-display); font-size: 20px; text-transform: uppercase; color: var(--sd-paper); }
+
+/* Barra de rolagem */
+::-webkit-scrollbar { width: 10px; height: 10px; }
+::-webkit-scrollbar-track { background: var(--sd-ink); }
+::-webkit-scrollbar-thumb { background: var(--sd-line); border-radius: 10px; border: 2px solid var(--sd-ink); }
+::-webkit-scrollbar-thumb:hover { background: var(--sd-sodium); }
+
+/* Zoom de imagem (medium-zoom) */
+.medium-zoom-overlay { z-index: 200; background: color-mix(in oklab, var(--sd-ink) 94%, transparent) !important; }
+.medium-zoom-image--opened { z-index: 201; border-radius: 10px; }
+
+/* Barra de progresso fina no topo (o anel do dock é o principal) */
+.reading-progress-bar {
+  position: fixed; top: 0; left: 0; height: 2px; z-index: 9999; pointer-events: none;
+  background: var(--sd-sodium); box-shadow: 0 0 12px var(--sd-sodium); transition: width .1s linear;
+}
+
+/* Páginas de tabela usam a largura útil */
+.pagina-larga .VPDoc .container, .pagina-larga .VPDoc .content-container, .pagina-larga .VPDoc .content { max-width: min(1120px, 100%) !important; }
+
+/* Mermaid com fundo da página */
+.vp-doc .mermaid { background: var(--sd-asphalt); border: 1px solid var(--sd-line); border-radius: 16px; padding: 1rem; }
+
+@media print {
+  .VPNav, .VPSidebar, .VPLocalNav, .VPDocFooter, .reader-dock, .reading-progress-bar, .narration-panel, .tts-marker { display: none !important; }
+  .VPContent { padding: 0 !important; }
+  .vp-doc p { color: #000; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    scroll-behavior: auto !important; animation-duration: .01ms !important;
+    animation-iteration-count: 1 !important; transition-duration: .01ms !important;
+  }
+}

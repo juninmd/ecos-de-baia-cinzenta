@@ -23,7 +23,7 @@ Nina não tinha vindo. Antes de sairmos do Arcádia, ela tirou a fita laranja de
 
 Não perguntei mais nada. Nina não respondia perguntas que já tinham resposta, e a fita ficou apertada na palma, do jeito que uma coisa fica quando ainda não é de ninguém.
 
-Ísis Nogueira desceu do banco de trás com a lupa no bolso do casaco de lã. Caminhou ao meu lado sem me oferecer o braço e sem recusar que eu se apoiasse nela. Quando chegamos ao meio da rua, parou e tirou do bolso interno um envelope amarelado, com a dobra gasta de quem o carregou muito tempo sem abrir.
+Ísis Nogueira desceu do banco de trás com a lupa no bolso do casaco de lã. Caminhou ao meu lado sem me oferecer o braço e sem recusar que eu me apoiasse nela. Quando chegamos ao meio da rua, parou e tirou do bolso interno um envelope amarelado, com a dobra gasta de quem o carregou muito tempo sem abrir.
 
 — Minha mãe escreveu em 2044 — disse. — Eu só abri ontem, depois da sentença. Não tinha coragem antes.
 
@@ -51,11 +51,11 @@ Antes de chegarmos à casa com o número 14, Valéria foi na frente. Parou diant
 
 Ela sentia. Eu vi o rosto dela mudar, o queixo se erguer um milímetro, como quem recebe uma notícia que não pediu. Depois tirou a mão do ferro e foi até a esquina, e ficou de costas para a casa, para dar à viúva o que ela ia precisar: uma porta fechada e uma testemunha do lado de fora.
 
-O caderno de Braga estava copiado na letra de Val, e a entrada tinha três linhas. Elias e ela tinham levado duas noites para decifrar as iniciais e a data, e mais uma para conferir o cadastro do fórum. *A.T., 14 de março.* Escrivão. Caso 2042. Oito nomes sem rosto no caderno, e este era um deles.
+O caderno de Braga estava copiado na letra de Val, e a entrada tinha três linhas. Elias e ela tinham levado duas noites para decifrar as iniciais e a data, e mais uma para conferir o cadastro do fórum. *A.T., 14 de setembro.* Escrivão. Caso 2042. Oito nomes sem rosto no caderno, e este era um deles.
 
 Li a entrada uma vez, em silêncio, no portão.
 
-Antônio Teixeira. Escrivão do fórum de Baía Cinzenta. Carimbou o que não leu porque lhe pediram que carimbasse. Anotado no turno três. Morto em 14 de março. Sem rosto no caderno.
+Antônio Teixeira. Escrivão do fórum de Baía Cinzenta. Carimbou o que não leu porque lhe pediram que carimbasse. Anotado no turno três. Morto em 14 de setembro. Sem rosto no caderno.
 
 O tom era o de uma lista de pendências de cartório: sem raiva, sem arrependimento, com o carimbo já pronto. Foi isso que me incomodou mais que a palavra "morto".
 

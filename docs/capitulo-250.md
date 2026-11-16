@@ -39,7 +39,7 @@ Tê passou para a folha seguinte.
 
 — A admissão dos Moretti no estudo tem uma autorização de 2035. Reconhece?
 
-— Sim. Está na minha memória, com a minha letra. Em 2035 assinei a autorização que fez dos Moretti os escolhidos. Escolhi a família mais previsível que o registro tinha. — Ele virou a cabeça para mim sem mover os ombros. — Não sei se assinaria de novo. Não tenho dados que respondam essa pergunta.
+— Sim. Está na minha memória, com a minha letra. Em 2035 assinei a autorização que fez dos Moretti os escolhidos. Não escolhi a família; assinei o papel que a tornou a mais fácil de calar. — Ele virou a cabeça para mim sem mover os ombros. — Não sei se assinaria de novo. Não tenho dados que respondam essa pergunta.
 
 Tê não anotou. Eu vi a mão dela parar sobre o papel e voltar para a mesa, como se a resposta fosse uma coisa que não cabia numa página.
 

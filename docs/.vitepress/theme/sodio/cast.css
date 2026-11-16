@@ -1,0 +1,42 @@
+/* Dossiê do elenco e cartão de personagem no texto. */
+.cast-dossier { padding-block: 56px 24px; }
+.cd-head { display: flex; flex-wrap: wrap; align-items: end; justify-content: space-between; gap: 16px; }
+.cd-reveal { color: var(--sd-fog); font-size: 14px; }
+.cd-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(190px, 1fr)); gap: 16px; margin-top: 28px; }
+.vp-doc .cast-card, .cast-card {
+  position: relative; display: block; overflow: hidden; aspect-ratio: 3 / 4; max-width: 100%; border-radius: 16px;
+  border: 1px solid var(--sd-line); background: var(--sd-asphalt); color: #ebe6da; text-decoration: none;
+  transform: perspective(800px) rotateX(var(--rx, 0deg)) rotateY(var(--ry, 0deg)); transition: transform .2s, border-color .3s;
+}
+.cast-card:hover { border-color: var(--sd-sodium); }
+.vp-doc .cast-card img, .cast-card img {
+  width: 100%; height: 100%; object-fit: cover; object-position: top; border-radius: 0;
+  filter: grayscale(.6) contrast(1.1); transition: filter .5s, transform .6s var(--sd-ease);
+}
+.cast-card:hover img, .cast-card:focus-visible img { filter: none; transform: scale(1.05); }
+.cc-glare { position: absolute; inset: 0; pointer-events: none; opacity: 0; transition: opacity .3s; background: radial-gradient(circle at var(--gx, 50%) var(--gy, 50%), rgba(255, 255, 255, .18), transparent 50%); }
+.cast-card:hover .cc-glare { opacity: 1; }
+.cc-lbl { position: absolute; inset: auto 0 0; display: grid; gap: 2px; padding: 48px 14px 14px; background: linear-gradient(180deg, transparent, rgba(6, 8, 12, .92)); }
+.cc-lbl strong { font: 800 24px/1 var(--sd-display); text-transform: uppercase; }
+.cc-lbl small { font: 11px var(--sd-mono); color: #8d98a9; }
+.cc-pill { position: absolute; top: 12px; left: 12px; padding: 2px 8px; border-radius: 99px; font: 10px var(--sd-mono); letter-spacing: .1em; background: rgba(6, 8, 12, .7); color: #5fd39a; border: 1px solid currentColor; }
+.cc-pill.danger { color: #ff4d64; }
+.cc-pill.warning { color: #ffb547; }
+.cast-card.locked img { filter: blur(14px) grayscale(1) brightness(.45); transform: scale(1.1); }
+.cast-card.locked::after {
+  content: "CLASSIFICADO"; position: absolute; top: 42%; left: -10%; right: -10%; text-align: center; transform: rotate(-12deg);
+  font: 900 26px var(--sd-display); letter-spacing: .1em; color: #ff4d64; border-block: 3px solid #ff4d64; background: rgba(6, 8, 12, .6);
+}
+
+/* Nome no texto → cartão com o retrato */
+.cast-ref { border-bottom: 1px dotted var(--sd-sodium); cursor: help; transition: color .2s; }
+.cast-ref:hover, .cast-ref:focus-visible { color: var(--sd-sodium); outline: none; }
+.cast-pop {
+  position: fixed; z-index: 150; width: 240px; overflow: hidden; transform: translate(-50%, calc(-100% - 10px));
+  border-radius: 14px; border: 1px solid var(--sd-line); background: var(--sd-asphalt); color: var(--sd-paper) !important;
+  text-decoration: none !important; box-shadow: 0 24px 60px -16px rgba(0, 0, 0, .6);
+}
+.cast-pop img { display: block; width: 100%; height: 130px; object-fit: cover; object-position: top; }
+.cast-pop span { display: grid; gap: 2px; padding: 10px 12px; }
+.cast-pop strong { font: 800 20px/1 var(--sd-display); text-transform: uppercase; }
+.cast-pop small { font: 11px var(--sd-mono); color: var(--sd-fog); }

@@ -1,0 +1,86 @@
+/* ============================================================
+   SÓDIO · tokens do redesign.
+   A luz de poste de sódio é a única cor quente da cidade; o resto é asfalto molhado.
+   Escuro é o padrão (appearance: 'dark'); o claro é o "dia nublado" de papel.
+   ============================================================ */
+:root {
+  --sd-ink: #f4f1ea;
+  --sd-asphalt: #ebe6db;
+  --sd-wet: #e0d9cb;
+  --sd-line: #cfc6b4;
+  --sd-fog: #5d6573;
+  --sd-paper: #1b1f27;
+  --sd-sodium: #9a5a00;
+  --sd-sodium-glow: rgba(154, 90, 0, 0.18);
+  --sd-rain: #2f6b93;
+  --sd-signal: #c8243c;
+  --sd-ok: #1f7a4f;
+  --sd-violet: #6f3fb0;
+  --sd-book-1: #b8740d;
+  --sd-book-2: #2f6b93;
+  --sd-book-3: #7a4cc0;
+  --sd-book-4: #c8243c;
+
+  --sd-display: "Big Shoulders Display", "Arial Narrow", Impact, sans-serif;
+  --sd-read: "Newsreader", "Literata", Georgia, serif;
+  --sd-mono: "JetBrains Mono", "Fira Code", ui-monospace, monospace;
+  --sd-ease: cubic-bezier(.2, .8, .2, 1);
+
+  /* Preferências do leitor (useReaderPrefs) */
+  --reader-font-scale: 1;
+  --reader-line-height: 1.78;
+
+}
+
+/* Mapeamento para o VitePress: mesmo peso do `.dark` dele, carregado depois. */
+:root,
+.dark {
+  --vp-font-family-base: var(--sd-read);
+  --vp-font-family-mono: var(--sd-mono);
+  --vp-c-bg: var(--sd-ink);
+  --vp-c-bg-alt: var(--sd-asphalt);
+  --vp-c-bg-soft: var(--sd-asphalt);
+  --vp-c-bg-elv: var(--sd-ink);
+  --vp-c-text-1: var(--sd-paper);
+  --vp-c-text-2: var(--sd-fog);
+  --vp-c-text-3: color-mix(in oklab, var(--sd-fog) 70%, var(--sd-ink));
+  --vp-c-divider: var(--sd-line);
+  --vp-c-gutter: var(--sd-line);
+  --vp-c-brand-1: var(--sd-sodium);
+  --vp-c-brand-2: var(--sd-sodium);
+  --vp-c-brand-3: var(--sd-sodium);
+  --vp-c-brand-soft: var(--sd-sodium-glow);
+  --vp-button-brand-bg: var(--sd-sodium);
+  --vp-button-brand-text: var(--sd-ink);
+  --vp-button-brand-hover-bg: var(--sd-paper);
+  --vp-button-brand-hover-text: var(--sd-ink);
+  --vp-nav-bg-color: color-mix(in oklab, var(--sd-ink) 78%, transparent);
+  --vp-sidebar-bg-color: var(--sd-ink);
+  --vp-layout-max-width: 1440px;
+  --sd-glass: color-mix(in oklab, var(--sd-asphalt) 82%, transparent);
+}
+
+.dark {
+  --sd-ink: #06080c;
+  --sd-asphalt: #0d1117;
+  --sd-wet: #151b24;
+  --sd-line: #232c39;
+  --sd-fog: #8d98a9;
+  --sd-paper: #ebe6da;
+  --sd-sodium: #ffb547;
+  --sd-sodium-glow: rgba(255, 181, 71, 0.16);
+  --sd-rain: #86b7d8;
+  --sd-signal: #ff4d64;
+  --sd-ok: #5fd39a;
+  --sd-violet: #c58cff;
+  --sd-book-1: #ffb547;
+  --sd-book-2: #86b7d8;
+  --sd-book-3: #c58cff;
+  --sd-book-4: #ff4d64;
+}
+
+/* Papéis do leitor (painel Aa): trocam o asfalto inteiro, não só a coluna de texto. */
+html[data-skin="noite"] { --sd-ink: #0b0e13; --sd-asphalt: #11161d; --sd-wet: #18202a; --sd-line: #26303d; --sd-fog: #8d98a9; --sd-paper: #e4dfd3; --sd-sodium: #ffb547; color-scheme: dark; }
+html[data-skin="sepia"] { --sd-ink: #f1e7d3; --sd-asphalt: #e8dcc3; --sd-wet: #dfd0b3; --sd-line: #cdb994; --sd-fog: #7a6a55; --sd-paper: #3b2f22; --sd-sodium: #a34e14; --sd-sodium-glow: rgba(163, 78, 20, .16); color-scheme: light; }
+html[data-skin="papel"] { --sd-ink: #fbfaf6; --sd-asphalt: #f2f0ea; --sd-wet: #e8e5dc; --sd-line: #d9d5ca; --sd-fog: #5f6675; --sd-paper: #1c1f26; --sd-sodium: #8a4b00; --sd-sodium-glow: rgba(138, 75, 0, .14); color-scheme: light; }
+html[data-face="condensada"] .vp-doc p { font-family: var(--sd-display); font-weight: 500; letter-spacing: .01em; }

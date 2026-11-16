@@ -39,7 +39,7 @@ Não era arrependimento o que eu oferecia. Era a conta com o nome certo.
 
 Valéria subiu sem o receptor no bolso, embora eu soubesse que ele estava ali. Tinha as mãos na frente do corpo, a direita fechada, a esquerda sem tato apoiada na beira do palco. Falou com o timbre de quem dá relatório de plantão.
 
-— Eu estava a três metros. O capitão Vilar tinha oferecido custódia, com juiz e vigia, em dois dias. Eu registrei a oferta. Foram seis segundos entre o momento em que Braga parou de falar e o disparo. Cronometrei. É o que eu faço.
+— Eu estava na passarela. O abrigo do Setor 4 tinha oferecido custódia pelo rádio, com dois voluntários de guarda, em dois dias. Eu registrei a oferta. Foram seis segundos entre o momento em que Braga parou de falar e o disparo. Cronometrei. É o que eu faço.
 
 Ninguém aplaudiu. Não era hora de aplauso, e o salão sabia disso melhor do que eu. Ela desceu sem esperar pergunta. Passou por mim, e a mão esquerda, inerte, roçou meu braço de tipoia. Não me olhou. Eu também não olhei.
 

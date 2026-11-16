@@ -30,13 +30,13 @@ Clara desceu sem dizer nada. Trança castanha, a cicatriz na sobrancelha, o aven
 
 ---
 
-Eu não sabia que a jaqueta tinha bolso interno até a Val me passar. Foi Clara quem sentiu. Ela estava com a mão no volante, num trecho de cascalho que sacudia o caminhão inteiro, e pediu que eu pegasse a jaqueta do banco do meio.
+A fita tinha dito onde estava a chave, e mesmo assim eu não tinha tido coragem de abrir o bolso interno. Foi Clara quem sentiu. Ela estava com a mão no volante, num trecho de cascalho que sacudia o caminhão inteiro, e pediu que eu pegasse a jaqueta do banco do meio.
 
 — Tem alguma coisa dura aí dentro.
 
 Abri o zíper com o polegar da mão enfaixada. Dentro, presa a uma tira de couro curta, havia uma chave de latão com um número de aço batido na haste: *217*.
 
-Virei o pingente que eu usava no pescoço. Estava quente de tanto contato. Atrás, gravado com a mesma letra firme da fita, o número era o mesmo. *217.* A caixa postal que ela disse que existia no fim da fita. Eu tinha carregado a resposta no peito desde a Velha Baía e não tinha lido.
+Virei o pingente que eu usava no pescoço. Estava quente de tanto contato. Atrás, gravado com a mesma letra firme da fita, o número era o mesmo. *217.* A caixa postal que ela disse que existia no fim da fita. Eu tinha carregado a resposta no peito desde a subestação e não tinha lido.
 
 — Ela sempre fazia isso — disse Clara, olhando a estrada. — Escondia a informação no lugar onde você já estava olhando.
 

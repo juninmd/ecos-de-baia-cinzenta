@@ -8,7 +8,7 @@ Personagens Presentes: Gabo, Valéria, Capitão Jonas Vilar, Ísis Nogueira, Nin
 
 # Capítulo 248: A Pasta Dois-Zero-Zero-Dois
 
-A Mesa se montou no palco do Cine Arcádia, de frente para a tela. Tê Prado cobriu a mesa com um pano verde, pôs cinco cadeiras e abriu o estojo de tipos de chumbo com a calma de uma gaveta de talheres num domingo. A tela era um lençol branco de cinco metros, manchado de água no canto de cima, onde o teto cedera. Dezesseis fileiras de poltronas de madeira; quatorze com o assento quebrado.
+A Mesa se montou no palco do Cine Arcádia, de frente para a tela. Tê Prado cobriu a mesa com um pano verde, pôs cinco cadeiras e abriu o estojo de tipos de chumbo com a calma de uma gaveta de talheres num domingo. A tela era um lençol branco de cinco metros, manchado de água no canto de cima, onde o teto cedera. Dezesseis fileiras de poltronas de veludo roído; quatorze com o assento quebrado.
 
 Eu dormira na cabine de projeção desde a noite anterior. A janelinha da cabine dava para o salão inteiro, e de lá eu via a porta lateral, onde Vilar ficou de pé, com a manga vazia e o revólver, sem sentar. Ele não sentava desde que chegamos. Dizia que cadeira de cinema tinha sido feita para quem ia embora no fim da sessão.
 

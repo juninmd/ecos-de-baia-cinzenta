@@ -79,7 +79,7 @@ const onKey = (e) => {
   background: #07070b;
 }
 .carousel-track::-webkit-scrollbar { display: none; }
-.carousel-track:focus-visible { outline: 3px solid var(--neon-cyan, #06b6d4); outline-offset: -3px; }
+.carousel-track:focus-visible { outline: 3px solid var(--sd-sodium); outline-offset: -3px; }
 
 .carousel-slide { flex: 0 0 100%; margin: 0; scroll-snap-align: center; scroll-snap-stop: always; }
 .carousel-slide img { width: 100%; background: #07070b; user-select: none; }
@@ -92,8 +92,8 @@ const onKey = (e) => {
   height: 44px;
   margin-top: -22px;
   border-radius: 50%;
-  border: 1px solid rgba(168, 85, 247, 0.6);
-  background: rgba(10, 10, 15, 0.7);
+  border: 1px solid rgba(255, 181, 71, 0.6);
+  background: rgba(6, 8, 12, 0.7);
   color: #fff;
   font-size: 1.7rem;
   line-height: 1;
@@ -103,8 +103,8 @@ const onKey = (e) => {
 }
 .carousel-btn.prev { left: 12px; }
 .carousel-btn.next { right: 12px; }
-.carousel-btn:hover { background: var(--neon-purple, #a855f7); transform: scale(1.08); }
-.carousel-btn:focus-visible { outline: 3px solid var(--neon-cyan, #06b6d4); outline-offset: 2px; }
+.carousel-btn:hover { background: var(--sd-sodium); color: var(--sd-ink); transform: scale(1.08); }
+.carousel-btn:focus-visible { outline: 3px solid var(--sd-sodium); outline-offset: 2px; }
 
 .carousel-footer {
   position: absolute;
@@ -127,7 +127,7 @@ const onKey = (e) => {
   pointer-events: none;
   padding: 2px 10px;
   border-radius: 999px;
-  background: rgba(10, 10, 15, 0.7);
+  background: rgba(6, 8, 12, 0.7);
   color: #fff;
   font-family: var(--vp-font-family-mono);
   font-size: 0.8rem;
@@ -150,8 +150,8 @@ const onKey = (e) => {
   background: rgba(255, 255, 255, 0.45);
   transition: background 0.2s ease, transform 0.2s ease;
 }
-.carousel-dot[aria-current="true"]::after { background: var(--neon-purple-light, #c084fc); transform: scale(1.35); }
-.carousel-dot:focus-visible { outline: 2px solid var(--neon-cyan, #06b6d4); border-radius: 50%; }
+.carousel-dot[aria-current="true"]::after { background: var(--sd-sodium); transform: scale(1.35); }
+.carousel-dot:focus-visible { outline: 2px solid var(--sd-sodium); border-radius: 50%; }
 
 @media (max-width: 640px) {
   .carousel-btn { width: 40px; height: 40px; margin-top: -20px; }
