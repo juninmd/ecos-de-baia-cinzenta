@@ -10,6 +10,8 @@ updates:
       actions:
         patterns: ['*']
     open-pull-requests-limit: 5
+    cooldown:
+      default-days: 7
   - package-ecosystem: npm
     directory: /
     schedule:
@@ -20,6 +22,8 @@ updates:
     open-pull-requests-limit: 5
     commit-message:
       prefix: 'chore(deps)'
+    cooldown:
+      default-days: 7
   - package-ecosystem: pip
     directory: /
     schedule:
@@ -31,3 +35,5 @@ updates:
     commit-message:
       prefix: 'chore(deps)'
 
+    cooldown:
+      default-days: 7
