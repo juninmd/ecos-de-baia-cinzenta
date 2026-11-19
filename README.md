@@ -74,7 +74,7 @@ Para mais detalhes sobre as regras do mundo, consulte a [Constituição do Unive
 Este projeto utiliza Node.js e VitePress.
 
 ### Pré-requisitos
-*   Node.js (versão 18 ou superior)
+*   Node.js 22 (versão usada no deploy do GitHub Pages)
 *   pnpm (o projeto usa `pnpm-lock.yaml`; ative com `corepack enable`)
 
 ### Instalação
@@ -120,13 +120,6 @@ Vídeos são gerados automaticamente via GitHub Actions quando novos capítulos 
 
 ### Teste Local
 
-### Alternativas para manter aparência dos personagens
-Quando a consistência visual cair entre capítulos, priorize estes fluxos:
-- **SDXL img2img com referência do personagem** (`scripts/local_art_gen.py`): usa foto base + prompt para preservar traços.
-- **LoRA/DreamBooth por personagem principal**: melhora identidade em cenas novas.
-- **IP-Adapter/ControlNet Reference** no Automatic1111/ComfyUI: preserva rosto e silhueta com mais controle.
-- **Pós-processo de face swap leve** (apenas ajuste fino), mantendo iluminação original.
-
 #### Pré-requisitos
 - Python 3.12+
 - ffmpeg (para encoding de vídeo)
@@ -166,6 +159,13 @@ python -m scripts.video_gen.main --all --mode auto
 # Executar testes unitários
 pytest tests/test_video_gen.py -v
 ```
+
+### Alternativas para manter aparência dos personagens
+Quando a consistência visual cair entre capítulos, priorize estes fluxos:
+- **SDXL img2img com referência do personagem** (`scripts/local_art_gen.py`): usa foto base + prompt para preservar traços.
+- **LoRA/DreamBooth por personagem principal**: melhora identidade em cenas novas.
+- **IP-Adapter/ControlNet Reference** no Automatic1111/ComfyUI: preserva rosto e silhueta com mais controle.
+- **Pós-processo de face swap leve** (apenas ajuste fino), mantendo iluminação original.
 
 ## 📂 Estrutura do Projeto
 
