@@ -7,8 +7,10 @@ test('retratos adicionais existem e têm descrição', () => {
   for (const [anchor, images] of Object.entries(portraitGalleries)) {
     const paths = [anchor, ...images.map(image => image.src)]
     assert.equal(new Set(paths).size, paths.length, anchor)
+    assert.ok(anchor.startsWith('/personagens/'), anchor)
     for (const path of paths) {
-      assert.ok(path.startsWith('/personagens/'), path)
+      // Variações apontam para a cena original em /cenas/ (as cópias em personagens/variacoes saíram no #596)
+      assert.ok(/^\/(personagens|cenas)\//.test(path), path)
       assert.ok(existsSync(`docs/public${path}`), path)
     }
     for (const image of images) assert.ok(image.label.trim(), image.src)

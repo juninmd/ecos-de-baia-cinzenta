@@ -1,6 +1,6 @@
 // Retratos declarados no dossiê e uma cena existente conferida com a fonte.
 export const portraitGalleries = {
-  '/personagens/gabo.jpg': [{ src: '/personagens/variacoes/gabo/gabo_chuva_neon.jpg', label: 'Capítulo 1 · Sob a chuva' }],
+  '/personagens/gabo.jpg': [{ src: '/cenas/capitulo_1/cena_5.jpg', label: 'Capítulo 1 · Sob a chuva' }],
   '/personagens/aria_3.png': [{ src: '/personagens/aria_2.png', label: 'Retrato anterior' }],
   '/personagens/elena.png': [{ src: '/personagens/elena_2.png', label: 'A partir do capítulo 104' }],
   '/personagens/silas.png': [{ src: '/personagens/silas_2.png', label: 'Após o capítulo 103' }],
