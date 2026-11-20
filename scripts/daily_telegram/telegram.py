@@ -43,11 +43,17 @@ class TelegramClient:
             return None
         url = API_URL.format(token=self.token, method=method)
         for attempt in range(1, retries + 1):
+            # A failed attempt leaves the upload stream at EOF: rewind so the retry sends the whole file.
+            for value in (files or {}).values():
+                handle = value[1] if isinstance(value, tuple) else value
+                handle.seek(0)
             try:
                 response = requests.post(url, data=data, files=files, timeout=300)
                 if response.status_code == 429:
                     espera = response.json().get("parameters", {}).get("retry_after", 10)
                     print(f"⏳ Rate limit, aguardando {espera}s...")
+                    if attempt == retries:
+                        response.raise_for_status()
                     time.sleep(espera)
                     continue
                 response.raise_for_status()
