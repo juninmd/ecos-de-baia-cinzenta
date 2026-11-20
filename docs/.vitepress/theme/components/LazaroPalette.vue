@@ -4,6 +4,7 @@ import { computed, nextTick, ref, watch } from 'vue'
 import { complete, runCommand } from '../terminal-lore.mjs'
 import { chapterTitle, searchPalette } from '../lib/palette-search.mjs'
 import { castAt } from '../lib/cast.mjs'
+import { browsing, recall } from '../lib/command-history.mjs'
 
 const props = defineProps({
   isOpen: Boolean,
@@ -59,10 +60,14 @@ function choose(item) {
 function onKey(e) {
   if (e.isComposing) return
   const n = items.value.length
-  if (e.key === 'ArrowDown') { e.preventDefault(); sel.value = (sel.value + 1) % Math.max(n, 1) }
-  else if (e.key === 'ArrowUp') {
+  const inHistory = browsing(history, cursor, input.value)
+  if (e.key === 'ArrowDown') {
     e.preventDefault()
-    if (!input.value && history.length) { cursor = Math.max(cursor - 1, 0); input.value = history[cursor] ?? ''; return }
+    if (inHistory) { ({ cursor, text: input.value } = recall(history, cursor, 1)); return }
+    sel.value = (sel.value + 1) % Math.max(n, 1)
+  } else if (e.key === 'ArrowUp') {
+    e.preventDefault()
+    if (history.length && (!input.value || inHistory)) { ({ cursor, text: input.value } = recall(history, cursor, -1)); return }
     sel.value = (sel.value - 1 + n) % Math.max(n, 1)
   } else if (e.key === 'Enter') { e.preventDefault(); choose(items.value[sel.value]) }
   else if (e.key === 'Tab') {
