@@ -2,15 +2,26 @@
 // As posições servem para marcar a frase exata no texto enquanto ela é lida.
 const SENTENCE = /[^.?!…:;]+(?:[.?!…:;]+["”’»)]*|$)/g
 
+// Ponto entre dígitos (3.500, 2.0) ou depois de título (Dra. Nádia) não encerra a frase.
+const TITLE = /(?:^|[^\p{L}])(?:Dr|Dra|Sr|Sra|Srta|Prof|Profa)\.$/u
+const continues = (src, end) =>
+  (/\d\.$/.test(src.slice(0, end)) && /^\d/.test(src.slice(end))) || TITLE.test(src.slice(0, end))
+
 export function splitSentences(text) {
+  const src = String(text ?? '')
   const out = []
-  for (const match of String(text ?? '').matchAll(SENTENCE)) {
-    const raw = match[0]
+  let from = null
+  for (const match of src.matchAll(SENTENCE)) {
+    from ??= match.index
+    const end = match.index + match[0].length
+    if (end < src.length && continues(src, end)) continue
+    const raw = src.slice(from, end)
+    from = null
     const lead = raw.length - raw.trimStart().length
     const body = raw.trim()
     // Pontuação solta ou travessão sozinho não vira frase falada.
     if (!/[\p{L}\p{N}]/u.test(body)) continue
-    const start = match.index + lead
+    const start = end - raw.length + lead
     out.push({ text: body, start, end: start + body.length })
   }
   return out
