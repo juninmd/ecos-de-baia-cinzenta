@@ -1,19 +1,72 @@
-# 🧠 AGENTS.md - Meu Livro Intelligence System
+# AGENTS.md
 
-## 👤 AI Personas
+Ecos de Baía Cinzenta: cyberpunk noir novel in 256 chapters (pt-BR), published as a VitePress site, plus Python tooling for art, audio and video. Story text is pt-BR; code, identifiers, comments and commits are English.
 
-- **Jules-Architect (System Architect)**: Scalability, architecture, high-level design.
-- **Spark-Frontend (UI/UX Expert)**: Visual identity, responsiveness, aesthetic integrity.
-- **Bolt-Automation (DevOps)**: CI/CD, build pipelines, scripts, and automation.
+## Stack
 
-## 📜 Development Rules (Antigravity)
+- Site: VitePress on Node, pnpm 10.30.3 (`packageManager`). Docker: `node:22-alpine` build, `nginx-unprivileged` serve.
+- Tooling: Python >=3.11 (CI runs 3.12), managed with uv (`pyproject.toml`, `uv.lock`). `requirements-dev.txt` is the pip-compatible list.
+- Tests: `node --test` (`tests/*.test.mjs`, `scripts/*.test.mjs`) and pytest (`tests/`).
+- Mobile: Capacitor, with a pnpm patch for `@capacitor/cli` 6.2.2 (`patches/`).
+
+## Commands
+
+```bash
+pnpm install --frozen-lockfile   # pnpm only; CI and Docker use the frozen lockfile
+pnpm docs:dev                    # dev server, localhost:5173
+pnpm docs:build                  # runs build:sw (tsc -p docs/tsconfig.sw.json) first
+pnpm test                        # dependency metadata check + scripts/npm_test.mjs
+pnpm test:docs && pnpm test:sw   # docs unit tests + service-worker cache test
+node --test tests/chapter_cover_build.test.mjs   # run by github-pages.yml after docs:build
+uv venv && uv pip install -r requirements-dev.txt  # Python env
+pytest                           # Python tests in tests/
+python scripts/quality_gate.py   # chapter quality gate, writes docs/qualidade_capitulos.md
+pnpm android:build               # Android debug build (needs Android SDK)
+```
+
+Lint: none configured in the repo (no linter config at the root). Typecheck: only `tsc` via `build:sw`.
+
+## Structure
+
+- `docs/`: VitePress site and source. `capitulo-N.md` is the official chapter source; `personagens/` is the character canon; `.vitepress/` holds theme and navigation.
+- `docs/public/`: static assets. `personagens/` (portraits), `cenas/capitulo_N/` (committed scene art), `vozes/` (voice audio), `videos/`. `public/capitulo-N.md` are symlinks.
+- `editorial/`: revision notes and audits. Working records, not product source.
+- `scripts/`: `art_gen/` (portraits, continuity, fidelity), `daily_telegram/` (voices, cache, animation), quality and homologation scripts.
+- `tests/`: pytest and node tests.
+- `.github/workflows/`: `validate` (reusable from `juninmd/base-actions`), `github-pages`, `deploy`, `docker-pr`, `sast`, `security`, `daily-telegram`, `arte-cenas`, `send-full-story`, `release-drafter`.
+- `.agents/skills/escrita-investigativa/`: skill for planning, writing and reviewing chapters.
+- `.agent/workflows/`: chapter review workflow.
+
+## Conventions
+
+- Default branch: `master`. The `validate` workflow runs on `main` and `master`; `github-pages` deploys from `master`.
+- PR template: `.github/pull_request_template.md` (Summary, Quality Checklist, Verification).
+- Agent personas (roles for review, not code owners): Jules-Architect (scalability, architecture, high-level design), Spark-Frontend (UI/UX, visual identity, responsiveness), Bolt-Automation (CI/CD, build pipelines, scripts).
+
+### Development Rules
 
 1. **Size Limit**: **Max 150 lines per file**.
 2. **Clean Logic**: Separation of concerns enforced across all layers.
 3. **Validation**: All changes require successful tests and linting.
 4. **Security**: Sensitive data must be excluded from context.
 
-## 🎭 Regras de Consistência Visual (OBRIGATÓRIAS)
+### GitHub Actions (mandatory @main)
+
+<!-- base-actions-main-policy -->
+- Reference internal actions by branch, never by SHA:
+  - `uses: juninmd/base-actions/<action>@main`
+  - `uses: juninmd/base-actions/.github/workflows/<file>.yml@main`
+- Do not pin `@<sha>` on `juninmd/base-actions`: updates are centralized on `main` and apply on the next run.
+- PRs whose checks do not start due to billing/spending limit are merged by the central bot `juninmd/base-actions/.github/workflows/auto-merge-billing-blocked.yml`. To block that automatic merge of a PR, apply the label `do-not-merge`.
+
+### Interaction Protocol
+
+- Follow the Plan -> Act -> Validate cycle for every task.
+- Consult `GEMINI.md` for project-specific instructions.
+- To plan, write or review chapters, use the [escrita-investigativa skill](.agents/skills/escrita-investigativa/SKILL.md).
+- Chapter source: `docs/capitulo-N.md`. The mirror `docs/public/capitulo-N.md` must be a relative symlink to `../capitulo-N.md`. Migration is complete (238 mirrors are links). Edit only the source; never replace a link with a copy.
+
+### Visual Consistency Rules (mandatory)
 
 > **Regra Zero: a fisionomia e a aparência dos personagens NUNCA mudam.**
 > Um personagem gerado hoje tem que ser reconhecível como o mesmo de 200 capítulos atrás.
@@ -87,16 +140,15 @@
    `scripts/art_gen/continuidade.py` lê essa linha do tempo e injeta a fase correta no prompt;
    o vestuário com fases declaradas (Dante) é escolhido pelo capítulo, nunca mandado inteiro.
 10. **Dez cenas por capítulo.** O alvo da obra é `CENAS_POR_CAPITULO = 10` em
-   `scripts/build_scene_manifest.py` — 2.350 imagens. Três imagens não cobrem um capítulo de
-   1.100 palavras e faziam o livro inteiro repetir o mesmo trio de planos.
+    `scripts/build_scene_manifest.py` — 2.350 imagens. Três imagens não cobrem um capítulo de
+    1.100 palavras e faziam o livro inteiro repetir o mesmo trio de planos.
 11. **Nenhuma imagem entra sem homologação.** `python scripts/homologar_cenas.py --realimentar`
-   mede resolução, nitidez, contraste, arquivo chapado, texto queimado e cena repetida, escreve
-   `docs/qualidade_imagens.md` e devolve as reprovadas para `docs/public/cenas/regerar.txt`.
-   Fidelidade de rosto é auditada com visão (`--visao N`). O ciclo completo está em
-   `docs/pipeline_imagens.md`.
+    mede resolução, nitidez, contraste, arquivo chapado, texto queimado e cena repetida, escreve
+    `docs/qualidade_imagens.md` e devolve as reprovadas para `docs/public/cenas/regerar.txt`.
+    Fidelidade de rosto é auditada com visão (`--visao N`). O ciclo completo está em
+    `docs/pipeline_imagens.md`.
 12. **Bases de Referência Oficiais e Benchmark Gabo (OBRIGATÓRIO).** Gabo, Bio-Dante, Enzo e
     Sofia **NUNCA** podem ser gerados/recriados sem suas imagens de referência oficiais:
-
     - Gabo: base mandatória em `docs/public/personagens/gabo.jpg`.
     - Bio-Dante: base fisionômica mandatória em `docs/public/personagens/dante.jpg` (biohost rejuvenescido).
     - Enzo e Sofia: base fisionômica mandatória em `docs/public/personagens/enzo_sofia.png`.
@@ -105,15 +157,15 @@
     textura cinematográfica realista (35mm film still, granulação suja, iluminação de rua)** para
     todas as demais imagens do universo.
 
-## 📏 Padrão de Qualidade por Capítulo (OBRIGATÓRIO)
+### Chapter Quality Standard (mandatory)
 
 > Todo capítulo é avaliado nesta régua antes de ser considerado pronto.
 > `python scripts/quality_gate.py` mede o que é mensurável e gera
 > `docs/qualidade_capitulos.md`. O que a máquina não mede, o revisor lê.
 
-### Portões duros (reprovam sozinhos)
+Hard gates (each one rejects alone):
 
-| # | Portão | Limite |
+| # | Gate | Limit |
 | --- | --- | --- |
 | D1 | **Extensão** | ≥ 600 palavras (reprova abaixo disso: é cena, não capítulo). **Alvo: 1.100–1.600.** A mediana histórica da obra é 900, e capítulo curto é a causa número um de arco que não respira. |
 | D2 | **Título** | Exatamente um H1, no formato `# Capítulo N: Título`, idêntico ao menu. |
@@ -121,7 +173,7 @@
 | D4 | **Traços canônicos** | Zero violações: Gabo nunca fuma; morto não age; fase física correta (exoesqueleto, braço fraturado/órtese, tipóia). |
 | D5 | **Fechamento** | A última linha vira a página — imagem, decisão ou ameaça. Nunca resumo do que acabou de acontecer. |
 
-### Régua de qualidade (0 a 2 por eixo, máximo 10)
+Quality scale (0 to 2 per axis, max 10):
 
 | Eixo | 0 | 1 | 2 |
 | --- | --- | --- | --- |
@@ -131,9 +183,9 @@
 | **Ritmo** | Bloco único de exposição | Alterna diálogo e ação | **A informação chega por conflito**, nunca por alguém explicando |
 | **Consequência** | Episódio isolado | Referencia o anterior | **Muda o que o leitor entende** de algo que já leu |
 
-**Notas de corte:** 9–10 obra-prima · 7–8 publicável · 5–6 revisar · ≤4 reescrever.
+**Cut notes:** 9–10 obra-prima · 7–8 publicável · 5–6 revisar · ≤4 reescrever.
 
-### Regras de escrita que a régua cobra
+Writing rules the scale enforces:
 
 1. **Sem solução fácil.** Se o problema se resolve por competência sem preço, o capítulo está errado. Gabo ganha quebrado ou não ganha.
 2. **Exposição é conflito.** Ninguém explica lore para quem já sabe. Se dois personagens conversam sobre algo que ambos conhecem, é para o leitor — e isso se corta.
@@ -141,22 +193,12 @@
 4. **A dor tem contabilidade.** Ferimento aberto num capítulo aparece no próximo. Personagem não se cura entre cenas.
 5. **Revelação precisa de plantio.** Toda reviravolta tem que se sustentar em material já publicado. Cite o capítulo de plantio no dossiê.
 
-## 🤝 Interaction Protocol
+## Gotchas
 
-- Follow the **Plan -> Act -> Validate** cycle for every task.
-- Consult `GEMINI.md` for project-specific instructions.
-- Para planejar, escrever ou revisar capítulos, use a [skill escrita-investigativa](.agents/skills/escrita-investigativa/SKILL.md).
-- Fonte oficial dos capítulos: `docs/capitulo-N.md`. O espelho `docs/public/capitulo-N.md` deve ser symlink relativo para `../capitulo-N.md`.
-  Migração concluída: os 238 espelhos são links relativos. Edite somente a fonte oficial; nunca substitua o link por uma cópia.
-
-<!-- base-actions-main-policy -->
-## GitHub Actions — padrão obrigatório (@main)
-
-- Referencie as actions internas sempre pelo branch, nunca por SHA:
-  - `uses: juninmd/base-actions/<action>@main`
-  - `uses: juninmd/base-actions/.github/workflows/<arquivo>.yml@main`
-- Não fixe `@<sha>` em `juninmd/base-actions`: a atualização é centralizada no
-  `main` e passa a valer no próximo run.
-- PRs cujos checks não iniciam por billing/spending limit são mesclados pelo bot central
-  `juninmd/base-actions/.github/workflows/auto-merge-billing-blocked.yml`.
-  Para impedir o merge automático de um PR, aplique a label `do-not-merge`.
+- Env var and secret names (never commit values; `.env*` is gitignored): `TELEGRAM_BOT_TOKEN`, `TELEGRAM_CHAT_ID`, `HF_TOKEN`, `GEMINI_API_KEY`, `NANO_BANANA_API_KEY` (and `_IMAGE`/`_TEXT` variants), `POLLINATIONS_TOKEN`. Keystores and keys (`*.jks`, `*.keystore`, `*.pem`, `*.key`) are gitignored.
+- `docs/public/capitulo-N.md` must stay a relative symlink. Replacing it with a copy forks the chapter.
+- Local art routes need a GPU and the `art` extra (torch, diffusers). `.venv-qwen/` is gitignored (~3 GB). Tests under `scripts/` are excluded from the default pytest gate.
+- Generated files, regenerate instead of editing: `docs/qualidade_capitulos.md` (`scripts/quality_gate.py`), `docs/qualidade_imagens.md` (`scripts/homologar_cenas.py`).
+- `pnpm-lock.yaml` is the only lockfile (`package-lock.json` and `yarn.lock` are gitignored). Never hand-edit it.
+- `android/`, `.capacitor/` and `docs/.vitepress/dist` are generated and gitignored.
+- `.github/copilot-instructions.md` is outdated: `pnpm test` runs node tests, not pytest. This file and `package.json` are the source of truth.
