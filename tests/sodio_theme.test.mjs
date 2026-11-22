@@ -19,6 +19,16 @@ test('frases guardam a posição exata no parágrafo (o marcador realça o trech
   assert.equal(speakable('— Pare aí. — Gabo segurou.'), 'Pare aí., Gabo segurou.')
 })
 
+test('ponto de número e de abreviação não corta a frase falada (Dra. Nádia, 3.500, versão 2.0)', () => {
+  const text = 'A Dra. Nádia pagou R$ 3.500,00 à vista. Sr. Mota riu. Versão 2.0 saiu no capítulo 3. Fim.'
+  const parts = splitSentences(text)
+  assert.deepEqual(parts.map((p) => p.text), [
+    'A Dra. Nádia pagou R$ 3.500,00 à vista.', 'Sr. Mota riu.', 'Versão 2.0 saiu no capítulo 3.', 'Fim.',
+  ])
+  for (const p of parts) assert.equal(text.slice(p.start, p.end), p.text)
+  assert.deepEqual(splitSentences('...Ela saiu.').map((p) => p.text), ['Ela saiu.'])
+})
+
 test('preferências do leitor ficam dentro dos limites do tema anterior (70–150%)', () => {
   assert.deepEqual(normalizePrefs(null), DEFAULTS)
   assert.equal(normalizePrefs({ size: 400 }).size, 150)
