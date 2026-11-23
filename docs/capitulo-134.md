@@ -11,7 +11,7 @@ O silêncio na Necrópole não era vazio; era pesado. Tinha massa, densidade e c
 
 Gabo ajustou a correia improvisada em seu ombro. O peso de Rangel, preso à prancha de transporte da equipe de Nise, cortava a circulação de seu braço esquerdo. Cada passo era uma negociação com a gravidade. Suas botas esmagavam ossos antigos — a fundação literal de Baía Cinzenta — com um estalo seco que ecoava como tiros de festim na escuridão.
 
-— Nível de saturação em oitenta por cento do limite de explosão — sussurrou Valéria, a voz rouca. Ela caminhava à frente, segurando um medidor de gás analógico, uma relíquia amarela e descascada que encontrara em um armário de manutenção. O ponteiro tremia violentamente no vermelho. — Se você acender um fósforo aqui, Gabo, nós viramos estrelas.
+— Nível de saturação em oitenta por cento do limite de explosão — sussurrou Valéria, a voz rouca. Ela caminhava à frente, segurando um medidor de gás analógico, uma relíquia amarela e descascada que encontrara em um armário de manutenção. O ponteiro tremia no vermelho. — Se você acender um fósforo aqui, Gabo, nós viramos estrelas.
 
 Gabo grunhiu em resposta. O ar denso e irrespirável trazia à tona a memória sufocante da fumaça da casa do pai, revirando seu estômago com uma repulsa antiga. Ele soltou a correia por um segundo e pressionou o *Colar de Sol* de sua mãe contra o esterno. O metal frio mordeu a pele, uma dor aguda e limpa que cortou o ruído do trauma.
 
@@ -33,7 +33,7 @@ Eram os rascunhos. As falhas. O lixo do ateliê do Taxidermista.
 
 O comunicador enquadrou a placa junto a uma escultura que parecia um homem tentando escapar de uma banheira de concreto. Aria transcreveu: *A carne é efêmera, mas a arte é eterna.* Em seguida, acrescentou: *Citação do ateliê. Não é uma descrição das pessoas que ele matou.*
 
-— Cale a boca — Gabo rosnou, puxando a maca com força. O corpo de Rangel gemeu, um som gorgolejante de dor inconsciente.
+— Cala a boca — disse Gabo, puxando a maca com força. O corpo de Rangel gemeu, um som gorgolejante de dor inconsciente.
 
 — Ele está vazando — Valéria avisou, ajoelhando-se ao lado do inspetor. Ela apontou para o curativo de Rangel. O sangue escuro estava encharcando a lona. — Precisamos estancar isso. Agora. O curativo de reserva está no estojo que Nise deixou.
 
@@ -85,7 +85,7 @@ O metal estalou. O pistão cedeu.
 
 A escultura caiu pesadamente no chão de pedra, a lâmina da ceifadeira riscando faíscas perigosas que fizeram o coração de Gabo parar por um segundo. Nenhuma explosão. A faísca não encontrou mistura inflamável naquele ponto.
 
-Gabo montou nas costas da criatura, recuperou sua faca e a enterrou na base do pescoço, girando-a violentamente até sentir a conexão neural — ou o que quer que fosse aquilo — se romper. A Coisa tremeu, espasmos de óleo e sangue negro jorrando, e parou.
+Gabo montou nas costas da criatura, recuperou sua faca e a enterrou na base do pescoço, girando-a até sentir a conexão neural — ou o que quer que fosse aquilo — se romper. A Coisa tremeu, espasmos de óleo e sangue negro jorrando, e parou.
 
 Silêncio. Apenas a respiração ofegante de Gabo e o som de Valéria prendendo o curativo sobre o ferimento de Rangel.
 

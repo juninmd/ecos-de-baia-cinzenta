@@ -35,7 +35,7 @@ Valéria já estava debruçada sobre o console principal. Ela sacou uma chave de
 
 Faíscas azuis estalaram no ar frio, e um zumbido mecânico grave e adormecido ressoou no piso de concreto quando o painel recebeu a corrente da bateria portátil dela.
 
-— Terminal primário parcialmente responsivo, — ela avisou, com os olhos prateados correndo por linhas de telemetria corrompidas que piscavam em verde doentio na tela portátil. — A rede local tá fragmentada, mas o mapa da infraestrutura do Setor Seis ainda tá gravado nas memórias de ferrite.
+— Terminal primário parcialmente responsivo, — ela avisou, com os olhos correndo por linhas de telemetria corrompidas que piscavam em verde doentio na tela portátil. — A rede local tá fragmentada, mas o mapa da infraestrutura do Setor Seis ainda tá gravado nas memórias de ferrite.
 
 — Onde fica o Hub Principal? — perguntei, escorando a *Caronte* na cintura para aliviar a tensão do ombro esfolado.
 

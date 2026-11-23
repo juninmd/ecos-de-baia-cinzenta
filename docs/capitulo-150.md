@@ -27,7 +27,7 @@ A mão direita não fechou por completo. Gabo apoiou o antebraço na parede e ma
 
 — Val, responde se alguma chapa ceder — Gabo disse ao comunicador, ofegante.
 
-— *Um problema de tempo e massa,* — retrucou Aria pelo fone, sem qualquer tom de acusação. — *O curativo do seu antebraço está voltando a molhar e você perde firmeza. O choque vai piorar; quando, eu não sei. O estado interno do Rangel, o sensor não alcança.*
+— *Um problema de tempo e massa,* — retrucou Aria pelo fone, sem tom de acusação. — *O curativo do seu antebraço está voltando a molhar e você perde firmeza. O choque vai piorar; quando, eu não sei. O estado interno do Rangel, o sensor não alcança.*
 
 Gabo olhou para o curativo de Rangel e depois para a porta. O som da respiração do inspetor chegava entre os ruídos de Val no duto.
 
@@ -71,4 +71,4 @@ Valéria estava encostada no painel, ofegante, as mãos sujas de graxa velha e f
 Aria analisou a sala nova pelas lentes do deck, e o pendrive no pulso de Valéria acompanhou a varredura no mesmo ritmo.
 — *Acesso liberado para o Setor de Purga. Contudo, detecto flutuações termais e decomposição orgânica ativa à frente.*
 
-Gabo puxou o ar e engoliu em seco. A trégua havia durado apenas até o outro lado da porta. Com Val, puxou a prancha de Rangel pela abertura, parando quando a tontura voltou. O fim do corredor seria apenas mais um começo para o inferno.
+Gabo puxou o ar e engoliu em seco. A trégua havia durado apenas até o outro lado da porta. Com Val, puxou a prancha de Rangel pela abertura, parando quando a tontura voltou. O fim do corredor seria só o começo de outro.

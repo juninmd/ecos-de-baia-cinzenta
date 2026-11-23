@@ -7,7 +7,7 @@ Personagens Presentes: Gabo, Valéria, Elias
 
 # Capítulo 211: Cristais de Óxido
 
-O frio da câmara de resfriamento cobrava um tributo metódico e implacável a cada respiração. Frio subterrâneo não é apenas desconforto térmico; é um imposto biológico. Ele rouba a sensibilidade das pontas dos dedos, reduz a flexibilidade dos tendões e transforma a cartilagem dos joelhos em vidro quebradiço. Minha perna direita tremia em espasmos involuntários, com a órtese emperrada arranhando o piso a cada passo claudicante.
+O frio da câmara de resfriamento cobrava a cada respiração. Frio subterrâneo não é apenas desconforto térmico; é um imposto biológico. Ele rouba a sensibilidade das pontas dos dedos, reduz a flexibilidade dos tendões e transforma a cartilagem dos joelhos em vidro quebradiço. Minha perna direita tremia em espasmos involuntários, com a órtese emperrada arranhando o piso a cada passo claudicante.
 
 A dor no braço direito, onde a equipe instalara o fixador ao qual Vasco acoplara a armação, tinha mudado de natureza: ardia em um pulsar surdo e profundo, como se agulhas de gelo estivessem sendo cravadas na minha clavícula. As cicatrizes do Dilúvio queimavam sob a sarja encharcada. Precisei piscar várias vezes para distinguir a borda da passarela sob a geada.
 
@@ -15,9 +15,9 @@ A dor no braço direito, onde a equipe instalara o fixador ao qual Vasco acoplar
 
 — Não precisa de trenó, Val, — resmunguei, batendo o calcanhar da bota boa no ferro para manter a circulação ativa. Minha respiração formava uma nuvem densa e leitosa que se dissipava contra o teto baixo. — Eu ainda sei andar sobre as minhas próprias pernas.
 
-— "Andar" é uma palavra muito generosa pro que você tá fazendo, — ela rebateu, com os olhos prateados faiscando sob o brilho azul da franja holográfica. — Tá mais pra um guindaste bêbado arrastando uma âncora. E o Elias tá quase virando estátua de sal ali atrás.
+— "Andar" é uma palavra muito generosa pro que você tá fazendo, — ela rebateu, com os olhos faiscando sob o brilho azul da franja holográfica. — Tá mais pra um guindaste bêbado arrastando uma âncora. E o Elias tá quase virando estátua de sal ali atrás.
 
-Elias estava encostado na tubulação mestra, abraçando os próprios joelhos com os dentes castanholando em um ritmo frenético. O rapaz olhava para a frente com os olhos arregalados, a lanterna tremendo em sua mão enluvada.
+Elias estava encostado na tubulação mestra, abraçando os próprios joelhos com os dentes castanholando sem parar. O rapaz olhava para a frente com os olhos arregalados, a lanterna tremendo em sua mão enluvada.
 
 — Gabo... olha pro chão logo depois da curva... — a voz de Elias saiu em um fio rouco. — Aquilo... aquilo não é grade.
 
@@ -27,13 +27,13 @@ O piso de aço da passarela desaparecia completamente cinquenta metros adiante. 
 
 Cristais de óxido.
 
-Era a bocarra química da cidade. A formação misturava crostas escuras, gelo e ferrugem em espigões afiados. Nenhum de nós sabia como aquilo crescera. O teto e o piso pareciam mandíbulas de um predador colossal que ainda não havia terminado de fechar a boca.
+Era a bocarra química da cidade. A formação misturava crostas escuras, gelo e ferrugem em espigões afiados. Nenhum de nós sabia como aquilo crescera. O teto e o piso pareciam mandíbulas de um predador enorme que ainda não havia terminado de fechar a boca.
 
 — Que porcaria é essa? — sussurrei, sentindo o cheiro fétido de gás freon escapar da tubulação e o gosto amargo de ozônio queimar no fundo da língua.
 
-Valéria se agachou com cautela na beirada da formação cristalina, iluminando a base de um dos espigões com o feixe óptico do cyberdeck. Ela sacou uma faca tática curta da cintura e tocou de leve a ponta da lâmina na ponta de um cristal.
+Valéria se agachou com cautela na beirada da formação cristalina, iluminando a base de um dos espigões com o feixe óptico do cyberdeck. Ela sacou uma faca curta da cintura e tocou de leve a ponta da lâmina na ponta de um cristal.
 
-Um estalido fino e cristalino ecoou no silêncio gélido.
+Um estalido fino e cristalino ecoou no silêncio.
 
 — Pontas de material cristalizado, — ela explicou, guardando a lâmina e me encarando com uma seriedade límpida. — Frágil ao impacto, mas o fio de corte é mais fino que bisturi a laser. Se você pisar nisso aí, a bota rasga igual papel e os espinhos cravam na carne. Qualquer sujeira aderida pode entrar na ferida. Não sei o que há aderido nessas pontas, mas não quero descobrir pelo seu sangue.
 
@@ -49,7 +49,7 @@ Valéria olhou para a escada enferrujada coberta por uma fina película de gelo,
 
 — Se aquele cabo arrebentar enquanto eu estiver lá em cima, Moretti, eu caio direto numa cama de faquir de três mil pontas de ferro envenenado.
 
-— A placa diz três toneladas quando era novo, Val. Vamos prender a segunda linha antes de testar com alguém, — afirmei, olhando firme nos olhos prateados dela. — Testa os apoios antes de subir. Se algum ceder, volta.
+— A placa diz três toneladas quando era novo, Val. Vamos prender a segunda linha antes de testar com alguém, — afirmei, olhando firme nos olhos dela. — Testa os apoios antes de subir. Se algum ceder, volta.
 
 Um sorriso fino e desafiador desenhou-se nos lábios pálidos dela. O cinismo deu lugar àquela determinação inabalável que sempre nos salvara da cova.
 

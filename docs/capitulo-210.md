@@ -7,7 +7,7 @@ Personagens Presentes: Gabo, Valéria, Elias
 
 # Capítulo 210: A Geada Negra
 
-O duto estreito de escoamento desembocou em um patamar de grade de aço que tremia sob uma corrente de ar polar. Val saiu primeiro e conferiu o patamar. Depois deslizei para a frente, sentindo a chapa metálica áspera arranhar o couro da minha jaqueta, e pousei com o peso todo nos pés. O impacto da órtese direita contra a grade de ferro produziu um estrondo oco, e um choque gélido subiu pelos meus ossos desgastados, travando os dentes na mandíbula.
+O duto estreito de escoamento desembocou em um patamar de grade de aço que tremia sob uma corrente de ar polar. Val saiu primeiro e conferiu o patamar. Depois deslizei para a frente, sentindo a chapa metálica áspera arranhar o couro da minha jaqueta, e pousei com o peso todo nos pés. O impacto da órtese direita contra a grade de ferro produziu um estrondo oco, e um choque frio subiu pelos meus ossos desgastados, travando os dentes na mandíbula.
 
 Soltei o ar em uma baforada espessa e branca que rodopiou na escuridão e se dispersou sob a luz da lanterna.
 
@@ -23,13 +23,13 @@ Elias saiu em seguida, apoiando primeiro o pé bom. A bota enfaixada tocou a gra
 
 Ergui a lanterna da *Caronte* para inspecionar a câmara. O salão era uma caverna industrial ciclópica, com dutos de seis metros de diâmetro suspensos no teto como colunas gregas tombadas. Mas o metal não estava apenas enferrujado pela Praga de Ferro; estava recoberto por uma substância espessa, escura, aveludada e eriçada de agulhas pontiagudas: a Geada Negra.
 
-Parecia uma mistura monstruosa de líquen botânico necrótico e cristais de gelo químico, crescendo em ramificações que lembravam veias abertas congeladas no instante do sangramento.
+Parecia uma mistura de líquen necrótico e cristais de gelo químico, crescendo em ramificações que lembravam veias abertas congeladas no instante do sangramento.
 
 — Olha as paredes, Val, — apontei o cano da arma.
 
 Valéria ergueu o cyberdeck, e a luz azul-esmeralda da tela iluminou seus traços tensos. Os reflexos dos fios holográficos da franja brilhavam pálidos na geada que se acumulava em seus ombros.
 
-— Leituras espectrais... — murmurou ela, correndo os dedos pelas teclas com precisão rápida, apesar da rigidez do frio. — Parece haver matéria orgânica misturada ao gelo e à corrosão. Não consigo identificar a reação só pelo scanner.
+— Leituras espectrais... — murmurou ela, correndo os dedos pelas teclas depressa, apesar da rigidez do frio. — Parece haver matéria orgânica misturada ao gelo e à corrosão. Não consigo identificar a reação só pelo scanner.
 
 — E quem ganhou a briga? — Elias perguntou, esfregando as palmas enluvadas.
 
@@ -41,9 +41,9 @@ A dor nos ossos fraturados sob as ataduras era profunda e constante, e eu demora
 
 — Não toquem nessa crosta escura, — ordenei, liderando a marcha pela passarela suspensa de grade perfurada. — Não sabemos o que há nessa crosta, e qualquer corte aqui vai ser difícil de cuidar.
 
-— E a minha bateria tá drenando duas vezes mais rápido com essa temperatura, — Valéria avisou, colando o cotovelo no meu flanco para dividir o calor dos corpos enquanto avançávamos na névoa gélida. — Temos que atravessar essa galeria antes que o deck desligue a interface tática.
+— E a minha bateria tá drenando duas vezes mais rápido com essa temperatura, — Valéria avisou, colando o cotovelo no meu flanco para dividir o calor dos corpos enquanto avançávamos na névoa fria. — Temos que atravessar essa galeria antes que o deck desligue.
 
-A passarela de serviço estendia-se por mais de oitenta metros sobre um fosso escuro onde tubulações gigantescas pingavam estalagmites negras. Meus passos descompassados — o baque surdo da bota boa e o tilintar agudo da órtese gélida — ecoavam pelo salão silencioso.
+A passarela de serviço estendia-se por mais de oitenta metros sobre um fosso escuro onde tubulações gigantescas pingavam estalagmites negras. Meus passos descompassados — o baque surdo da bota boa e o tilintar agudo da órtese gelada — ecoavam pelo salão silencioso.
 
 Na metade do trajeto, o feixe de luz de Elias parou sobre um nicho de manutenção entre dois tanques de expansão.
 
@@ -55,7 +55,7 @@ A luz revelou três figuras sentadas em semicírculo sobre caixotes de ferrament
 
 Eram três técnicos da Aeterna Corp, ainda vestidos com os macacões cinzentos de manutenção e as botas pesadas de isolamento elétrico. Os macacões eram antigos e o frio preservara os corpos. Não sabíamos quando morreram, nem se todos tinham chegado juntos. Seus braços estavam entrelaçados, as cabeças encostadas nos ombros uns dos outros, em uma tentativa desesperada e final de compartilhar o calor de corpos que a corporação abandonara para morrer.
 
-Mas o horror não era apenas a morte; era a assimilação. A Geada Negra havia brotado dos implantes cranianos e dos soquetes neurais dos cadáveres, unindo os três operários ao concreto da parede por meio de cordões espessos de fibras pretas cristalizadas. A ferrugem alaranjada da Praga comia as ferramentas em seus cintos, enquanto os rostos congelados mantinham expressões de um desespero tranquilo e sem saída.
+O pior não era a morte. Era ser absorvido. A Geada Negra havia brotado dos implantes cranianos e dos soquetes neurais dos cadáveres, unindo os três operários ao concreto da parede por meio de cordões espessos de fibras pretas cristalizadas. A ferrugem alaranjada da Praga comia as ferramentas em seus cintos, enquanto os rostos congelados mantinham expressões de um desespero tranquilo e sem saída.
 
 Elias se agachou com cuidado, poupando o tornozelo. No punho de um dos macacões havia um retalho de tecido azul, preso por um nó. Ele olhou para o próprio casaco, onde uma tira igual prendia a lanterna.
 

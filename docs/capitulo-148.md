@@ -15,17 +15,17 @@ Gabo recuou, cambaleando, quando a porta finalmente cedeu alguns centímetros, l
 
 — Merda, Gabo... — Valéria desacoplou o pendrive de Aria da tomada da eclusa, encaixou-o de volta no *Phantom V3* e correu até ele, ignorando a própria exaustão. Ela arrancou um pedaço de tecido rasgado de sua jaqueta e o amarrou apertado ao redor do corte no antebraço dele. — Você não precisava... a gente podia ter deixado a Aria fritar o relé por mais tempo. Eu... eu podia ter tentado outra ponte.
 
-— E perderíamos mais uma hora, — Gabo sibilou, a voz áspera e fraca. — Hora que o Rangel não tem. Ajude-me com ele.
+— E perderíamos mais uma hora — disse Gabo, a voz áspera e fraca. — Hora que o Rangel não tem. Ajude-me com ele.
 
 Juntos, usaram o vergalhão para ampliar a abertura e passaram a prancha de Rangel pela porta, mantendo as cintas presas.
 
 O interior da eclusa de manutenção não oferecia o refúgio prometido. Era um corredor estreito, revestido de polímeros que um dia foram brancos e agora ostentavam um tom doentio de amarelo e manchas escuras de mofo industrial. A iluminação era mínima: faixas de emergência cor de âmbar piscavam irregularmente no teto baixo, como olhos cansados no escuro.
 
-O cheiro ali era diferente. O odor acre da caverna abaixo havia desaparecido, substituído por uma mistura sufocante de ozônio antigo, formol ressecado e plástico queimado. Era um cheiro clínico, frio e desumano.
+O cheiro ali era diferente. O odor acre da caverna abaixo havia desaparecido, substituído por uma mistura sufocante de ozônio antigo, formol ressecado e plástico queimado. Era cheiro de hospital, frio.
 
 Para Gabo, o ambiente asséptico disparou outro tipo de alarme interno. O cheiro de plástico queimado em uma sala estéril o transportou, por uma fração de segundo, para o necrotério onde vira o corpo de Bia Vargas anos atrás. O fantasma do cheiro de cigarro barato do legista que fumava no corredor misturou-se à lembrança, uma associação doentia que trouxe a bile amarga à sua garganta.
 
-A repulsa visceral à fumaça o atingiu como um golpe no estômago. Ele nunca fumou; a fumaça era o cheiro da perda, da negligência, dos demônios de sua família. O odor fantasma agora ameaçava asfixiá-lo, provocando uma ânsia de vômito que ele mal conseguia conter. Ele precisava de ar limpo, ou de algo forte o suficiente para despedaçar a memória.
+A repulsa à fumaça o atingiu como um golpe no estômago. Ele nunca fumou; a fumaça era o cheiro da perda, da negligência, dos demônios de sua família. O odor fantasma agora ameaçava asfixiá-lo, provocando uma ânsia de vômito que ele mal conseguia conter. Ele precisava de ar limpo, ou de algo forte o suficiente para despedaçar a memória.
 
 A vertigem não cedeu quando Gabo tentou cerrar a mão ferida. Ele deixou o peso escorregar pela parede até o chão. O lenço de Val cobriu o braço que ainda sangrava; naquele corredor, permanecer consciente dependia de aceitar o curativo, não de abrir outra ferida.
 

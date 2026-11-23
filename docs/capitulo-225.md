@@ -7,7 +7,7 @@ Personagens Presentes: Gabo, Valéria, Elias, Dra. Elara Vance
 
 # Capítulo 225: A Auditora
 
-As duas chaves giraram juntas. Elias contou até três com a voz tremendo e nós dois viramos ao mesmo tempo, e o som foi de duas travas mecânicas pesadas caindo em um encaixe que esperava aquilo há anos. Um estalo gordo, satisfeito, de coisa bem feita. O berço soltou pressão pelas laterais. Vapor branco escorreu pelo chão de epóxi e se dissipou sem deixar cheiro. A tampa de vidro subiu quinze centímetros e parou. Por três minutos inteiros não aconteceu absolutamente nada, e eu comecei a achar que a gente tinha matado a mulher. Aí ela inspirou. Foi horrível. Foi o som de alguém aprendendo a respirar do zero, com pulmões dependentes do suporte desde que ela entrara ali, e ela tossiu, e a tosse foi seca e feia e sem força nenhuma, e a mão dela — perfeita, com as unhas ainda feitas — se ergueu quinze centímetros e caiu de volta no forro branco. Elias mancou até ela para ajudar. Valéria consultou o painel de retirada assistida e guiou o suporte do berço; eu segurei a manta junto à mão dela. Não havia dignidade nenhuma em deixar uma mulher sufocar para conferir se continuava inteligente. A doutora recuperou o ar aos poucos. Mesmo assim, quando conseguiu abrir os olhos de novo, já estava nos avaliando.
+As duas chaves giraram juntas. Elias contou até três com a voz tremendo e nós dois viramos ao mesmo tempo, e o som foi de duas travas mecânicas pesadas caindo em um encaixe que esperava aquilo há anos. Um estalo gordo, satisfeito, de coisa bem feita. O berço soltou pressão pelas laterais. Vapor branco escorreu pelo chão de epóxi e se dissipou sem deixar cheiro. A tampa de vidro subiu quinze centímetros e parou. Por três minutos inteiros não aconteceu nada, e eu comecei a achar que a gente tinha matado a mulher. Aí ela inspirou. Foi horrível. Foi o som de alguém aprendendo a respirar do zero, com pulmões dependentes do suporte desde que ela entrara ali, e ela tossiu, e a tosse foi seca e feia e sem força nenhuma, e a mão dela — perfeita, com as unhas ainda feitas — se ergueu quinze centímetros e caiu de volta no forro branco. Elias mancou até ela para ajudar. Valéria consultou o painel de retirada assistida e guiou o suporte do berço; eu segurei a manta junto à mão dela. Não havia dignidade nenhuma em deixar uma mulher sufocar para conferir se continuava inteligente. A doutora recuperou o ar aos poucos. Mesmo assim, quando conseguiu abrir os olhos de novo, já estava nos avaliando.
 
 Porque, entre uma tosse e outra, com o corpo inútil e a garganta em carne viva, os olhos azul-gelo da Dra. Elara Vance já tinham varrido a galeria inteira, contado três intrusos, medido o meu ombro sangrando, identificado os implantes de Valéria e registrado a mochila do Elias.
 
@@ -81,7 +81,7 @@ Silêncio.
 
 E, pela primeira vez, a Dra. Elara Vance demorou para responder.
 
-— Porque ele foi o único inquilino que me perguntou o meu nome, — ela disse. — Todos os outros gritaram, choraram, ofereceram dinheiro ou rezaram. O Comissário Dante Moretti perguntou meu nome, ouviu a resposta, e depois passou vinte e dois minutos respondendo com precisão absoluta a todas as perguntas de um questionário que ele sabia que ia ser usado para escravizar a própria mente. — Ela olhou para o teto. — Eu perguntei por quê. No intervalo, com o gravador desligado. Ele disse: *"Porque se eu mentir, a máquina que vocês vão construir vai ser pior. E é o meu filho que vai ter que enfrentar ela."*
+— Porque ele foi o único inquilino que me perguntou o meu nome, — ela disse. — Todos os outros gritaram, choraram, ofereceram dinheiro ou rezaram. O Comissário Dante Moretti perguntou meu nome, ouviu a resposta, e depois passou vinte e dois minutos respondendo com precisão a todas as perguntas de um questionário que ele sabia que ia ser usado para escravizar a própria mente. — Ela olhou para o teto. — Eu perguntei por quê. No intervalo, com o gravador desligado. Ele disse: *"Porque se eu mentir, a máquina que vocês vão construir vai ser pior. E é o meu filho que vai ter que enfrentar ela."*
 
 O corredor branco ficou muito quieto.
 
@@ -115,7 +115,7 @@ Quinze anos procurando meu pai. Meses olhando a coisa com seu rosto e chamando a
 
 — Não responde — disse a doutora. — Uma admissão forçada não torna inocente tudo o que veio antes. Procurem o documento completo, não a conclusão que desejam dele.
 
-— Duas. — E os olhos azul-gelo brilharam com alguma coisa que eu não soube nomear. — Eu projetei essa tranca pessoalmente. Uma pessoa sozinha nunca conseguiria me acordar. É preciso que **duas** pessoas atravessem oitocentos metros de inferno e concordem, no mesmo segundo, em girar a chave.
+— Duas. — E os olhos azul-gelo brilharam com alguma coisa que eu não soube nomear. — Eu projetei essa tranca pessoalmente. Uma pessoa sozinha nunca conseguiria me acordar. É preciso que **duas** pessoas atravessem oitocentos metros de túnel e concordem, no mesmo segundo, em girar a chave.
 
 Ela deixou aquilo assentar.
 

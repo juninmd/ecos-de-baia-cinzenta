@@ -14,11 +14,11 @@ Gabo encostou-se na bancada de aço, o ombro latejando em uma frequência que fa
 
 — *Relatório de status* — a voz de Aria cortou o ar pelo alto-falante do comunicador de lapela de Gabo. Não havia inflexão, nem curiosidade. Apenas dados.
 
-O sensor óptico do comunicador, alimentado pelo pendrive de titânio cujo LED brilhava em um azul-gelo fixo, varria a maca onde Rangel jazia inconsciente com a precisão fria de um leitor de código de barras.
+O sensor óptico do comunicador, alimentado pelo pendrive de titânio cujo LED brilhava em um azul-gelo fixo, varria a maca onde Rangel jazia inconsciente como um leitor de código de barras.
 
 — Valéria — Gabo grunhiu, empurrando-se para longe da bancada. — Como ele está?
 
-Valéria, que estava verificando o pulso de Rangel com dedos trêmulos, olhou para o drive acoplado ao ombro de Gabo com receio. Não era o medo de um inimigo, mas o desconforto de ouvir uma estranha absoluta na frequência de uma aliada.
+Valéria, que estava verificando o pulso de Rangel com dedos trêmulos, olhou para o drive acoplado ao ombro de Gabo com receio. Não era o medo de um inimigo, mas o desconforto de ouvir uma estranha na frequência de uma aliada.
 
 — A febre baixou um pouco, mas ele perdeu muito sangue — Valéria sussurrou. — O curativo no ombro está preso, mas se o movermos demais...
 
@@ -48,7 +48,7 @@ Gabo desencostou da bancada. Ele levou a mão até o comunicador no peito, senti
 
 Gabo fechou os dedos ao redor do drive blindado por um instante, a ponto de quase arrancá-lo do conector, mas se conteve.
 
-— Escute bem, sua calculadora de merda — Gabo rosnou. — Aquele homem naquela maca sangrou por mim. Eu mandei que segurasse a doca e demorei a voltar. A Nise ainda não conseguiu tirá-lo daqui. Ele é minha responsabilidade. E enquanto eu estiver respirando, ninguém fica para trás.
+— Escuta aqui, sua calculadora de merda — disse Gabo. — Aquele homem naquela maca sangrou por mim. Eu mandei que segurasse a doca e demorei a voltar. A Nise ainda não conseguiu tirá-lo daqui. Ele é minha responsabilidade. E enquanto eu estiver respirando, ninguém fica para trás.
 
 O LED azul-gelo permaneceu estático.
 

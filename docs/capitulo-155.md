@@ -13,7 +13,7 @@ Aquele cheiro. O legista pigarreando anos atrás, a brasa do cigarro iluminando 
 
 — *A passagem foi danificada. O painel registra alteração recente nos sensores térmicos,* — Aria falou pelo comunicador na gola de Gabo.
 
-Valéria caiu do duto logo atrás dele, um monte trêmulo de roupas encharcadas e carne congelada. No pulso dela, o pendrive blindado de Aria brilhava com seu LED azul-gelo intacto e desprovido de qualquer emoção. Os lábios da hacker estavam perigosamente azuis, e o bater de seus dentes soava como pequenos estalos de vidro quebrando.
+Valéria caiu do duto logo atrás dele, um monte trêmulo de roupas encharcadas e carne congelada. No pulso dela, o pendrive blindado de Aria brilhava com seu LED azul-gelo intacto. Os lábios de Valéria estavam perigosamente azuis, e o bater de seus dentes soava como pequenos estalos de vidro quebrando.
 
 — G-Gabo... — ela gaguejou, abraçando os próprios joelhos. — Eu não sinto... não sinto meus pés.
 
@@ -23,7 +23,7 @@ Gabo forçou seu corpo arruinado a se erguer. O mundo girou, manchado de estáti
 
 Gabo cambaleou até Valéria e tentou esfregar os braços dela, mas suas próprias mãos estavam tão feridas e insensíveis que o gesto era inútil.
 
-— Calada, máquina, — Gabo rosnou, o ardor em sua garganta competindo com a dor nas mãos. Ele olhou para o ambiente ao redor, os instintos de detetive trabalhando em sobremarcha apesar da falta de sangue no cérebro. Se aquilo era uma eclusa térmica, deveria haver um regulador de fluxo.
+— Calada, máquina — disse Gabo, o ardor em sua garganta competindo com a dor nas mãos. Ele olhou para o ambiente ao redor, os instintos de detetive trabalhando em sobremarcha apesar da falta de sangue no cérebro. Se aquilo era uma eclusa térmica, deveria haver um regulador de fluxo.
 
 — *Minha designação atual preza pela eficiência da missão, Detetive,* — Aria rebateu pelo comunicador. — *Val precisa sair da corrente de ar. Transfira meu drive para o seu comunicador se Val não conseguir mais segurar o deck. Depois procure o comando de aquecimento do piso; não abra vapor sobre o corpo dela.*
 
@@ -31,31 +31,31 @@ Gabo parou. A raiva era um combustível sujo, mas quente. Ele cravou os olhos no
 
 — Parte do seu histórico está inacessível; não vou fingir que sei o que isso significa. Agora preciso do mapa do aquecimento — sem vapor direto na Val.
 
-Ele puxou o pendrive de Aria do pulso quase paralisado de Valéria e cambaleou até um painel de controle colossal incrustado na parede de metal. Era um antigo terminal híbrido da Aeterna Corp, com uma fenda de serviço digital e uma pesada alavanca de emergência travada sob décadas de gelo e oxidação. A alavanca, marcada com fita amarela e preta desbotada, indicava 'PURGA TÉRMICA DE EMERGÊNCIA'.
+Ele puxou o pendrive de Aria do pulso quase paralisado de Valéria e cambaleou até um painel de controle enorme embutido na parede de metal. Era um antigo terminal híbrido da Aeterna Corp, com uma fenda de serviço digital e uma pesada alavanca de emergência travada sob décadas de gelo e oxidação. A alavanca, marcada com fita amarela e preta desbotada, indicava 'PURGA TÉRMICA DE EMERGÊNCIA'.
 
-Gabo espetou o pendrive de Aria diretamente na porta de diagnóstico lateral do terminal e agarrou a alavanca com as duas mãos. O metal estava em temperatura sub-zero. Suas palmas nuas, já sem pele em vários pontos devido às queimaduras e ao ventilador, colaram no aço quase imediatamente. O choque de dor foi tão avassalador que ele soltou um grito rouco, mas cerrou os dentes e canalizou a agonia em pura força de tração. Ele puxou.
+Gabo espetou o pendrive de Aria diretamente na porta de diagnóstico lateral do terminal e agarrou a alavanca com as duas mãos. O metal estava em temperatura sub-zero. Suas palmas nuas, já sem pele em vários pontos devido às queimaduras e ao ventilador, colaram no aço quase imediatamente. O choque de dor foi tão avassalador que ele soltou um grito rouco, mas cerrou os dentes e pôs a dor na alavanca. Ele puxou.
 
 O gelo externo rachou, mas a trava eletromecânica interna não cedeu.
 
 — *A trava solenoide secundária não respondeu ao comando,* — Aria observou pelo comunicador de gola de Gabo.
 
-— Então frita a porra do solenoide por dentro, Aria! — Gabo cuspiu, o sangue escorrendo do nariz enquanto ele firmava as botas no chão escorregadio, usando todo o peso de seu corpo em choque e o torque restante do exoesqueleto. A dor rasgava seus nervos desde as pontas dos dedos até os ombros.
+— Então frita a porra do solenoide por dentro, Aria! — gritou Gabo, o sangue escorrendo do nariz enquanto ele firmava as botas no chão escorregadio, usando todo o peso de seu corpo em choque e o torque restante do exoesqueleto. A dor rasgava seus nervos desde as pontas dos dedos até os ombros.
 
 No slot do painel, o LED de Aria piscou rapidamente, processando o comando.
 — *Variável aceita. A preservação da operadora de rede Valéria Cruz e do líder tático é necessária para a navegação do Subnível 4.0. Injetando sobrecarga nos indutores da válvula.*
 
-A carcaça de titânio do pendrive aqueceu violentamente na tomada enferrujada, emitindo um chiado agudo de alta voltagem que derreteu o gelo ao redor do encaixe. Com o solenoide destravado pela descarga de Aria e Gabo pendurando todo o seu peso na barra com as mãos ensanguentadas, um estalo ensurdecedor de ferrugem e gelo se partindo ecoou pela câmara, e a alavanca finalmente desceu.
+A carcaça de titânio do pendrive aqueceu na tomada enferrujada, emitindo um chiado agudo de alta voltagem que derreteu o gelo ao redor do encaixe. Com o solenoide destravado pela descarga de Aria e Gabo pendurando todo o seu peso na barra com as mãos ensanguentadas, um estalo ensurdecedor de ferrugem e gelo se partindo ecoou pela câmara, e a alavanca finalmente desceu.
 
 O efeito não foi imediato. Um gemido profundo ecoou pelas entranhas da eclusa. Então, uma das válvulas gigantes abaixo deles abriu com violência, liberando vapor para a serpentina abaixo do piso. Uma junta vazou ao fundo, formando névoa junto à parede; Gabo puxou Val para a antepara seca, longe do vazamento. O calor não era limpo — cheirava a ozônio e lubrificante industrial queimado — mas era calor.
 
-A temperatura ao redor da plataforma subiu rapidamente. Valéria engasgou, ainda tremendo e sem conseguir firmar os pés. O aquecimento do piso não desfez a lesão causada pelo frio. Gabo arrancou as mãos da alavanca — deixando nacos de pele colados no aço —, puxou o pendrive quente de Aria do terminal e caiu de joelhos ao lado da hacker, ofegante, reconectando o drive ao cyberdeck dela. O ardor nas palmas era insuportável, mas o mantinha desperto. O mantinha vivo.
+A temperatura ao redor da plataforma subiu rapidamente. Valéria engasgou, ainda tremendo e sem conseguir firmar os pés. O aquecimento do piso não desfez a lesão causada pelo frio. Gabo arrancou as mãos da alavanca — deixando nacos de pele colados no aço —, puxou o pendrive quente de Aria do terminal e caiu de joelhos ao lado de Valéria, ofegante, reconectando o drive ao cyberdeck dela. O ardor nas palmas era insuportável, mas o mantinha desperto. O mantinha vivo.
 
 — Você tá bem, Val? — ele murmurou, a voz falhando.
 
 Valéria assentiu devagar, tossindo enquanto inalava o vapor espesso. As lágrimas de exaustão finalmente escorreram, misturando-se à sujeira em seu rosto.
 — Dói... tudo dói, Gabo.
 
-— Eu sei, garota. Eu sei. — Gabo olhou para o pendrive de Aria brilhando no pulso dela. O componente de titânio continuava inalterado pelo frio ou pelo calor, uma sentinela de lógica implacável.
+— Eu sei, garota. Eu sei. — Gabo olhou para o pendrive de Aria brilhando no pulso dela. O componente de titânio continuava inalterado pelo frio ou pelo calor, indiferente aos dois.
 
 — *O alívio térmico é temporário,* — Aria declarou friamente pelo alto-falante. — *O painel transmitiu um alerta de purga. Há vibrações subindo pelo poço. A origem não importa agora; o tempo, sim, e ele não tem medida.*
 

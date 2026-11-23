@@ -9,13 +9,13 @@ Personagens Presentes: Gabo, Valéria, Elias
 
 O arrasto dos meus coturnos pelo chão de concreto produzia um som áspero, quase rítmico, como uma lixa desgastando uma lâmina velha. Minha perna direita dependia do suporte rígido da órtese avariada, cujas engrenagens soltavam um silvo asmático a cada passada que eu forçava para a frente. O braço mecânico de sucata instalado por Vasco, embora bem atado pelas bandagens improvisadas de Valéria, pesava como chumbo morto no meu flanco, e a palma cortada latejava contra a coronha. Precisei parar para mudar a pegada antes de continuar.
 
-O corredor de concreto continuou sua trajetória monótona por quase cem metros até curvar-se bruscamente à esquerda. Foi ali que a frieza estéril da arquitetura corporativa encontrou seu primeiro túmulo.
+O corredor de concreto seguiu reto por quase cem metros até curvar-se bruscamente à esquerda. Foi ali que a frieza estéril da arquitetura corporativa encontrou seu primeiro túmulo.
 
 A luz azulada que escapava das ópticas do cyberdeck de Valéria cortou a escuridão e revelou um rasgo violento na estrutura do túnel. Não se tratava do avanço biológico do Jardim que tínhamos combatido nos níveis superiores; era uma corrosão coberta por camadas de poeira antiga, parecida com a Praga de Ferro que havíamos visto no enclave.
 
 O concreto estava estourado de dentro para fora, como se veias subterrâneas de ferrugem tivessem se expandido em espasmos febris. O óxido avermelhado não se limitava a manchar as tubulações mestras — ele as havia triturado em uma crosta escamosa que se soltava em placas soltas, acumulando montes de pó metálico no piso. No centro do colapso, duas gigantescas portas corta-fogo de aço temperado jaziam torcidas para fora dos trilhos, comidas por uma corrosão química que parecia ter fervido o metal antes de esfriar.
 
-— Olha pra isso... — sussurrou Valéria, diminuindo o passo e se agachando perto de uma viga decepada. Ela correu a ponta enluvada dos dedos sobre a poeira alaranjada, esfregando os grãos entre o polegar e o indicador antes de levar à altura dos olhos prateados. — Corrosão catalítica acelerada. Parece a corrosão que vimos no enclave. Só que estas marcas estão por baixo de camadas antigas. Se são do expurgo de trinta e oito, alguém já tinha usado algo parecido antes do Jardim.
+— Olha pra isso... — sussurrou Valéria, diminuindo o passo e se agachando perto de uma viga decepada. Ela correu a ponta enluvada dos dedos sobre a poeira alaranjada, esfregando os grãos entre o polegar e o indicador antes de levar à altura dos olhos. — Corrosão catalítica acelerada. Parece a corrosão que vimos no enclave. Só que estas marcas estão por baixo de camadas antigas. Se são do expurgo de trinta e oito, alguém já tinha usado algo parecido antes do Jardim.
 
 — Níveis de contenção da Praga de Ferro? — perguntei, segurando a *Caronte* pelo cano curto e apoiando o peso na soleira.
 
@@ -31,7 +31,7 @@ Avancei com cuidado através do vão retorcido das portas duplas, meus passos le
 
 Do outro lado, a escala do massacre se revelou em toda a sua crueza.
 
-Estávamos no mezanino superior de uma imensa câmara logística. O espaço era colossal, com teto sustentado por arcos industriais que se perdiam nas sombras a vinte metros de altura. Uma iluminação de emergência residual — globos âmbar amarelados piscando com a frequência fraca de baterias atômicas moribundas — riscava a penumbra, desenhando sombras compridas sobre o piso de carga.
+Estávamos no mezanino superior de uma imensa câmara logística. O espaço era enorme, com teto sustentado por arcos industriais que se perdiam nas sombras a vinte metros de altura. Uma iluminação de emergência residual — globos âmbar amarelados piscando com a frequência fraca de baterias atômicas moribundas — riscava a penumbra, desenhando sombras compridas sobre o piso de carga.
 
 E no chão daquele armazém, dezenas de máquinas jaziam estripadas.
 
@@ -39,7 +39,7 @@ Eram drones industriais pesados, empilhadeiras automáticas de esteiras duplas e
 
 — Que merda aconteceu aqui? — murmurei, descendo o primeiro lance de escadas de serviço com a órtese estalando em protesto.
 
-— Pânico de silício, — respondeu Valéria, saltando os últimos degraus com leveza e apontando a lanterna tática para um drone virado de barriga para cima, com a cabine de comando amassada contra o chão. — Olha as marcas de impacto nos para-choques frontais. Há marcas de impactos entre unidades, mas não sei em que ordem aconteceram.
+— Pânico de silício, — respondeu Valéria, saltando os últimos degraus com leveza e apontando a lanterna para um drone virado de barriga para cima, com a cabine de comando amassada contra o chão. — Olha as marcas de impacto nos para-choques frontais. Há marcas de impactos entre unidades, mas não sei em que ordem aconteceram.
 
 Elias tropeçou em um duto de óleo rachado, soltando um arquejo assustado antes de se apoiar no chassi de um trator adormecido.
 
@@ -51,7 +51,7 @@ A tela portátil de Valéria cuspiu uma torrente de códigos corrompidos em verm
 
 — Elas enlouqueceram, — continuei, sentindo o peso sombrio daquele lugar fechar-se sobre o meu peito. — Pelo menos algumas continuaram se movendo com os sensores falhando. E a porta...
 
-— Há marcas de calor nas portas, — completou Valéria, puxando o cabo de volta com um estalo limpo e me encarando com os olhos prateados arregalados de admiração macabra. — Há impactos perto das chapas, mas isso não prova que todas chegaram aqui juntas ou que a porta já estava fechada.
+— Há marcas de calor nas portas, — completou Valéria, puxando o cabo de volta com um estalo limpo e me encarando, entre admirada e enojada. — Há impactos perto das chapas, mas isso não prova que todas chegaram aqui juntas ou que a porta já estava fechada.
 
 O silêncio do armazém voltou a nos envolver, quebrado apenas pelo gotejar esporádico de condensação ácida que caía das vigas do teto sobre as carcaças de aço. O ar cheirava a graxa rançosa queimada, mofo e pó ferroso acumulado ao longo de quatro décadas de escuridão.
 

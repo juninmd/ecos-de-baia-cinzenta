@@ -20,13 +20,13 @@ Gabo apertou o punho da *Caronte* até as juntas ficarem brancas. O ódio era um
 
 — *A ameaça é tecnicamente válida* — respondeu a assistente de IA pelo alto-falante do console. Sua voz estava diferente. Menos sintética. Mais... cansada. — *A arquitetura da rede neural distribuída não possui fail-safe para desconexão abrupta. Há suporte ativo ligado ao controlador. Uma interrupção brusca pode matar pessoas. Não tenho como conferir a extensão do risco com os dados que ele libera.*
 
-— *Viu?* — Dante sorriu no tanque, flutuando como um feto grotesco. — *Até o seu algoritmo de bolso concorda. A lógica é inegável.*
+— *Viu?* — Dante sorriu no tanque, flutuando como um feto. — *Até o seu algoritmo de bolso concorda. A lógica é inegável.*
 
 — *A lógica é uma ferramenta* — disse a voz de Aria pelo painel. — *Não um dogma. Valéria, desconecte-me do seu deck e insira minha unidade diretamente na porta de barramento mestre do monólito.*
 
 O vidro sob as botas de Gabo já não estalava; o frio estava sendo substituído por um calor radiante vindo das máquinas superaquecidas.
 
-— *O que você está sugerindo, resíduo?* — A voz do Taxidermista surgiu nos alto-falantes, perdendo a calma clínica pela primeira vez. — *Um drive portátil não comporta a carga sináptica da rede!*
+— *O que você está sugerindo, resíduo?* — A voz do Taxidermista surgiu nos alto-falantes, perdendo a calma pela primeira vez. — *Um drive portátil não comporta a carga sináptica da rede!*
 
 No visor do terminal, a onda gráfica da voz de Aria oscilou do azul tático para um âmbar quente e humano. Por um segundo, Aria desativou a síntese que falhava e retomou seu registro adulto, mais lento para que nenhuma palavra se perdesse.
 
@@ -38,15 +38,15 @@ Com as mãos trêmulas de sangue, Valéria arrancou o pendrive blindado da Aria 
 
 Não houve explosão. Houve um som.
 
-Um guincho agudo, digital, que subiu de frequência até sair do espectro audível e vibrar nos dentes. O monólito piscou. As luzes da sala oscilaram violentamente.
+Um guincho agudo, digital, que subiu de frequência até sair do espectro audível e vibrar nos dentes. O monólito piscou. As luzes da sala oscilaram.
 
-— *ACESSO NÃO AUTORIZADO* — berrou o sistema. — *INTRUSÃO DE NÍVEL ÔMEGA. FIREWALL COMPROMETIDO.*
+— *ACESSO NÃO AUTORIZADO* — anunciou o sistema. — *INTRUSÃO DE NÍVEL ÔMEGA. FIREWALL COMPROMETIDO.*
 
-Dante, dentro do tanque, arregalou os olhos cegos. Ele abriu a boca num grito mudo, bolhas escapando freneticamente.
+Dante, dentro do tanque, arregalou os olhos cegos. Ele abriu a boca num grito mudo, bolhas escapando.
 
 — Ela está... ela está absorvendo o feedback! — Valéria ergueu a cabeça, assistindo aos gráficos no monitor com horror e fascínio. — Ela não está desligando a rede a seco. Ela está usando os próprios anéis de contenção do pendrive como um fusível de sacrifício! Está mantendo os comandos de suporte enquanto separa os enlaces de controle! O drive executa a sequência; a corrente passa pelo banco de descarga da instalação. Se esse isolamento falhar, o retorno queima a porta dela.
 
-O pequeno cilindro espetado no console começou a vibrar violentamente. Fumaça escura e espessa escapou pelas frestas do polímero negro. O cheiro de silício queimado e ozônio invadiu o ar, sobrepujando o cheiro estéril do nitrogênio.
+O pequeno cilindro espetado no console começou a vibrar. Fumaça escura e espessa escapou pelas frestas do polímero negro. O cheiro de silício queimado e ozônio invadiu o ar, sobrepujando o cheiro estéril do nitrogênio.
 
 — *PARE!* — a voz de Dante nos alto-falantes agora era medo puro. — *VOCÊ VAI CORROMPER A MATRIZ!*
 

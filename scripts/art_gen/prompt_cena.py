@@ -44,7 +44,7 @@ def montar_elenco(personagens: List[Dict], capitulo: float = 0.0) -> List[Dict]:
     saindo de cabelo rosa porque o retrato dela nunca era enviado junto.
     """
     elenco = []
-    for personagem in personagens:
+    for personagem in aria_visual.filtrar(personagens, capitulo):
         retrato = characters.reference_image(personagem)
         if retrato:
             elenco.append({
@@ -103,13 +103,13 @@ def texto_do_prompt(cena, titulo: str, ancora: Optional[Dict], elenco: List[Dict
         + ". " + NEGATIVO
         + vestuario.reforco(elenco)
         + continuidade.clausula(elenco, capitulo)
-        + aria_visual.clausula(elenco, capitulo)
+        + aria_visual.clausula([{"nome": p["name"]} for p in cena.personagens], capitulo)
     )
 
 
 def montar_entrada(cap: Dict, titulo: str, cena, elenco: List[Dict]) -> Dict:
     """Uma linha do manifesto: tudo que o gerador precisa sem reabrir o capítulo."""
-    ancora = characters.pick_anchor(cena.personagens)
+    ancora = characters.pick_anchor(aria_visual.filtrar(cena.personagens, float(cap["num_str"])))
     referencia = characters.reference_image(ancora) if ancora else None
     arquivo = proximo_nome(cap["folder_path"], cena.indice)
     return {

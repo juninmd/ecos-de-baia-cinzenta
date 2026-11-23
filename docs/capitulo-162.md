@@ -12,11 +12,11 @@ Personagens Presentes: "Gabo, Valéria, Aria (Reboot)"
 
 O tempo, no Subnível 3.0, não era medido em segundos, mas em litros de sangue derramado e no ruído ensurdecedor de cerâmica estilhaçada.
 
-Gabo havia se tornado uma barreira de carne, ossos e metal fadigado diante do console central. Quando a segunda 'Escultura' avançou pelo corredor estreito, seu alvo era o pescoço exposto de Valéria, que digitava freneticamente no terminal onde o pendrive blindado de Aria estava espetado. Gabo lançou o próprio peso contra a lateral da criatura, empurrando a barreira de manutenção com a haste da órtese. A chapa recebeu o impacto; Gabo caiu contra o suporte da prancha. O impacto soou como um trem de carga atingindo uma parede de tijolos.
+Gabo havia se tornado uma barreira de carne, ossos e metal fadigado diante do console central. Quando a segunda 'Escultura' avançou pelo corredor estreito, seu alvo era o pescoço exposto de Valéria, que digitava no terminal onde o pendrive blindado de Aria estava espetado. Gabo lançou o próprio peso contra a lateral da criatura, empurrando a barreira de manutenção com a haste da órtese. A chapa recebeu o impacto; Gabo caiu contra o suporte da prancha. O impacto soou como um trem de carga atingindo uma parede de tijolos.
 
 A dor irradiou de seu ombro até o braço direito quebrado sob as ataduras rígidas. Era um choque elétrico de agonia, puro e sem filtro. Gabo sorriu com os dentes trincados, sentindo o gosto amargo de sangue e bile na língua. A dor dificultou sua respiração; o cheiro lembrado de cigarro continuou misturado ao ozônio e à carne decomposta.
 
-— *Oitenta e cinco segundos restantes para a compilação da purga,* — Aria atravessou o caos pelo comunicador na gola de Gabo. Espetada na porta de manutenção do console e ligada em ponte ao *Phantom V3* de Valéria, o drive da IA não tinha corpo para lutar, mas executava uma guerra eletrônica cirúrgica. O LED azul-gelo do pendrive piscava furiosamente enquanto Aria sobrecarregava os roteadores locais e o emissor direcional do deck de Valéria, enviando comandos de manutenção aos controladores do anel. Duas unidades aceitavam a parada; as outras continuavam avançando. — *Alvo à esquerda com atuador cervical travado por um vírgula dois segundos. Golpeie o eixo agora, Detetive.*
+— *Oitenta e cinco segundos restantes para a compilação da purga,* — Aria atravessou o caos pelo comunicador na gola de Gabo. Espetada na porta de manutenção do console e ligada em ponte ao *Phantom V3* de Valéria, o drive da IA não tinha corpo para lutar, mas brigava pela rede. O LED azul-gelo do pendrive piscava sem parar enquanto Aria sobrecarregava os roteadores locais e o emissor direcional do deck de Valéria, enviando comandos de manutenção aos controladores do anel. Duas unidades aceitavam a parada; as outras continuavam avançando. — *Alvo à esquerda com atuador cervical travado por um vírgula dois segundos. Golpeie o eixo agora, Detetive.*
 
 Gabo girou o quadril com um urro e golpeou com a bota esquerda diretamente na cabeça de cerâmica da criatura paralisada pelo pulso de Aria, esmagando o crânio sintético contra a quina do rack de servidores. Mas para cada abominação derrubada, as outras se adaptavam à frequência de interferência, movendo-se com uma sincronia assustadora orquestrada pela rede de biomassa do Taxidermista.
 
@@ -24,7 +24,7 @@ A Escultura caída, mesmo com o sensor principal rachado, arrastou-se pelo chão
 
 — Trabalha logo nesse código, Val! — Gabo rugiu, chutando a carcaça fumegante para bloquear a passagem de outra que se aproximava. O sangue escorreu pela grade. Ele se segurou na barreira com o lado esquerdo.
 
-Valéria não respondeu com palavras. Seus olhos artificiais piscavam rapidamente, decifrando a criptografia orgânica junto com o coprocessador de Aria para alcançar o coração da Aeterna. O suor misturava-se à fuligem em seu rosto. Ela estava imersa em um inferno numérico, lutando contra um código que sangrava e pulsava.
+Valéria não respondeu com palavras. Seus olhos artificiais piscavam rapidamente, decifrando a criptografia orgânica junto com o coprocessador de Aria para alcançar o coração da Aeterna. O suor misturava-se à fuligem em seu rosto. Estava afundada nos números, contra um código que parecia vivo.
 
 — *Aviso: A barreira está cedendo à direita,* — Aria avisou pelo fone. — *A barreira aguenta menos do que a gente precisa. Val, há outra unidade vindo pelo corredor lateral.*
 
@@ -34,13 +34,13 @@ Valéria não respondeu com palavras. Seus olhos artificiais piscavam rapidament
 
 — Não precisa de lógica, Aria, — Gabo ofegou, empurrando-se de volta para a linha de frente ao lado do console. — Só precisa de mais trinta segundos.
 
-O Taxidermista, operando através da rede corrompida desde os níveis superiores, percebeu a ameaça iminente ao seu terminal. As veias bioluminescentes no chão pulsaram violentamente, emitindo um zumbido grave que fez os dentes de Gabo vibrarem. Duas Esculturas adicionais desprenderam-se das grelhas do teto, aterrissando pesadamente a três metros de Valéria e do slot onde o pendrive de Aria brilhava.
+O Taxidermista, operando através da rede corrompida desde os níveis superiores, percebeu a ameaça iminente ao seu terminal. As veias bioluminescentes no chão pulsaram, emitindo um zumbido grave que fez os dentes de Gabo vibrarem. Duas Esculturas adicionais desprenderam-se das grelhas do teto, aterrissando pesadamente a três metros de Valéria e do slot onde o pendrive de Aria brilhava.
 
-No console, o LED azul-gelo de Aria piscou rapidamente, calculando a trajetória. Os capacitores do emissor de pulso estavam esgotados; era impossível travar ambas pelo sinal antes que alcançassem a hacker.
+No console, o LED azul-gelo de Aria piscou rapidamente, calculando a trajetória. Os capacitores do emissor de pulso estavam esgotados; era impossível travar ambas pelo sinal antes que alcançassem Valéria.
 
 — *Capacitores de interferência em zero. Sub-rotina de sobrecarga terminal engatada: se Valéria não desconectar, o impacto interromperá a purga,* — Aria declarou sem hesitação.
 
-— Não no meu turno! — Gabo berrou. Ele puxou a barreira móvel para o lado do console. A chapa atingiu uma das Esculturas; a outra alcançou Gabo antes que ele pudesse recuar.
+— Não no meu turno! — Gabo gritou. Ele puxou a barreira móvel para o lado do console. A chapa atingiu uma das Esculturas; a outra alcançou Gabo antes que ele pudesse recuar.
 
 A garra de cerâmica da primeira Escultura rasgou profundamente a lateral do abdômen de Gabo no choque. A dor foi tão intensa que ele quase perdeu a consciência ali mesmo. A náusea e a dor vieram juntas; ele não sabia quanto sangue estava perdendo. Ele caiu de joelhos ao lado do terminal, prendendo a perna da criatura com o próprio peso.
 
@@ -50,7 +50,7 @@ Um som agudo, crescente e insuportável encheu o vasto salão dos servidores. Er
 
 Os indicadores do anel apagaram em sequência. A descarga correu pelas linhas de potência isoladas, acompanhada do clarão de uma junta em curto no fundo da sala. A biomassa presa aos racks escureceu em alguns pontos; em outros continuou úmida, imóvel, sem que ninguém soubesse o que ainda vivia ali.
 
-As Esculturas congelaram a centímetros do rosto de Gabo. Privadas do controle central e atingidas pela descarga nos implantes, seus sistemas nervosos enxertados entraram em curto-circuito. Elas convulsionaram violentamente, soltando guinchos agudos de estática antes de desabarem no chão em montes inertes de cerâmica e carne frita.
+As Esculturas congelaram a centímetros do rosto de Gabo. Privadas do controle central e atingidas pela descarga nos implantes, seus sistemas nervosos enxertados entraram em curto-circuito. Elas convulsionaram, soltando guinchos agudos de estática antes de desabarem no chão em montes inertes de cerâmica e carne frita.
 
 A onda iônica iluminou o rosto ensanguentado de Gabo. Ele encostou a cabeça no metal frio do terminal, a respiração entrecortada, sentindo a dor vibrante em seu abdômen rasgado e no braço quebrado. A alucinação do fumo finalmente cedeu, deixando apenas o cheiro acre de carne queimada e ozônio limpo.
 

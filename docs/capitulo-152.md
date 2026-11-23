@@ -24,7 +24,7 @@ No pulso de Valéria, o pendrive de Aria recebia pelo *Phantom V3* a imagem da p
 
 — *Alerta Estrutural Iminente,* — Aria anunciou pelo comunicador na gola de Gabo e pelo alto-falante do deck, sem alterar o tom constante. — *O pilar L-4 à frente está visivelmente corroído. Não consigo avaliar quanto peso ele suporta. Não recomendo transferir a carga.*
 
-— A gente... não tem... outra ponte, porra! — Valéria rosnou, o suor traçando linhas claras em seu rosto sujo de poeira e fuligem. — Continua andando.
+— A gente... não tem... outra ponte, porra! — disse Valéria, o suor traçando linhas claras em seu rosto sujo de poeira e fuligem. — Continua andando.
 
 Eles avançaram mais cinco metros. Então, o som de um trovão subaquático reverberou pelo setor.
 
@@ -36,11 +36,11 @@ Valéria travou a bota num rebite do guarda-corpo e segurou o cabo de inspeção
 
 Sangue e dor. Nenhum traço de fumaça. Só realidade bruta.
 
-— Puxa! — berrou Gabo, ignorando a visão turva que ameaçava engoli-lo.
+— Puxa! — gritou Gabo, ignorando a visão turva que ameaçava engoli-lo.
 
 Acoplado ao pulso trêmulo de Valéria, o pendrive de Aria media a deformação elástica do metal através do laser do deck. Ela não ofereceu encorajamento; ela analisou os números.
 
-— *A cinta está rasgando na borda da chapa,* — declarou a voz sintética perfeita bem ao lado das mãos de Valéria. — *A cinta está presa do lado da placa que cedeu. Se soltarem essa ponta e usarem o cabo de inspeção, a prancha deixa de puxar vocês para a borda.*
+— *A cinta está rasgando na borda da chapa,* — disse Aria, junto das mãos de Valéria. — *A cinta está presa do lado da placa que cedeu. Se soltarem essa ponta e usarem o cabo de inspeção, a prancha deixa de puxar vocês para a borda.*
 
 — Gabo, solta a ponta presa! — Valéria gritou, mantendo o cabo esticado.
 
@@ -58,11 +58,11 @@ O chiado irregular de Rangel, que o acompanhara por todo o trajeto infernal até
 
 Valéria congelou. Ela se jogou de joelhos ao lado do corpo, tateando o pescoço ensanguentado de Rangel à procura de um pulso que já não existia. Ela não disse nada. Ela começou a tentar reanimá-lo e mandou Gabo chamar pelo rádio. Só veio ruído. Revezaram como puderam sobre o trecho firme da passarela; nenhum deles tinha o equipamento ou o atendimento que Rangel precisava. O tempo correu sem resposta do outro acesso. Quando pararam, a mão direita de Val já não conseguia continuar e o peito do inspetor não voltou a subir sozinho.
 
-No pulso da hacker, o pendrive estabilizou após ler o sensor biométrico do deck.
+No pulso de Valéria, o pendrive estabilizou após ler o sensor biométrico do deck.
 
 — *Não há retorno dos sinais,* — a IA disse friamente pelo alto-falante. — *Registrei os horários da perda do sinal e da tentativa de reanimação. Não vou chamar isso de confirmação de uma previsão. Precisamos decidir como guardar a localização.*
 
-Gabo olhou para o corpo imóvel de Rangel, o rosto pálido e manchado, os olhos fechados para sempre. Depois, olhou para o pequeno drive piscando no braço de Valéria — a parceira cuja voz ainda saía limitada pelo reparo. A dor nas mãos de Gabo não era nada comparada àquele momento. Ele estava cercado de morte, mas ali, naquele segundo, o luto foi enterrado sob uma fúria gélida.
+Gabo olhou para o corpo imóvel de Rangel, o rosto pálido e manchado, os olhos fechados para sempre. Depois, olhou para o pequeno drive piscando no braço de Valéria — a parceira cuja voz ainda saía limitada pelo reparo. A dor nas mãos de Gabo não era nada comparada àquele momento. Ele estava cercado de morte, mas ali, naquele segundo, o luto foi enterrado sob uma raiva fria.
 
 — Ele não é lixo. — Gabo forçou-se a ficar de pé. — E nós não somos máquinas. A gente lembra dos nossos.
 

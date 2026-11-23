@@ -10,13 +10,13 @@ Personagens Presentes: Gabo, Valéria
 
 Atrás dos silos, encontramos o portão arrombado da têxtil que o piloto indicara. O mapa no núcleo apontava para a estufa; Val conferiu a placa do poço, testou a alimentação de reserva e acionou o elevador de carga.
 
-O elevador parou com um solavanco brutal, acompanhado por um rangido que soou como a espinha dorsal de um guindaste enferrujado se partindo sob peso excessivo. As portas corrediças de aço reforçado se abriram com lentidão relutante, vomitando uma lufada de ar viciado que nos atingiu como um soco térmico.
+O elevador parou com um solavanco, acompanhado por um rangido que soou como a espinha dorsal de um guindaste enferrujado se partindo sob peso excessivo. As portas corrediças de aço reforçado se abriram com lentidão relutante, vomitando uma lufada de ar viciado que nos atingiu como um soco térmico.
 
 Não era o ar seco e gelado da superfície do Distrito 4, nem o odor pungente de asfalto podre que deixáramos para trás. Era terra fértil empapada em adubo químico, decomposição vegetal acelerada e ozônio elétrico de alta voltagem. Um calor úmido, pegajoso, que grudou instantaneamente no couro do meu sobretudo e fez o suor frio escorrer pelas minhas têmporas.
 
 Valéria deu o primeiro passo para fora da cabine, os olhos ópticos prateados emitindo cliques rápidos de foco e abertura. Os filamentos de LED azul trançados em seu corte bob assimétrico refletiram-se nas poças de condensação do piso de gradeamento metálico.
 
-— Santo Deus da tecnologia suja... — o sussurro dela escapou com uma mistura genuína de reverência estética e pavor absoluto. — Olha a escala disso aqui, Moretti.
+— Santo Deus da tecnologia suja... — o sussurro dela escapou entre o espanto e o medo. — Olha a escala disso aqui, Moretti.
 
 O Complexo Hidropônico do Setor 7 abria-se diante de nós como uma catedral profana escavada sob a rocha da arcologia.
 
@@ -28,7 +28,7 @@ Uma floresta de biomassa bioluminescente tomara conta de cada viga, calha e pass
 
 — A colônia não tá apenas crescendo aqui embaixo — falei, sentindo o peso assimétrico da armação repuxar minha escápula. A tração do arnês no ombro e a dor no fixador eram vivas e reais, mantendo meus reflexos tensos na penumbra. — Ela tomou a infraestrutura inteira da estufa.
 
-— Tomou e melhorou — Valéria avançou dois passos, o cyberdeck seguro sob o braço esquerdo enquanto a mão direita empunhava a lanterna tática. O facho cortou a névoa esverdeada, revelando um detalhe perturbador nos troncos das raízes. — Gabo... aproxima o olho. Olha onde as gavinhas tão se enroscando.
+— Tomou e melhorou — Valéria avançou dois passos, o cyberdeck seguro sob o braço esquerdo enquanto a mão direita segurava a lanterna. O facho cortou a névoa esverdeada, revelando um detalhe perturbador nos troncos das raízes. — Gabo... aproxima o olho. Olha onde as gavinhas tão se enroscando.
 
 Aproximei-me da mureta da passarela superior. Sob a casca vegetal translúcida, vi feixes de cabos coaxiais e fitas de fibra óptica arrancados das canaletas elétricas das paredes. O fungo havia envolvido os barramentos de dados, usando a malha de cobre como guia para espalhar suas hifas pelos três andares do complexo.
 
@@ -40,7 +40,7 @@ Valéria ergueu o facho da lanterna na direção que apontei. O círculo de luz 
 
 A respiração dela travou na garganta.
 
-Suspensos pelas calhas superiores de irrigação, a quatro metros do piso, havia dezenas de corpos humanos. Não eram catadores mortos jogados no lixo; estavam dispostos em fileiras geométricas perfeitas, como frutos em um pomar macabro. Cada um deles tinha a coluna cervical perfurada por raízes espessas que desciam do teto, as cabeças caídas para a frente, as órbitas brilhando com minúsculos filamentos ópticos que piscavam num ritmo sincopado.
+Suspensos pelas calhas superiores de irrigação, a quatro metros do piso, havia dezenas de corpos humanos. Não eram catadores mortos jogados no lixo; estavam dispostos em fileiras geométricas perfeitas, como frutos num pomar. Cada um deles tinha a coluna cervical perfurada por raízes espessas que desciam do teto, as cabeças caídas para a frente, as órbitas brilhando com minúsculos filamentos ópticos que piscavam num ritmo sincopado.
 
 — Alguns usam uniformes de manutenção da Aeterna — Valéria sussurrou. — As raízes chegam aos controladores, mas não sei o que estão fazendo com essas pessoas, nem quando foram presas aqui.
 
@@ -52,7 +52,7 @@ Valéria desligou a lanterna para não atrair a atenção dos nós bioelétricos
 
 — E as pessoas penduradas nas calhas?
 
-Valéria olhou para a fileira de corpos estáticos na penumbra, os olhos prateados pesados com a amargura de quem já viu mortes demais para a sua idade.
+Valéria olhou para a fileira de corpos estáticos na penumbra, os olhos pesados com a amargura de quem já viu mortes demais para a sua idade.
 
 — Eu não consigo avaliar o córtex pela câmera, Gabo. Eles podem estar vivos e dependentes do circuito. O que encontramos na usina não nos dá licença para chamar estes de casca. Vou procurar como separar o suporte do comando antes de tocar nas válvulas.
 

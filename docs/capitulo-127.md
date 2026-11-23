@@ -30,7 +30,7 @@ Gabo seguiu Valéria de volta para o interior do "Fliperama". O ar lá dentro es
 
 O pendrive blindado da Aria estava espetado no adaptador central da bancada, conectado a três monitores CRT que cascateavam linhas de código em vermelho e âmbar.
 
-— Eu consegui contornar o bloqueio lógico com o chip do Vasco — Valéria explicou, digitando furiosamente em seu deck de pulso. — Os barramentos novos estão segurando a carga. O problema é a indexação de memória. O *Crash* na Usina misturou as partições do drive.
+— Eu consegui contornar o bloqueio lógico com o chip do Vasco — Valéria explicou, digitando no deck de pulso. — Os barramentos novos estão segurando a carga. O problema é a indexação de memória. O *Crash* na Usina misturou as partições do drive.
 
 — Em português, Val.
 
@@ -64,7 +64,7 @@ Gabo deu um passo em direção à bancada. Valéria manteve o dedo sobre a tecla
 
 — Aria — Gabo disse, aproximando-se do microfone da bancada e forçando a firmeza na voz. — Relatório de status.
 
-O LED do pendrive piscou violentamente do âmbar para o azul. A onda sonora no monitor oscilou como uma falha de transmissão.
+O LED do pendrive passou do âmbar ao azul. A onda sonora no monitor oscilou como uma falha de transmissão.
 
 — *Inicialização incompleta* — respondeu Aria. — Quero meu histórico preservado antes de qualquer tentativa de correção.
 

@@ -7,7 +7,7 @@ Personagens Presentes: Gabo, Valéria, Elias
 
 # Capítulo 203: Degraus de Sangue e Ferrugem
 
-A escada de manutenção de emergência cheirava a ferro cru, óleo rançoso e séculos de abandono sob a cidade afundada. Cada barra transversal estava encrustada por uma crosta espessa de óxido escamoso e um lodo vegetal que parecia pulsar em espasmos lentos. Elias subia na frente, testando os apoios antes de passar o peso. A bota enfaixada alcançava o degrau com dificuldade; quando escorregava, ele parava até firmar a outra perna.
+A escada de manutenção de emergência cheirava a ferro cru, óleo rançoso e séculos de abandono sob a cidade afundada. Cada barra transversal estava incrustada por uma crosta espessa de óxido escamoso e um lodo vegetal que parecia pulsar em espasmos lentos. Elias subia na frente, testando os apoios antes de passar o peso. A bota enfaixada alcançava o degrau com dificuldade; quando escorregava, ele parava até firmar a outra perna.
 
 Eu subia logo abaixo dele. Não por cavalheirismo de manual policial, mas por cálculo prático: se Elias entrasse em choque e despencasse, a guia de segurança que Elias passara pelos apoios era a barreira entre ele e uma queda livre de quarenta metros até a laje das catacumbas. Valéria fechava a coluna, cinco degraus abaixo de mim, o cyberdeck preso ao colete e os fios holográficos azuis da franja emitindo pulsos curtos e ritmados contra o abismo escuro.
 
@@ -19,7 +19,7 @@ Eu subia logo abaixo dele. Não por cavalheirismo de manual policial, mas por c�
 
 O peso da armação que Vasco acoplara ao fixador puxava meu ombro direito para baixo. Mantive o braço junto ao tronco; cada degrau fazia o arnês ranger e repuxava o curativo. Minha perna direita ardia onde a órtese improvisada mordia a carne machucada, uma lembrança persistente das docas e do colapso da Torre Aeterna.
 
-O ar vertical que subia do fundo era gélido, fétido, carregado de esporos que pinicavam a traqueia. A sensação sufocante de confinamento ameaçava apertar minha garganta, mas não havia espaço para fraqueza mental. Havia apenas a gravidade, a ferrugem e a distância até a próxima escotilha.
+O ar que subia do fundo era frio, fétido, carregado de esporos que pinicavam a traqueia. A sensação sufocante de confinamento ameaçava apertar minha garganta, mas não havia espaço para fraqueza mental. Havia apenas a gravidade, a ferrugem e a distância até a próxima escotilha.
 
 — Movimento rápido na marca de sessenta metros, subindo em espiral pelas guias dos cabos, — alertou Valéria, o tom endurecendo sem perder o veneno nos lábios. — Três assinaturas térmicas. Rápidas demais para operários da colmeia. São quimeras batedoras. O Jardim tá mandando os cães de caça.
 
@@ -39,7 +39,7 @@ Olhei para cima, apertando os olhos contra a poeira fina que caía do teto do t�
 
 Um guincho eletrônico estridente rasgou o poço de elevação. A quimera se projetou no vazio, caindo dez metros em queda livre antes de enterrar três garras de tungstênio diretamente nos rebites da escada, a menos de quatro metros acima da cabeça de Elias. A vibração do choque percorreu toda a estrutura de ferro, arrancando nuvens de fuligem vermelha.
 
-— Elias! — berrou Valéria.
+— Elias! — gritou Valéria.
 
 Elias testou o canto com a bota boa e tentou avançar, mas a ferrugem esfarelou. A guia esticou e tomou o peso antes da queda virar um mergulho; o tranco me puxou contra a barra. Ele bateu a canela na viga e ficou suspenso, sem ar.
 
@@ -53,7 +53,7 @@ A aranha biomecânica não esperou. Ela saltou sobre os degraus em nossa direç�
 
 Valéria ergueu a pistola compacta com a mão direita, apoiando as costas contra o vazio, e disparou três tiros certeiros no bloco de articulação da criatura. Faíscas azuis explodiram no joelho de titânio do monstro, desequilibrando seu salto.
 
-— Agora, brutamontes! — gritou ela, os olhos prateados faiscando.
+— Agora, brutamontes! — gritou ela.
 
 Com Elias preso pela guia e os pés outra vez junto à parede úmida, soltei a perna esquerda do degrau e desferi um chute de baixo para cima. O impacto do calcanhar de ferro forjado atingiu a face do drone com o estrondo de uma marreta em um cofre. Componentes ópticos estilhaçaram, fios soltaram fumaça cáustica e o animal cibernético perdeu a sustentação, despencando aos guinchos no poço escuro até se esborrachar com um estalo úmido lá embaixo.
 

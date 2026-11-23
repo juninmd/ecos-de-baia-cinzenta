@@ -57,7 +57,7 @@ Na calçada mais alta, uma **cabine telefônica** resistia à enxurrada. Aço ox
 
 Três pulsos curtos, três longos, três curtos. Gabo esperou. A sequência se repetiu sem perder o intervalo. Um pedido de socorro num aparelho sem linha.
 
-No visor, o rosto de uma mulher adulta em linhas azuis tentava se formar. Abaixo dele, o indicador do acumulador de emergência marcava três por cento.
+No visor, uma onda sonora em linhas azuis subia e descia sem som. Abaixo dela, o indicador do acumulador de emergência marcava três por cento.
 
 Podia ser uma chamada antiga presa na memória. Podia ser uma isca. Ele deixou o envelope da fotografia no compartimento trancado do carro e abriu a porta.
 

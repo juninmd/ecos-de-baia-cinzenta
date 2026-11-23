@@ -54,7 +54,7 @@ O caminhão freou bruscamente, jogando-os para frente. Gabo bateu o ombro contra
 
 — Rangel! — gritou Valéria no rádio.
 
-— *Checkpoint* — a voz de Rangel veio tensa. — Estamos na entrada do Setor 4. Fiquem em silêncio absoluto. Se os sensores de batimento cardíaco pegarem vocês...
+— *Checkpoint* — a voz de Rangel veio tensa. — Estamos na entrada do Setor 4. Ninguém fala. Se os sensores de batimento cardíaco pegarem vocês...
 
 O caminhão desacelerou até que o motor virou o som mais alto do mundo. Botas. Duas, três, quatro, arrastando no concreto lá fora, perto o bastante para que Gabo ouvisse o couro ranger. Uma lanterna deslizou pela lateral e a luz entrou pelos respiros em tiras finas, varrendo os sacos, a bota dele, o queixo de Valéria.
 
@@ -102,7 +102,7 @@ Ela puxou a mão de volta primeiro. Não com brusquidão — do jeito de quem gu
 
 Gabo não respondeu. Enfiou a mão na dobra do sobretudo, onde ninguém podia ver o tremor.
 
-— Estamos dentro — disse Rangel pelo rádio, sua voz aliviada, mas sombria. — Bem-vindos ao inferno, crianças. A Usina Prometeu é logo à frente.
+— Estamos dentro — disse Rangel pelo rádio, sua voz aliviada, mas sombria. — Bem-vindos lá embaixo, crianças. A Usina Prometeu é logo à frente.
 
 Gabo olhou ao redor, para os sacos pretos empilhados como lixo. Ele tocou o cabo da *Caronte* em seu coldre.
 

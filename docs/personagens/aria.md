@@ -18,6 +18,7 @@
 >
 > **Consequência:** no Capítulo 169, para derrotar o **Aeterna Sentinel** no Subnível 2.0, Aria aceita o risco e Valéria conecta o pendrive da Aria diretamente no terminal mestre do Arquivo Executivo. A sobrecarga térmica funde e carboniza o pendrive no slot. Nenhuma cena posterior ao 169 pode mostrar Aria ativa; resta apenas o drive de silício derretido e o silêncio no comunicador.
 
+* **Aparições visuais:** Apenas três hologramas no livro: 57 (o primeiro, que assusta Gabo), 136 e 168. Fora deles, Aria é só voz, LED e o drive físico; nada de avatar em cenas ou capas.
 * **Idade:** Data de criação e tempo de operação a investigar; avatar de mulher adulta, aparentando 35–40 anos. Ciclos de compilação não equivalem a idade humana.
 * **Altura:** 7 cm (componente físico tipo pendrive blindado); avatar holográfico de mulher adulta em escala compatível com a cena, emitido pelo módulo ou equipamento conectado.
 * **Porte Físico:** **Hardware portátil (componente tipo pendrive)** em carcaça prismática de titânio fosco e polímero negro, pesando 45 gramas, com conector universal retrátil; pode emitir avatar holográfico volumétrico translúcido de mulher adulta, com linhas de dados azuis; não possui massa nem corpo físico.

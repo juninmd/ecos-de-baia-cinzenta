@@ -17,7 +17,7 @@ Gabo ajustou a cinta da prancha de Rangel presa à armação da órtese. O inspe
 
 Gabo trincou os dentes, sentindo o gosto de bile. Ele não olhou para o comunicador no colarinho, onde o LED do pendrive da Aria pulsava entre o azul tático e o âmbar corrompido, julgando cada decisão sua através dos sensores biométricos.
 
-— Eu fiz o que precisava ser feito — rosnou Gabo, avançando pela passarela de metal enferrujado.
+— Fiz o que precisava — disse Gabo, avançando pela passarela de metal enferrujado.
 
 — *Você sempre diz isso* — Aria murmurou no ouvido dele, entre cortes de áudio. — *"O necessário". Você ouviu o risco e escolheu. Isso não me permite dizer que não havia outra saída, nem que os corpos nas células estavam mortos.*
 
@@ -43,7 +43,7 @@ Eles alcançaram a escada. Valéria subiu primeiro, ágil apesar da exaustão. V
 
 O fluido subiu, tocando o calcanhar da bota de Gabo. A sensação foi de calor intenso, seguido de uma dormência gelada. O couro da bota chiou.
 
-— Cala essa boca, Aria! — Gabo rosnou contra o microfone da lapela.
+— Cala essa boca, Aria! — Gabo falou contra o microfone da lapela.
 
 Uma risada cristalina e distorcida por estática cortou o barulho das sirenes de alerta dentro do fone dele.
 

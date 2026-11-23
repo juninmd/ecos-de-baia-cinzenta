@@ -33,9 +33,9 @@ Elias levantou-se, tirando um jogo de chaves e o testador sônico da mochila. El
 
 — Os cabos de sustentação tão lubrificados com parafina pesada, — o garoto analisou, apontando a luz para o mecanismo. — Não vejo oxidação nos fios externos. A alma do cabo eu não consigo examinar daqui. Mas o regulador centrífugo tá com a mola de recuo travada por poeira estática. Se eu destravar a mola com um pulso de vibração sônica, podemos testar o regulador sem carga e descer com o freio manual ao alcance. Isso não certifica o cabo.
 
-Valéria olhou para mim, os olhos prateados faiscando de aprovação genuína.
+Valéria olhou para mim, aprovando de verdade.
 
-— Viu só, Moretti? Eu disse que trazer um técnico de manutenção assustado era o melhor investimento tático da semana.
+— Viu só, Moretti? Eu disse que trazer um técnico de manutenção assustado era o melhor investimento da semana.
 
 — O garoto conquistou o lugar dele na equipe faz tempo, Val, — afirmei, dando um tapinha encorajador no ombro de Elias. — Mostra pra essa máquina velha como o pessoal da manutenção trabalha.
 

@@ -70,7 +70,7 @@ Gabo foi até a mesa e pegou um mapa de papel do sistema de esgoto, desdobrando-
 
 O som da sirene mudou de tom. Ficou mais agudo, mais rápido. E então, o som de explosões distantes começou. *Thump. Thump. Thump.* Morteiros de concussão. Eles estavam colapsando os túneis de acesso para selar as saídas.
 
-— *Eles estão fechando a tampa* — avisou Aria pelo comunicador, a voz agora desprovida de emoção, puramente tática, apesar dos cortes no canal de áudio. — *O mapa registra outra galeria ao sul. Os impactos estão mais próximos; não consigo prever quando este trecho vai ceder.*
+— *Eles estão fechando a tampa* — avisou Aria pelo comunicador, a voz curta e baixa, cortada no canal de áudio. — *O mapa registra outra galeria ao sul. Os impactos estão mais próximos; não consigo prever quando este trecho vai ceder.*
 
 Gabo olhou para o LED azul-âmbar piscando no pulso de Valéria. Por um segundo, ele quis ouvir apenas uma ferramenta. A última resposta dela não deixou.
 
@@ -84,6 +84,6 @@ Prenderam Rangel à prancha de transporte. As rodas cabiam na galeria de inspeç
 
 — Vamos — Gabo ordenou.
 
-Eles saíram do "Fliperama" para a escuridão absoluta do túnel principal. Atrás deles, a porta do esconderijo se fechou, selando o pouco de segurança que tiveram.
+Eles saíram do "Fliperama" para o escuro do túnel principal. Atrás deles, a porta do esconderijo se fechou, selando o pouco de segurança que tiveram.
 
 Rangel parou de responder antes da segunda curva. Val segurou a cabeceira da prancha com as duas mãos e não olhou para trás. A sirene continuava lá fora, mas o túnel já tinha um som próprio: o gotejar da cidade sobre o teto, marcando o passo que eles não podiam perder.

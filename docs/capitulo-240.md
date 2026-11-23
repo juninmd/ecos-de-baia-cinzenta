@@ -79,7 +79,7 @@ Elias tirou do bolso o mapa protegido em plástico. No verso, a localização do
 
 Virei as costas para a cova.
 
-O joelho doeu quando forcei a perna direita na subida da rampa, e a pontada no braço fraturado me lembrou que a *Caronte* estava guardada com as coisas de Elena. Senti falta da voz de Aria, da maneira como discordava antes de me ajudar a enxergar a próxima esquina. Eu era um homem manco, com um braço preso na tipóia e gente demais para lembrar.
+O joelho doeu quando forcei a perna direita na subida da rampa, e a pontada no braço fraturado me lembrou que a *Caronte* estava guardada com as coisas de Elena. Senti falta da voz de Aria, da maneira como discordava antes de me ajudar a enxergar a próxima esquina. Eu era um homem manco, com um braço preso na tipoia e gente demais para lembrar.
 
 A pasta ainda existia. Eu não precisava aceitar o lugar que ela tinha reservado para mim.
 

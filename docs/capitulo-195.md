@@ -7,7 +7,7 @@ Personagens Presentes: Gabo, Valéria, Elias
 
 # Capítulo 195: O Ermitão de Cobre
 
-A Subestação B era um mausoléu de transformadores gigantescos e cabos de cobre da espessura de troncos de árvores, mergulhada em uma escuridão gélida que contrastava com a fornalha da qual tínhamos acabado de escapar. O único som era o gotejar lento de condensação nas carcaças de aço e o chiado elétrico ocasional vindo de painéis de distribuição avariados.
+A Subestação B era um mausoléu de transformadores gigantescos e cabos de cobre da espessura de troncos de árvores, mergulhada num escuro frio que contrastava com a fornalha da qual tínhamos acabado de escapar. O único som era o gotejar lento de condensação nas carcaças de aço e o chiado elétrico ocasional vindo de painéis de distribuição avariados.
 
 O ar cheirava a poeira antiga, óleo mineral estagnado e ozônio frio. Na boca, o gosto amargo de cinzas e fuligem química ainda me queimava a língua, uma herança crua de cada batalha que travei desde o Dilúvio nas docas.
 
@@ -21,13 +21,13 @@ Valéria caminhava dois passos à frente, a pistola curta firme na mão e o cybe
 
 Cinquenta metros à frente, no cruzamento entre dois blocos de disjuntores de alta tensão, uma lâmpada halógena amarelada piscava sobre uma barricada improvisada.
 
-Não era obra da Aeterna Corp. Eram chapas de ferro-velho, portas de armários de vestiário e carcaças de servidores mortos empilhados com uma precisão paranoica de quem vivia escondido há muito tempo. No centro do entulho, uma fresta reforçada com grade de galinheiro revelava um ninho habitado.
+Não era obra da Aeterna Corp. Eram chapas de ferro-velho, portas de armários de vestiário e carcaças de servidores mortos empilhados com o cuidado paranoico de quem vivia escondido há muito tempo. No centro do entulho, uma fresta reforçada com grade de galinheiro revelava um ninho habitado.
 
 Um ruído estridente de ferramenta mecânica quebrou o silêncio.
 
 De trás de uma chapa de aço amassada, uma silhueta magra e curvada saltou para o meio do corredor, empunhando uma chave sônica industrial adaptada cuja ponta emitia um zumbido agudo e faíscas verdes.
 
-— Parados aí, carniças! — a voz saiu esganiçada, trêmula de puro pânico, com o sotaque arrastado dos estivadores da Velha Baía. — Um passo a mais e eu descarrego o capacitor dessa chave no chão molhado! Eu não sou biomassa pra estufa de ninguém! O Jardim não vai me levar vivo!
+— Parados aí, carniças! — a voz saiu esganiçada, trêmula de pânico, com o sotaque arrastado dos estivadores da Velha Baía. — Um passo a mais e eu descarrego o capacitor dessa chave no chão molhado! Eu não sou biomassa pra estufa de ninguém! O Jardim não vai me levar vivo!
 
 Parei no mesmo instante, apoiando o peso na perna direita para aliviar a tensão nos parafusos do joelho mecânico.
 
@@ -43,7 +43,7 @@ O homem piscou os olhos duas vezes, olhando da pistola de Valéria para a minha 
 
 — Se a gente tivesse raízes na garganta, você já teria virado adubo há dois minutos — retruquei, a voz rouca arranhando o ar frio. — Eu sou Gabriel Moretti. A garota é Valéria Cruz. Nós acabamos de explodir o núcleo térmico do Jardim lá embaixo. O Setor 7 acabou de virar carvão no poço de ventilação.
 
-O homem arregalou os olhos num choque absoluto.
+O homem arregalou os olhos.
 
 — Explodiram? O data-center inteiro? — ele deu um passo trêmulo para fora da barricada, a chave sônica pendendo inútil ao lado do quadril. — Eu... eu senti o chão tremer há dez minutos. Pensei que as caldeiras da cidade tinham arrebentado de vez. Eu tava monitorando os picos de energia pelo osciloscópio desse painel...
 
@@ -65,7 +65,7 @@ Elias ajeitou a máscara no pescoço, o olhar ganhando uma centelha de sobriedad
 
 — Esse ramal aqui é o antigo Duto de Refrigeração Secundária. Ele corta por baixo de toda a área comercial até desembocar no Hub Central do Setor 6. Uma galeria esquecida, com paredes de chumbo que a Aeterna usava pra blindar os cabos de alta tensão.
 
-Valéria me olhou, os olhos prateados brilhando com uma satisfação tática evidente.
+Valéria me olhou, satisfeita.
 
 — O Hub do Setor 6... É exatamente a rota limpa que a gente tava procurando pra contornar o colapso da superfície, Gabo.
 

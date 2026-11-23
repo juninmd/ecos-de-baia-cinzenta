@@ -7,7 +7,7 @@ Personagens Presentes: Gabo, Valéria, Elias
 
 # Capítulo 207: Colosso de Sucata
 
-A aberração que se ergueu da cratera de carga não pertencia à biologia nem à engenharia limpa da Aeterna. Era um leviatã de sucata compactada: vigas I de aço estrutural retorcidas como fêmures, lagartas dentadas de perfuração industrial formando uma couraça impenetrável e quatro braços de escavadeiras hidráulicas erguendo-se como foices monstruosas. Na junção onde deveria repousar uma cabeça, uma cabine de empilhadeira estilhaçada piscava faróis amarelos quebrados, iluminando a poeira vermelha com um olhar doentio e sem pupilas.
+A aberração que se ergueu da cratera de carga não pertencia à biologia nem à engenharia limpa da Aeterna. Era um leviatã de sucata compactada: vigas I de aço estrutural retorcidas como fêmures, lagartas dentadas de perfuração industrial formando uma couraça e quatro braços de escavadeiras erguidos como foices. Na junção onde deveria repousar uma cabeça, uma cabine de empilhadeira estilhaçada piscava faróis amarelos quebrados, iluminando a poeira vermelha com um olhar doentio e sem pupilas.
 
 O ruído das juntas enferrujadas girando a seco soava como metal sendo martelado em uma forja em colapso. O chão de concreto armado estalou sob as esteiras da criatura, cuspindo estilhaços de cimento que zumbiram pelo ar frio como estilhaços de granada.
 
@@ -33,7 +33,7 @@ Ergui os olhos através do turbilhão de fuligem vermelha. Vinte metros acima do
 
 — Se eu derrubar essa viga, a laje inteira pode vir abaixo! — avisei.
 
-— É isso ou virar purê nas garras dessa empilhadeira do inferno! — ela rebateu, trocando o carregador da pistola e disparando contra os sensores ópticos da cabine. — Eu tô tentando destravar os freios magnéticos de emergência pelo painel lateral, mas o relé tá preso na ferrugem! Você precisa cortar o pino de ancoragem da esquerda!
+— É isso ou virar purê nas garras dessa empilhadeira dos diabos! — ela rebateu, trocando o carregador da pistola e disparando contra os sensores ópticos da cabine. — Eu tô tentando destravar os freios magnéticos de emergência pelo painel lateral, mas o relé tá preso na ferrugem! Você precisa cortar o pino de ancoragem da esquerda!
 
 O colosso girou com um rugido mecânico ensurdecedor, os motores elétricos superaquecidos soltando labaredas vermelhas pelas juntas da carcaça. Ele ignorou Valéria e avançou direto contra mim, farejando o peso da minha armação de aço e o ruído da minha órtese que protestava a cada centímetro.
 
@@ -53,7 +53,7 @@ Girei o corpo e me atirei de cabeça em direção a uma vala de drenagem lateral
 
 O teto desabou.
 
-A ponte rolante de quarenta toneladas se soltou dos trilhos com um gemido angustiante de ferro rasgando ferro e despencou em queda livre. A estrutura colossal atingiu o colosso de sucata bem no centro de sua cabine de comando. O som do impacto foi tão monumental que esvaziou meus pulmões, fazendo o chão de concreto afundar trinta centímetros sob a pressão.
+A ponte rolante de quarenta toneladas se soltou dos trilhos com um gemido angustiante de ferro rasgando ferro e despencou em queda livre. A viga atingiu o monstro de sucata bem no centro de sua cabine de comando. O som do impacto foi tão monumental que esvaziou meus pulmões, fazendo o chão de concreto afundar trinta centímetros sob a pressão.
 
 Chapas de blindagem foram esmagadas como latas de refrigerante. Motores estouraram em uma torrente de óleo em chamas e peças de engrenagens voaram em todas as direções, riscando as paredes do armazém. O monstro soltou um último uivo eletrônico corrompido, e suas quatro pás mecânicas desabaram imóveis sobre os destroços fumegantes.
 
@@ -61,7 +61,7 @@ Uma onda de poeira e fumaça química varreu o espaço, apagando as últimas lâ
 
 Fiquei deitado na vala, tossindo o pó acre e sentindo o pulsar ensurdecedor do sangue nas têmporas. Meu braço mecânico estalava com pequenos espasmos térmicos, mas a estrutura resistira. A dor era limpa, real e imediata.
 
-Um feixe de luz azul cortou a escuridão absoluta e focou no meu rosto. Valéria surgiu sobre a borda da vala, o rosto manchado de fuligem, a franja desgrenhada e um sorriso cansado, mas vitorioso, estampado nos lábios finos.
+Um feixe de luz azul cortou o escuro e focou no meu rosto. Valéria surgiu sobre a borda da vala, o rosto manchado de fuligem, a franja desgrenhada e um sorriso cansado, mas vitorioso, estampado nos lábios finos.
 
 — Você ainda tá respirando, Moretti, ou eu tenho que procurar outro parceiro com gosto horrível pra café?
 
@@ -69,4 +69,4 @@ Um feixe de luz azul cortou a escuridão absoluta e focou no meu rosto. Valéria
 
 — Tô aqui! — a voz do técnico surgiu entre os destroços, trêmula mas inteira. — Tô inteiro... acho que tô inteiro.
 
-— Então recolhe as ferramentas, Elias, — Valéria ordenou, batendo a poeira das calças táticas. — A gente acabou de fazer um barulho que com certeza acordou tudo que dorme no Setor Seis. É hora de sumir dessa tumba antes que os parentes dessa sucata venham pro velório.
+— Então recolhe as ferramentas, Elias, — Valéria ordenou, batendo a poeira das calças. — A gente acabou de fazer um barulho que com certeza acordou tudo que dorme no Setor Seis. É hora de sumir dessa tumba antes que os parentes dessa sucata venham pro velório.

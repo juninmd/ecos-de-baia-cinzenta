@@ -16,19 +16,19 @@ Gabo estava de pé, encostado na parede fria e irregular do túnel. Ele respirav
 
 E então, veio o cheiro.
 
-Não o ozônio, não a fuligem da explosão. Mas aquele odor insidioso, adocicado e rançoso que vinha de anos atrás. *Tabaco barato. Piche impregnando as paredes de um apartamento minúsculo. A presença sufocante de Dante no corredor escuro.* A fumaça invisível rastejou pelas suas narinas, ativando a repulsa visceral que sempre dormia com um olho aberto dentro dele. A náusea subiu quente e azeda como bile pela sua garganta.
+Não o ozônio, não a fuligem da explosão. Mas aquele odor insidioso, adocicado e rançoso que vinha de anos atrás. *Tabaco barato. Piche impregnando as paredes de um apartamento minúsculo. A presença sufocante de Dante no corredor escuro.* A fumaça invisível rastejou pelas suas narinas, acordando a repulsa de sempre. A náusea subiu quente e azeda como bile pela sua garganta.
 
 Ele tentou apoiar o braço direito na parede. A dor o fez perder o equilíbrio; Val segurou a cinta da prancha e esperou que ele encontrasse apoio com o lado esquerdo. O cheiro lembrado continuou.
 
 — Status, Aria, — a voz de Gabo raspou na garganta seca pelo microfone de lapela, o som saindo mais como um rosnado do que uma palavra humana.
 
-No pulso de Valéria, o pendrive blindado piscou seu LED azul-gelo com a precisão fria da máquina pura. O canal adulto continuava danificado; Aria usava a síntese de emergência para transmitir os avisos através dos sensores do *Phantom V3*.
+No pulso de Valéria, o pendrive blindado piscou seu LED azul-gelo. O canal adulto continuava danificado; Aria usava a síntese de emergência para transmitir os avisos através dos sensores do *Phantom V3*.
 
 — *Vejo uma passagem entre os escombros,* — relatou Aria pelo alto-falante do deck, a modulação de sua voz carente de qualquer emoção após a destruição de metal que ela mesma calculara no painel do trem. — *Os níveis de radiação térmica na brecha estão decaindo. Entretanto, o esforço cinético anterior comprometeu os sistemas hidráulicos do exoesqueleto de suporte em suas pernas, Detetive Moretti. A órtese vai falhar; quando, é questão de carga.*
 
 — Então vamos antes que ela pare — respondeu ele, olhando a rampa de destroços.
 
-Valéria estava ajoelhada perto da escotilha superior do vagão, a graxa manchando seu rosto esgotado. Ela segurava o antebraço esquerdo onde o pendrive de Aria ainda irradiava o calor da sobrecarga do monorail, o olho cibernético piscando lentamente. A morte de Rangel no Setor de Purga ainda era um peso fresco e brutal nos ombros da hacker.
+Valéria estava ajoelhada perto da escotilha superior do vagão, a graxa manchando seu rosto esgotado. Ela segurava o antebraço esquerdo onde o pendrive de Aria ainda irradiava o calor da sobrecarga do monorail, o olho cibernético piscando lentamente. A morte de Rangel no Setor de Purga ainda era um peso fresco nos ombros de Valéria.
 
 — Gabo... a gente jogou um trem contra uma porta sem saber o que tinha atrás. E no tanque... — Valéria balançou a cabeça, encarando o LED glacial do drive em seu pulso. — Não sei se tinha gente do outro lado daquela porta. Ou nas células que o fluxo atingiu.
 
@@ -50,6 +50,6 @@ Ele tentou apoiar o lado direito e perdeu a força. Val prendeu a tala ao peito 
 
 — Aria varrendo o espectro pelo seu pulso na frente, Val, limpando os pontos cegos. E fica pronta pra procurar qualquer linha limpa da Aeterna pra gente hackear, — comandou Gabo, o instinto de policial assumindo o controle sobre o corpo despedaçado. — Nós não viemos até aqui para morrer no porão.
 
-Eles começaram a subida pela rampa de entulhos deixada pela explosão. O calor era uma muralha, o cheiro de fósforo queimado mascarava tudo. Para Gabo, cada degrau improvisado era um pacto silencioso com a própria dor, trocando o conforto de desistir pela necessidade aguda, pontiaguda e letal de fazer o bastardo no topo pagar por brincar de deus.
+Eles começaram a subida pela rampa de entulhos deixada pela explosão. O calor era uma muralha, o cheiro de fósforo queimado mascarava tudo. Para Gabo, cada degrau improvisado era um pacto silencioso com a própria dor, trocando o conforto de desistir pela necessidade de fazer o bastardo no topo pagar por brincar de deus.
 
 O Subnível 3.0 não era mais um mito. Era a próxima vala comum.

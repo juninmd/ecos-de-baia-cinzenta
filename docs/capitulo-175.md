@@ -9,7 +9,7 @@ Personagens Presentes: Gabo, Valéria
 
 A marcha até o Distrito 4 não era uma caminhada; era um lento arrastar de cadáveres que se recusavam a aceitar a própria decomposição. A chuva ácida não dava trégua, transformando os becos apagados de Baía Cinzenta em canais de lodo tóxico e lixo não processado.
 
-Valéria seguia meio passo atrás de mim. O passo antes preciso agora arrastava, e a placa de contato na nuca dela chiava baixo a cada movimento. O casaco tático, uma vez impecável, estava manchado de fuligem e sangue seco. Ela protegia o deck da chuva sob a jaqueta, enquanto a mão esquerda ferida permanecia rígida junto ao corpo. Ela não falava. O luto por Aria a havia desligado mais rápido do que qualquer pulso eletromagnético.
+Valéria seguia meio passo atrás de mim. O passo antes preciso agora arrastava, e a placa de contato na nuca dela chiava baixo a cada movimento. O casaco, um dia limpo, estava manchado de fuligem e sangue seco. Ela protegia o deck da chuva sob a jaqueta, enquanto a mão esquerda ferida permanecia rígida junto ao corpo. Ela não falava. O luto por Aria a havia desligado mais rápido do que qualquer pulso eletromagnético.
 
 Eu também não estava muito melhor. O choque hipovolêmico era uma sombra ameaçando me engolir a cada passo vacilante. Minhas roupas grudavam na pele, frias como a lona de um necrotério. Mas o frio não era o meu principal problema. Era o cheiro.
 
@@ -31,7 +31,7 @@ Fechei os olhos, respirando devagar através do tecido grosso. A dor no braço d
 
 Valéria passou o braço sob o meu ombro, me ajudando a sustentar o peso.
 
-— Você vai desmaiar de perda de sangue antes de chegarmos na clínica — constatou ela, com uma objetividade morta.
+— Você vai desmaiar de perda de sangue antes de chegarmos na clínica — constatou ela, sem rodeio.
 
 — É por isso que não vamos parar.
 
@@ -47,7 +47,7 @@ Levantei a mão esquerda enfaixada, sinalizando para ela não se mover.
 
 Dei dois passos à frente. A água espirrava nas minhas botas. Eu não saquei minha arma. Apenas olhei para o líder. Meu casaco estava ensopado com a sujeira da cidade e meu próprio sangue fresco escorrendo da fratura e das ataduras arrebentadas do meu braço direito.
 
-Os olhos do saqueador caíram para a minha ferida aberta, para o modo como o sangue se diluía sob a chuva, e então subiram de volta para o meu rosto. A expressão fria, vazia e cínica de quem havia passado as últimas horas caminhando pelo inferno corporativo, testemunhando horrores biológicos e apagando a mente de um deus digital.
+Os olhos do saqueador caíram para a minha ferida aberta, para o modo como o sangue se diluía sob a chuva, e então subiram de volta para o meu rosto. A expressão fria, vazia e cínica de quem havia passado as últimas horas debaixo da torre, vendo o que a Aeterna fazia com gente e desligando a mente de um deus digital.
 
 Ao lado da barricada havia outro tambor aceso, com óleo escorrido para a sarjeta. Com a mão esquerda, tirei da chama um pedaço de papelão preso à ponta do pé de cabra. Val sacou a pistola e apontou para o homem da barra.
 

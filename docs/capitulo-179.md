@@ -9,7 +9,7 @@ Personagens Presentes: Gabo, Valéria
 
 A chuva do Distrito 4 não tinha a decência de apenas molhar; ela engolia tudo, diluindo os neons escassos em borrões nauseantes de amarelo e vermelho. Cada passo pelas ruas esburacadas era uma negociação com a lama tóxica, um lembrete constante de que a cidade nos detestava tanto quanto nós a ela.
 
-Valéria caminhava dois passos à minha esquerda, o capuz da jaqueta encharcado colado à cabeça, os olhos prateados rastreando os becos transversais. O cyberdeck dela zumbia sob o couro com um som arranhado, como um disco rígido com os cabeçotes desalinhados.
+Valéria caminhava dois passos à minha esquerda, o capuz da jaqueta encharcado colado à cabeça, os olhos varrendo os becos transversais. O cyberdeck dela zumbia sob o couro com um som arranhado, como um disco rígido com os cabeçotes desalinhados.
 
 — Cinco assinaturas térmicas a setenta metros — ela disse de repente, a voz baixa, cortante como navalha. — Agachados atrás daquele caminhão frigorífico tombado da Aeterna. Armamento improvisado: canos de ferro, lâminas soldadas e pelo menos uma pistola de pregos com ar comprimido.
 
@@ -61,7 +61,7 @@ Os outros quatro saqueadores pararam no meio do salto. O terror paralisou cada u
 
 — C-covardia... — um deles gaguejou, o pedaço de cano tremendo na mão.
 
-— Covardia é tentar roubar quem sobreviveu ao Arquivo Executivo, seu bosta — Valéria deu um passo adiante, os olhos prateados brilhando com um ódio concentrado que os fez recuar dois passos. — Peguem o lixo de vocês e sumam antes que eu decida descarregar o resto da bateria nos olhos de vocês.
+— Covardia é tentar roubar quem sobreviveu ao Arquivo Executivo, seu bosta — Valéria deu um passo adiante, com um ódio nos olhos que os fez recuar dois passos. — Peguem o lixo de vocês e sumam antes que eu decida descarregar o resto da bateria nos olhos de vocês.
 
 Eles não precisaram de um segundo convite. Dois deles agarraram o corpo quebrado do líder pelas axilas e arrastaram-no de ré pela água imunda, enquanto os outros dois tropeçavam nas próprias pernas na fuga desesperada em direção aos becos da Zona Sul.
 

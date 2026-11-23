@@ -7,11 +7,11 @@ Personagens Presentes: "Gabo, Valéria, Aria (Reboot), Rangel (Inconsciente)"
 
 # Capítulo 138: Peso da Carne
 
-O ar nos túneis de manutenção da Necrópole não era apenas viciado; ele tinha textura. Era uma sopa fria de metano, ferrugem e o cheiro adocicado de esgoto antigo que cobria a garganta como um filme de óleo.
+O ar nos túneis de manutenção da Necrópole tinha textura. Era uma sopa fria de metano, ferrugem e o cheiro adocicado de esgoto antigo que cobria a garganta como um filme de óleo.
 
 Gabo grunhiu, ajustando a pegada nas alças dianteiras da maca de Rangel, enquanto Valéria sustentava a extremidade das botas. O couro estava escorregadio de sangue seco e umidade. A cada passo, o peso do inspetor inconsciente puxava os ombros de Gabo para baixo, enviando choques elétricos através de suas costelas doloridas.
 
-— *Ritmo cardíaco do Ativo Líder elevado em 142 batimentos por minuto* — a voz de Aria cortou a escuridão pelo comunicador de lapela, monótona e limpa, destoando da sujeira ao redor. O LED azul-gelo do pendrive de titânio iluminava o queixo suado de Gabo. — *Sugiro uma pausa de 180 segundos para evitar colapso muscular da dupla de transporte.*
+— *Ritmo cardíaco do Ativo Líder elevado em 142 batimentos por minuto* — a voz de Aria cortou a escuridão pelo comunicador de lapela, limpa demais para aquela sujeira. O LED azul-gelo do pendrive de titânio iluminava o queixo suado de Gabo. — *Sugiro uma pausa de 180 segundos para evitar colapso muscular da dupla de transporte.*
 
 — Eu estou bem — Gabo mentiu, trincando os dentes.
 
@@ -21,7 +21,7 @@ Gabo soltou uma das mãos da maca por um segundo e pressionou o "Colar de Sol" c
 
 — *A negação da fadiga é um traço ineficiente da biologia humana* — Aria continuou pelo alto-falante, impassível. — *O sensor registra perda de equilíbrio. Não tenho um modelo confiável para estimar quanto seu corpo ainda aguenta.*
 
-— Aria, cala a boca — Valéria sibilou, ofegante sob o peso das pernas da maca. A luz de sua lanterna de ombro varria as paredes cobertas de limo e cabos roídos. — Você não está ajudando.
+— Aria, cala a boca — disse Valéria, ofegante sob o peso das pernas da maca. A luz de sua lanterna de ombro varria as paredes cobertas de limo e cabos roídos. — Você não está ajudando.
 
 — *Estou tentando manter o aviso compreensível. A modulação que eu usava se perdeu no reboot, e com ela metade do nosso histórico. Se eu deixar o canal mudo, vocês perdem o alerta.*
 
@@ -51,7 +51,7 @@ Pelo sensor óptico do comunicador, Aria escaneou o poço e projetou a malha de 
 
 — *Vejo água na base e ferrugem nos apoios. A parede pode ceder; o lodo tem fundo que o sonar não fecha.*
 
-A voz sintética fez uma pausa de um décimo de segundo.
+Aria fez uma pausa de um décimo de segundo.
 
 — *O plano automático propõe uma queda amortecida. Vou descartá-lo: não conhecemos a profundidade do lodo nem o estado do ferimento. Procurem um ponto estrutural para a cinta de resgate.*
 
@@ -85,7 +85,7 @@ Gabo e Valéria amarraram os cintos e uma tira de lona da maca, laçando o supor
 
 O atrito da cinta no suporte rangeu quando Valéria começou a liberar o peso lá de cima, seguindo o bip rítmico que Aria emitia no cyberdeck para manter a velocidade constante.
 
-O esforço era brutal. Lá embaixo, quando a maca ficou ao alcance de seus braços erguidos, Gabo guiou a cabeceira até o apoio, mantendo a carga na cinta. Seus músculos das costas gritaram e o ombro machucado pareceu rasgar por dentro. O suor escorria em seus olhos, ardendo. Ele cerrou os dentes, focando na dor do Colar de Sol pressionado contra o peito pela tensão muscular. *Aguenta. Só mais um pouco.*
+O esforço doía nos ombros. Lá embaixo, quando a maca ficou ao alcance de seus braços erguidos, Gabo guiou a cabeceira até o apoio, mantendo a carga na cinta. Seus músculos das costas gritaram e o ombro machucado pareceu rasgar por dentro. O suor escorria em seus olhos, ardendo. Ele cerrou os dentes, focando na dor do Colar de Sol pressionado contra o peito pela tensão muscular. *Aguenta. Só mais um pouco.*
 
 — Devagar, Val — ele grunhiu, nivelando a estrutura com as mãos. — Mais meio metro.
 
@@ -98,7 +98,7 @@ Gabo olhou para suas próprias mãos. Estavam tremendo. Não de medo, mas de fra
 Foco.
 Ele fechou o punho sobre o colar sob a camisa. A dor aguda das pontas de metal perfurando a pele da palma da mão foi um choque de realidade. *Eu ainda estou de pé.*
 
-— *Movimento detectado no setor norte* — Aria avisou no comunicador, o LED azul piscando em alerta tático.
+— *Movimento detectado no setor norte* — Aria avisou no comunicador, o LED azul piscando.
 
 Gabo levantou a cabeça, o instinto policial acendendo instantaneamente através da exaustão.
 

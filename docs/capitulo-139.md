@@ -7,11 +7,11 @@ Personagens Presentes: "Gabo, Valéria, Aria (Reboot), Rangel (Inconsciente)"
 
 # Capítulo 139: Natureza Morta
 
-O cheiro de formol era tão forte que fazia os olhos lacrimejarem. Não era apenas o odor químico de preservação; havia algo podre por baixo, como carne deixada ao sol e depois mergulhada em perfume barato para disfarçar.
+O cheiro de formol era tão forte que fazia os olhos lacrimejarem. Havia o odor químico de preservação e, por baixo, algo podre, como carne deixada ao sol e depois mergulhada em perfume barato para disfarçar.
 
 Gabo tossiu, cobrindo o nariz com a gola da jaqueta. O gosto metálico do sangue em sua boca se misturava com o ar ácido.
 
-— *Ventilação inoperante* — Aria informou pelo comunicador, sua voz sintética ressoando baixa no corredor de azulejos brancos encardidos. — *O detector está em alarme e a última calibração dele é anterior a esta noite. Cubram a entrada de ar e saiam desta concentração; não temos proteção para permanecer aqui.*
+— *Ventilação inoperante* — Aria informou pelo comunicador, a voz baixa no corredor de azulejos brancos encardidos. — *O detector está em alarme e a última calibração dele é anterior a esta noite. Cubram a entrada de ar e saiam desta concentração; não temos proteção para permanecer aqui.*
 
 — Estamos indo o mais rápido que dá — Valéria retrucou, ajudando Gabo a firmar a prancha de transporte. — O Rangel não aguenta correr.
 
@@ -33,7 +33,7 @@ Um guincho agudo rompeu o silêncio, e a matilha avançou.
 
 — *Iniciando protocolo de contenção perimetral* — Aria declarou no fone. — *Sequestrando iluminação de emergência local. Gabo, siga os vetores acústicos.*
 
-As lâmpadas amareladas da câmara começaram a piscar em uma frequência estroboscópica brutal controlada pelo terminal em que Val ligara o cabo. Duas criaturas interromperam o avanço; as outras seguiram o barulho da maca. A primeira criatura saltou em direção a Gabo.
+As lâmpadas amareladas da câmara começaram a piscar num estroboscópio controlado pelo terminal em que Val ligara o cabo. Duas criaturas interromperam o avanço; as outras seguiram o barulho da maca. A primeira criatura saltou em direção a Gabo.
 
 — *Vetor um: dez horas, altura do tórax. Golpe descendente em 0,3 segundos* — a voz fria de Aria ditou no ouvido de Gabo.
 
@@ -49,7 +49,7 @@ Valéria acionou o capacitor de choque do deck e brandiu sua lanterna pesada de 
 
 Era a voz de Aria no comunicador que dominava o caos. Ela não tinha braços para empunhar uma lâmina, mas oferecia avisos que Gabo e Valéria ainda precisavam confirmar. Um deles chegou tarde e abriu um corte novo no casaco de Gabo; ele recuou sem executar o golpe indicado. Val passou a confirmar em voz alta o que conseguia ver; Gabo escolhia quando avançar e quando proteger a prancha.
 
-Não havia raiva na voz do pendrive. Não havia medo. Apenas eficiência matemática de abatedouro.
+Não havia raiva na voz do pendrive. Não havia medo. Só a eficiência de um abatedouro.
 
 Uma última criatura conseguiu saltar por cima da bancada quebrada e se lançou diretamente sobre o peito de Rangel. Antes que Valéria pudesse gritar, Val atingiu a criatura com a haste do estrobo. Aria perdeu parte da imagem, mas conseguiu avisar Gabo:
 
@@ -81,7 +81,7 @@ Membros substituídos por ferramentas industriais. Torsos abertos revelando meca
 
 — A Galeria — Valéria sussurrou, a voz cheia de repulsa.
 
-No centro do salão, dominando o espaço, havia um tanque maior que os outros, elevado sobre um pedestal. Dentro, uma figura colossal flutuava em suspensão. Era uma fusão grotesca de múltiplos corpos, unidos para formar uma espécie de titã biomecânico, com dezenas de braços e cabos que saíam de sua espinha como raízes de uma árvore morta.
+No centro do salão, dominando o espaço, havia um tanque maior que os outros, elevado sobre um pedestal. Dentro, uma figura enorme flutuava em suspensão. Eram vários corpos fundidos, unidos para formar uma espécie de titã biomecânico, com dezenas de braços e cabos que saíam de sua espinha como raízes de uma árvore morta.
 
 — *Há movimento no cilindro central* — Aria disse pelo fone. — *O corpo se move; vivo ou não, o sensor não separa.*
 
@@ -93,6 +93,6 @@ De repente, o som de estática crepitou em alto-falantes invisíveis.
 
 Gabo apertou o vergalhão até os nós dos dedos ficarem brancos. Ele conhecia aquela voz. O homem que havia transformado a cidade em um necrotério particular.
 
-— Onde você está? — Gabo rosnou para o ar vazio.
+— Onde você está? — Gabo disse para o ar vazio.
 
 — *Eu estou em toda parte. Na arte. Na preservação. Mas, fisicamente...* — As luzes do salão piscaram e se fixaram em uma porta lateral que se abriu com um silvo hidráulico. — *Estou no estúdio. Venham. O vernissage está prestes a começar.*

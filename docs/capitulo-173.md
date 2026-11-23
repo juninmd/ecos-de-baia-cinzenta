@@ -59,6 +59,6 @@ Ela levantou lentamente a cabeça e olhou para as grandes portas de vidro estilh
 
 Lá fora, entre os vidros quebrados, a cidade começava a fazer inventário. Duas figuras atravessaram a avenida arrastando um carrinho de mão carregado de fios; mais adiante, alguém tentava acender uma fogueira dentro de um tambor e o vento apagava o fósforo pela terceira vez, teimoso. Ninguém olhou para a torre. Ninguém tinha tempo de olhar para o lugar onde o mundo havia acabado: era preciso comer antes de amanhã.
 
-Encostei a cabeça no pilar e deixei que a chuva fria borrifasse meu rosto. Ela estava certa, mas naquele momento, eu não me importava. Não havia vozes de IA na minha cabeça, não havia a imposição de um pai psicopata na infraestrutura da cidade. Havia apenas eu, o latejo surdo do meu braço quebrado e o cheiro podre do meu mundo desmoronando, analógico e brutalmente silencioso.
+Encostei a cabeça no pilar e deixei que a chuva fria borrifasse meu rosto. Ela estava certa, mas naquele momento, eu não me importava. Não havia vozes de IA na minha cabeça, não havia a imposição de um pai psicopata na infraestrutura da cidade. Havia apenas eu, o latejo surdo do meu braço quebrado e o cheiro podre do meu mundo desmoronando, analógico e calado.
 
 Tirei o Colar de Sol do bolso interno e o fechei na palma da mão esquerda. O metal estava morno da minha própria temperatura, sem nenhum sol dentro, e a corrente fina cortou a pele do dedo no ponto onde já não havia pele. Apertar aquilo não resolvia nada. Só me lembrava de que eu ainda devia uma pessoa à água.

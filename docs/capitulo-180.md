@@ -33,7 +33,7 @@ Cravei as garras de ferro da armação na borda do piso, testando a folga nos pi
 
 — Para com isso, Moretti! — a voz de Valéria cortou o breu, alta e ríspida.
 
-Ergui os olhos. Ela estava em pé diante de mim, as mãos na cintura, os olhos prateados faiscando sob a luz fraca dos próprios LEDs da franja.
+Ergui os olhos. Ela estava em pé diante de mim, as mãos na cintura, os olhos faiscando sob a luz fraca dos próprios LEDs da franja.
 
 — Tô testando a pressão do retorno — respondi, entre dentes.
 
@@ -57,7 +57,7 @@ Valéria soltou uma risada fraca, sem humor, sentando-se de pernas cruzadas no g
 
 — Mandei ele tomar naquele lugar onde o sinal da rede nunca chega — ela deu um sorriso amargo, inclinando a cabeça para trás e encostando na mesma pilastra que eu. — Ninguém programa o que eu sinto, Moretti. Nem a Aeterna, nem o Vasco, nem esse código barato de segurança.
 
-Ficamos em silêncio por longos minutos. A escuridão ao redor parecia menos hostil com a presença viva dela ali, respirando o mesmo ar úmido, desafiando a decadência da cidade com pura petulância humana.
+Ficamos em silêncio por longos minutos. A escuridão ao redor parecia menos hostil com a presença viva dela ali, respirando o mesmo ar úmido, desafiando a decadência da cidade com petulância.
 
 — Val.
 

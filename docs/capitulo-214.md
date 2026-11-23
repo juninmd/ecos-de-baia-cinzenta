@@ -17,7 +17,7 @@ Val parou a quatro passos da barricada e examinou a massa escura com o feixe óp
 
 — É aqui que o Elias entra com o brinquedo dele, — respondi, apoiando o cano curto da *Caronte* na armação mecânica de sucata para aliviar a queimação na clavícula. O ombro direito latejava sem trégua onde a armação puxava o fixador instalado pela equipe; o sangue seco colava a atadura na carne viva, e as cicatrizes do Dilúvio repuxavam no frio extremo. — Elias, mostra como a gente quebra esse gelo corporativo.
 
-Elias deu um passo à frente, as mãos protegidas por luvas surradas segurando a ferramenta sônica que calibrara na descida. Seus joelhos ainda tremiam, mas o brilho em seus olhos era de pura concentração técnica.
+Elias deu um passo à frente, as mãos protegidas por luvas surradas segurando a ferramenta sônica que calibrara na descida. Seus joelhos ainda tremiam, mas os olhos estavam concentrados.
 
 — O cristal de óxido tem uma frequência de cisalhamento que a ferramenta ainda precisa encontrar no teste de contato, — disse ele, a voz firme apesar do frio que fazia seus dentes baterem. — Posso testar a vibração numa borda da crosta. Se ela ceder, tentamos ampliar a abertura; não sei como o material vai reagir. Quando a crosta soltar, pode haver tecido vivo embaixo. Não vou prever que morre antes de alcançar a gente.
 
@@ -27,17 +27,17 @@ Elias assentiu, ergueu o bocal de cerâmica da ferramenta sônica e encostou o b
 
 Ele apertou o acionador manual.
 
-Um assobio agudo, vindo do bocal em contato com a crosta, cortou o ar gélido do túnel. O som parecia vibrar dentro das minhas têmporas e nos dentes da frente. Na superfície da parede congelada, linhas finas e brilhantes começaram a se desenhar em espiral, como teias de aranha rasgando uma vidraça maciça. A crosta de Geada Negra estalou com uma série de estalos secos e sucessivos, soltando lascas que tilintavam no piso de concreto como cacos de obsidiana.
+Um assobio agudo, vindo do bocal em contato com a crosta, cortou o ar frio do túnel. O som parecia vibrar dentro das minhas têmporas e nos dentes da frente. Na superfície da parede congelada, linhas finas e brilhantes começaram a se desenhar em espiral, como teias de aranha rasgando uma vidraça maciça. A crosta de Geada Negra estalou com uma série de estalos secos e sucessivos, soltando lascas que tilintavam no piso de concreto como cacos de obsidiana.
 
 — Tá funcionando! — gritou Elias, aumentando a amplitude da frequência. — A crosta está soltando! Mas as raízes estão se mexendo!
 
 Mas o alarme do cyberdeck de Valéria apitou na mesma hora.
 
-— Movimento nos nós laterais! — ela berrou, erguendo a arma e disparando três tiros certeiros contra gavinhas grossas que se desenrolavam do teto, cuspindo lodo marrom e fagulhas azuis. — As gavinhas estão se soltando! Moretti, quebra o núcleo agora!
+— Movimento nos nós laterais! — ela gritou, erguendo a arma e disparando três tiros certeiros contra gavinhas grossas que se desenrolavam do teto, cuspindo lodo marrom e fagulhas azuis. — As gavinhas estão se soltando! Moretti, quebra o núcleo agora!
 
 Não hesitei. Avancei com a perna boa, ignorando o gemido áspero da órtese direita que arrastava no concreto, e desferi um golpe devastador com o punho de sucata de Vasco no ponto onde as fissuras sônicas convergiam.
 
-O impacto da massa de ferro forjado contra o bloco de gelo fragilizado soou como a detonação de uma mina subterrânea. A crosta de amônia cristalizada estourou em uma nuvem de pó gélido e farpas negras.
+O impacto da massa de ferro forjado contra o bloco de gelo fragilizado soou como a detonação de uma mina subterrânea. A crosta de amônia cristalizada estourou numa nuvem de pó gelado e farpas negras.
 
 Apontei a *Caronte* para a abertura.
 
@@ -59,7 +59,7 @@ Elias voltou a se aproximar. Não perguntou se eu tinha certeza; eu não tinha.
 
 Duas ramificações biomecânicas grossas chicotearam para fora das bordas da fenda, tentando agarrar o cano quente da escopeta e os tornozelos de Elias.
 
-Valéria saltou para a frente com um movimento preciso e impiedoso, desferindo uma descarga de seu bastão tático no bulbo sensorial de uma delas, enquanto eu esmagava a outra contra o batente com o calcanhar reforçado da minha bota. A massa orgânica soltou um silvo asfixiado, contraiu-se em um espasmo final e desabou inerte sobre a poeira, congelando quase instantaneamente sob o ar polar.
+Valéria saltou para a frente e descarregou o bastão no bulbo sensorial de uma delas, enquanto eu esmagava a outra contra o batente com o calcanhar reforçado da minha bota. A massa orgânica soltou um silvo asfixiado, contraiu-se em um espasmo final e desabou inerte sobre a poeira, congelando quase instantaneamente sob o ar polar.
 
 O silêncio voltou a reinar no túnel, quebrado apenas pela nossa respiração entrecortada e pelo som fino de poeira de ferro caindo sobre as poças de óleo.
 

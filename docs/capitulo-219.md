@@ -7,7 +7,7 @@ Personagens Presentes: Gabo, Valéria, Elias
 
 # Capítulo 219: O Útero de Chumbo
 
-O fundo do poço nos recebeu com a indiferença gélida de uma câmara mortuária anterior à própria história. Não houve impacto dramático; apenas o baque surdo dos meus coturnos sobre a laje de concreto usinado de alta densidade. O som ecoou na vastidão confinada, seco, pesado e sem retorno. Apoiei o peso na perna boa, enquanto a armação industrial de sucata instalada por Vasco para sustentar a fratura puxava meu ombro com uma fisgada aguda de cansaço. A carne costurada ardia sob as bandagens sujas, onde os pontos continuavam sangrando em silêncio. As cicatrizes do Dilúvio queimavam como brasa viva; tanta gente morreu naquela enchente maldita e eu perdi quase tudo o que chamava de vida, e tive de esperar a tontura passar antes de andar.
+O fundo do poço nos recebeu com a indiferença de uma câmara mortuária anterior à própria história. Não houve impacto dramático; apenas o baque surdo dos meus coturnos sobre a laje de concreto usinado de alta densidade. O som ecoou na vastidão confinada, seco, pesado e sem retorno. Apoiei o peso na perna boa, enquanto a armação industrial de sucata instalada por Vasco para sustentar a fratura puxava meu ombro com uma fisgada aguda de cansaço. A carne costurada ardia sob as bandagens sujas, onde os pontos continuavam sangrando em silêncio. As cicatrizes do Dilúvio queimavam como brasa viva; tanta gente morreu naquela enchente maldita e eu perdi quase tudo o que chamava de vida, e tive de esperar a tontura passar antes de andar.
 
 — Chegamos ao leito de pedra, — anunciei, a voz raspando na garganta ressecada pelo ar seco e carregado de poeira.
 
@@ -19,7 +19,7 @@ Atrás de mim, Elias desabou sentado sobre um caixote de ferramentas de metal re
 
 Ficamos parados até ele conseguir me dizer o próprio nome sem buscar ar no meio. Não era uma vitória sobre o medo; era só o direito de não ser arrastado por nós.
 
-Elias soltou um riso nervoso, enxugou o suor gélido da testa com a manga e se pôs de pé, firmando o cinto de ferramentas na cintura.
+Elias soltou um riso nervoso, enxugou o suor frio da testa com a manga e se pôs de pé, firmando o cinto de ferramentas na cintura.
 
 — Eu tô de pé, Valéria... eu tô de pé.
 
@@ -27,7 +27,7 @@ Caminhamos pelo corredor escavado na rocha nua. As paredes eram cobertas por uma
 
 E então, o feixe da lanterna de Valéria parou sobre a parede frontal da câmara.
 
-A estrutura ocupava toda a extensão do vão. Era uma porta de explosão ciclópica, perfeitamente circular, com cinco metros de diâmetro, forjada em liga de titânio escuro e revestida por chapas de chumbo de quatro polegadas de espessura. No centro do círculo de metal maciço, fundida em alto-relevo na fundição original, repousava a insígnia arcaica da Aeterna Corp: um triângulo brutalista interceptado por três linhas verticais, anterior a qualquer neon ou propaganda do Distrito de Prata.
+A estrutura ocupava toda a extensão do vão. Era uma porta de explosão ciclópica, perfeitamente circular, com cinco metros de diâmetro, forjada em liga de titânio escuro e revestida por chapas de chumbo de quatro polegadas de espessura. No centro do círculo de metal maciço, fundida em alto-relevo na fundição original, repousava a insígnia arcaica da Aeterna Corp: um triângulo cortado por três linhas verticais, anterior a qualquer neon ou propaganda do Distrito de Prata.
 
 — O Útero de Chumbo, — sussurrou Valéria, aproximando-se da blindagem com a lanterna erguida. Ela passou a ponta dos dedos enluvados sobre a solda das chapas, o rosto iluminado por um espanto genuíno. — Esta liga foi feita pra resistir a explosões de impacto direto e tremores tectônicos de magnitude extrema. Não tem fechadura eletrônica, não tem leitor de retina, não tem rede de silício. É mecânica pura, analógica, do tempo em que as máquinas eram construídas pra durar mais que a própria civilização.
 
@@ -45,7 +45,7 @@ Aproximei-me do volante de metal forjado. Tinha quase um metro e meio de diâmet
 
 Ela cravou o pé de cabra na alavanca e puxou para baixo com todo o peso do corpo.
 
-Um silvo ensurdecedor de ar comprimido rasgou o silêncio da caverna, como uma serpente colossal despertando de um sono de cem anos. Jatos de vapor limpo escaparam das válvulas de alívio, soprando nuvens de poeira prateada que dançaram no ar morto.
+Um silvo ensurdecedor de ar comprimido rasgou o silêncio da caverna, como uma serpente enorme despertando de um sono de cem anos. Jatos de vapor limpo escaparam das válvulas de alívio, soprando nuvens de poeira prateada que dançaram no ar morto.
 
 — Pressão equalizada! — gritou Valéria, saltando de volta para o piso com um giro perfeito. — O peso tá livre, Moretti!
 
@@ -63,7 +63,7 @@ Três pinos gigantescos de chumbo e titânio recuaram para dentro das paredes co
 
 Do interior da antecâmara de Arca Zero, escapou uma lufada de ar frio, cristalino, estéril e impregnado com um suave cheiro de ozônio e antisséptico hospitalar imaculado. Era o ar mais puro que qualquer um de nós três já havia respirado em toda a vida na Baía Cinzenta.
 
-Valéria deu um passo à frente, os olhos prateados arregalados e a boca aberta em assombro silencioso.
+Valéria deu um passo à frente, os olhos arregalados e a boca aberta em assombro silencioso.
 
 — Não tem ferrugem... não tem colapso... — sussurrou ela. — Moretti... nós encontramos a Arca.
 

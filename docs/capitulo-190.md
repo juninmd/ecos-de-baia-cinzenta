@@ -29,7 +29,7 @@ O arnês apertou minha cintura; a armação bateu no meu lado e puxou o braço f
 
 A plataforma estava logo abaixo. Val procurou apoio com a bota, alcançou a borda e transferiu o peso para ela antes de soltar a linha.
 
-— Solta a trava! Agora! — Valéria gritou, cortando a fita do arnês com um golpe rápido de faca tática.
+— Solta a trava! Agora! — Valéria gritou, cortando a fita do arnês com um golpe rápido de faca.
 
 Ela soltou o trecho preso da cinta enquanto eu firmava a bota na borda. Desci o meio metro restante até o piso de ferro com um baque surdo, a lama e a graxa amortecendo o impacto. Minha perna direita cedeu dentro da órtese e bati com os joelhos no chão, apoiando a mão esquerda ensanguentada no concreto frio para não desabar de vez.
 
@@ -45,22 +45,22 @@ Valéria guardou a arma e me ajudou pelo lado esquerdo com a mão direita. A cob
 
 Foi então que olhamos ao redor.
 
-A plataforma de desembarque do Setor 7 era uma monstruosidade de arquitetura brutalista. Vigas de sustentação em arco de três metros de largura sustentavam o teto aveludado de escuridão. Mas o aço e o concreto não estavam sozinhos.
+A plataforma de desembarque do Setor 7 era um bloco enorme de concreto. Vigas de sustentação em arco de três metros de largura sustentavam o teto aveludado de escuridão. Mas o aço e o concreto não estavam sozinhos.
 
 O Jardim havia transformado o andar inteiro num ninho de pesadelo biomecânico.
 
 Grossas trepadeiras orgânicas de cor carmim, entrelaçadas com fitas de dados e cabos coaxiais de alta voltagem, pulsavam no chão como artérias expostas de um animal agonizante. Elas convergiam em direção a uma enorme porta blindada de quatro folhas no final do corredor, onde a inscrição desbotada na chapa de chumbo ainda anunciava: *'Arquivo Central de Contingência - Nível Sete'*.
 
-As raízes penetravam os vãos da blindagem, e das frestas do metal vazava uma luz vermelha fosca acompanhada pelo som baixo, constante e aterrorizante de centenas de ventiladores de servidores girando em uníssono nas profundezas.
+As raízes penetravam os vãos da blindagem, e das frestas do metal vazava uma luz vermelha fosca acompanhada pelo som baixo, constante de centenas de ventiladores de servidores girando em uníssono nas profundezas.
 
 Valéria ergueu a mão enluvada, os sensores do cyberdeck apitando numa frequência contínua de aviso de contaminação.
 
-— Tem máquina viva operando lá dentro, Gabo — ela sussurrou, a respiração formando pequenas nuvens no ar gélido da câmara. — O painel registra atividade nos servidores. O cabo segue na direção do Arquivo, mas ainda não consigo ler o que trafega.
+— Tem máquina viva operando lá dentro, Gabo — ela sussurrou, a respiração formando pequenas nuvens no ar frio da câmara. — O painel registra atividade nos servidores. O cabo segue na direção do Arquivo, mas ainda não consigo ler o que trafega.
 
 Aproximei-me da porta selada, sentindo a vibração do maquinário ressoar através do metal da minha armação e vibrar nos meus dentes.
 
 — Eles estão acordando o monstro adormecido da Aeterna — murmurei, a mão esquerda alcançando a empunhadura áspera de *Caronte*. — Mas a gente desceu até aqui pra puxar o fio da tomada.
 
-Valéria abriu a caixa de ferramentas do deck com um estalo firme, os olhos prateados faiscando de determinação feroz na penumbra vermelha.
+Valéria abriu a caixa de ferramentas do deck com um estalo firme, decidida, na penumbra vermelha.
 
-— Então fica na cobertura, detetive. Vou precisar de três minutos pra quebrar a trava mestra desse portão, e eu tenho certeza absoluta de que o Jardim não vai gostar nem um pouco de ver a gente encostar nessa fiação.
+— Então fica na cobertura, detetive. Vou precisar de três minutos pra quebrar a trava mestra desse portão, e eu tenho certeza de que o Jardim não vai gostar nem um pouco de ver a gente encostar nessa fiação.

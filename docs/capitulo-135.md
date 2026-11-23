@@ -38,7 +38,7 @@ Gabo teve que cobrir a boca para não vomitar.
 
 Não eram esculturas. Eram prateleiras. Fileiras e fileiras de prateleiras industriais de metal, do chão ao teto, preenchidas com... partes.
 
-Braços preservados em potes de vidro gigantes. Pernas dissecadas para revelar a musculatura, com pistões hidráulicos inseridos onde deveriam estar os ossos. Cabeças humanas, com os olhos abertos e vidrados, conectadas a placas de circuito em uma simulação grotesca de processamento paralelo.
+Braços preservados em potes de vidro gigantes. Pernas dissecadas para revelar a musculatura, com pistões hidráulicos inseridos onde deveriam estar os ossos. Cabeças humanas, com os olhos abertos e vidrados, conectadas a placas de circuito numa imitação de processamento paralelo.
 
 E no centro do salão, uma mesa de operação.
 
@@ -74,7 +74,7 @@ Bia.
 
 A Bia que morreu nos braços de Gabo. Perfeita. Intacta. Até a cicatriz no ombro estava lá.
 
-No deck de Valéria, o pendrive de Aria emitiu um guincho de estática quando o sistema do Ateliê abriu uma transmissão no receptor deles. O LED do drive começou a piscar freneticamente entre o azul e o âmbar, superaquecendo na porta de conexão.
+No deck de Valéria, o pendrive de Aria emitiu um guincho de estática quando o sistema do Ateliê abriu uma transmissão no receptor deles. O LED do drive começou a alternar entre o azul e o âmbar, superaquecendo na porta de conexão.
 
 — *O receptor está recebendo pacotes desconhecidos* — a voz de Aria falhou nos alto-falantes. — *Val, isole o receptor.* O áudio repetiu o começo do aviso e cortou.
 

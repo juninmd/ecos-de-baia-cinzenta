@@ -11,7 +11,7 @@ Eu me levantei apoiando o peso do corpo na coronha gasta da *Caronte*. Cada pass
 
 O Hub Principal do Setor Seis não se parecia com nenhuma das ruínas que havíamos atravessado nas últimas horas.
 
-Não havia a carne botânica do Jardim rastejando pelas paredes. Não havia a poeira alaranjada da Praga de Ferro devorando as juntas mecânicas. Havia uma esterilidade cirúrgica, quase assustadora.
+Não havia a carne botânica do Jardim rastejando pelas paredes. Não havia a poeira alaranjada da Praga de Ferro devorando as juntas mecânicas. Era limpo demais, quase assustador.
 
 Gabinetes de servidores antigos, alinhados em fileiras regulares como monólitos em uma catedral de silício esquecida, banhavam o saguão com um brilho esmeralda suave emanado dos racks em repouso. O piso era composto por grades metálicas imaculadas, sem um grão de fuligem.
 
@@ -21,7 +21,7 @@ Dava para sentir na primeira inspiração profunda: aquela ausência total de ch
 
 Vinte e um graus positivos, a menos de quarenta metros de um túnel que congelava a carne a quinze graus negativos.
 
-Elias deu três passos hesitantes pelo piso polido, piscando os olhos sob a luz verde e soltando o ar em um suspiro trêmulo de puro alívio.
+Elias deu três passos hesitantes pelo piso polido, piscando os olhos sob a luz verde e soltando o ar num suspiro trêmulo de alívio.
 
 — A gente... a gente tá seguro aqui dentro? — sussurrou o rapaz, passando as mãos no rosto para conferir se o calor era real. — Isso aqui parece intocado, Moretti. Parece que ninguém pisa nesse chão faz cinquenta anos.
 
@@ -37,7 +37,7 @@ Valéria não perdeu tempo com o espanto estético. Caminhou em passos rápidos 
 
 Sentei-me no chão ao lado de uma coluna de dados, esticando a perna direita para que a órtese emperrada pudesse esfriar. O ombro direito latejava no compasso do meu coração; a tração na válvula puxara o fixador instalado pela equipe, ao qual Vasco acoplara o suporte. Meus músculos estavam sangrando sob as bandagens sujas, manchando a sarja do casaco, mas o calor limpo da sala ajudava a relaxar a musculatura retesada pelo frio de amônia. As cicatrizes do Dilúvio formigavam, um mapa sensorial de todas as vezes em que Baía Cinzenta tentara me matar.
 
-— O que você tá achando aí dentro, Val? — perguntei, observando as linhas de código que desciam em cascatas luminosas pelas ópticas dos olhos prateados dela.
+— O que você tá achando aí dentro, Val? — perguntei, observando as linhas de código que desciam em cascatas luminosas pelas lentes dos olhos dela.
 
 Valéria soltou um assobio baixo, entrecortado por um riso seco e incrédulo.
 
@@ -55,7 +55,7 @@ Elias aproximou-se, debruçando-se sobre o ombro dela para enxergar o monitor fo
 
 — Alguém desceu até aqui no meio da carnificina só pra trancar esse lugar? — perguntei.
 
-— Não só pra trancar, — ela disse, girando o tronco e me encarando com uma seriedade profunda nos olhos prateados, despida de qualquer ironia. — Pra preservar uma plataforma vazia.
+— Não só pra trancar, — ela disse, girando o tronco e me encarando séria, sem ironia nenhuma. — Pra preservar uma plataforma vazia.
 
 — O que você quer dizer com "vazia"?
 

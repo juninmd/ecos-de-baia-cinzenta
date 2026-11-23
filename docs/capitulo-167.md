@@ -10,7 +10,7 @@ Personagens Presentes: "Gabo, Valéria, Aria"
 
 # Capítulo 167: Fantasmas de Silício
 
-Cinco graus acima de zero. O ar do Arquivo Executivo tinha a mordida estéril de uma sala de cirurgia, não o fedor orgânico dos túneis inferiores. Entre os monólitos de armazenamento de dados, o breu era matemático, traçado em ângulos retos, e os passos de Gabo e Valéria ecoavam rasos no labirinto de alumínio escovado.
+Cinco graus acima de zero. O ar do Arquivo Executivo tinha a mordida estéril de uma sala de cirurgia, não o fedor orgânico dos túneis inferiores. Entre os monólitos de armazenamento de dados, o breu tinha ângulos retos, e os passos de Gabo e Valéria ecoavam rasos no labirinto de alumínio escovado.
 
 Gabo arrastava a perna direita, o peso do próprio corpo puxando o curativo que Valéria colocara no abdômen. O suor frio em sua testa gelava sob a corrente de ar.
 
@@ -18,7 +18,7 @@ Cada passo no linóleo negro era uma negociação com o abismo. E, no silêncio 
 
 O ar purificado de quarenta anos atrás deveria cheirar a nada. Mas, para as sinapses rasgadas pelo choque hipovolêmico e pela dor aguda do braço fraturado, o "nada" era um vácuo preenchido pelo trauma.
 
-O silêncio do arquivo executivo era quase opressor, quebrado apenas pelo zumbido estático dos servidores adormecidos e pelo eco abafado de suas próprias respirações no ar gélido.
+O silêncio do arquivo executivo era quase opressor, quebrado apenas pelo zumbido estático dos servidores adormecidos e pelo eco abafado de suas próprias respirações no ar frio.
 
 A perda massiva de sangue começou a cobrar seu tributo final. Uma onda súbita de fraqueza dobrou os joelhos de Gabo, fazendo-o cambalear para o lado. Ele colidiu os ombros contra a lateral de aço de um imenso arquivo deslizante, apoiando a testa na chapa fria para evitar a queda. A dor aguda nos membros enfaixados pulsou com intensidade feroz, e ele cerrou os dentes para não soltar um gemido, usando a frieza do metal para forçar sua mente a permanecer acordada.
 
@@ -28,27 +28,27 @@ Gabo arfou pesadamente, o sangue quente pingando no chão escuro, mas a determin
 
 Valéria correu a mão livre e trêmula pelos cabelos imundos, a respiração condensando no ar gelado, lançando um olhar envenenado para o pequeno cilindro metálico do pendrive encaixado em seu antebraço.
 
-— Fica quieta, Aria. Ele nos trouxe até aqui — a voz de Valéria era um sussurro rouco. A hacker segurou o braço sadio de Gabo, os dedos finos apertando a manga da jaqueta esfarrapada com cuidado. — Segura a onda, policial.
+— Fica quieta, Aria. Ele nos trouxe até aqui — a voz de Valéria era um sussurro rouco. Valéria segurou o braço sadio de Gabo, os dedos finos apertando a manga da jaqueta esfarrapada com cuidado. — Segura a onda, policial.
 
 — Tô focando na dor — ele retrucou, arfando e ignorando a mancha de suor frio que grudava a camisa às costas. — Mantém meu cérebro funcionando do lado de cá. Quatrocentos metros, foi o que a lata velha disse. Onde está a droga da anomalia?
 
 Aria não processou a provocação empática. Diante de uma bifurcação entre três corredores monumentais de dados, o LED do pendrive piscou rapidamente, instruindo o feixe laser do deck de Valéria a focar no chão no centro do cruzamento das avenidas de arquivos.
 
-— *Detecto um campo magnético fraco divergindo à esquerda. A anomalia térmica do setor alfa-sete encontra-se a aproximadamente cem metros lineares no final deste vetor,* — anunciou a IA com precisão clínica. — *Contudo, as variáveis físicas do ambiente requerem atualização imediata. Analisem o substrato ao nível do solo.*
+— *Detecto um campo magnético fraco divergindo à esquerda. A anomalia térmica do setor alfa-sete encontra-se a aproximadamente cem metros lineares no final deste vetor,* — disse Aria. — *Contudo, as variáveis físicas do ambiente requerem atualização imediata. Analisem o substrato ao nível do solo.*
 
 Valéria franziu a testa e apontou a lanterna acoplada da pistola para o chão, enquanto seus implantes oculares forçavam um ajuste de contraste no breu.
 
 A camada de poeira cinzenta, fina e petrificada que cobria o assoalho do Subnível 2.0 estava perturbada. Não por pegadas de botas táticas, ratos de esgoto ou garras de aberrações de cerâmica.
 
-Havia duas marcas paralelas, largas de trinta centímetros cada, que rasgavam o linóleo negro em linhas retas implacáveis. Rastros contínuos, matematicamente perfeitos, varrendo a poeira antiga em direção à escuridão do setor alfa-sete.
+Havia duas marcas paralelas, largas de trinta centímetros cada, que rasgavam o linóleo negro em linhas retas. Rastros contínuos, matematicamente perfeitos, varrendo a poeira antiga em direção à escuridão do setor alfa-sete.
 
 — Aria... — Valéria engoliu em seco, o feixe da lanterna tremendo levemente sobre os sulcos. — O que deixou esses rastros?
 
 O feixe azulado do scanner de pulso varreu as marcas por dois longos segundos enquanto o pendrive de Aria cruzava os padrões geométricos de pressão. O silêncio que se seguiu pareceu preencher todo o andar.
 
-— *Os rastros não pertencem aos drones padrão de limpeza ou manutenção da Aeterna,* — declarou a IA, a voz sintética sem qualquer vestígio de preocupação, embora as palavras carregassem um peso fúnebre. — *São marcas de tração por esteiras pesadas de poliuretano reforçado e suspensão magnética. O manual do arquivo descreve unidades autônomas de contenção sobre esteiras. As marcas são compatíveis, mas não identificam quem as controla.*
+— *Os rastros não pertencem aos drones padrão de limpeza ou manutenção da Aeterna,* — disse Aria. A voz não subiu; as palavras pesaram sozinhas. — *São marcas de tração por esteiras pesadas de poliuretano reforçado e suspensão magnética. O manual do arquivo descreve unidades autônomas de contenção sobre esteiras. As marcas são compatíveis, mas não identificam quem as controla.*
 
-— Você confia nessa "hibernação profunda"? — Valéria indagou a Gabo, ajustando o corpo cansado em uma postura tática por puro instinto de sobrevivência.
+— Você confia nessa "hibernação profunda"? — Valéria indagou a Gabo, ajustando o corpo cansado numa postura de defesa, por instinto.
 
 — Não confio em nada que respira energia nesse buraco — respondeu ele, forçando as pernas trêmulas a desgrudarem do servidor. — Mas é a única porta que a gente tem pra bater.
 
@@ -72,6 +72,6 @@ Segundos depois, o zumbido subgrave de capacitores gigantescos acordando de um s
 
 No pulso de Valéria, o pendrive acelerou para um piscar de alerta máximo.
 
-— *Inicialização de matriz hostil confirmada,* — a voz sintética de Aria foi o único som além do zumbido elétrico crescente de metal pesado deslizando sobre o concreto liso. — *A otimização sugere dispersão imediata em ângulos oblíquos. O alvo primário da unidade de expurgo será o intruso biológico com maior assinatura térmica.*
+— *Inicialização de matriz hostil confirmada,* — a voz de Aria foi o único som além do zumbido elétrico crescente de metal pesado deslizando sobre o concreto liso. — *A otimização sugere dispersão imediata em ângulos oblíquos. O alvo primário da unidade de expurgo será o intruso biológico com maior assinatura térmica.*
 
-Gabo sorriu, o lábio cortado sangrando no frio clínico. A fumaça estava morta. Mas o silício estava apenas acordando, e a conta da Aeterna Corp finalmente havia chegado.
+Gabo sorriu, o lábio cortado sangrando no frio. A fumaça estava morta. Mas o silício estava apenas acordando, e a conta da Aeterna Corp finalmente havia chegado.

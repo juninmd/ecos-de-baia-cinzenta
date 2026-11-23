@@ -16,7 +16,7 @@ ALERTA: CONTAMINAÇÃO NÃO PADRONIZADA NO LOTE #899
 ```
 
 O Despejo
-O caminhão parou com um *hiss* pneumático que soou como um animal morrendo. O silêncio que se seguiu foi pesado, quebrado apenas pelo zumbido distante de maquinário industrial colossal.
+O caminhão parou com um *hiss* pneumático que soou como um animal morrendo. O silêncio que se seguiu foi pesado, quebrado apenas pelo zumbido distante de máquinas pesadas.
 
 — Fiquem atentos — a voz de Rangel crepitou no rádio. — O painel diz que o procedimento de despejo é automático. Não consigo travar a caçamba. Vocês têm dez segundos antes que o chão se abra.
 
@@ -24,13 +24,13 @@ O caminhão parou com um *hiss* pneumático que soou como um animal morrendo. O 
 
 — Saída de emergência! — Gabo ordenou, apontando para a escotilha lateral que Valéria havia encontrado antes. Mas antes que pudessem alcançá-la, o mundo inclinou.
 
-A caçamba do caminhão se ergueu num ângulo de quarenta e cinco graus. A gravidade assumiu o comando. Gabo deslizou, suas botas raspando inutilmente no metal oleoso, enquanto dezenas de corpos ensacados rolavam sobre ele como uma avalanche macabra.
+A caçamba do caminhão se ergueu num ângulo de quarenta e cinco graus. A gravidade assumiu o comando. Gabo deslizou, suas botas raspando inutilmente no metal oleoso, enquanto dezenas de corpos ensacados rolavam sobre ele como uma avalanche.
 
 A porta traseira se abriu com um estrondo.
 
 Eles caíram.
 
-Não foi uma queda longa, mas foi brutal. Gabo aterrissou sobre algo macio e cedeu, o impacto absorvido pela "carga". O cheiro de decomposição e produtos químicos explodiu em suas narinas, fazendo-o engasgar. Valéria caiu ao lado dele, soltando um grito abafado ao perceber onde estava.
+Não foi uma queda longa. Doeu do mesmo jeito. Gabo aterrissou sobre algo macio e cedeu, o impacto absorvido pela "carga". O cheiro de decomposição e produtos químicos explodiu em suas narinas, fazendo-o engasgar. Valéria caiu ao lado dele, soltando um grito abafado ao perceber onde estava.
 
 Eles estavam em uma rampa de metal polido, cercados por centenas de sacos pretos que deslizavam lentamente em direção a uma abertura iluminada por luzes âmbar no final do túnel.
 
@@ -57,7 +57,7 @@ A usina não odiava ninguém. Era o que dava mais medo.
 
 — É eficiente — disse Valéria, e a voz saiu errada, plana, como se o número tivesse tomado o lugar dela por um segundo. Ela ouviu a própria frase e fechou a boca. — A queima de biomassa estabiliza a rede em picos de consumo. O relatório de rendimento contabiliza energia por lote, sem nome. Não sei se o número fecha. Sei o que está entrando na fornalha.
 
-Gabo rosnou, não por raiva dela, mas pela frieza dos números. Ele tocou o *Caronte* no coldre, sentindo o metal frio contra o quadril.
+Gabo grunhiu, não com raiva dela; com os números. Ele tocou o *Caronte* no coldre, sentindo o metal frio contra o quadril.
 
 — Onde está o Rangel?
 

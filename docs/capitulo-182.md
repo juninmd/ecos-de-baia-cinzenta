@@ -9,7 +9,7 @@ Personagens Presentes: Gabo, Valéria
 
 O lodo ácido agarrava-se às minhas botas como mãos de moribundos implorando por salvação. Deixamos a galeria superior e nos embrenhamos mais fundo nos dutos de escoamento secundário, onde o eco úmido dos nossos passos acompanhava o peso da armação. O atuador continuava desligado desde a galeria anterior.
 
-O ar ali embaixo era um caldo rançoso, denso com o cheiro de decomposição bacteriana e ozônio frio. Não era o fedor seco da superfície; era a respiração pesada de uma arcologia subterrânea que apodrecia de dentro para fora, vazando graxa e fluidos humanos pelas fissuras do concreto brutalista.
+O ar ali embaixo era um caldo rançoso, denso com o cheiro de decomposição bacteriana e ozônio frio. Não era o fedor seco da superfície; era a respiração pesada de uma arcologia subterrânea que apodrecia de dentro para fora, vazando graxa e fluidos humanos pelas fissuras do concreto.
 
 — Gabo... olha a leitura do barômetro — a voz de Valéria soou rente ao meu ouvido, trêmula e tensa.
 
@@ -35,7 +35,7 @@ Seus peitos subiam e desciam num ritmo lento, e havia controladores presos aos c
 
 Um deles — um garoto magro, com o crânio rapado e cicatrizes de trepanação recente na têmpora — abriu um olho biológico injetado de sangue quando a lanterna de Valéria bateu no seu rosto. Um gemido oco, rouco, quase imperceptível de ar escapou de seus lábios cinzentos.
 
-Valéria deu um passo involuntário para trás, levando a mão à boca num reflexo de pura náusea e horror.
+Valéria deu um passo involuntário para trás, levando a mão à boca num reflexo de náusea.
 
 — Meu Deus... Gabo... eles estão conscientes — a voz dela falhou, as lágrimas de choque brilhando na borda dos implantes ópticos prateados. — Olha os indicadores na têmpora do menino. Eles piscam junto com os controladores presos ao corpo, mas não sei o que está sendo transmitido. Ele abriu o olho quando a luz bateu; precisamos tratá-lo como alguém que ainda pode nos ouvir.
 
@@ -47,7 +47,7 @@ Agarrei o cano da arma dela com minha mão de carne, empurrando-a para baixo com
 
 — Abaixa isso, Valéria! Agora!
 
-— Moretti, ele tá sofrendo! — ela sibilou entre os dentes, os olhos arregalados num desespero visceral, puxando a arma contra o meu aperto. — Olha pra cara dele! O garoto não tem vinte anos! Você quer que a gente passe reto feito covarde?
+— Moretti, ele tá sofrendo! — ela disse entre os dentes, os olhos arregalados, puxando a arma contra o meu aperto. — Olha pra cara dele! O garoto não tem vinte anos! Você quer que a gente passe reto feito covarde?
 
 — Olha pro teto! — rosnei, apontando com a mão de aço pesada para o detector em alarme e a névoa amarelada sob a abóbada de concreto. — Você mesma disse há dois minutos: metano concentrado. Um tiro de pólvora ou faísca elétrica agora e a onda de choque incendeia a câmara inteira. A gente queima vivo junto com eles em três segundos.
 

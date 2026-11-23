@@ -8,7 +8,7 @@ Personagens Presentes: Gabo, Valéria, Vasco, Dra. Nise
 
 # Capítulo 177: O Som das Engrenagens Mortas
 
-No quinto dia de atendimento na clínica, a luz halógena sobre mim falhava a cada oscilação do gerador no subsolo, pintando as paredes de azulejos encardidos com flashes estroboscópicos de pura agonia. Vasco não era um homem de delicadezas, e os recursos no Distrito 4 eram tão escassos quanto a piedade.
+No quinto dia de atendimento na clínica, a luz halógena sobre mim falhava a cada oscilação do gerador no subsolo, pintando as paredes de azulejos encardidos de clarões curtos. Vasco não era um homem de delicadezas, e os recursos no Distrito 4 eram tão escassos quanto a piedade.
 
 — A equipe conseguiu o fixador para o osso. O que não tenho é um suporte de hospital para você sair carregando esse braço — Vasco resmungou, revirando uma caixa de ferramentas enferrujada que cheirava a graxa velha e fluido de transmissão. — Vou acoplar ao fixador um suporte externo industrial, sucateado de um exoesqueleto de carga das docas. É pesada, é feia e os pinos de aço parafusados no osso vão doer como o diabo toda vez que você tentar mover os dedos.
 
@@ -34,7 +34,7 @@ Vasco separou dois cilindros de ar de resgate, duas máscaras com cartuchos para
 
 — Bem-vindo de volta ao clube da sucata — Vasco murmurou, limpando o suor oleoso da testa com o antebraço sujo de graxa.
 
-Na maca ao lado, o bipe irregular de um osciloscópio mudou bruscamente de tom. Os monitores acoplados ao cyberdeck de Valéria piscaram em uma sequência frenética de código corrompido. O capacitor de carga ligado à interface de diagnóstico estalou, liberando um fio de fumaça azulada.
+Na maca ao lado, o bipe irregular de um osciloscópio mudou bruscamente de tom. Os monitores acoplados ao cyberdeck de Valéria piscaram numa sequência rápida de código corrompido. O capacitor de carga ligado à interface de diagnóstico estalou, liberando um fio de fumaça azulada.
 
 Virei o pescoço devagar, sentindo cada vértebra reclamar da nova carga no meu ombro.
 
@@ -44,11 +44,11 @@ Ela puxou o ar de repente, tossindo com o cheiro de ozônio queimado que tomava 
 
 — Que cheiro de... desgraça é esse? — a voz dela saiu raspada, mas com a ponta afiada de sempre. Ela tentou se erguer, os cotovelos tremendo na lona da maca. — Vasco, se você usou capacitor de geladeira de segunda mão no meu barramento primário de novo, eu juro que formato o terminal da sua oficina inteira.
 
-— Olha o respeito, garota — Vasco rosnou, recolhendo os alicates. — Sua interface estava superaquecida e instável. A equipe cuidou de você; eu só consegui isolar o circuito defeituoso.
+— Olha o respeito, garota — disse Vasco, recolhendo os alicates. — Sua interface estava superaquecida e instável. A equipe cuidou de você; eu só consegui isolar o circuito defeituoso.
 
 Valéria piscou os olhos duas vezes, reconfigurando os drivers de foco. Foi quando o olhar dela desceu da bancada de ferramentas e parou em mim. Mais especificamente, no monstro de ferro que agora envolvia e sustentava o meu braço direito.
 
-Ela arregalou os olhos prateados, a boca abrindo numa mistura de pavor genuíno e puro sarcasmo de sarjeta.
+Ela arregalou os olhos, entre o medo e o deboche.
 
 — Santo Deus dos circuitos integrados... Moretti, que aberração é essa?
 

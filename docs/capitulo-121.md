@@ -5,7 +5,7 @@ Localização: "Usina Prometeu em ruínas — Corredores → Doca de Carga B"
 ---
 # Capítulo 121: Cinzas Frias
 
-A gravidade parecia ter dobrado. Não era apenas o cansaço brutal de Gabo enquanto ele e Valéria avançavam pelos corredores em ruínas, o passo limitado pela órtese na perna direita, em direção à Doca de Carga B; era o peso do que tinham acabado de fazer.
+A gravidade parecia ter dobrado. Não era só o cansaço de Gabo enquanto ele e Valéria avançavam pelos corredores em ruínas, o passo limitado pela órtese na perna direita, em direção à Doca de Carga B; era o peso do que tinham acabado de fazer.
 
 O "Pai" estava caído. A voz que ordenava a cidade havia se calado.
 

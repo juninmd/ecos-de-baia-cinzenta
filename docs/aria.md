@@ -45,9 +45,12 @@ a uma câmera desligada ou a um servidor sem conexão.
 - **Olhos da interface:** um azul e um âmbar, com oscilação de luz sob sobrecarga.
 - **Vestuário:** jaqueta de malha de dados geométrica, grafite, gola alta fechada,
   mangas longas e linhas azuis discretas.
-- **Manifestação:** holograma volumétrico de mulher adulta, translúcido, emitido
-  pelo módulo ou equipamento conectado; luz, malha de dados e falhas nas bordas
-  deixam clara a projeção. Pode ocupar a cena, sem ser confinada a um monitor.
+- **Manifestação:** no livro inteiro, Aria é voz e drive físico. O holograma
+  volumétrico de mulher adulta aparece **só três vezes**: no 57 (primeira vez,
+  assusta Gabo dentro do *Cobalt*), no 136 (mostra o próprio rosto diante da réplica
+  de Bia) e no 168 (despedida, do tamanho de uma mão, antes do terminal). Nenhuma
+  outra cena, ilustração ou capa deve mostrar o avatar; o pipeline de arte aplica
+  essa regra em `scripts/art_gen/aria_visual.py`.
 - **Suporte:** módulo computacional blindado de 7 cm, titânio fosco e polímero
   negro, dissipadores e LED azul; conecta-se ao equipamento que usa.
 

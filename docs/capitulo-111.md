@@ -36,11 +36,11 @@ A porta lateral se abriu com um chute mecânico.
 
 — Rangel! Entra! Agora! — A voz de Gabo era um trovão rouco.
 
-Gabo estava pendurado na porta, segurando-se com uma mão enquanto a outra empunhava a *Caronte*, sua escopeta de cano serrado. Ele parecia um demônio saído do inferno: encharcado, com o rosto manchado de graxa e sangue seco, e as órteses nas pernas chiando a cada movimento.
+Gabo estava pendurado na porta, segurando-se com uma mão enquanto a outra empunhava a *Caronte*, sua escopeta de cano serrado. Estava encharcado, com o rosto manchado de graxa e sangue seco, e as órteses nas pernas chiando a cada movimento.
 
 — Gabo? — Rangel olhou para o drone congelado no ar, depois para o blindado. — Mas o que diabos...
 
-— Sem perguntas! A "zona de silêncio" da Aria não vai durar pra sempre! — gritou Valéria do banco do motorista. Ela usava óculos de realidade aumentada conectados ao seu cyberdeck *Phantom V3*, onde um drive neural blindado — do tamanho de um pendrive pesado — pulsava freneticamente com um LED azul-intenso. — O Dante está reescrevendo o firewall dos drones em tempo real! Temos trinta segundos antes que eles reiniciem como *kamikazes*!
+— Sem perguntas! A "zona de silêncio" da Aria não vai durar pra sempre! — gritou Valéria do banco do motorista. Ela usava óculos de realidade aumentada conectados ao seu cyberdeck *Phantom V3*, onde um drive neural blindado — do tamanho de um pendrive pesado — piscava num LED azul. — O Dante está reescrevendo o firewall dos drones em tempo real! Temos trinta segundos antes que eles reiniciem como *kamikazes*!
 
 Val parou a porta ao lado da mureta. Rangel passou primeiro o menino, ajudou a mulher a entrar e só então se puxou pelo corrimão. Caiu sobre o piso de chapa lavrada. Gabo cobriu a porta até fecharem.
 
