@@ -129,13 +129,21 @@ No console central, o pendrive de titânio da Aria continuava encaixado na porta
 
 A tela monocromática do painel mostrou o número do protocolo municipal capturado pela câmera conectada ao módulo: `2056/61 — PROTOCOLO CAPTURADO; ORIGINAIS A CONFERIR`.
 
-Uma projeção breve tomou forma acima do painel: mulher adulta, cabelo branco-platinado, jaqueta grafite de gola alta, um olho azul e outro âmbar. As bordas translúcidas falharam quando ela se voltou para Gabo.
+A luz subiu do painel sem aviso.
 
-— *Isso liga o anúncio a um protocolo. Precisamos dos originais para dizer o que foi aprovado.*
+Gabo recuou contra a porta antes de entender o que via. O cotovelo bateu no vidro; a mão foi ao coldre e as órteses rangeram presas aos apoios. Havia uma mulher saindo do console como de água parada, a cintura afundada no plástico, a meio palmo do rosto dele: cabelo branco-platinado, jaqueta grafite de gola alta, um olho azul e outro âmbar fixos nele. As bordas falhavam. Por um segundo o rosto ficou sem boca, só malha de dados, e o coração de Gabo bateu na garganta.
 
-Aria encerrou o holograma e conservou a captura local. A inteligência continuava na peça de titânio, não na mulher de luz que acabara de desaparecer.
+Em todas aquelas semanas, a voz nunca tivera rosto.
 
-— Eu sei, Aria — ele disse para o painel. — Eu vou ler o rodapé, tá?
+— Desliga isso. — Saiu mais alto do que ele queria. — Desliga essa merda, Aria.
+
+— *Desculpe. O mecânico religou o projetor do console junto com os controles.* — A figura baixou os olhos para o painel, com um cuidado que piorava tudo. — *Isso liga o anúncio a um protocolo. Precisamos dos originais para dizer o que foi aprovado.*
+
+A mulher de luz sumiu de uma vez. Aria conservou a captura local; a inteligência continuava na peça de titânio. Gabo ficou olhando o espaço vazio acima do painel, a mão ainda no coldre, até a respiração voltar ao ritmo.
+
+— Eu sei, Aria — ele disse para o painel, quando conseguiu. — Eu vou ler o rodapé, tá? E não faz mais isso sem avisar.
+
+— *Anotado.*
 
 ---
 

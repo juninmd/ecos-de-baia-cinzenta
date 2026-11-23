@@ -7,7 +7,7 @@ Personagens Presentes: Gabo, Valéria, Elias
 
 # Capítulo 203: Degraus de Sangue e Ferrugem
 
-A escada de manutenção de emergência cheirava a ferro cru, óleo rançoso e séculos de abandono sob a cidade afundada. Cada barra transversal estava encrustada por uma crosta espessa de óxido escamoso e um lodo vegetal que parecia pulsar em espasmos lentos. Elias subia na frente, testando os apoios antes de passar o peso. A bota enfaixada alcançava o degrau com dificuldade; quando escorregava, ele parava até firmar a outra perna.
+A escada de manutenção de emergência cheirava a ferro cru, óleo rançoso e séculos de abandono sob a cidade afundada. Cada barra transversal estava incrustada por uma crosta espessa de óxido escamoso e um lodo vegetal que parecia pulsar em espasmos lentos. Elias subia na frente, testando os apoios antes de passar o peso. A bota enfaixada alcançava o degrau com dificuldade; quando escorregava, ele parava até firmar a outra perna.
 
 Eu subia logo abaixo dele. Não por cavalheirismo de manual policial, mas por cálculo prático: se Elias entrasse em choque e despencasse, a guia de segurança que Elias passara pelos apoios era a barreira entre ele e uma queda livre de quarenta metros até a laje das catacumbas. Valéria fechava a coluna, cinco degraus abaixo de mim, o cyberdeck preso ao colete e os fios holográficos azuis da franja emitindo pulsos curtos e ritmados contra o abismo escuro.
 

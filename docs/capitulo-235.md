@@ -51,7 +51,7 @@ Fui ao portão às cinco e vinte, com o céu ainda cinza. Ele estava acordado. A
 
 — Bom dia, Sr. Moretti.
 
-— Bom dia, Braga. Ele reparou na minha mão. Eu estava com a *Caronte* apoiada no ombro pela alça, porque com o braço direito quebrado na tipóia não dá para carregar de outro jeito.
+— Bom dia, Braga. Ele reparou na minha mão. Eu estava com a *Caronte* apoiada no ombro pela alça, porque com o braço direito quebrado na tipoia não dá para carregar de outro jeito.
 
 — Ah, — ele disse. E foi só isso. Um "ah" pequeno, de quem confere uma encomenda que chegou. A Valéria estava na passarela. Antes de eu sair, ela tinha me pedido para entregar a arma e esperar a custódia. Eu recusei. Ela avisou Elena pelo rádio e ficou lá em cima, olhando para mim; se atirasse ou avançasse, arriscaria um disparo contra os trabalhadores que vinham pelo corredor. Agachei ao lado dele.
 

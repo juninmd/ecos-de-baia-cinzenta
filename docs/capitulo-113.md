@@ -27,7 +27,7 @@ Gabo ficou diante da parede de monitores CRT desligados, exceto pelo central, qu
 
 — *Kiko registrou risco de instabilidade* — disse Aria pelo alto-falante. — *Guardou especificações do projeto do hospedeiro e notas sobre o código. Não são medições do Dante que vimos hoje.*
 
-— Na gravação que Nise guardou, ele pediu para desligar o modulador — disse Valéria, enfim tecleando. O som seco das teclas ecoou na sala. — Na tela, os patrocinadores chamavam aquilo de sorriso.
+— Na gravação que Nise guardou, ele pediu para desligar o modulador — disse Valéria, enfim teclando. O som seco das teclas ecoou na sala. — Na tela, os patrocinadores chamavam aquilo de sorriso.
 
 — E alguém tentou apagar o que ele deixou — disse Gabo. — Não sabemos quem entrou no apartamento nem se Kiko foi assassinado.
 

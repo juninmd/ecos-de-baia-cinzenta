@@ -21,7 +21,7 @@ A franja dela apagou por meio segundo, o tempo de erguer a pistola compacta que 
 
 — Barricada artesanal reforçada — ela sussurrou, os olhos prateados estreitos, escaneando as junções de metal. — Placas de blindagem balística arrancadas de furgões da polícia, vigas em I soldadas em cruz e duas câmeras analógicas com cabo coaxial direto. Quem montou isso aqui entende de controle de perímetro. Tem até concertina de arame farpado nas laterais pra ninguém tentar passar pelo vão da tubulação.
 
-No centro da estrutura, uma escotilha de ferro maciço barrava a passagem de parede a parede. Acima da fresta blindada de observação, um autofalante de corneta oxidado rangeu com estática.
+No centro da estrutura, uma escotilha de ferro maciço barrava a passagem de parede a parede. Acima da fresta blindada de observação, um alto-falante de corneta oxidado rangeu com estática.
 
 — Nem mais um passo, sucata da Central — a voz saiu metálica e arranhada pelo cone de papelão furado. — A biomassa devorou os túneis inferiores há três horas. Quem tenta passar por aqui pra Superfície Pálida paga pedágio.
 

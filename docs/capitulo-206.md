@@ -51,7 +51,7 @@ O fosso de carga era uma cratera retangular de trinta metros de comprimento por 
 
 O chão sob nossas botas começou a tremer.
 
-Foi uma vibração sorda, que não veio pelo ar, mas pelos ossos dos calcanhares, subindo pelas tíbias até estalar na base do crânio. Os dentes vibraram na gengiva. As pilhas de drones destruídos ao redor começaram a chacoalhar, soltando cascatas de poeira alaranjada que subiram como fumaça tóxica sob os globos de luz âmbar.
+Foi uma vibração surda, que não veio pelo ar, mas pelos ossos dos calcanhares, subindo pelas tíbias até estalar na base do crânio. Os dentes vibraram na gengiva. As pilhas de drones destruídos ao redor começaram a chacoalhar, soltando cascatas de poeira alaranjada que subiram como fumaça tóxica sob os globos de luz âmbar.
 
 Não era um motor ligando. Era o ruído obsceno de chapas de blindagem de dez centímetros sendo rasgadas e dobradas a frio — aquele mesmo gemido aterrador de aço cedendo que testemunhei quando a Torre Aeterna desabou.
 

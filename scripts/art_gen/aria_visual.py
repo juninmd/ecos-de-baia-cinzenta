@@ -1,4 +1,10 @@
-"""Identidade adulta de Aria em projeções holográficas, sem corpo físico."""
+"""Identidade adulta de Aria em projeções holográficas, sem corpo físico.
+
+Decisão do autor (23/11/2026): o avatar só aparece nos três capítulos em que o texto
+o mostra. No resto do livro, Aria é voz e o drive físico, nunca uma mulher em cena.
+"""
+
+HOLOGRAMAS = frozenset({57, 136, 168})
 
 ROUPA = (
     "closed high-neck charcoal geometric data-mesh jacket, long sleeves, blue seams"
@@ -31,14 +37,32 @@ def prompt_ancora(texto: str, plano: str, roupa: str = "") -> str:
     )
 
 
+def holograma(capitulo: float) -> bool:
+    """Só os capítulos em que o texto mostra a projeção podem desenhar o avatar."""
+    return int(capitulo) in HOLOGRAMAS
+
+
+def filtrar(personagens: list, capitulo: float) -> list:
+    """Fora dos capítulos de holograma, Aria não é âncora nem retrato da cena."""
+    if holograma(capitulo):
+        return list(personagens)
+    return [p for p in personagens if p.get("name") != "Aria"]
+
+
 def clausula(elenco: list, capitulo: float = 0) -> str:
     """Vale também quando Aria aparece com outro personagem como âncora."""
     if not any(p.get("nome") == "Aria" for p in elenco):
         return ""
-    if capitulo > 167:
+    if capitulo > 169:
         return (
-            ". ARIA CONTINUITY: Aria is destroyed after chapter 167. In present-time "
+            ". ARIA CONTINUITY: Aria is destroyed in chapter 169. In present-time "
             "action, do not add a live avatar, a functioning drive, or her voice. "
             "A mention of her is not physical presence."
+        )
+    if not holograma(capitulo):
+        return (
+            ". ARIA DRIVE ONLY: Aria is a voice inside a 7cm matte titanium and black "
+            "polymer drive with a blue LED. Do not depict any woman, avatar, face or "
+            "hologram for her; show at most the small physical drive."
         )
     return f". ARIA HOLOGRAM: Wardrobe: {ROUPA}. {IDENTIDADE} {SUPORTE}"

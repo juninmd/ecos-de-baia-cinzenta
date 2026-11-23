@@ -124,7 +124,7 @@ vocês perderam quando ela não voltou.
 
 Olhei para o comunicador vazio no meu cinto. Era fácil chamar aquilo de perda de equipamento quando não se tinha ouvido a dona do equipamento pedir que preservassem seu nome.
 
-— Aria falava com a própria voz. Uma mulher adulta. Às vezes escolhia aparecer como holograma quando havia um projetor ligado. O corpo era luz; a presença não era de mentira.
+— Aria falava com a própria voz. Uma mulher adulta. Apareceu como holograma só três vezes. Na primeira, eu quase saquei a arma contra ela. O corpo era luz; a presença não era de mentira.
 
 Elena esperou.
 
@@ -162,7 +162,7 @@ Elena olhou para o encaixe vazio do comunicador.
 
 — Então escreve assim quando conseguir.
 
-Eu assenti. Só isso. A mão dela encontrou minha mão esquerda, ainda enfaixada, e não apertou onde doía. Ficamos ali. O sol continuou subindo, indiferente como sempre. Ela manteve a mão sobre a minha, livre da tipóia. Não como quem apaga o estrago. Como quem carrega junto.
+Eu assenti. Só isso. A mão dela encontrou minha mão esquerda, ainda enfaixada, e não apertou onde doía. Ficamos ali. O sol continuou subindo, indiferente como sempre. Ela manteve a mão sobre a minha, livre da tipoia. Não como quem apaga o estrago. Como quem carrega junto.
 
 ---
 

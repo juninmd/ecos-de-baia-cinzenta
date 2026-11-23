@@ -20,8 +20,8 @@ def test_aria_no_elenco_recebe_limite_material_com_outra_ancora():
     db = characters.get_db().characters
     gabo, aria = db['Gabriel "Gabo" Moretti'], db["Aria"]
     cena = Scene(2, "Gabo consulta Aria no comunicador.", personagens=[gabo, aria])
-    elenco = prompt_cena.montar_elenco(cena.personagens, 2)
-    prompt = prompt_cena.texto_do_prompt(cena, "Teste", gabo, elenco, 2)
+    elenco = prompt_cena.montar_elenco(cena.personagens, 57)
+    prompt = prompt_cena.texto_do_prompt(cena, "Teste", gabo, elenco, 57)
     assert "ARIA HOLOGRAM" in prompt
     assert "inactive physical drive" in prompt
     assert next(p for p in elenco if p["nome"] == "Aria")["referencia"].endswith("aria_3.png")
@@ -40,6 +40,17 @@ def test_cena_sem_aria_nao_recebe_avatar_nem_modulo_extra():
 def test_mencao_posterior_a_destruicao_nao_autoriza_aparicao_ativa():
     aria = characters.get_db().characters["Aria"]
     cena = Scene(1, "Gabo lembra o silêncio de Aria.", personagens=[aria])
-    elenco = prompt_cena.montar_elenco(cena.personagens, 168)
-    prompt = prompt_cena.texto_do_prompt(cena, "Teste", None, elenco, 168)
+    elenco = prompt_cena.montar_elenco(cena.personagens, 170)
+    prompt = prompt_cena.texto_do_prompt(cena, "Teste", None, elenco, 170)
     assert "do not add a live avatar" in prompt
+
+
+def test_fora_dos_tres_hologramas_aria_nao_vira_avatar_nem_ancora():
+    db = characters.get_db().characters
+    gabo, aria = db['Gabriel "Gabo" Moretti'], db["Aria"]
+    cena = Scene(2, "Gabo consulta Aria no comunicador.", personagens=[aria, gabo])
+    elenco = prompt_cena.montar_elenco(cena.personagens, 60)
+    assert all(p["nome"] != "Aria" for p in elenco)
+    prompt = prompt_cena.texto_do_prompt(cena, "Teste", gabo, elenco, 60)
+    assert "ARIA DRIVE ONLY" in prompt
+    assert "ARIA HOLOGRAM" not in prompt

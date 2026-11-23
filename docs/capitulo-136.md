@@ -104,7 +104,9 @@ Pelo sistema de som do próprio laboratório, que Aria acabara de sequestrar, a 
 
 Aria identificou, no painel local a que Val ligara o cabo, o controle da vitrine. Fechou a cortina de manutenção entre a réplica e as câmeras. A imagem de Bia sumiu atrás da chapa; o transmissor do Ateliê continuou isolado do deck.
 
-— *Eu sou Aria* — a voz sintética ecoou pelo salão. — *Estou operando com acesso parcial. Não autorizei que entrassem no meu canal.*
+— *Eu sou Aria* — a voz sintética ecoou pelo salão. — *Estou operando com acesso parcial. Não autorizei que entrassem no meu canal. Aviso, Gabo: vou usar o projetor do deck.*
+
+A luz subiu do visor de Valéria e ficou de pé diante da cortina fechada, do tamanho de uma pessoa: cabelo branco-platinado, jaqueta grafite, um olho azul e outro âmbar. Não tinha a cicatriz no ombro nem o rosto de Bia. Era a mulher que assustara Gabo no painel do *Cobalt*, agora com as bordas rasgadas de estática. Ela olhou para as câmeras do Taxidermista por dois segundos, o tempo de ser gravada com o próprio rosto, e se desfez para poupar a bateria.
 
 As luzes do Ateliê piscaram e morreram, exceto pelo brilho frio do LED azul no drive de titânio e o visor do deck de Valéria.
 

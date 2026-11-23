@@ -76,6 +76,8 @@ O zumbido da máquina assassina ficou ensurdecedor. Cinquenta metros. As esteira
 
 — Eu entro — disse Aria. — Pelo protocolo que o manual descreve, não por uma promessa de que minha carcaça aguenta. Se o núcleo não responder depois, não fabriquem outra com o meu nome e digam que voltei. Guardem o registro do que escolhi.
 
+O visor do deck acendeu acima do pulso de Valéria. A mulher de luz que Gabo vira só duas vezes surgiu do tamanho de uma mão, as bordas comidas pela falta de energia, e olhou para ele, não para o colosso. Desta vez ele não recuou. A figura se apagou antes que ele pudesse dizer qualquer coisa.
+
 Valéria cravou os dentes nos lábios rachados, soltou a trava magnética do cyberdeck e arrancou o pendrive quente de Aria do encaixe do pulso.
 
 — *Trinta metros para área de alcance crítico,* — a voz de Aria soou uma última vez pelo comunicador antes de o conector se soltar, o LED azul-gelo piscando na palma suja da hacker pelo canal de síntese restrito que ainda conseguia usar.

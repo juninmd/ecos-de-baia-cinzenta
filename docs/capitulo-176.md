@@ -21,7 +21,7 @@ Os braços mecânicos dele brilhavam de graxa até o cotovelo. Atrás dele, as p
 
 Ele não esperou resposta. Foi até a porta de chumbo, empurrou o ferrolho e encostou o ouvido na chapa antes de girar a trava de segurança.
 
-— Tem gente na rua perguntando o que explodiu — disse, sem se virar. — Pirata de rádio falando em ataque. O Sindicato mandando gente pra cima do Distrito. — Voltou-se, e a lente biônica zumbeou ao me focar. — Se você saiu daqui buscando ajuda e voltou com a cidade apagada nas costas, então me deve mais do que uma consulta, detetive.
+— Tem gente na rua perguntando o que explodiu — disse, sem se virar. — Pirata de rádio falando em ataque. O Sindicato mandando gente pra cima do Distrito. — Voltou-se, e a lente biônica zumbiu ao me focar. — Se você saiu daqui buscando ajuda e voltou com a cidade apagada nas costas, então me deve mais do que uma consulta, detetive.
 
 — Eu sei quanto eu devo.
 
