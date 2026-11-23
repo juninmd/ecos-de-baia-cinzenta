@@ -12,11 +12,11 @@ A chuva ácida do Distrito 4 não limpava nada; ela apenas dissolvia as bordas d
 
 Dei meu primeiro passo na calçada podre e quase fui ao chão.
 
-A armação industrial que Vasco acoplara ao fixador instalado pela equipe não era apenas feia; tinha a sutileza de uma bigorna presa ao meu tronco. Vinte quilos distribuídos pelo arnês e pela cintura ainda puxavam meu centro de gravidade para a direita. Cada movimento transmitia tração ao ombro ferido. A faixa impermeável raspava no sobretudo; eu precisava mantê-la fechada mesmo quando a pele coçava sob o curativo.
+A armação industrial que Vasco acoplara ao fixador instalado pela equipe era feia e pesava como uma bigorna presa ao meu tronco. Vinte quilos distribuídos pelo arnês e pela cintura ainda puxavam meu centro de gravidade para a direita. Cada movimento transmitia tração ao ombro ferido. A faixa impermeável raspava no sobretudo; eu precisava mantê-la fechada mesmo quando a pele coçava sob o curativo.
 
 — Segura a onda aí, Frankenstein — uma mão magra e firme engatou sob o meu cotovelo esquerdo, antes que meu joelho cedesse no lodo.
 
-Olhei de lado. Valéria estava encharcada até os ossos em menos de dez segundos. Os fios de LED azul na franja curta dela piscavam em intervalos irregulares sob a chuva. Os olhos prateados, no entanto, estavam vivos — estreitos, irritados e atentos a cada sombra entre os prédios condenados.
+Olhei de lado. Valéria estava encharcada até os ossos em menos de dez segundos. Os fios de LED azul na franja curta dela piscavam em intervalos irregulares sob a chuva. Os olhos, no entanto, estavam vivos — estreitos, irritados e atentos a cada sombra entre os prédios condenados.
 
 — Eu consigo andar — rosnei, puxando o ar pesado. O ar cheirava a esgoto destampado, enxofre e plástico queimado.
 
@@ -66,7 +66,7 @@ Valéria deu um sorrisinho torto, apontando com o queixo para a estrutura de lig
 
 — Aí a gente procura outro caminho antes de usar o suporte do seu braço como martelo. Mas tenta não quebrar o próprio pescoço no recuo, tá legal? Não tenho peças de reposição pra carregar um detetive inteiro nas costas.
 
-Ajeitei o peso do braço, sentindo a agulhada elétrica nos nervos como um lembrete implacável de que a trégua havia acabado.
+Ajeitei o peso do braço, sentindo a agulhada elétrica nos nervos como lembrete de que a trégua havia acabado.
 
 — Vamos andando, Val. A chuva só tá piorando.
 

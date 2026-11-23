@@ -32,7 +32,7 @@ A boca dele estava vazia, sem o palito de sempre, e era a coisa mais absurda que
 
 — Você carrega — Rangel respondeu, os olhos ainda fechados. — Você tem braço de quem nunca levantou nada, mas tem teimosia de Moretti. Já vi essa combinação dar errado.
 
-Gabo olhou ao redor. A escuridão era absoluta, quebrada apenas pelos relâmpagos ocasionais que iluminavam as carcaças das fábricas abandonadas como esqueletos de gigantes.
+Gabo olhou ao redor. A escuridão só era quebrada pelos relâmpagos ocasionais que iluminavam as carcaças das fábricas abandonadas como esqueletos de gigantes.
 
 — Não podemos ficar aqui — disse Valéria, sua voz tremendo levemente. Ela olhava para as sombras com a paranoia de quem sabe o que vive no escuro. — Sem a vigilância da Aeterna, as gangues vão sair das tocas. Os Saqueadores...
 
@@ -68,7 +68,7 @@ Gabo sorriu. Um sorriso triste, de canto de boca.
 
 — Valéria, me ajuda a colocar o Rangel na cabine.
 
-O transporte foi brutal e rápido. Valéria e Gabo ergueram o inspetor ferido para o banco do carona; Rangel tombou contra o encosto, segurando o revólver no colo com os olhos semicerrados, enquanto Valéria se espremia no assento central, mantendo o estojo de Aria firme na mochila.
+O transporte foi rápido e duro. Valéria e Gabo ergueram o inspetor ferido para o banco do carona; Rangel tombou contra o encosto, segurando o revólver no colo com os olhos semicerrados, enquanto Valéria se espremia no assento central, mantendo o estojo de Aria firme na mochila.
 
 Gabo assumiu o volante. A vibração do motor percorria seus braços, uma sensação tátil, real, mecânica. Sem assistência de direção, sem navegação por satélite, sem limitador de velocidade.
 

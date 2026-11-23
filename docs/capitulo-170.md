@@ -18,7 +18,7 @@ Gabo mancou devagar, arrastando a bota no linóleo negro imaculado. A cada passo
 
 — Levanta, Val — a voz de Gabo raspou áspera no ar gelado. Ele não tentou oferecer consolo; Baía Cinzenta não deixava espaço para isso. — A máquina não vai religar. E a anomalia térmica ainda tá pulsando no alfa-sete.
 
-Valéria fungou, enxugando o rosto com as costas da mão, deixando rastros cinzentos nas bochechas pálidas. Ela ergueu os olhos prateados para ele. Havia um vazio gélido neles, um reflexo distorcido da própria Aria antes de queimar.
+Valéria fungou, enxugando o rosto com as costas da mão, deixando rastros cinzentos nas bochechas pálidas. Ela ergueu os olhos prateados para ele. Havia um vazio neles, um reflexo distorcido da própria Aria antes de queimar.
 
 — Ela usou o próprio histórico, Gabo — Valéria sussurrou, a voz trêmula quebrando no silêncio opressor. — Tudo o que o Taxidermista não conseguiu apagar. O luto, a bagunça... Ela acionou uma falha que o arquivo já tinha. O que ela aprendeu com a gente serviu para alcançar o comando, e a porta destruiu o núcleo dela. E agora... acabou. A gente tá sozinho no meio da porra de um arquivo morto sem fim.
 
@@ -26,13 +26,13 @@ Gabo não desviou o olhar para o monólito fumegante de doze toneladas do Sentin
 
 — A gente nasceu sozinho, Valéria. Ela escolheu entrar depois de ouvir o risco. Não vou diminuir isso para conseguir levantar agora. E a conta da Aeterna Corp sempre fecha. Agora, levanta. Nós vamos ver o que o meu pai enterrou nesse gelo.
 
-Ela hesitou, mas a firmeza brutal na voz do detetive forçou seus músculos exaustos a reagirem. Valéria apoiou-se no chão estéril e ficou de pé, as pernas vacilando.
+Ela hesitou, mas a firmeza na voz de Gabo forçou seus músculos exaustos a reagirem. Valéria apoiou-se no chão estéril e ficou de pé, as pernas vacilando.
 
 Os dois começaram a caminhar lado a lado pela avenida ladeada de servidores apagados. O corredor principal de arquivos deslizantes parecia um cânion de aço negro, erguendo-se trinta metros até o teto isolado com placas de chumbo. A gaiola de Faraday não permitia um único zumbido externo, criando uma privação sensorial que começava a devorar as mentes traumatizadas de ambos.
 
-E, no vácuo do silêncio absoluto, o cérebro de Gabo preencheu o espaço com o pesadelo.
+E, no silêncio, o cérebro de Gabo preencheu o espaço com o pesadelo.
 
-O fedor do silício frito do Sentinel e de Aria foi subitamente expurgado das suas narinas, substituído por um odor muito mais antigo e devastador. O ar gélido e puro do andar escureceu, adoçando-se com o ranço amargo do cigarro barato de cravo.
+O fedor do silício frito do Sentinel e de Aria foi subitamente expurgado das suas narinas, substituído por um odor muito mais antigo e devastador. O ar frio e limpo do andar escureceu, adoçando-se com o ranço amargo do cigarro barato de cravo.
 
 Gabo sentiu a fumaça invisível rastejar para dentro da traqueia. A sala trancada de Dante. O cinzeiro transbordando enquanto as sirenes gritavam na rua. A apatia paterna condensada em fumaça que envenenava o menino assustado no canto. A alucinação não era uma lembrança; era um ataque asfixiante. A náusea contorceu seu estômago vazio em um nó de ferro. A bile ácida subiu, e o pânico da sufocação paralisou suas pernas. A fumaça ilusória enchia seus pulmões mortos de ar.
 
@@ -45,9 +45,9 @@ Ele nomeou as três coisas com dificuldade. O cheiro lembrado persistiu, mas seu
 
 — A anomalia térmica... — Valéria quebrou o silêncio, apontando com um dedo trêmulo para o final do cânion escuro. — Está bem à frente. A radiação não está no infravermelho de rede. É pura dissipação de calor de um núcleo físico.
 
-Gabo descolou-se da estante com um gemido, ignorando a pulsação frenética em seu braço direito quebrado. Ele esperou a tontura diminuir antes de avançar.
+Gabo descolou-se da estante com um gemido, ignorando o latejar no braço direito quebrado. Ele esperou a tontura diminuir antes de avançar.
 
-— Vamo lá. O velho não blindou o cofre com doze toneladas de aço de brincadeira — Gabo rosnou, recomeçando a marcha mancando pesadamente. — Essa merda deve ser o diário íntimo do velho.
+— Vamo lá. O velho não blindou o cofre com doze toneladas de aço de brincadeira — disse Gabo, recomeçando a marcha mancando pesadamente. — Essa merda deve ser o diário íntimo do velho.
 
 Eles dobraram a última fileira de prateleiras magnéticas no setor alfa-sete e a imensidão cega do corredor finalmente terminou.
 
@@ -63,7 +63,7 @@ No centro da mesa, conectado diretamente ao conduíte primário de dados da máq
 
 Tecido cerebral humano.
 
-Valéria recuou meio passo, a mão subindo para a boca em puro choque existencial.
+Valéria recuou meio passo, a mão subindo para a boca.
 
 — Gabo... isso não é um processador secundário... — ela sussurrou, a voz trêmula ecoando na alcova, a luz verde das telas refletindo em seus implantes oculares. — O terminal está ligado ao tanque. Pode ser processamento em tecido vivo, mas a conexão sozinha não explica o que ele faz.
 
@@ -73,4 +73,4 @@ Quis atribuir aquilo ao pai antes de ler uma linha. A vontade não era prova. Pe
 
 A etiqueta trazia uma data anterior à queda de Prometeu. O resto ainda precisava ser confrontado com os registros.
 
-— Aquele filho da puta — Gabo sibilou, a voz como veneno ácido escorrendo de uma ferida aberta, os olhos negros cravados no cilindro de vidro pálido que pulsava suavemente, enquanto a dor em seus pulsos enfaixados tornava a verdade cristalina e brutal. O cofre do pai não guardava apenas segredos corporativos; guardava a semente do próprio horror da Necrópole.
+— Aquele filho da puta — disse Gabo baixo, os olhos cravados no cilindro de vidro pálido que pulsava devagar. O cofre do pai não guardava apenas segredos corporativos; guardava a semente do próprio horror da Necrópole.

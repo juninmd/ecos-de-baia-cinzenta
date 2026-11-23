@@ -10,11 +10,11 @@ Personagens Presentes: "Gabo, Valéria, Aria (Reboot)"
 
 # Capítulo 165: O Fosso de Aço
 
-O som das engrenagens cegas morrendo era um lamento metálico que ecoava pelo corredor de concreto. A imensa porta do firewall recuara completamente, revelando a escuridão absoluta do poço do elevador de manutenção principal.
+O som das engrenagens cegas morrendo era um lamento metálico que ecoava pelo corredor de concreto. A imensa porta do firewall recuara completamente, revelando o escuro do poço do elevador de manutenção principal.
 
 Gabo estava caído no piso da câmara superior, o sangue escorrendo de novos cortes onde a ferrugem e as garras da biomassa o haviam rasgado. O curativo no abdômen havia escurecido de novo. Ele forçou os joelhos contra a grade fria, mas seu corpo recusava-se a obedecer. Não havia mais reservas de adrenalina; apenas um vazio sombrio e o pulsar constante de seu braço fraturado.
 
-Valéria apareceu na borda da câmara, vinda pela escada de manutenção que a porta aberta havia exposto. Seu rosto estava coberto de cinza e suor frio, os olhos prateados arregalados pelo horror do que Gabo acabara de fazer. Sem dizer uma palavra, ela deslizou para dentro do maquinário, passando os braços trêmulos ao redor do torso dele.
+Valéria apareceu na borda da câmara, vinda pela escada de manutenção que a porta aberta havia exposto. Seu rosto estava coberto de cinza e suor frio, os olhos arregalados pelo horror do que Gabo acabara de fazer. Sem dizer uma palavra, ela deslizou para dentro do maquinário, passando os braços trêmulos ao redor do torso dele.
 
 — Você é um maldito suicida — ela sussurrou, a voz rouca falhando enquanto o puxava para cima. O cheiro de ozônio e suor ácido impregnava sua jaqueta.
 
@@ -22,7 +22,7 @@ Valéria apareceu na borda da câmara, vinda pela escada de manutenção que a p
 
 A luz azul-gelo do pendrive cortou a penumbra da galeria de engrenagens enquanto ele recebia os dados vibracionais da estrutura.
 
-— *A passagem primária está desobstruída,* — a voz sintética e clínica da IA soou pelo comunicador do cyberdeck. — *Recomendo evasão imediata. A perturbação mecânica das engrenagens de bronze pode ter sido ouvida nos anéis adjacentes. As unidades podem estar a caminho.*
+— *A passagem primária está desobstruída,* — disse Aria pelo comunicador do cyberdeck. — *Recomendo evasão imediata. A perturbação mecânica das engrenagens de bronze pode ter sido ouvida nos anéis adjacentes. As unidades podem estar a caminho.*
 
 Com a ajuda de Valéria, Gabo escorregou pela escada de manutenção lateral e desceu da câmara de engrenagens; o impacto das botas com o chão do corredor arrancou-lhe um chiado de dor por entre os dentes trincados. O sangue novo da ferida do braço quebrado pingava lento no concreto coberto de fuligem, mas ele se recusou a cair novamente.
 
@@ -50,9 +50,9 @@ Puxou o ar frio e metálico do poço em golfadas lentas e profundas, forçando o
 
 — Eu tô... eu tô bem — ele murmurou, a voz trêmula e rouca, mas perfeitamente lúcida. A náusea recuara para as sombras. — Só precisava... respirar. Precisava lembrar onde eu tô.
 
-No antebraço de Valéria, o pendrive de titânio de Aria mantinha seu brilho azul-gelo inalterado, monitorando os batimentos cardíacos do detetive pelo sensor biométrico de proximidade com a frieza impassível de um obelisco de silício. Seus processadores calculavam a autodestruição progressiva do líder do grupo sem qualquer julgamento moral.
+No antebraço de Valéria, o pendrive de titânio de Aria mantinha seu brilho azul-gelo inalterado, monitorando os batimentos cardíacos do detetive pelo sensor biométrico de proximidade sem comentar. Ela acompanhava o desgaste de Gabo e guardava o julgamento para si.
 
-— *Você está machucando o braço outra vez quando tenta reagir ao cheiro. A causa dessas sensações não está no meu diagnóstico, e eu não vou chamar isso de tratamento,* — Aria pontuou pelo alto-falante do deck, a voz sintética cortando o barulho rítmico das correntes de aço. — *Entretanto, a degradação repetitiva dos tecidos nervosos periféricos acelerará o choque sistêmico. A tala está soltando e há sangue na faixa. Val precisa verificar antes de mover você mais um andar.*
+— *Você está machucando o braço outra vez quando tenta reagir ao cheiro. A causa dessas sensações não está no meu diagnóstico, e eu não vou chamar isso de tratamento,* — disse Aria pelo alto-falante do deck, por cima do barulho rítmico das correntes de aço. — *Entretanto, a degradação repetitiva dos tecidos nervosos periféricos acelerará o choque sistêmico. A tala está soltando e há sangue na faixa. Val precisa verificar antes de mover você mais um andar.*
 
 — Anotado, lata velha — Gabo respondeu, apoiando a nuca no aço frio da grade e recusando-se a fechar os olhos. — Para onde essa gaiola tá levando a gente?
 
@@ -62,6 +62,6 @@ Valéria ergueu o pulso para iluminar os números pintados a estêncil que passa
 
 Valéria soltou um longo suspiro, recostando-se na grade oposta a Gabo e verificando o carregador de sua pistola pela décima vez. A exaustão a tornava um espectro pálido sob a luz azulada do visor do cyberdeck.
 
-— Ótimo. Do açougue de carne do Taxidermista para um cofre corporativo de concreto e chumbo — murmurou a hacker, o vapor da respiração começando a condensar no ar cada vez mais gelado do poço. — Pelo menos lá em cima não deve ter raízes sangrentas penduradas no teto.
+— Ótimo. Do açougue de carne do Taxidermista para um cofre corporativo de concreto e chumbo — murmurou Valéria, o vapor da respiração começando a condensar no ar cada vez mais gelado do poço. — Pelo menos lá em cima não deve ter raízes sangrentas penduradas no teto.
 
 — Não subestime o desespero de um parasita sem energia, nem os brinquedos que o meu pai deixou guardados no escuro — Gabo rebateu, a dor latejante em seus braços mantendo o foco afiado como uma navalha. Acima deles, as travas de parada do Subnível 2.0 começaram a aparecer na penumbra. A cidade morta estava esperando, e cada engrenagem daquele elevador os empurrava para mais perto do abismo final.

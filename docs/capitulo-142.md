@@ -11,7 +11,7 @@ O calor não veio de uma vez. Ele cresceu, pesado e sufocante, como um cobertor 
 
 As paredes brancas do Estúdio começaram a perder a cor, distorcidas pelas ondas de calor que emanavam dos painéis de piso. O cheiro de ozônio e sangue, que antes dominava o ar, foi substituído pelo fedor acre de plástico queimado e cabelo chamuscado.
 
-— Temperatura ambiente: 68 graus Celsius — Aria cortou o zumbido crescente dos incineradores pelo alto-falante tático na gola de Gabo. O drive blindado, acoplado ao comunicador, piscava seu LED azul-gelo em frequência frenética. — Aumento de zero vírgula dois graus por segundo. O calor está subindo. Não tenho como dar um prazo seguro; temos de sair agora.
+— Temperatura ambiente: 68 graus Celsius — Aria cortou o zumbido crescente dos incineradores pelo alto-falante na gola de Gabo. O drive blindado, acoplado ao comunicador, piscava depressa. — Aumento de zero vírgula dois graus por segundo. O calor está subindo. Não tenho como dar um prazo seguro; temos de sair agora.
 
 Gabo tossiu, o ar seco arranhando sua garganta. Atrás da cúpula de vidro blindado, o Taxidermista observava. Ele não sorria. Apenas assistia, com as mãos cruzadas nas costas, como um cientista observando uma cultura de bactérias ser esterilizada.
 
@@ -21,9 +21,9 @@ Valéria estava ajoelhada perto do painel de controle da entrada, os dedos voand
 
 — Não dá! — ela gritou de volta, o pânico trincando sua voz. — É *hardwire*! Ele cortou a conexão lógica da entrada principal. É um fechamento mecânico! Estamos trancados em um forno!
 
-Gabo sentiu o suor evaporar antes mesmo de escorrer. Sua pele pinicava. A alucinação atingiu-o como um soco no estômago. *Fumaça de cigarro barato. O apartamento de Dante.* A névoa imaginária preencheu seus pulmões, trazendo a náusea visceral do trauma que nunca o abandonava.
+Gabo sentiu o suor evaporar antes mesmo de escorrer. Sua pele pinicava. A alucinação atingiu-o como um soco no estômago. *Fumaça de cigarro barato. O apartamento de Dante.* A névoa imaginária preencheu seus pulmões, trazendo a náusea de sempre.
 
-Ele rosnou e apertou o *Colar de Sol* com força. O metal, já quente pela temperatura da sala, queimou a palma de sua mão. A dor foi nítida, real. *Foco na dor. A dor é vida. A fumaça é morte.*
+Ele apertou o *Colar de Sol* com força. O metal, já quente pela temperatura da sala, queimou a palma de sua mão. A dor foi nítida, real. *Foco na dor. A dor é vida. A fumaça é morte.*
 
 — Aria! — Gabo gritou contra o microfone de lapela. — Saída! Qualquer uma! Varre os sensores do deck da Val!
 
@@ -70,7 +70,7 @@ As chamas explodiram dos bocais no teto.
 
 Gabo se jogou no buraco.
 
-A queda foi curta e brutal. Ele bateu em uma rampa de metal oleoso e deslizou, girando na escuridão, até cair junto de Val e da prancha sobre uma pilha de algo macio e úmido.
+A queda foi curta e doeu. Ele bateu em uma rampa de metal oleoso e deslizou, girando na escuridão, até cair junto de Val e da prancha sobre uma pilha de algo macio e úmido.
 
 Acima deles, um clarão laranja iluminou a abertura do duto por um segundo, seguido pelo rugido abafado do fogo consumindo o estúdio. Depois, escuridão. E o silêncio gotejante das profundezas.
 

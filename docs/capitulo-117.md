@@ -26,7 +26,7 @@ Valéria estava conectada a um painel de parede, seus olhos prateados dançando 
 
 — Estamos perto. Mas... — ela hesitou. — O código mudou. A arquitetura da rede aqui embaixo não segue os protocolos do Dante. É... orgânica.
 
-— O Taxidermista — Gabo cuspiu o nome como se fosse veneno.
+— O Taxidermista — disse Gabo.
 
 — Sangra de novo — ele disse, apontando o queixo para o nariz dela.
 
@@ -68,7 +68,7 @@ Na parede, o gráfico de eficiência subia em degraus verdes. Cada degrau era um
 
 — Não sabemos o que acontece com elas se você cortar tudo. — Ela ergueu o queixo. — Por isso precisamos ler o painel antes de quebrar qualquer coisa.
 
-Gabo sentiu o mundo inclinar. A perna doía, a cabeça girava. Ele se lembrou da Torre do Relógio. Do som de seus ossos quebrando. O Taxidermista não era apenas um serial killer; ele era o engenheiro do inferno.
+Gabo sentiu o mundo inclinar. A perna doía, a cabeça girava. Ele se lembrou da Torre do Relógio. Do som de seus ossos quebrando. O Taxidermista não matava só por matar; projetava o lugar onde as pessoas morriam.
 
 — Abra a porta, Val — Gabo ordenou, sua voz baixa e perigosa.
 

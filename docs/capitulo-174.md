@@ -9,7 +9,7 @@ Personagens Presentes: Gabo, Valéria
 
 Atravessar as portas de vidro estilhaçado da Aeterna Corp foi como cruzar a fronteira de um cemitério. Deixamos o mausoléu de mármore e silício para trás e pisamos na cova aberta que Baía Cinzenta havia se tornado.
 
-A chuva não caía; ela desabava. Era pesada, ácida e gelada, lavando a fuligem dos meus ombros e escorrendo pelos ferimentos cobertos com o curativo de Valéria. Sem a poluição luminosa dos painéis holográficos e dos letreiros de neon da corporação, a cidade estava mergulhada num cinza profundo e absoluto. O monólito negro da torre erguia-se às nossas costas, morto e inútil, como um prego enferrujado cravado no coração do Distrito Central.
+A chuva não caía; ela desabava. Era pesada, ácida e gelada, lavando a fuligem dos meus ombros e escorrendo pelos ferimentos cobertos com o curativo de Valéria. Sem a poluição luminosa dos painéis holográficos e dos letreiros de neon da corporação, a cidade estava mergulhada num cinza fundo. O monólito negro da torre erguia-se às nossas costas, morto e inútil, como um prego enferrujado cravado no coração do Distrito Central.
 
 A ausência do zumbido elétrico crônico da infraestrutura urbana era ensurdecedora. O silêncio pesava nos ouvidos.
 
@@ -19,9 +19,9 @@ Nenhuma tela piscava. Nenhum letreiro pedia atenção. Em todos os anos que eu t
 
 Valéria caminhava a um passo pesado, cada bota afundando no asfalto molhado com um som oco. A água escorria pelo casaco encharcado e pela placa de contato exposta na nuca dela. Sem a rede, sem a energia da cidade para se conectar, ela parecia menor. Uma soldada vagando pelo ferro-velho sem ordens ou propósito.
 
-Eu mancava ao lado dela. A dor no abdômen era uma queimação constante, mas minhas pernas obedeciam pelo instinto primitivo de sobrevivência. O asfalto quebrado sob minhas botas cheirava a poças estagnadas, óleo diesel vazado e lixo químico molhado. Era o cheiro visceral das ruas baixas, o cheiro do mundo real cobrando a conta depois da fantasia de vidro e luz da corporação.
+Eu mancava ao lado dela. A dor no abdômen era uma queimação constante, mas minhas pernas obedeciam pelo instinto primitivo de sobrevivência. O asfalto quebrado sob minhas botas cheirava a poças estagnadas, óleo diesel vazado e lixo químico molhado. Era o cheiro das ruas baixas, o cheiro do mundo real cobrando a conta depois da fantasia de vidro e luz da corporação.
 
-O vento mudou de direção, varrendo o vapor frio das grelhas de esgoto desligadas. Com ele, o asfalto exalou aquela umidade característica que antecede a tempestade, e uma lufada gélida atingiu meu peito, fazendo minhas pernas tremerem sob o peso da exaustão acumulada.
+O vento mudou de direção, varrendo o vapor frio das grelhas de esgoto desligadas. Com ele, o asfalto exalou aquela umidade característica que antecede a tempestade, e uma lufada fria atingiu meu peito, fazendo minhas pernas tremerem sob o peso da exaustão acumulada.
 
 A chuva batia na lataria num ritmo miúdo, quase regular, e por um instante absurdo o som virou o de uma máquina de escrever do outro lado de uma parede. Tec, tec, tec, pausa, tec. Parei no meio da rua para ouvir melhor. A pausa era dele. Era o tempo que Rangel levava para puxar a folha e bater a alavanca de retorno.
 

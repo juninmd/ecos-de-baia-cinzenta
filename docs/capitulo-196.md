@@ -51,7 +51,7 @@ Elias sacou uma lata amassada de desengripante industrial do cinto e esguichou u
 
 Valéria encostou a ponta da chave sônica no centro da porca mestre e acionou o gatilho.
 
-Um zumbido agudo, quase imperceptível ao ouvido humano mas doloroso nos dentes, ecoou pela câmara. O metal do volante começou a vibrar violentamente, e uma nuvem fina de ferrugem avermelhada se esfarelou das ranhuras da rosca, borbulhando junto com o óleo penetrante.
+Um zumbido agudo, quase imperceptível ao ouvido humano mas doloroso nos dentes, ecoou pela câmara. O metal do volante começou a vibrar, e uma nuvem fina de ferrugem avermelhada se esfarelou das ranhuras da rosca, borbulhando junto com o óleo penetrante.
 
 — Mexeu um pouco — disse Elias, tocando o volante depois que Val desligou a ferramenta. — Tenta devagar, Gabo. Se a roda entortar, larga.
 

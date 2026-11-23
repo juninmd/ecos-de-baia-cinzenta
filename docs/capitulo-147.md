@@ -10,7 +10,7 @@ description: "A porta foi alterada para exigir uma sangria desnecessária à ide
 
 O metal cedeu antes dos músculos de Gabo. Não muito, apenas o suficiente para que o mosquetão raspasse com um gemido estridente contra a estrutura do poço, um lembrete físico de que a gravidade estava farta de brincar.
 
-— *Plataforma de acesso detectada a vinte metros acima. Inclinação: oitenta e cinco graus. Estrutura primária: reforçada.* — A voz sintética de Aria não ecoou; saiu pelo comunicador e cortou a umidade como um bisturi, precisa e clínica, enquanto o drive piscava no pulso de Valéria.
+— *Plataforma de acesso detectada a vinte metros acima. Inclinação: oitenta e cinco graus. Estrutura primária: reforçada.* — A voz de Aria saiu baixa pelo comunicador, enquanto o drive piscava no pulso de Valéria.
 
 Vinte metros. Poderia muito bem ser a distância até a lua. A respiração de Gabo saía em arfadas curtas e rasgadas, cada exalação formando uma pequena nuvem no ar frio e estagnado. O corpo de Rangel, balançando ligeiramente abaixo dele, parecia ter dobrado de peso desde a última hora. Rangel precisava de atendimento, e cada metro consumia o tempo que restava.
 
@@ -29,7 +29,7 @@ Valéria se arrastou até a porta, tirou o pendrive blindado de Aria do slot lat
 
 Valéria desabou sentada contra a parede, tentando recuperar o fôlego enquanto olhava para o drive espetado no painel. — E... e agora, Aria? Consegue girar o solenoide por dentro?
 
-O LED azul-gelo do pendrive piscou em um padrão estático, desprovido de ironia ou aborrecimento.
+O LED azul-gelo do pendrive piscou num padrão fixo.
 — *Negativo. A bobina de indução eletrônica está rompida. O acionamento secundário exige validação física no módulo adjacente. A solução requer material genético humano.*
 
 Gabo, ainda de joelhos examinando o pulso fraco de Rangel, levantou os olhos. A dor em sua mão agora era um pulsar baixo e contínuo.
@@ -40,7 +40,7 @@ Gabo, ainda de joelhos examinando o pulso fraco de Rangel, levantou os olhos. A 
 Gabo se ergueu lentamente, os ossos estalando em protesto. Ele caminhou até o painel onde o pendrive de Aria brilhava como uma brasa fria. As microagulhas pareciam dentes minúsculos esperando para morder.
 — Vai exigir sangue, é isso?
 
-— *Afirmativo. O comando alterado exige duzentos mililitros no reservatório. Posso tentar isolar a coleta e abrir o acesso por fora, mas o sensor de sabotagem está ligado ao fecho.* — A IA não hesitou, nem suavizou a matemática cruel.
+— *Afirmativo. O comando alterado exige duzentos mililitros no reservatório. Posso tentar isolar a coleta e abrir o acesso por fora, mas o sensor de sabotagem está ligado ao fecho.* — Aria não suavizou a conta.
 
 Valéria arregalou os olhos. — Duzentos ml? Gabo, você mal consegue ficar em pé, não pode...
 
@@ -54,4 +54,4 @@ Ele olhou para as agulhas. O cheiro de sangue prestes a ser derramado já domina
 
 — Vou correr o risco, caixa de cálculo. — Gabo pressionou o antebraço contra o receptáculo.
 
-A mordida das agulhas foi profunda. Gabo sibilou, fechando os olhos enquanto sentia o maquinário arcaico sugar o calor de suas veias. O som de sucção mecânica misturou-se ao ruído gorgolejante da respiração de Rangel e ao zumbido agudo do pendrive de Aria aquecendo no slot ao lado para converter o sinal biológico em pulso de abertura. A dor no braço somou-se à tontura. Val segurou o ombro dele e observou o volume subir, pronta para interromper a coleta se ele perdesse a consciência. Ele observou, em um transe induzido pela fadiga, enquanto o painel inativo começava a piscar fracamente em um tom vermelho opaco. O módulo registrava cada gota com uma marca de data recente. A corporação instalara o leitor; alguém ainda vivo escolhera cobrar daquele jeito.
+A mordida das agulhas foi profunda. Gabo prendeu o ar, fechando os olhos enquanto sentia o maquinário arcaico sugar o calor de suas veias. O som de sucção mecânica misturou-se ao ruído gorgolejante da respiração de Rangel e ao zumbido agudo do pendrive de Aria aquecendo no slot ao lado para converter o sinal biológico em pulso de abertura. A dor no braço somou-se à tontura. Val segurou o ombro dele e observou o volume subir, pronta para interromper a coleta se ele perdesse a consciência. Ele observou, em um transe induzido pela fadiga, enquanto o painel inativo começava a piscar fracamente em um tom vermelho opaco. O módulo registrava cada gota com uma marca de data recente. A corporação instalara o leitor; alguém ainda vivo escolhera cobrar daquele jeito.

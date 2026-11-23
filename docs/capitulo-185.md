@@ -9,7 +9,7 @@ Personagens Presentes: Gabo, Valéria
 
 O cemitério de carcaças industriais se estendia como um mar de esqueletos de aço sob a chuva fina e venenosa do Distrito 4. Cada passo que dávamos na lama oleosa soava como uma confissão clandestina. Eu estava no limite físico; o peso da nova armação arrastava meu ombro direito para baixo, um pêndulo de liga metálica bruta que repuxava minhas costelas a cada passada claudicante.
 
-Valéria caminhava dois metros à minha esquerda, os olhos prateados perscrutando as ruínas de uma oficina mecânica abandonada.
+Valéria caminhava dois metros à minha esquerda, os olhos nas ruínas de uma oficina mecânica abandonada.
 
 — Pára, Gabo — ela sussurrou de repente, a voz firme e cortante. — Desliga o sensor térmico do casaco. Agora.
 

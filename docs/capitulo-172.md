@@ -8,7 +8,9 @@ image: /capitulo_172_pro.jpg
 
 # Capítulo 172: O Fim do Expediente
 
-Na página depois do Sujeito 01, escrevi meu nome: Gabriel Moretti. Sem patente. Se aquele caderno ia guardar o que tínhamos feito, eu não podia continuar tratando os meus atos como se pertencessem a outro homem. Guardei a caneta com a mão esquerda. O silêncio do Subnível 2.0 pressionava meus tímpanos como água a cinquenta metros de profundidade. Na mesa à minha frente, um fluido escuro escorria do cilindro estilhaçado.
+Na página depois do Sujeito 01, escrevi meu nome: Gabriel Moretti. Sem patente. Se aquele caderno ia guardar o que tínhamos feito, eu não podia continuar tratando os meus atos como se pertencessem a outro homem. Até ali, alguém tinha contado esta história por mim. Dali em diante, quem conta sou eu.
+
+Guardei a caneta com a mão esquerda. O silêncio do Subnível 2.0 pressionava meus tímpanos como água a cinquenta metros de profundidade. Na mesa à minha frente, um fluido escuro escorria do cilindro estilhaçado.
 
 O tecido no tanque já não recebia suporte. Eu não sabia quanto da rede dependia dele, nem se alguém sentira o desligamento.
 
@@ -16,7 +18,7 @@ As feridas do meu braço quebrado sangravam. A pele ferida e as ataduras haviam 
 
 O ar daquele arquivo tinha gosto de moeda velha. Não era figura de linguagem: o cobre das canaletas, aquecido pela bateria de emergência que ainda sustentava as luzes vermelhas, soltava um sabor metálico que grudava na raiz da língua. A gaiola de Faraday transformava cada ruído em coisa próxima e indecente — o estalo do filamento, o escorrer do fluido pela mesa, o meu próprio pulso batendo na garganta do braço quebrado. Nenhum som entrava. Nenhum som saía. A Aeterna construíra aquela sala para que nada de dentro pudesse ser ouvido, e agora ela nos devolvia o silêncio com juros, um cofre hermético em volta de dois vivos e uma máquina morta.
 
-Eu encarava a massa cinzenta inerte. Não havia brilho de dados, nem a pulsação suave da respiração sintética. Apenas o cheiro gélido de formol, ozônio... e fumaça.
+Eu encarava a massa cinzenta inerte. Não havia brilho de dados, nem a pulsação suave da respiração sintética. Apenas o cheiro frio de formol, ozônio... e fumaça.
 
 A fumaça.
 

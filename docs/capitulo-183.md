@@ -19,7 +19,7 @@ A franja dela apagou por meio segundo, o tempo de erguer a pistola compacta que 
 
 — O que você viu? — perguntei, a pinça externa repousando pesada sobre o quadril, os pinos do fixador latejando em sintonia com os meus batimentos cardíacos.
 
-— Barricada artesanal reforçada — ela sussurrou, os olhos prateados estreitos, escaneando as junções de metal. — Placas de blindagem balística arrancadas de furgões da polícia, vigas em I soldadas em cruz e duas câmeras analógicas com cabo coaxial direto. Quem montou isso aqui entende de controle de perímetro. Tem até concertina de arame farpado nas laterais pra ninguém tentar passar pelo vão da tubulação.
+— Barricada artesanal reforçada — ela sussurrou, os olhos estreitos, escaneando as junções de metal. — Placas de blindagem balística arrancadas de furgões da polícia, vigas em I soldadas em cruz e duas câmeras analógicas com cabo coaxial direto. Quem montou isso aqui entende de controle de perímetro. Tem até concertina de arame farpado nas laterais pra ninguém tentar passar pelo vão da tubulação.
 
 No centro da estrutura, uma escotilha de ferro maciço barrava a passagem de parede a parede. Acima da fresta blindada de observação, um alto-falante de corneta oxidado rangeu com estática.
 
@@ -39,13 +39,13 @@ Valéria deu um passo à frente, os nós dos dedos estalando. Ela puxou um cabo 
 
 O interfone do homem deu um estrondo agudo de microfonia que o fez recuar com a mão no ouvido.
 
-— Escuta aqui, seu rato de esgoto — a voz de Valéria saiu amplificada e estridente pelo próprio sistema de som do sujeito, carregada de puro veneno do cais. — Meu nome é Val Cruz. Se você tentar encostar um dedo no meu deck, eu descarrego a sobretensão desse capacitor no seu circuito de interfone e frito seus tímpanos até você sangrar pelo nariz. Você acha que é o único que sabe fazer gambiarra em duto de esgoto?
+— Escuta aqui, seu rato de esgoto — a voz de Valéria saiu amplificada e estridente pelo próprio sistema de som do sujeito, com todo o veneno do cais. — Meu nome é Val Cruz. Se você tentar encostar um dedo no meu deck, eu descarrego a sobretensão desse capacitor no seu circuito de interfone e frito seus tímpanos até você sangrar pelo nariz. Você acha que é o único que sabe fazer gambiarra em duto de esgoto?
 
 O homem reapareceu na fresta, a espingarda de cano serrado tremendo na mão suja.
 
 — Você tá muito assanhada pra quem tá cercada, garota! Eu tenho a alavanca da eclusa de descarte aqui dentro! Um puxão e eu solto trinta mil litros de água de caldeira fervendo em cima de vocês!
 
-Valéria me encarou de soslaio, os olhos prateados piscando um alerta silencioso. Ela tocou meu braço esquerdo e falou baixo, cobrindo o microfone improvisado:
+Valéria me encarou de soslaio, os olhos piscando um alerta. Ela tocou meu braço esquerdo e falou baixo, cobrindo o microfone improvisado:
 
 — A tubulação de alívio passa por cima da nossa cabeça. Não sei se ele consegue abrir a válvula, mas não vejo onde nos esconder caso consiga.
 

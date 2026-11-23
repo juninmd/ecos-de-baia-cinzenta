@@ -7,9 +7,9 @@ Personagens Presentes: Gabo, Valéria, Elias
 
 # Capítulo 199: A Gravidade do Lodo
 
-Os oitocentos metros de distância pareciam se multiplicar a cada passo pelas catacumbas do Setor 6. A galeria era um labirinto esquecido de alvenaria brutalista, onde arcos de tijolos seculares gotejavam água fétida e óleo de transformadores sobre um piso inundado que cobria nossas botas até os tornozelos.
+Os oitocentos metros de distância pareciam se multiplicar a cada passo pelas catacumbas do Setor 6. A galeria era um labirinto esquecido de alvenaria, onde arcos de tijolos seculares gotejavam água fétida e óleo de transformadores sobre um piso inundado que cobria nossas botas até os tornozelos.
 
-Elias choramingava a cada respingo, segurando a lanterna caseira com as duas mãos trêmulas. O facho oscilava freneticamente, projetando sombras compridas sobre as colunas maciças que sustentavam as fundações dos arranha-céus comerciais acima de nós.
+Elias choramingava a cada respingo, segurando a lanterna caseira com as duas mãos trêmulas. O facho tremia, projetando sombras compridas sobre as colunas maciças que sustentavam as fundações dos arranha-céus comerciais acima de nós.
 
 Valéria ia logo atrás dele, o cyberdeck seguro no peito e a pistola em punho, os olhos ópticos prateados varrendo as vigas com atenção incansável.
 
@@ -25,11 +25,11 @@ O piso desabara numa extensão de dez metros, engolido por uma cratera onde um c
 
 Pior do que a corrosão do metal, no entanto, eram as raízes bioluminescentes do Jardim. Gavinhas azuis e translúcidas envolviam os canos como serpentes marinhas, pulsando com um brilho fraco e doentio.
 
-— Obstáculo no caminho — Valéria estacou na beirada da laje partida, ajoelhando-se para inspecionar a ancoragem dos tubos com a ponta da faca tática.
+— Obstáculo no caminho — Valéria estacou na beirada da laje partida, ajoelhando-se para inspecionar a ancoragem dos tubos com a ponta da faca.
 
 — A gente não pode passar por aí! — Elias soluçou, recuando até colar as costas num pilar de sustentação. — Aquela porcaria azul tá viva! Se a gente encostar nessas raízes, elas agarram nossas pernas e puxam a gente pro fundo do canal!
 
-— As raízes não se mexeram até agora, Elias. Não sei se vão reagir — Valéria analisou com calma cirúrgica, raspando a crosta de ferrugem do primeiro tubo. — Mas a armação de ferro tá carcomida. Ela não aguenta o peso de nós três juntos. A gente tem que cruzar em fila indiana, um por vez, com passos curtos e sem pular.
+— As raízes não se mexeram até agora, Elias. Não sei se vão reagir — disse Valéria com calma, raspando a crosta de ferrugem do primeiro tubo. — Mas a armação de ferro tá carcomida. Ela não aguenta o peso de nós três juntos. A gente tem que cruzar em fila indiana, um por vez, com passos curtos e sem pular.
 
 — Eu não vou primeiro! — Elias gritou baixo, sacudindo a cabeça num pânico cego. — Eu sou magro, se eu cair eu me afogo nessa gosma!
 
@@ -37,7 +37,7 @@ Dei um passo pesado na direção dele, a garra de ferro da armação erguendo-se
 
 — Você vai primeiro exatamente porque é o mais leve, Elias — falei, a voz rouca e sem espaço para negociação. — Você cruza, prende a fita de segurança no olhal de aço do outro lado e joga a ponta de volta pra nós. Se você tentar correr ou se recusar a subir no cano, eu te deixo sozinho nessa plataforma escura. E você sabe muito bem o que vai sair desse esgoto quando os neons apagarem.
 
-Elias encarou o cano frio de *Caronte* que despontava do meu casaco e depois olhou para os olhos prateados de Valéria, que não piscavam. Ele engoliu o choro, assentiu com a cabeça e respirou fundo.
+Elias encarou o cano frio de *Caronte* que despontava do meu casaco e depois olhou para Valéria, que não piscava. Ele engoliu o choro, assentiu com a cabeça e respirou fundo.
 
 — Me dá a minha cinta de manutenção — ele pediu com a voz trêmula.
 
@@ -76,7 +76,7 @@ A água escura borbulhou a meio metro das minhas botas.
 
 Lá em cima, Elias puxava a fita com as duas mãos enquanto Valéria guiava a linha com a direita, fincando os pés na borda da laje com toda a força de seus corpos.
 
-— Puxa, Elias! Não solta essa fita! — Valéria berrava, o rosto vermelho de esforço, os LEDs da franja piscando freneticamente. — Põe a mão boa no corrimão, Gabo! Dá impulso com a perna direita!
+— Puxa, Elias! Não solta essa fita! — Valéria gritava, o rosto vermelho de esforço, os LEDs da franja piscando. — Põe a mão boa no corrimão, Gabo! Dá impulso com a perna direita!
 
 Travei os dentes, usei a tração da fita que eles seguravam e dei um impulso violento com a bota boa contra a parede rochosa. A cinta sustentou meu tronco enquanto Elias puxava. Valéria alcançou meu casaco com a mão direita e ajudou a me arrastar para a laje.
 
@@ -84,7 +84,7 @@ Caí de costas no concreto molhado, arfando com o coração batendo na garganta.
 
 Atrás de nós, os restos da ponte improvisada se soltaram de vez, despencando no canal de drenagem com um estrondo monumental de água e ferro que ecoou pelas catacumbas inteiras.
 
-Valéria caiu sentada ao meu lado, limpando o suor da testa com as costas da mão suja de ferrugem, o peito subindo e descendo com violência. Ela me encarou por três segundos e soltou uma gargalhada rouca, cheia de puro alívio:
+Valéria caiu sentada ao meu lado, limpando o suor da testa com as costas da mão suja de ferrugem, o peito subindo e descendo com violência. Ela me encarou por três segundos e soltou uma gargalhada rouca, de alívio:
 
 — Eu falei... eu falei pra você pisar leve, seu elefante de lata!
 

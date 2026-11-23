@@ -7,15 +7,15 @@ Personagens Presentes: Gabo, Valéria, Elias
 
 # Capítulo 212: Roldanas e Sangue
 
-A subida foi um exercício de tortura pura, calculada em centímetros e paga com sangue. Pendurado por uma corda tática de escalada presa a um mosquetão enferrujado, eu balançava no vazio a quase sete metros acima da floresta de cristais negros de óxido. Qualquer erro, qualquer falha nos elos corroídos pelo frio químico, e meu corpo despencaria de costas sobre centenas de espigões que furariam carne, ossos e órgãos com a facilidade de lâminas cirúrgicas.
+A subida foi um exercício de tortura pura, calculada em centímetros e paga com sangue. Pendurado por uma corda de escalada presa a um mosquetão enferrujado, eu balançava no vazio a quase sete metros acima da floresta de cristais negros de óxido. Qualquer erro, qualquer falha nos elos corroídos pelo frio químico, e meu corpo despencaria de costas sobre centenas de espigões que furariam carne, ossos e órgãos como bisturis.
 
 O vento polar assobiava pela galeria subterrânea, roubando o calor dos meus músculos e transformando a dor da minha clavícula em uma fornalha latejante.
 
-Val prendera a segunda linha a uma viga separada, usando a guia que trouxéramos do poço, antes de testar a roldana. Elias já havia sido içado até a plataforma elevada de serviço; o garoto jazia de bruços na grade de aço, puxando o ar em golfadas desesperadas enquanto segurava a extremidade solta da corda para manter a tensão. Valéria comandava a roldana de carga com os pés fincados na base de uma viga mestra. Seus fios holográficos azuis estavam emaranhados pelo vento e suor, brilhando como chamas elétricas na penumbra gélida.
+Val prendera a segunda linha a uma viga separada, usando a guia que trouxéramos do poço, antes de testar a roldana. Elias já havia sido içado até a plataforma elevada de serviço; o garoto jazia de bruços na grade de aço, puxando o ar em golfadas desesperadas enquanto segurava a extremidade solta da corda para manter a tensão. Valéria comandava a roldana de carga com os pés fincados na base de uma viga mestra. Seus fios holográficos azuis estavam emaranhados pelo vento e suor, brilhando na penumbra fria.
 
 — Anda, Moretti! — gritou ela, a voz rouca pelo esforço físico e pelo ardor da amônia na garganta. — O que diabos o Vasco colocou dentro desse seu braço de sucata? Chumbo derretido? Você pesa mais que um gerador a diesel!
 
-— É puro aço forjado de desmanche, Val, — rosnei de volta, tentando encontrar apoio para o calcanhar da bota boa em uma saliência da parede de concreto. — E eu não tô vendo você reclamar da minha musculatura quando preciso arrombar uma porta blindada!
+— É puro aço forjado de desmanche, Val, — respondi, tentando encontrar apoio para o calcanhar da bota boa em uma saliência da parede de concreto. — E eu não tô vendo você reclamar da minha musculatura quando preciso arrombar uma porta blindada!
 
 — Eu reclamo de tudo em você, detetive, principalmente da teimosia! — rebateu ela, girando a manivela com a mão direita enquanto apoiava a luva atuada no aro. Os tendões do pescoço dela saltavam sob a pele pálida, e o barulho das engrenagens emperradas soava como dentes rangendo a seco. — Elias, puxa essa ponta junto comigo antes que o carretel escape da trava!
 
@@ -27,13 +27,13 @@ Três metros.
 
 Um estalo seco e agudo ecoou no topo da estrutura.
 
-Pó de ferrugem e lascas de ferro congelado choveram direto nos meus olhos. Pisquei furiosamente, cuspindo o pó amargo que colou nos meus lábios.
+Pó de ferrugem e lascas de ferro congelado choveram direto nos meus olhos. Pisquei várias vezes, cuspindo o pó amargo que colou nos meus lábios.
 
-— Valéria! — berrou Elias, o pavor fazendo o rapaz perder o fôlego. — O gancho! A base do pino mestre tá rachando!
+— Valéria! — gritou Elias, o pavor fazendo o rapaz perder o fôlego. — O gancho! A base do pino mestre tá rachando!
 
 Olhei para cima através da poeira. O olhal de aço que prendia o conjunto da roldana à viga superior estava se abrindo devagar, o metal ressecado pelo frio extremo cedendo sob a carga combinada do meu peso e da força de alavanca. Fissuras escuras corriam pelo suporte como teias de aranha.
 
-— Não para de puxar, Elias! — Valéria berrou, fincando o calcanhar na borda da grade e jogando todo o peso do próprio corpo para trás em um esforço desesperado. — Moretti, estica o braço mecânico! Alcança a cantoneira da borda! Agora!
+— Não para de puxar, Elias! — Valéria gritou, fincando o calcanhar na borda da grade e jogando todo o peso do próprio corpo para trás num esforço desesperado. — Moretti, estica o braço mecânico! Alcança a cantoneira da borda! Agora!
 
 — Tá longe demais! — gritei, sentindo a corda ceder dez centímetros com um esticão que fez meu estômago despencar.
 
@@ -47,21 +47,21 @@ No mesmo milésimo de segundo, o olhal da roldana partiu-se ao meio com um estam
 
 A roldana estourou para cima, o cabo chicoteou no vazio e a gravidade puxou meu corpo com o peso de cem quilos em queda livre.
 
-O solavanco foi brutal. A segunda linha, que Val fixara antes de testar a roldana, reteve meu peso. A garra presa na borda impediu que eu girasse contra os cristais; o braço ferido continuou sendo arrastado pelo arnês, sem receber sozinho a queda. O fixador sob a armação repuxou, a pele rasgou nas bordas do curativo sobre o fixador e um urro de pura agonia escapou da minha garganta, ecoando pela vastidão congelada da galeria.
+O solavanco me arrancou o ar. A segunda linha, que Val fixara antes de testar a roldana, reteve meu peso. A garra presa na borda impediu que eu girasse contra os cristais; o braço ferido continuou sendo arrastado pelo arnês, sem receber sozinho a queda. O fixador sob a armação repuxou, a pele rasgou nas bordas do curativo sobre o fixador e um urro escapou da minha garganta, ecoando pela vastidão congelada da galeria.
 
 Senti os dedos de aço começarem a deslizar pela ferrugem escorregadia da cantoneira.
 
 — Te peguei! — a voz de Valéria rasgou a névoa.
 
-Ela se deitou na grade da plataforma e agarrou minha manga esquerda com a mão direita. A segunda linha ainda segurava meu peso. Os olhos prateados dela estavam dilatados, os dentes trincados em uma careta de esforço sobre-humano.
+Ela se deitou na grade da plataforma e agarrou minha manga esquerda com a mão direita. A segunda linha ainda segurava meu peso. Os olhos dela estavam dilatados, os dentes trincados de esforço.
 
 — Elias, pega a perna dele! Me ajuda a erguer! — ela gritava, as veias da testa pulsando com força.
 
 Elias rastejou pela grade, protegendo o tornozelo enfaixado, e agarrou a correia da minha órtese com as duas mãos. Entre os dois, arrastaram meu peito para cima da borda da passarela. Rolei para dentro do piso de gradeamento, batendo as costas contra o metal seguro enquanto a corda partida e os pedaços da roldana despencavam lá embaixo, cravando-se nos espigões com tinidos agudos que confirmavam o destino que tínhamos acabado de driblar.
 
-Fiquei deitado de costas, ofegante, puxando o ar gélido em goles profundos que queimavam a garganta como lixa. Meu braço arruinado tremia em espasmos incontroláveis, pingando sangue quente pelas frestas da grade.
+Fiquei deitado de costas, ofegante, puxando o ar frio em goles fundos que queimavam a garganta como lixa. Meu braço arruinado tremia em espasmos incontroláveis, pingando sangue quente pelas frestas da grade.
 
-Valéria caiu sentada ao meu lado, as costas encostadas no corrimão, o peito arfando sob a jaqueta de couro e as mãos tremendo da tensão muscular extrema. Ela limpou o suor gélido da testa com o antebraço e me encarou com aquele meio-sorriso exausto e triunfante.
+Valéria caiu sentada ao meu lado, as costas encostadas no corrimão, o peito arfando sob a jaqueta de couro e as mãos tremendo da tensão muscular extrema. Ela limpou o suor frio da testa com o antebraço e me encarou com aquele meio-sorriso exausto e triunfante.
 
 — Se você... se você engordar mais meio quilo nessa carcaça, Moretti... eu te deixo cair na próxima.
 

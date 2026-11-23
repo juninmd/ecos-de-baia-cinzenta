@@ -7,7 +7,7 @@ Personagens Presentes: Gabo, Valéria, Elias
 
 # Capítulo 215: O Peso da Maquinaria
 
-Ultrapassar a muralha de raízes e cabos estilhaçados foi como deslizar pela traqueia congelada de um monstro pré-histórico. Do outro lado da fenda aberta pelo pulso sônico e pela escopeta, o duto de resfriamento abria-se em um átrio colossal de concreto pré-moldado, sustentado por pilares cilíndricos de aço naval que se erguiam até sombras inacessíveis trinta metros acima.
+Ultrapassar a muralha de raízes e cabos estilhaçados foi como deslizar pela traqueia congelada de um monstro pré-histórico. Do outro lado da fenda aberta pelo pulso sônico e pela escopeta, o duto de resfriamento abria-se num átrio enorme de concreto pré-moldado, sustentado por pilares cilíndricos de aço naval que se erguiam até sombras inacessíveis trinta metros acima.
 
 No fundo da câmara, avultava a monumental abóbada do Portão do Hub Principal do Setor Seis.
 
@@ -15,7 +15,7 @@ Era uma estrutura maciça de chumbo e titânio, projetada pelos arquitetos da Ae
 
 Um mezanino de vigas de carga desabara sobre o console principal durante o colapso, esmagando os leitores biométricos e os teclados em uma massa disforme de vidro quebrado e plástico derretido.
 
-— Terminal de acesso eletrônico totalmente aniquilado, — disse Valéria, iluminando a ruína com a lanterna do cyberdeck. Os reflexos azuis da franja desenhavam contornos afiados em suas bochechas pálidas, manchadas de fuligem. — Os relés primários estão mortos e o cabo mestre foi decepado pela viga. Não tem porta de entrada pra hackear por aqui, detetive.
+— Terminal de acesso eletrônico destruído, — disse Valéria, iluminando a ruína com a lanterna do cyberdeck. Os reflexos azuis da franja desenhavam contornos afiados em suas bochechas pálidas, manchadas de fuligem. — Os relés primários estão mortos e o cabo mestre foi decepado pela viga. Não tem porta de entrada pra hackear por aqui, detetive.
 
 — Tem que haver um bypass mecânico de segurança, — respondi, apoiando a *Caronte* na parede e soltando o ar pesado. O braço direito latejava sob o fixador ao qual Vasco acoplara a armação; meus músculos continuavam sangrando sob a bandagem encharcada, mas o frio polar anestesiava a periferia do ferimento. — Vi válvulas de alívio nos outros setores deste complexo. Procurem a mesma marca no batente.
 
@@ -41,7 +41,7 @@ Eles trouxeram a barra arrastando. Elias poupou o tornozelo enfaixado na volta e
 
 — Justo, — concordei, posicionando meus pés no chão de concreto.
 
-Firmei a mão de carne na ponta da barra de ferro, enquanto as garras de ferro da armação de sucata se fechavam ao redor do aço maciço com a força inexorável do atuador hidráulico. Elias se posicionou ao meu lado, agarrando a alavanca com as duas mãos e fincando as solas dos coturnos na soleira de ferro.
+Firmei a mão de carne na ponta da barra de ferro, enquanto as garras de ferro da armação de sucata se fechavam ao redor do aço maciço com a força do atuador hidráulico. Elias se posicionou ao meu lado, agarrando a alavanca com as duas mãos e fincando as solas dos coturnos na soleira de ferro.
 
 — No três, — comandei. — Um... dois... força!
 
@@ -53,7 +53,7 @@ Os servos da minha armação uivaram em um tom agudo e ensurdecedor, os pistões
 
 Elias soltou um grito rouco, puxando com cada grama de músculo que tinha nos braços magros. Dei o empuxo final com o quadril e a perna mecânica, transferindo todo o torque do motor de sucata para o centro do eixo.
 
-Um estalo colossal ecoou pela câmara, como o estampido seco de uma detonação controlada.
+Um estalo enorme ecoou pela câmara, como o estampido seco de uma detonação controlada.
 
 A crosta de gelo e ferrugem estilhaçou-se em milhares de estilhaços afiados. A roda de manobra girou um quarto de volta, depois meia volta, girando cada vez mais rápido sob o fluxo do fluido hidráulico que finalmente encontrou vazão pelos cilindros de alívio.
 
@@ -67,7 +67,7 @@ Veio uma corrente de ar tépido, filtrado, seco e com o cheiro esquecido de ozô
 
 Soltamos a barra de ferro, que caiu no piso de concreto com um tinido estridente de alívio. Caí de joelhos, ofegante, com o peito subindo e descendo em espasmos pesados enquanto a fumaça tênue da sobrecarga subia dos atuadores do meu ombro postiço.
 
-Valéria guardou a cunha de titânio, levantou-se limpando a fuligem da testa e me encarou com os olhos prateados brilhando de admiração e respeito. Ela estendeu a mão para me ajudar a levantar.
+Valéria guardou a cunha de titânio, levantou-se limpando a fuligem da testa e me encarou com respeito. Ela estendeu a mão para me ajudar a levantar.
 
 — Eu retiro o que disse sobre a sua física de rua, Moretti. Pra um fóssil do DPBC, até que você entende de alavancas.
 

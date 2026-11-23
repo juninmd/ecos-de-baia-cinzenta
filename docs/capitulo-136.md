@@ -14,7 +14,7 @@ O primeiro golpe não foi físico, foi térmico. O ar no Ateliê sibilou quando 
 
 Ele rolou para a esquerda, escapando por pouco de um arco de fogo que derreteu o chão de azulejos onde ele estava um segundo antes. O cheiro de ozônio e cerâmica queimada inundou suas narinas, sobrepondo-se ao formol.
 
-Eram três. Gigantes grotescos, vestidos com restos de armaduras da Tropa de Choque, mas com a carne exposta enxertada diretamente no metal. Não tinham rostos, apenas placas de respiração e visores ópticos rudimentares. Eram ferramentas, não soldados.
+Eram três. Gigantes vestidos com restos de armaduras da Tropa de Choque, mas com a carne exposta enxertada diretamente no metal. Não tinham rostos, apenas placas de respiração e visores ópticos rudimentares. Eram ferramentas, não soldados.
 
 — *Cuidado com o fogo, Detetive,* — a voz do Taxidermista ecoou nos alto-falantes. — *Os exaustores mantêm meu ateliê utilizável. Você sabe onde eles levam o gás?*
 
@@ -52,7 +52,7 @@ Quando o Guardião disparou o jato térmico, Gabo puxou a válvula do cilindro c
 
 O gás comprimido explodiu para fora, encontrando o fogo. A expansão térmica foi violenta. Uma nuvem de vapor branco e gelado engoliu o Guardião. O choque térmico estalou o metal da armadura e a cerâmica da lança.
 
-O Guardião urrou e recuou, cego e congelando.
+O Guardião gritou e recuou, cego e congelando.
 
 — Val! Agora! — Gabo tossiu, rolando para longe da névoa.
 
@@ -68,7 +68,7 @@ O segundo Guardião, ignorando o companheiro congelado, marchou em direção a e
 
 Então, o LED do pendrive de titânio acendeu.
 
-Não havia a pulsação quente e instável de antes. Havia apenas um azul-gelo contínuo, clínico, de um núcleo de diagnóstico operando em potência máxima.
+Não havia a pulsação quente e instável de antes. Havia apenas um azul-gelo contínuo, de um núcleo de diagnóstico operando em potência máxima.
 
 Na tela do cyberdeck e no visor monocular tático de Gabo, linhas de grade vetoriais se desenharam instantaneamente sobre o laboratório.
 
@@ -82,29 +82,29 @@ Val ligou o cabo de serviço do deck ao painel da bancada, mantendo isolada a en
 
 Com um estalo seco de titânio rompido, a trava da prótese cedeu. Fluido hidráulico jorrou em alta pressão.
 
-— *Inverter condutor térmico. Agora* — a voz gélida de Aria instruiu no ouvido de Gabo.
+— *Inverter condutor térmico. Agora* — disse Aria no ouvido de Gabo.
 
 Gabo girou o braço mecânico semidesconectado do próprio monstro e cravou a ponta superaquecida da lança diretamente no visor óptico do Guardião. O gigante tombou de costas, debatendo-se em silêncio.
 
 O primeiro Guardião, que Gabo havia atingido com o vazamento de nitrogênio, avançou trôpego pela névoa.
 
-— *Alvo três com fissura criogênica nos tendões hidráulicos dos tornozelos. Bisturi de alta frequência na mesa dois. Trajetória rasteira* — Aria calculou sem alterar um decibel do tom.
+— *Alvo três com fissura criogênica nos tendões hidráulicos dos tornozelos. Bisturi de alta frequência na mesa dois. Trajetória rasteira* — Aria disse, sem pressa.
 
 Gabo agarrou o bisturi cirúrgico de alta frequência na bandeja ao lado, deslizou pelo piso molhado de formol sob o arco lento do gigante e talhou as duas mangueiras hidráulicas nos tornozelos exatamente onde o laser do sensor do pendrive apontava. Quando o colosso desabou de joelhos, Valéria disparou um pulso de curto-circuito pelo cabo de teste do deck direto na porta cervical aberta na base do crânio da criatura. O primeiro Guardião caiu. O último ainda se movia junto à bancada; Val fechou a porta móvel de proteção entre ele e a maca, prendendo a lança no batente até o atuador parar.
 
 Silêncio no Ateliê. Apenas o zumbido dos exaustores e a respiração irregular de Gabo.
 
-O detetive ficou de pé no meio da carnificina, o peito arfando, as mãos sujas de graxa e fuligem. No deck de Valéria, o pendrive de titânio de Aria brilhava com aquela luz azul-gelo imóvel.
+Gabo ficou de pé no meio dos destroços, o peito arfando, as mãos sujas de graxa e fuligem. No deck de Valéria, o pendrive de titânio de Aria brilhava com aquela luz azul-gelo imóvel.
 
 — *O que... o que você fez?* — a voz do Taxidermista soou trêmula nos alto-falantes pela primeira vez. — *Ela era perfeita! Eu dei a você um espelho!*
 
-Pelo sistema de som do próprio laboratório, que Aria acabara de sequestrar, a voz da IA respondeu sem ruído, limpa e impiedosa:
+Pelo sistema de som do próprio laboratório, que Aria acabara de sequestrar, Aria respondeu sem ruído:
 
 — *Não é um espelho. É um arquivo corrompido.*
 
 Aria identificou, no painel local a que Val ligara o cabo, o controle da vitrine. Fechou a cortina de manutenção entre a réplica e as câmeras. A imagem de Bia sumiu atrás da chapa; o transmissor do Ateliê continuou isolado do deck.
 
-— *Eu sou Aria* — a voz sintética ecoou pelo salão. — *Estou operando com acesso parcial. Não autorizei que entrassem no meu canal. Aviso, Gabo: vou usar o projetor do deck.*
+— *Eu sou Aria* — a voz dela ecoou pelo salão. — *Estou operando com acesso parcial. Não autorizei que entrassem no meu canal. Aviso, Gabo: vou usar o projetor do deck.*
 
 A luz subiu do visor de Valéria e ficou de pé diante da cortina fechada, do tamanho de uma pessoa: cabelo branco-platinado, jaqueta grafite, um olho azul e outro âmbar. Não tinha a cicatriz no ombro nem o rosto de Bia. Era a mulher que assustara Gabo no painel do *Cobalt*, agora com as bordas rasgadas de estática. Ela olhou para as câmeras do Taxidermista por dois segundos, o tempo de ser gravada com o próprio rosto, e se desfez para poupar a bateria.
 

@@ -7,13 +7,13 @@ Personagens Presentes: "Gabo, Valéria, Aria (Reboot)"
 
 # Capítulo 154: O Frio da Lógica
 
-Os dutos de exaustão primários eram artérias congeladas. Diferente do Setor de Purga, onde o ar era denso, químico e fervente, aquele conduíte sugava o calor do corpo com uma eficiência brutal. O gelo cobria o aço em camadas finas e cortantes, brilhando opacamente sob a luz fria do olho cibernético de Valéria e do LED azul-gelo do pendrive de Aria em seu pulso.
+Os dutos de exaustão primários eram artérias congeladas. Diferente do Setor de Purga, onde o ar era denso, químico e fervente, aquele conduíte sugava o calor do corpo com eficiência. O gelo cobria o aço em camadas finas e cortantes, brilhando opacamente sob a luz fria do olho cibernético de Valéria e do LED azul-gelo do pendrive de Aria em seu pulso.
 
 Gabo se arrastava à frente. Não havia outra palavra para descrever o movimento. A tontura e a perda de sangue tornavam cada avanço mais lento. Quando suas mãos queimadas tocavam o aço gelado, ele procurava outro apoio; o tecido improvisado já não cobria todas as feridas.
 
 A náusea trouxe o cheiro de volta: tabaco barato impregnado na jaqueta do legista que havia dissecado Bia. Gabo quis apertar o metal até sentir outra coisa. Soltou a grade antes de fazê-lo e contou os espaços entre os rebites, como contara os degraus com Val na subida.
 
-— Foda-se... — murmurou Valéria atrás dele. A respiração dela formava nuvens densas. Ela estava tremendo violentamente, o corpo miúdo lutando contra a hipotermia enquanto arrastava o braço com o cyberdeck pelo tubo. — O Rangel... ele teria congelado aqui no primeiro minuto.
+— Foda-se... — murmurou Valéria atrás dele. A respiração dela formava nuvens densas. Ela tremia inteira, o corpo miúdo lutando contra a hipotermia enquanto arrastava o braço com o cyberdeck pelo tubo. — O Rangel... ele teria congelado aqui no primeiro minuto.
 
 — *A biologia dele já havia falhado no subnível anterior,* — Aria falou pelo comunicador de gola e pelo alto-falante do pulso de Valéria, sem a menor alteração ou tremor. — *Não temos como saber se ele teria suportado o trajeto. Não precisamos transformar o frio numa razão para a morte ter sido inevitável. O silêncio é aconselhável. As vibrações vocais podem acionar gatilhos acústicos nos sensores do Taxidermista.*
 
@@ -23,7 +23,7 @@ No slot lateral do *Phantom V3*, o drive blindado processava os ecos captados pe
 
 Gabo forçou-se a continuar. Uma borda da grade prendeu o tecido em sua palma; ele parou para soltá-lo. O cheiro lembrado não passou, mas a respiração de Val atrás dele deu um ritmo ao próximo movimento.
 
-— Não escuta ela, Val — Gabo rosnou, a voz áspera como lixa. — Foca nas minhas botas. Só continua movendo. O transponder atingiu a entrada, e o reinício bloqueou parte do histórico. Não sabemos ainda o que ela vai recuperar. Vamos sair daqui e encontrar uma bancada.
+— Não escuta ela, Val — disse Gabo, a voz áspera. — Foca nas minhas botas. Só continua movendo. O transponder atingiu a entrada, e o reinício bloqueou parte do histórico. Não sabemos ainda o que ela vai recuperar. Vamos sair daqui e encontrar uma bancada.
 
 — *Correção, Detetive Moretti,* — Aria interrompeu pelo fone, o drive piscando no escuro. — *Estou avariada. O estado anterior está guardado e quero recuperar o que perdi. Não usem a voz restrita como prova de que virei outra pessoa.*
 
@@ -53,9 +53,9 @@ As pás estremeceram. O som do rotor ativando era como o rosnado de um leviatã 
 
 — *Acesso remoto detectado. O sistema identificou presença orgânica. Ciclo de trituração iniciado,* — relatou Aria pelo comunicador. — *Tempo para rotação completa: quatro segundos.*
 
-Gabo estava preso. Seus ombros raspavam no aço de ambos os lados. O pânico de claustrofobia quase o paralisou, mas o cheiro de fumaça subiu de novo, espesso, letal. A associação era imediata: fumaça, derrota, necrotério. Ele não morreria sentindo aquele cheiro.
+Gabo estava preso. Seus ombros raspavam no aço de ambos os lados. O pânico de claustrofobia quase o paralisou, mas o cheiro de fumaça subiu de novo, espesso. A associação era imediata: fumaça, derrota, necrotério. Ele não morreria sentindo aquele cheiro.
 
-Com um urro primitivo, Gabo não tentou recuar. Ele projetou todo o peso que lhe restava para a frente, rasgando o tecido da jaqueta e arrancando pele das costas contra a lâmina que começava a girar. O metal mordeu sua carne. Ele despencou do outro lado da engrenagem, rolando sobre o piso de grade enquanto a monstruosidade mecânica acelerava atrás dele com um zumbido letal, sugando o ar do duto.
+Com um urro primitivo, Gabo não tentou recuar. Ele projetou todo o peso que lhe restava para a frente, rasgando o tecido da jaqueta e arrancando pele das costas contra a lâmina que começava a girar. O metal mordeu sua carne. Ele despencou do outro lado da engrenagem, rolando sobre o piso de grade enquanto a engrenagem acelerava atrás dele, sugando o ar do duto.
 
 Ele ficou caído por um momento, ofegante. O cheiro de seu próprio sangue fresco mascarava a fumaça ilusória. A dor no ombro era aguda, mas ele estava vivo.
 

@@ -16,7 +16,7 @@ Gabo estava sentado no chão corrugado, encostado na parede de aço vibrante. Ca
 
 O cheiro do ambiente era uma mistura ácida de ozônio, poeira de décadas e ferrugem molhada, misturado ao odor acre dos curativos úmidos. A cada solavanco violento nos trilhos, a náusea ameaçava dominá-lo, mas Gabo respirava fundo pela boca, lutando contra o princípio de choque.
 
-Ele apoiava as costas contra a chapa de aço vibrante do vagão, mantendo os olhos semicerrados e a mente focada no ritmo mecânico dos motores. A queimação contínua nos membros feridos era brutal, mas era a prova incontestável de que ele ainda estava vivo e lúcido para defender o que restava do grupo.
+Ele apoiava as costas contra a chapa de aço vibrante do vagão, mantendo os olhos semicerrados e a mente focada no ritmo mecânico dos motores. A queimação nos membros feridos era a prova de que ele ainda estava vivo e lúcido para defender o que restava do grupo.
 
 — Gabo... — a voz de Valéria soou fraca do outro lado do vagão. Ela estava encolhida, o rosto escondido entre os joelhos, tentando bloquear o mundo. — Rangel...
 
@@ -24,13 +24,13 @@ Ele apoiava as costas contra a chapa de aço vibrante do vagão, mantendo os olh
 
 — Ele escolheu ficar — respondeu Val. — Mas não escolheu morrer ali. Quando sairmos, a Nise precisa saber onde ele está.
 
-Ele apontou com o queixo para o painel frontal da cabine. O pendrive blindado de Aria permanecia cravado na porta de diagnóstico da caixa de junção do trem, seu LED azul-gelo piscando num ciclo ininterrupto e frenético enquanto seus algoritmos comandavam os motores de indução.
+Ele apontou com o queixo para o painel frontal da cabine. O pendrive blindado de Aria permanecia cravado na porta de diagnóstico da caixa de junção do trem, seu LED azul-gelo piscando sem parar enquanto Aria comandava os motores de indução.
 
-— *Aviso de impacto térmico e cinético na lataria superior,* — anunciou a voz sintética de Aria pelos alto-falantes chiantes da cabine. — *Massa adicional detectada nos sensores de carga do teto: quatrocentos quilos. A assinatura vibratória sugere Drones de Manutenção Corrompidos classe Scarab e enxertos biomecânicos. O Taxidermista recalibrou o tempo de interceptação.*
+— *Aviso de impacto térmico e cinético na lataria superior,* — anunciou Aria pelos alto-falantes chiantes da cabine. — *Massa adicional detectada nos sensores de carga do teto: quatrocentos quilos. A assinatura vibratória sugere Drones de Manutenção Corrompidos classe Scarab e enxertos biomecânicos. O Taxidermista recalibrou o tempo de interceptação.*
 
-Um estrondo metálico abalou o teto do monorail, fazendo chover poeira de ferrugem sobre eles. O som de garras sintéticas rasgando a chapa de aço seguiu imediatamente, soando como unhas colossais num quadro-negro interminável.
+Um estrondo metálico abalou o teto do monorail, fazendo chover poeira de ferrugem sobre eles. O som de garras sintéticas rasgando a chapa de aço seguiu imediatamente, como unhas num quadro-negro.
 
-— Ele não vai parar de mandar brinquedos, — Gabo rosnou, forçando as pernas do exoesqueleto. Com um grunhido úmido, ele se colocou de pé, usando as paredes para se equilibrar. — Aria, você consegue frear essa lata velha pelo painel?!
+— Ele não vai parar de mandar brinquedos — disse Gabo, forçando as pernas do exoesqueleto. Com um grunhido úmido, ele se colocou de pé, usando as paredes para se equilibrar. — Aria, você consegue frear essa lata velha pelo painel?!
 
 — *Uma frenagem brusca nesta inclinação pode descarrilar o vagão,* — a voz modular de Aria soou pelo sistema de som do vagão como a previsão do tempo. — *Recomendação: purga física dos intrusos antes da perfuração total do casco.*
 
@@ -38,9 +38,9 @@ Outro baque forte fez o vagão inclinar lateralmente. As luzes falharam por um s
 
 Gabo não podia segurar uma arma. Ele olhou para o teto lacerado onde as criaturas se concentravam sobre o módulo trator dianteiro e, em seguida, para a escotilha de manutenção enferrujada no assoalho do vagão, logo abaixo do painel onde o pendrive de Aria brilhava.
 
-— Val, precisamos separar os módulos, — Gabo rosnou, avançando desajeitadamente até a escotilha e chutando as bordas para testar a resistência das travas. — Esse túnel é apertado, certo? Se nós desacoplarmos a nossa cabine de carga do módulo do motor primário à frente, a Aria aciona o freio magnético de emergência da nossa cabine. Mas o módulo trator... continua subindo com esses desgraçados pendurados nele!
+— Val, precisamos separar os módulos — disse Gabo, avançando desajeitadamente até a escotilha e chutando as bordas para testar a resistência das travas. — Esse túnel é apertado, certo? Se nós desacoplarmos a nossa cabine de carga do módulo do motor primário à frente, a Aria aciona o freio magnético de emergência da nossa cabine. Mas o módulo trator... continua subindo com esses desgraçados pendurados nele!
 
-Valéria demorou um segundo para processar. Quando compreendeu a brutalidade pragmática do plano, engoliu em seco. — O motor vai esmagar os drones no próximo bloqueio de pressão. Mas... nós vamos ficar parados no escuro. Pendurados no abismo.
+Valéria demorou um segundo para processar. Quando entendeu o plano, engoliu em seco. — O motor vai esmagar os drones no próximo bloqueio de pressão. Mas... nós vamos ficar parados no escuro. Pendurados no abismo.
 
 — *Projeção viável,* — concordou Aria pelo alto-falante da cabine, seu drive aquecendo no slot enquanto preparava a sequência de frenagem magnética. — *As comportas térmicas do Subnível 3.0 estão fechadas à frente. O módulo trator pode atingir as portas e arrastar os drones. A passagem pode não abrir. No entanto, o pino de desacoplamento entre os módulos é estritamente manual nesta classe de veículo.*
 
@@ -54,23 +54,23 @@ A alucinação atingiu Gabo com a força de um soco no estômago. O ar em seus p
 
 Mas ele não tinha mãos para se proteger.
 
-Com um grito de raiva gutural, Gabo ergueu o braço direito e tentou firmar a mão enfaixada no pilar e gritou quando o braço quebrado recebeu o peso. Val o mandou sentar e prender o tronco à cinta do banco; não conseguiria ajudá-la se continuasse se ferindo. O impacto foi devastador. A dor irrompeu não como uma faísca, mas como um sol em chamas. Seus joelhos cederam, e a fumaça ilusória evaporou instantaneamente de seus pulmões, expulsa pela realidade excruciante e incontestável de sua própria carne ferida.
+Com um grito de raiva gutural, Gabo ergueu o braço direito e tentou firmar a mão enfaixada no pilar e gritou quando o braço quebrado recebeu o peso. Val o mandou sentar e prender o tronco à cinta do banco; não conseguiria ajudá-la se continuasse se ferindo. O impacto foi devastador. A dor irrompeu não como uma faísca, mas como um sol em chamas. Seus joelhos cederam, e a fumaça ilusória evaporou instantaneamente de seus pulmões, expulsa pela dor da carne ferida.
 
 — Vai, Val! — Gabo rugiu. Apoiou a perna esquerda e soltou a trava da escotilha com uma barra.
 
 Valéria não hesitou. Ela se abaixou, segurando a alavanca improvisada, e se deixou escorregar parcialmente pela abertura do assoalho do vagão em movimento, o vento furioso do túnel tentando arrancá-la do lugar.
 
-Gabo se ajoelhou perto da abertura e fixou a tampa com a barra. Val prendeu o cinto ao suporte antes de descer. O vento uivava. Um pedaço de metal do teto do módulo frontal cedeu, revelando a forma bulbosa e grotesca de um drone Scarab corrompido, seus sensores piscando num vermelho faminto.
+Gabo se ajoelhou perto da abertura e fixou a tampa com a barra. Val prendeu o cinto ao suporte antes de descer. O vento uivava. Um pedaço de metal do teto do módulo frontal cedeu, revelando a forma bulbosa de um drone Scarab corrompido, seus sensores piscando num vermelho faminto.
 
 — *O tempo até a colisão com a comporta de pressão do Subnível 3.0 é de quarenta e cinco segundos,* — informou Aria pelo alto-falante, o LED azul-gelo no painel piscando em contagem regressiva enquanto ela pré-carregava os freios eletromagnéticos da cabine traseira. — *Eficiência de desacoplamento é agora o fator limitante de sobrevivência.*
 
-— Corta a ligação, Val! — berrou Gabo para o buraco rugidor.
+— Corta a ligação, Val! — gritou Gabo para o buraco.
 
-Abaixo deles, em um caos de cabos chicoteando e rodas faiscando, Valéria cravou a alavanca de cano na trava hidráulica de engate, pendurada pelo braço a centenas de metros acima do vazio da Necrópole. Com um esforço brutal que quase destroncou seu ombro, ela puxou a alavanca.
+Abaixo deles, em um caos de cabos chicoteando e rodas faiscando, Valéria cravou a alavanca de cano na trava hidráulica de engate, pendurada pelo braço a centenas de metros acima do vazio da Necrópole. Com um esforço que quase lhe destroncou o ombro, ela puxou a alavanca.
 
 Houve um solavanco cataclísmico. O som de aço se partindo rasgou o ar.
 
-O engate se soltou. Val puxou a cinta de segurança com a mão direita e Gabo a ajudou a voltar para dentro antes de gritar para Aria frear. O drive no painel enviou o comando: a cabine em que estavam gemeu e as sapatas magnéticas de emergência gritaram quando acionadas bruscamente contra os trilhos laterais. A inércia os atirou violentamente para a frente, derrubando Gabo no chão duro, o rosto batendo de raspão contra o piso texturizado.
+O engate se soltou. Val puxou a cinta de segurança com a mão direita e Gabo a ajudou a voltar para dentro antes de gritar para Aria frear. O drive no painel enviou o comando: a cabine em que estavam gemeu e as sapatas magnéticas de emergência gritaram quando acionadas bruscamente contra os trilhos laterais. A inércia os atirou para a frente, derrubando Gabo no chão duro, o rosto batendo de raspão contra o piso texturizado.
 
 Eles desaceleraram com uma violência formidável, o som ensurdecedor das pinças magnéticas travando-os no túnel escuro.
 

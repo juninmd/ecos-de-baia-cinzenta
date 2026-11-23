@@ -41,3 +41,16 @@ Os manifestos de cenas e capas pendentes foram regenerados com a regra.
    emocional"), em atrito com o dossiê (serena, humor seco).
 5. Não houve leitura linear integral nesta passada: as checagens foram automáticas,
    mais leitura dos trechos alterados, da abertura e do final.
+
+## Revisão de linha 111-227 (pedido do autor, mesmo dia)
+
+- Cerca de 490 trechos reescritos em 107 capítulos: intensificadores ("brutal",
+  "visceral", "colossal", "absoluto", "violentamente", "freneticamente", "inferno"),
+  epítetos ("a hacker", "o detetive", "olhos prateados" de 49 para 5), verbos de
+  fala exagerados ("rosnou", "berrou", "cuspiu") e símiles de efeito.
+- Voz da Aria em 136-169: tirados "monótona", "sem qualquer modulação emocional",
+  "frieza cirúrgica/matemática"; ela volta a soar calma, não robótica.
+- 172: uma linha explícita marca a passagem para a primeira pessoa
+  ("Dali em diante, quem conta sou eu").
+- Foi uma passada por padrões, frase a frase nos trechos marcados; não reescreveu
+  cenas inteiras nem mudou trama.

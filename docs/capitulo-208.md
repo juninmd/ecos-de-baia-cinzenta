@@ -7,7 +7,7 @@ Personagens Presentes: Gabo, Valéria, Elias
 
 # Capítulo 208: Ecos na Escuridão
 
-O estrondo colossal da ponte rolante desabando ainda reverberava nos meus ossos muito depois que a última viga de aço parou de chiar contra os destroços incandescentes. A escuridão total engoliu o armazém logístico assim que a poeira sufocou os globos de luz âmbar. Sem a visão, o mundo foi reduzido a três sensações primitivas: o ardor cáustico de ozônio queimado na garganta, o gosto amargo de sangue e ferrugem na língua e o pulsar surdo do meu ombro lacerado onde a armação industrial forçava o osso fraturado.
+O estrondo da ponte rolante desabando ainda reverberava nos meus ossos muito depois que a última viga de aço parou de chiar contra os destroços incandescentes. A escuridão total engoliu o armazém logístico assim que a poeira sufocou os globos de luz âmbar. Sem a visão, o mundo foi reduzido a três sensações primitivas: o ardor cáustico de ozônio queimado na garganta, o gosto amargo de sangue e ferrugem na língua e o pulsar surdo do meu ombro lacerado onde a armação industrial forçava o osso fraturado.
 
 Tossi com força, cuspindo uma pasta cinzenta no chão invisível. O ar fedia a graxa mineral frita, metal pulverizado e óleo hidráulico vazando aos borbotões de mangueiras estouradas.
 
@@ -51,7 +51,7 @@ Ela franziu a testa, os lábios se comprimindo em uma linha tensa.
 
 A lanterna de Valéria varreu o chão de concreto estilhaçado.
 
-Onde o guindaste colossal havia esmagado o monstro de sucata, o impacto descomunal abrira uma abertura na laje inferior, sobre a tampa de inspeção do antigo duto. O chão cedera sob o peso combinado de quase sessenta toneladas, revelando uma garganta escura e vertical de cinco metros de diâmetro. Do interior da abertura subia uma lufada de ar úmido e congelante, carregando o cheiro inconfundível de lodo químico, água estagnada e resíduos de amônia.
+Onde o guindaste esmagara o monstro de sucata, o impacto abrira uma abertura na laje inferior, sobre a tampa de inspeção do antigo duto. O chão cedera sob o peso combinado de quase sessenta toneladas, revelando uma garganta escura e vertical de cinco metros de diâmetro. Do interior da abertura subia uma lufada de ar úmido e congelante, carregando o cheiro inconfundível de lodo químico, água estagnada e resíduos de amônia.
 
 — O portão de carga do fundo virou um muro de escombros intransponível, — disse Elias, aproximando-se com a lanterna fraca de seu cinto de ferramentas e engolindo em seco. — Mas isso aqui... isso é um duto de escoamento industrial da rede secundária. Ele corta por baixo do Armazém e desemboca nos dutos de resfriamento do Setor Seis.
 
@@ -61,7 +61,7 @@ Onde o guindaste colossal havia esmagado o monstro de sucata, o impacto descomun
 
 — É uma garganta de concreto, Elias, — Valéria respondeu, ajustando a alça do cyberdeck nas costas com um estalo firme. — Não consigo garantir que ela seja segura. Mas podemos verificar os apoios antes de descer.
 
-Ela se virou para mim, os olhos prateados faiscando sob o feixe azul da lanterna. Havia uma determinação feroz naquela mulher, a mesma que nos mantivera vivos depois que o drive de Aria foi sacrificado nos terminais da diretoria.
+Ela se virou para mim, os olhos faiscando sob o feixe azul da lanterna. Havia uma determinação feroz naquela mulher, a mesma que nos mantivera vivos depois que o drive de Aria foi sacrificado nos terminais da diretoria.
 
 — Eu vou na frente pra escanear os degraus de serviço na parede do duto, — disse ela. — Você cobre a retaguarda, Moretti. Se a perna travar de novo, me avisa antes de despencar.
 

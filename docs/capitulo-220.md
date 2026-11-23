@@ -53,7 +53,7 @@ Não havia poluição. Não havia o azedume da chuva ácida que corrói Baía Ci
 
 Encostei a testa na parede fria de epóxi e fiquei ali, respirando devagar, como um condenado que acabava de receber uma trégua inesperada no meio da tempestade.
 
-— Gabo, — a voz de Valéria soou suave ao meu lado. Ela parou a um passo de mim, os olhos prateados analisando meu rosto com uma mistura de alívio e preocupação genuína. Ela tocou a lateral da minha têmpora com a ponta dos dedos enluvados. — Você está quente e confuso. Esse ferimento precisa de atendimento; pelo toque eu não sei sua temperatura nem o que a infecção alcançou. Vamos procurar uma enfermaria. Aqui entra ar filtrado, não oxigênio puro.
+— Gabo, — a voz de Valéria soou suave ao meu lado. Ela parou a um passo de mim, olhando meu rosto, aliviada e preocupada. Ela tocou a lateral da minha têmpora com a ponta dos dedos enluvados. — Você está quente e confuso. Esse ferimento precisa de atendimento; pelo toque eu não sei sua temperatura nem o que a infecção alcançou. Vamos procurar uma enfermaria. Aqui entra ar filtrado, não oxigênio puro.
 
 — Deixa eu aproveitar o silêncio, Val, — murmurei, abrindo os olhos e encarando o corredor imaculado.
 
@@ -100,7 +100,7 @@ Fiquei olhando para o aço escovado por um tempo longo demais.
 
 Sessenta e um anos. Antes do Lázaro. Antes de Krell. Antes do Jardim, do Sentinel, da Praga de Ferro, do Gamemaster usando o rosto do meu pai como máscara de festa. Antes de tudo que eu passei quinze anos tentando entender, tinha um sujeito de terno decidindo que a memória não devia apodrecer, e mandando fundir isso em metal.
 
-Todo o inferno que eu atravessei começou como uma promessa de bom gosto.
+Tudo o que eu atravessei começou como uma promessa de bom gosto.
 
 — Gabo. — Valéria estava na porta entreaberta. — Você vai querer ver isto.
 
@@ -126,7 +126,7 @@ Eu cheguei até o vidro. Limpei a condensação com a lateral da mão de carne.
 
 E o rosto que apareceu do outro lado eu conhecia.
 
-Eu conhecia daquele rosto o suficiente para saber que, se ela estava ali, dormindo limpa e intacta enquanto a cidade inteira apodrecia centenas de metros acima da cabeça dela, então nada — absolutamente nada — do que aconteceu com Baía Cinzenta tinha sido acidente.
+Eu conhecia daquele rosto o suficiente para saber que, se ela estava ali, dormindo limpa e intacta enquanto a cidade inteira apodrecia centenas de metros acima da cabeça dela, então nada do que aconteceu com Baía Cinzenta tinha sido acidente.
 
 — Valéria, — eu disse, e minha voz saiu estranha até para mim. — Me diz que esse painel está quebrado.
 

@@ -9,7 +9,7 @@ Personagens Presentes: Gabo, Valéria, Elias
 
 O eco das nossas passadas desesperadas engolia todo o som no túnel, pontuado pelo chiado estridente dos pistões mecânicos do meu ombro e pela respiração asmática de Elias.
 
-Atrás de nós, o guincho inumano da criatura recém-nascida rasgava a escuridão úmida. O som era uma distorção grotesca: um híbrido de laringe biológica lacerada e estática de rádio falhando em alta frequência. A quimera aracnídea não estava apenas correndo; suas garras de cerâmica batiam nos dormentes de ferro com a velocidade aterradora de uma máquina de costura industrial, cuspindo lodo e faíscas no cascalho.
+Atrás de nós, o guincho inumano da criatura recém-nascida rasgava a escuridão úmida. O som era um híbrido de laringe biológica lacerada e estática de rádio falhando em alta frequência. A quimera aracnídea não estava apenas correndo; suas garras de cerâmica batiam nos dormentes de ferro com a velocidade aterradora de uma máquina de costura industrial, cuspindo lodo e faíscas no cascalho.
 
 O cheiro dela chegava antes. Fluido amniótico e ferrugem, amônia e carne crua, tudo empurrado pelo ar que o corpo dela deslocava. O túnel era baixo, a coisa ocupava o túnel inteiro, e a luz da lanterna batia nas placas do lombo e voltava em lascas.
 
@@ -38,7 +38,7 @@ A quimera ignorou os disparos de Valéria e saltou direto contra o pescoço dela
 
 — Elias, a chave sônica! — berrei, correndo manco com todo o peso do meu corpo impulsionado para a frente. — Agora!
 
-O técnico no chão, impulsionado pelo puro desespero de sobrevivência, sacou a ferramenta do cinto e pressionou o bocal da chave sônica contra a articulação exposta da pata traseira, antes de rolar para trás do pilar.
+O técnico no chão, no desespero, sacou a ferramenta do cinto e pressionou o bocal da chave sônica contra a articulação exposta da pata traseira, antes de rolar para trás do pilar.
 
 A vibração fez a junta já rachada perder o apoio. A água espirrou quando a pata cedeu.
 
@@ -50,11 +50,11 @@ Avancei com a perna mecânica firme no lodo, segurando o vergalhão com a mão e
 
 Mirei exatamente no nó de biomassa azul e cabos ópticos que pulsava no peito da criatura, logo atrás da blindagem faturada pelos tiros de Valéria.
 
-— Volta pro inferno de onde você saiu! — rugi.
+— Volta pro buraco de onde você saiu! — rugi.
 
 Enterrei a barra de ferro no coração do monstro.
 
-A ponta rasgada perfurou o núcleo vegetal e cravou-se fundo no dormente de madeira do chão. A quimera debateu-se violentamente, as patas de aço riscando o teto e quase partindo minha omoplata com o recuo, mas travei o peso da armação sobre o vergalhão, mantendo a besta pregada no chão.
+A ponta rasgada perfurou o núcleo vegetal e cravou-se fundo no dormente de madeira do chão. A quimera se debateu, as patas de aço riscando o teto e quase partindo minha omoplata com o recuo, mas travei o peso da armação sobre o vergalhão, mantendo a besta pregada no chão.
 
 Valéria sacou um cabo de alta voltagem que pendia solto da canaleta da parede, puxou a fiação desencapada com a faca e indicou que eu soltasse o ferro antes de aproximar o cabo da barra presa ao dormente. Recuei atrás do pilar; ela só fechou o contato quando viu eu fora do alcance da barra metálica.
 

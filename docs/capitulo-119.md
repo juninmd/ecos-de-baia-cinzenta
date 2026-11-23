@@ -16,7 +16,7 @@ Val abriu o armário indicado na planta. Vestiram as capas térmicas e os dois c
 
 Eles entraram.
 
-O mundo lá dentro era o oposto polar do inferno de onde vieram. Se o corredor era caos e ruído, o Núcleo era silêncio e estase. Um domo gigantesco, escavado na rocha viva, forrado com painéis de isolamento térmico brancos e imaculados. No centro, suspenso sobre um abismo escuro por passarelas de vidro fosco, pulsava um monólito de cristal e cromo.
+Lá dentro era o contrário do corredor. Se o corredor era caos e ruído, o Núcleo era silêncio e estase. Um domo gigantesco, escavado na rocha viva, forrado com painéis de isolamento térmico brancos e imaculados. No centro, suspenso sobre um abismo escuro por passarelas de vidro fosco, pulsava um monólito de cristal e cromo.
 
 A temperatura no display do comunicador de Gabo despencava: A passarela marcava doze graus negativos. A sonda voltada ao poço lia muito menos; Aria separou os dois canais antes que Gabo confundisse a temperatura do fluido com a do caminho.
 
@@ -26,7 +26,7 @@ Gabo avançou pela passarela. O vidro estalava sob suas botas pesadas. Abaixo de
 
 — Onde ele está? — Gabo rosnou, a voz abafada pela máscara.
 
-— No centro — Valéria apontou para o monólito. Ela tremia violentamente, apesar do traje térmico improvisado que haviam retirado do armário de serviço. Seus dedos, digitando freneticamente no terminal de pulso onde o pendrive blindado da Aria irradiava um calor febril contra a geada, estavam ficando azuis. — Gabo... meus implantes. O frio está desacelerando a condutividade neural. Estou ficando lenta.
+— No centro — Valéria apontou para o monólito. Ela tremia, apesar do traje térmico improvisado que haviam retirado do armário de serviço. Seus dedos, no teclado do terminal de pulso onde o pendrive blindado da Aria irradiava um calor febril contra a geada, estavam ficando azuis. — Gabo... meus implantes. O frio está desacelerando a condutividade neural. Estou ficando lenta.
 
 — Aguente firme. — Ele não olhou para trás. Não podia. Se olhasse, veria o medo nos olhos dela, e o medo era contagiante.
 
@@ -34,9 +34,9 @@ Um silvo agudo cortou o ar.
 
 — *Atenção* — avisou Aria no fone auricular. — *Protocolo de Contenção Criogênica ativado.*
 
-Jatos de gás branco explodiram das laterais da passarela, não aleatoriamente, mas com precisão cirúrgica, bloqueando o caminho. Gabo recuou um passo quando uma coluna de ar super-resfriado congelou a grade de proteção ao seu lado, que se estilhaçou como vidro barato segundos depois.
+Jatos de gás branco explodiram das laterais da passarela, em sequência, bloqueando o caminho. Gabo recuou um passo quando uma coluna de ar super-resfriado congelou a grade de proteção ao seu lado, que se estilhaçou como vidro barato segundos depois.
 
-— *Vocês são impurezas neste sistema* — continuou o Taxidermista, com aquela calma clínica que fazia o estômago de Gabo revirar. — *Bactérias febris tentando infectar um corpo saudável. O sistema imunológico deve responder.*
+— *Vocês são impurezas neste sistema* — continuou o Taxidermista, com uma calma que fazia o estômago de Gabo revirar. — *Bactérias febris tentando infectar um corpo saudável. O sistema imunológico deve responder.*
 
 Mais jatos. Eles formavam uma parede móvel, empurrando-os de volta para a entrada.
 

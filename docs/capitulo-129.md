@@ -9,7 +9,7 @@ Personagens Presentes: "Gabo Moretti, Valéria Cruz, Aria (Instável), Rangel (C
 
 A escuridão do Nível 5 tinha peso, cheiro e textura. Cheirava a calcário úmido, a séculos de água estagnada e a algo mais antigo, algo que a cidade moderna acima havia esquecido de propósito.
 
-Gabo sentiu o peso de Rangel aumentar a cada passo. O Inspetor, febril e com a respiração chiada, deslizava na prancha a cada desnível. A cinta puxava a armação de Gabo; ele precisava parar para que Val a firmasse. A órtese externa na perna de Gabo gemia baixo, os atuadores lutando contra a carga e a ferrugem, um zumbido sincopado que parecia alto demais naquele silêncio sepulcral.
+Gabo sentiu o peso de Rangel aumentar a cada passo. O Inspetor, febril e com a respiração chiada, deslizava na prancha a cada desnível. A cinta puxava a armação de Gabo; ele precisava parar para que Val a firmasse. A órtese externa na perna de Gabo gemia baixo, os atuadores lutando contra a carga e a ferrugem, um zumbido sincopado que parecia alto demais naquele silêncio.
 
 — Val — Gabo sussurrou, a voz arranhada. — Quanto falta para a cisterna principal?
 
@@ -43,7 +43,7 @@ Eles saíram do túnel estreito e entraram em um espaço vasto.
 
 Valéria acendeu um sinalizador químico de baixo espectro. A luz vermelha sibilou e se expandiu, revelando a grandiosidade opressiva do lugar.
 
-Eles estavam em uma câmara colossal. Colunas de pedra bruta, grossas como sequoias, erguiam-se da água negra até um teto abobadado que se perdia na escuridão, dezenas de metros acima. Arcos góticos se entrelaçavam, sustentando o peso de toda Baía Cinzenta sobre suas cabeças.
+Estavam numa câmara enorme. Colunas de pedra bruta, grossas como sequoias, erguiam-se da água negra até um teto abobadado que se perdia na escuridão, dezenas de metros acima. Arcos góticos se entrelaçavam, sustentando o peso de toda Baía Cinzenta sobre suas cabeças.
 
 As "Catedrais de Pedra". O sistema de drenagem original da cidade, construído antes dos processadores, antes do neon, antes da Aeterna. Era um templo à engenharia analógica, silencioso e eterno.
 
@@ -99,7 +99,7 @@ Valéria puxou sua pistola compacta, movendo-se para proteger Rangel.
 
 — Apague o sinalizador — Gabo ordenou.
 
-Valéria chutou o bastão químico para a água, e a luz ficou encoberta pelo lodo. O bastão continuou aceso no fundo. A escuridão caiu sobre eles novamente, total e absoluta.
+Valéria chutou o bastão químico para a água, e a luz ficou encoberta pelo lodo. O bastão continuou aceso no fundo. O escuro voltou, inteiro.
 
 Mas na escuridão, Gabo viu. Dois, quatro, seis pares de olhos refletindo a luz residual, brilhando com um verde pálido e faminto. Eles não precisavam de luz. Eles seguiam o cheiro de sangue. O cheiro de Rangel.
 

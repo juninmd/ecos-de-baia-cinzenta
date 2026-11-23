@@ -33,13 +33,13 @@ Encarei a membrana viva com um nojo frio que subiu amargo pelo esôfago.
 
 — E qual é o vetor de invasão?
 
-— Ou eu reproduzo o sinal de teste que o terminal oferece à manutenção com o meu deck — ela ergueu a cabeça, os olhos prateados apontando para uma viga transversal seis metros acima de nós —, ou você arrebenta o nó de alimentação que tá bombeando a energia pra essa membrana.
+— Ou eu reproduzo o sinal de teste que o terminal oferece à manutenção com o meu deck — ela ergueu a cabeça, os olhos numa viga transversal seis metros acima de nós —, ou você arrebenta o nó de alimentação que tá bombeando a energia pra essa membrana.
 
 Olhei para onde ela indicava. Preso à estrutura do teto de vidro reforçado, havia um bulbo vegetal do tamanho de um barril de chope. A massa pulsava com um tom avermelhado doentio, envolta em cabos de alta tensão arrancados dos transformadores da estufa. Veias grossas de fluido escuro desciam daquele casulo e entravam direto no batente da porta selada.
 
 — Se eu desligar o gerador na força bruta, o terminal queima? — perguntei, avaliando o suporte das prateleiras de ferro enferrujadas que subiam pela lateral da parede.
 
-— O terminal tem uma bateria de serviço indicada no painel. Vou copiar o log antes de cortar o enlace; a energia de reserva pode não sustentar o tempo que a placa promete — Valéria ajustou os cabos de bypass com a mão direita, os olhos brilhando com adrenalina tática. — Mas você vai ter que escalar essa estante podre com vinte quilos de ferro no ombro e arrancar o nó antes que o sistema descarregue a sobretensão na sua cabeça. Se você demorar, essa gosma vermelha frita os circuitos do seu braço novo.
+— O terminal tem uma bateria de serviço indicada no painel. Vou copiar o log antes de cortar o enlace; a energia de reserva pode não sustentar o tempo que a placa promete — Valéria ajustou os cabos de bypass com a mão direita, os olhos acesos de adrenalina. — Mas você vai ter que escalar essa estante podre com vinte quilos de ferro no ombro e arrancar o nó antes que o sistema descarregue a sobretensão na sua cabeça. Se você demorar, essa gosma vermelha frita os circuitos do seu braço novo.
 
 — Então começa a emular a frequência, Val. Não vou ficar pendurado lá em cima batendo papo.
 
@@ -72,7 +72,7 @@ Desci pela escada de manutenção, preso à linha de inspeção, até alcançar 
 
 — O que o sistema tava processando? — perguntei, limpando o suor misturado com fuligem da testa.
 
-Valéria encarava a tela com as sobrancelhas franzidas, a luz do monitor refletida em seus olhos prateados. O sarcasmo sumira, substituído por uma inquietação pesada.
+Valéria encarava a tela com as sobrancelhas franzidas, a luz do monitor refletida nos olhos dela. O sarcasmo sumira, substituído por uma inquietação pesada.
 
 — Não é uma ordem de defesa local, Gabo. O registro mostra uma transferência para um destino chamado Arca Zero. Há referências a amostras genéticas, mas não sei se são todas nem se a cópia chegou.
 

@@ -7,7 +7,7 @@ Personagens Presentes: Gabo, Valéria
 
 # Capítulo 186: O Relógio de Sangue
 
-A chuva fina que castigava as ruínas do Distrito 4 parou, deixando em seu lugar um nevoeiro denso e frio, impregnado com cheiro de cobre molhado e fuligem industrial. O silêncio era absoluto, quebrado apenas pelo chiar intermitente dos servos descalibrados do meu braço mecânico e pelo som oco dos nossos passos no asfalto fragmentado.
+A chuva fina que castigava as ruínas do Distrito 4 parou, deixando em seu lugar um nevoeiro denso e frio, impregnado com cheiro de cobre molhado e fuligem industrial. O silêncio só era quebrado pelo chiar intermitente dos servos descalibrados do meu braço mecânico e pelo som oco dos nossos passos no asfalto fragmentado.
 
 A dor no ombro já não separava uma passada da outra. A cobertura refeita junto ao ônibus segurava, mas eu precisava parar para aliviar o peso no arnês. Val conferiu o meu curativo antes de olhar o mapa. Nise recebera a localização de Rangel na clínica; não havia notícia de uma equipe ter alcançado a passarela.
 
@@ -29,9 +29,9 @@ Um cilindro de metal escuro, grosso como o antebraço de um estivador, fora enxe
 
 Cabos ópticos finos como fios de cabelo brotavam da base do cilindro e penetravam a pele do pescoço, subindo pelas têmporas até as cavidades cranianas.
 
-— Que porcaria grotesca é essa? — dei um passo à frente, sentindo o cheiro enjoativo de formol, ozônio frio e matéria orgânica em decomposição.
+— Que porcaria é essa? — dei um passo à frente, sentindo o cheiro enjoativo de formol, ozônio frio e matéria orgânica em decomposição.
 
-Valéria se agachou a um metro do corpo, retirando uma sonda com ponta de prova do bolso do cyberdeck. Os olhos prateados dela brilhavam com foco analítico, mas havia um vinco fundo de repulsa na testa.
+Valéria se agachou a um metro do corpo, retirando uma sonda com ponta de prova do bolso do cyberdeck. Ela estudava aquilo com atenção, mas havia um vinco fundo de repulsa na testa.
 
 — Tem um transmissor e uma célula própria aqui — disse Val, examinando o conector sem tocar na carne. — O tecido envolve os contatos. Não sei quem instalou isso nem se o Jardim está controlando o aparelho.
 
@@ -60,11 +60,11 @@ O som de metal e cartilagem ressecada se partindo ecoou feio no beco deserto. O 
 
 — Perfeito, brutamontes — Valéria respirou aliviada, estendendo um conector com proteção isolante. — Encaixa o pino mestre aqui na porta auxiliar do deck.
 
-Espetei o núcleo no leitor isolado do cyberdeck dela. As luzes de status do painel piscaram freneticamente, desenrolando linhas de código hexadecimal verde sobre o display fosco. Os filamentos de LED na franja dela aceleraram o pulsar, refletindo o fluxo de dados em seus olhos cibernéticos.
+Espetei o núcleo no leitor isolado do cyberdeck dela. As luzes de status do painel piscaram, desenrolando linhas de código hexadecimal verde sobre o display fosco. Os filamentos de LED na franja dela aceleraram o pulsar, refletindo o fluxo de dados em seus olhos cibernéticos.
 
 Três segundos depois, o processamento cessou com um bipe limpo.
 
-— Consegui — Valéria ergueu a cabeça, os olhos prateados cravados nos meus, carregados de uma urgência sombria. — O pacote contém uma ordem de convergência para um ponto específico. Não confirma que todas as colônias a receberam: o antigo Complexo Hidropônico subterrâneo sob o Setor 7.
+— Consegui — Valéria ergueu a cabeça, os olhos cravados nos meus, com pressa. — O pacote contém uma ordem de convergência para um ponto específico. Não confirma que todas as colônias a receberam: o antigo Complexo Hidropônico subterrâneo sob o Setor 7.
 
 — A estufa corporativa que abastecia o Distrito de Prata antes do dilúvio.
 

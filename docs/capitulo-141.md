@@ -10,7 +10,7 @@ description: "Gabo destrói uma instalação com pessoas possivelmente vivas. O 
 
 A primeira Escultura não correu. Ela flutuou.
 
-Foi um movimento de balé, um *jeté* silencioso impulsionado por pistões hidráulicos que a lançou sobre Gabo. Ele mal teve tempo de levantar o vergalhão enferrujado. O metal da sua arma improvisada chocou-se contra a lâmina vibratória que substituía o braço da criatura, soltando uma chuva de faíscas que iluminou o branco clínico do Estúdio.
+Foi um movimento de balé, um *jeté* silencioso impulsionado por pistões hidráulicos que a lançou sobre Gabo. Ele mal teve tempo de levantar o vergalhão enferrujado. O metal da sua arma improvisada chocou-se contra a lâmina vibratória que substituía o braço da criatura, soltando uma chuva de faíscas que iluminou o branco do Estúdio.
 
 O impacto vibrou nos ossos de Gabo, subindo pelos braços até os dentes. Ele grunhiu, firmando os pés no chão polido. Era liso demais. Perfeito demais.
 
@@ -22,13 +22,13 @@ Gabo girou o corpo, deixando a lâmina da criatura deslizar pelo vergalhão, e g
 
 Ele se jogou para o lado, rolando sobre o piso. A lâmina cortou o ar onde sua cabeça estava um segundo antes e riscou o polímero branco do chão, deixando uma cicatriz preta.
 
-— Aria! Leitura! — ele berrou, levantando-se com dificuldade.
+— Aria! Leitura! — ele gritou, levantando-se com dificuldade.
 
 No comunicador acoplado ao peito de Gabo, o processador do pendrive de titânio trabalhava em frequência máxima, sincronizado por rádio de curto alcance ao *Phantom V3* de Valéria.
 
-— *Escultura Dois avançando sobre a maca a três metros por segundo* — a voz sintética de Aria disparou no fone em cadência *staccato*. — *Ângulo de lâmina horizontal. Gabo, interceptação baixa a quinze graus. Junção hidráulica lombar desprotegida.*
+— *Escultura Dois avançando sobre a maca a três metros por segundo* — disse Aria no fone, rápida. — *Ângulo de lâmina horizontal. Gabo, interceptação baixa a quinze graus. Junção hidráulica lombar desprotegida.*
 
-Gabo se lançou entre a segunda Escultura e a maca de Rangel. Ele não tentou bloquear a lâmina vibratória; mergulhou milímetros abaixo do arco letal, exatamente no tempo cravado por Aria, e enterrou a ponta chanfrada do vergalhão na junção da cintura da Escultura.
+Gabo se lançou entre a segunda Escultura e a maca de Rangel. Ele não tentou bloquear a lâmina vibratória; mergulhou abaixo do arco, exatamente no tempo cravado por Aria, e enterrou a ponta chanfrada do vergalhão na junção da cintura da Escultura.
 
 Houve um som de metal e polímero rasgando. Gabo torceu a barra de ferro com as duas mãos, rebentando um feixe de cabos hidráulicos. A Escultura vacilou, uma perna falhando, mas girou o torso em 180 graus — algo anatomicamente impossível — e atingiu o peito de Gabo com o cotovelo de cerâmica.
 
@@ -64,7 +64,7 @@ Gabo olhou para o tanque. Três pessoas. Ou o que sobrou delas. Vivas. Sofrendo.
 
 Se ele destruísse o tanque, talvez interrompesse a coordenação. Podia matar os três sem parar os ataques. Val tentava separar o enlace de comando do suporte de vida, mas o painel não respondia à chave local.
 
-Uma das Esculturas avançou contra Valéria. Aria disparou uma sobrecarga nos capacitores de iluminação do piso através do deck da hacker, cegando os sensores ópticos da unidade por dois segundos, mas outra Escultura já se aproximava da maca de Rangel.
+Uma das Esculturas avançou contra Valéria. Aria disparou uma sobrecarga nos capacitores de iluminação do piso pelo deck de Valéria, cegando os sensores ópticos da unidade por dois segundos, mas outra Escultura já se aproximava da maca de Rangel.
 
 Não encontrou outra saída antes de ver a lâmina sobre a maca. Isso não tornava os três do tanque menos vivos.
 
@@ -95,7 +95,7 @@ Imediatamente, as Esculturas travaram no meio do passo. Elas não desligaram, ma
 
 — *As unidades perderam a coordenação. A junta cervical da unidade frontal está exposta* — Aria avisou no fone.
 
-Gabo aproveitou a falha. Com um giro brutal do vergalhão, ele encaixou a ponta de ferro sob o queixo da Escultura mais próxima e alavancou usando a borda da base como apoio, rompendo a junta já quebrada da cabeça de cerâmica. O peso da unidade completou o rasgo. O crânio liso rolou pelo chão, parando aos pés da plataforma do Taxidermista.
+Gabo aproveitou a falha. Com um giro do vergalhão, ele encaixou a ponta de ferro sob o queixo da Escultura mais próxima e alavancou usando a borda da base como apoio, rompendo a junta já quebrada da cabeça de cerâmica. O peso da unidade completou o rasgo. O crânio liso rolou pelo chão, parando aos pés da plataforma do Taxidermista.
 
 O silêncio voltou ao estúdio. Mas agora era um silêncio pesado.
 

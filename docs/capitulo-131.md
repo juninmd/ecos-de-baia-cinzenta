@@ -8,7 +8,7 @@ Localização: "Estação de Reciclagem de Fluido Neural 04 (Nível 5)"
 
 # Capítulo 131: Fluxo Reverso
 
-O calor ali embaixo não era apenas temperatura; era uma pressão física. O ar vibrava com o *thump-thump* colossal dos pistões, um ritmo que Gabo sentia nos dentes e na ferida recém-adquirida no antebraço.
+O calor ali embaixo não era apenas temperatura; era uma pressão física. O ar vibrava com o *thump-thump* dos pistões, um ritmo que Gabo sentia nos dentes e na ferida recém-adquirida no antebraço.
 
 Ele conferiu o curativo improvisado com um pedaço de camisa rasgada. O sangue da mordida da Quimera já estava escuro e coagulado, misturando-se à graxa do esgoto. A dor era aguda, latejante, uma âncora necessária. Sempre que sua mente vagava para o cheiro adocicado e enjoativo do fluido que corria nos tubos — um cheiro que lembrava fumaça química e carne queimada —, ele apertava o *Colar de Sol* contra o peito até o metal frio morder a pele.
 
@@ -16,11 +16,11 @@ Havia apenas repulsa. O gosto de ferrugem na boca o lembrava do crematório e do
 
 — *Gabo, há sangue atravessando a faixa* — Aria falou no fone auricular, o drive de titânio pulsando âmbar sob as luzes de emergência enquanto o drive processava os sensores biométricos do comunicador de Gabo. A saída ainda falhava, mas era a cadência que ela escolhera manter. — *Não tenho uma medida confiável da perda pelo comunicador. Estou vendo sangue atravessar a faixa; Val precisa conferir o ferimento.*
 
-Gabo ouviu o aviso e se virou para Valéria. A hacker estava ajoelhada diante de um painel de controle manual, seus olhos cibernéticos varrendo os mostradores analógicos com frustração.
+Gabo ouviu o aviso e se virou para Valéria. Valéria estava ajoelhada diante de um painel de controle manual, seus olhos cibernéticos varrendo os mostradores analógicos com frustração.
 
 — Val, relatório — ele grunhiu, ajustando a prancha de Rangel numa posição mais segura. O inspetor estava febril, murmurando sobre arquivos perdidos e carimbos sem tinta.
 
-— Estou quase cega, Gabo — Valéria respondeu, a voz tensa. Ela bateu no painel com a mão enluvada. — A interferência eletromagnética aqui embaixo é brutal. O *deck* não acha rede sem fio, só consigo usar a Aria por cabo direto ou leitura óptica. Estou tendo que ler ponteiros físicos. Ponteiros! Quem projeta uma estação de bombeamento com agulhas de pressão em 2056?
+— Estou quase cega, Gabo — Valéria respondeu, a voz tensa. Ela bateu no painel com a mão enluvada. — A interferência eletromagnética aqui embaixo é absurda. O *deck* não acha rede sem fio, só consigo usar a Aria por cabo direto ou leitura óptica. Estou tendo que ler ponteiros físicos. Ponteiros! Quem projeta uma estação de bombeamento com agulhas de pressão em 2056?
 
 — Alguém que não queria ser hackeado — Gabo disse, observando o ambiente.
 
@@ -80,7 +80,7 @@ Gabo fechou os olhos. A dor no braço era fogo. O colar no peito era gelo.
 
 E puxou a alavanca.
 
-O som mudou. O *thump-thump* rítmico tornou-se um guincho agudo de metal torturado. O chão tremeu violentamente. Sirenes analógicas começaram a uivar, e o fluido nos tubos parou, hesitou, e então começou a correr para trás, borbulhando furiosamente.
+O som mudou. O *thump-thump* rítmico tornou-se um guincho agudo de metal torturado. O chão tremeu. Sirenes analógicas começaram a uivar, e o fluido nos tubos parou, hesitou, e então começou a correr para trás, borbulhando.
 
 Uma porta pesada de explosão no fundo da sala começou a se abrir lentamente, revelando um túnel de serviço seco, mas o barulho atraiu algo mais.
 

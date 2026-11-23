@@ -11,11 +11,11 @@ Os setecentos metros restantes até o Poço de Elevação Três eram uma marcha 
 
 O ar ali embaixo não circulava; ele estagnava num caldo espesso que cheirava a ferro oxidado, óleo de transformador queimado e carniça vegetal decomposta. Na minha boca, o gosto amargo de cinzas e poeira de alvenaria misturava-se ao suor frio que escorria pelo meu pescoço.
 
-Minha órtese mecânica direita rangia a cada dois passos, as buchas gastas moendo areia contra as juntas de ferro. A atadura compressiva no meu ombro e braço quebrado estancara a sangria principal, mas a dor latente pulsava como um lembrete físico de que nossos corpos orgânicos estavam operando no limite absoluto de tolerância.
+Minha órtese mecânica direita rangia a cada dois passos, as buchas gastas moendo areia contra as juntas de ferro. A atadura compressiva no meu ombro e braço quebrado estancara a sangria principal, mas a dor latente pulsava como um lembrete físico de que nossos corpos orgânicos estavam no limite.
 
 Eu contava os passos em vez de sentir a distância. Cada cem, uma pausa de dois segundos para deixar o joelho voltar ao lugar, e mais cem. Os setecentos metros davam sete pausas, e eu já tinha inventado a quarta quando percebi o que estava fazendo: contava errado de propósito, só para ganhar mais pausas.
 
-Elias caminhava colado ao meu lado esquerdo, os olhos saltando freneticamente pelas sombras projetadas pela lanterna fraca que ele mantinha apontada para o chão.
+Elias caminhava colado ao meu lado esquerdo, os olhos pulando de sombra em sombra projetadas pela lanterna fraca que ele mantinha apontada para o chão.
 
 — Frequência respiratória muito rápida, Elias — a voz de Valéria soou num sussurro cortante logo atrás de nós. A luz azul dos filamentos de LED na franja dela desenhava seu perfil concentrado, o cyberdeck seguro no peito e a pistola destravada. — Sua respiração está muito rápida. Se precisar parar, me avisa; eu e o Gabo não temos maca para carregar você. Respira fundo pelo nariz e solta pela boca devagar.
 
@@ -37,7 +37,7 @@ Ela se aproximou de uma das colunas, apontando a sonda de leitura com extremo cu
 
 — O que tem dentro dessa desgraça, garota? — Elias sussurrou, a voz sumindo de terror.
 
-Valéria examinou a cavidade aberta, os olhos prateados arregalando-se numa mistura de fascínio técnico e repulsa visceral.
+Valéria examinou a cavidade aberta, entre o fascínio e a repulsa.
 
 — Não são catadores reciclados, Gabo... — ela murmurou, a respiração presa na garganta. — Parece uma unidade biomecânica montada aqui. Não sei se opera sozinha nem quem a construiu. Olha pra carcaça dentro dessa placenta: uma estrutura de seis membros de titânio reciclado fundida a placas de músculo vegetal denso, com garras de cerâmica industrial no lugar das mãos.
 
@@ -49,7 +49,7 @@ Aproximei-me da carcaça inerte. O que estava ali dentro não se parecia com nad
 
 — Passos curtos pelas canaletas de drenagem — comandei, apontando para a vala lateral de concreto seco onde a água não acumulava. — Sem arrastar bota e sem falar nada.
 
-Começamos a avançar pela beirada da galeria. A cada metro, o peso da armação puxava meu ombro com uma gravidade impiedosa. Meus músculos tremiam com a tensão acumulada, a mente focada exclusivamente em manter o equilíbrio nos trilhos enferrujados.
+Começamos a avançar pela beirada da galeria. A cada metro, o peso da armação puxava meu ombro para baixo. Meus músculos tremiam com a tensão acumulada, a mente focada exclusivamente em manter o equilíbrio nos trilhos enferrujados.
 
 Silêncio não é ausência de som; é disciplina. A bota de metal tinha que descer reta, sem arrastar, e o peso da armação tinha que passar para o quadril antes do pé. Cada passo meu custava um cálculo, e o cálculo custava um pedaço do ombro. Na metade da travessia, a bucha do joelho travou no meio do curso e eu tive que soltar com a mão, devagar, sentindo a graxa quente vazar entre os dedos.
 
@@ -68,14 +68,14 @@ O silêncio que se seguiu durou exatamente um segundo.
 
 Lá em cima, os doze casulos suspensos espasmaram em uníssono. As veias azuis do Jardim dispararam pulsos elétricos de alta frequência, e um zumbido subsônico furioso sacudiu a alvenaria do teto.
 
-— Alerta térmico! — Valéria berrou, puxando a pistola do coldre e cravando os pés na laje com postura de tiro. — A temperatura e o movimento dos casulos saltaram na leitura! O impacto acústico despertou o ninho!
+— Alerta térmico! — Valéria gritou, puxando a pistola do coldre e cravando os pés na laje com postura de tiro. — A temperatura e o movimento dos casulos saltaram na leitura! O impacto acústico despertou o ninho!
 
 O casulo mais próximo rasgou-se de cima a baixo com um som úmido e nauseante de lona e carne se rompendo. Uma enxurrada de fluido amarelado despencou no chão, seguida pelo baque pesado de uma criatura de dois metros que caiu de quatro patas sobre o cascalho.
 
-A abominação ergueu a cabeça cega, desprovida de olhos, com mandíbulas de aço serrilhado estalando num silvo assassino enquanto garras de cerâmica batiam no concreto.
+A criatura ergueu a cabeça cega, sem olhos, com mandíbulas de aço serrilhado estalando num silvo assassino enquanto garras de cerâmica batiam no concreto.
 
 — Corre, Elias! — empurrei o técnico com força em direção ao portão do elevador, sacando *Caronte* com um giro limpo da mão esquerda. — Vai pro poço do elevador e não olha pra trás!
 
-Valéria já estava ao meu lado, os olhos brilhando com fogo frio enquanto descarregava os primeiros três tiros cirúrgicos no tórax blindado da besta.
+Valéria já estava ao meu lado, descarregando os três primeiros tiros no tórax blindado da besta.
 
 — Dá cobertura, Moretti! Essa coisa é rápida pra caramba!

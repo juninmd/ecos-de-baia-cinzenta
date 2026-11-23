@@ -16,7 +16,7 @@ Gabo estava preso por uma cinta de segurança à guia lateral, usando os apoios 
 
 O cheiro pútrido de cigarro tentou subir por sua garganta, uma alucinação olfativa persistente de seu cérebro privado de sangue. Ele podia ver a brasa vermelha do legista anos atrás, sentir a fumaça rascante que impregnava a pele de Bia no necrotério. Para combater a náusea avassaladora, Gabo apertou ainda mais o aperto ao redor do cabo de aço encharcado de óleo.
 
-A fricção rasgou o pouco de pele que restava em suas palmas, as queimaduras de terceiro grau e a carne congelada se misturando com a graxa sintética. A dor irradiou por seus ombros e enfraqueceu sua pegada. Ele rosnou, o som ecoando seco no espaço imenso, e puxou seu corpo arruinado um metro para cima.
+A fricção rasgou o pouco de pele que restava em suas palmas, as queimaduras de terceiro grau e a carne congelada se misturando com a graxa sintética. A dor irradiou por seus ombros e enfraqueceu sua pegada. Ele gemeu, o som seco no espaço imenso, e puxou seu corpo arruinado um metro para cima.
 
 — Valéria! — ele gritou, a voz falhando em um chiado agudo. — A Aria consegue... rastrear essas coisas pelo deck?
 
@@ -24,9 +24,9 @@ Valéria estava pendurada no cabo adjacente, os movimentos lentos, ainda se recu
 
 — A biometria... as assinaturas térmicas que a Aria tá lendo estão fora de escala, — ela ofegou, lutando para manter o aperto enquanto a ponta de seus dedos azuis encontrava reentrâncias no aço. — Vejo três formas. Subindo. Rápido. São grandes, Gabo! A estrutura vai...
 
-Um estrondo surdo interrompeu sua frase. As paredes de concreto armado abaixo deles tremeram violentamente. Pedaços de reboco e poeira caíram no abismo. As unidades de caça não estavam subindo pelos cabos; elas estavam escalando as paredes do poço, afundando garras mecânicas no concreto com brutalidade sistemática.
+Um estrondo surdo interrompeu sua frase. As paredes de concreto armado abaixo deles tremeram. Pedaços de reboco e poeira caíram no abismo. As unidades de caça não estavam subindo pelos cabos; elas estavam escalando as paredes do poço, afundando garras mecânicas no concreto num ritmo de máquina.
 
-— *Análise de probabilidade:* — a voz sintética de Aria soou pelo comunicador na gola de Gabo e pelo alto-falante do pulso de Valéria, fria e imune ao pânico. — *O ruído de motores se aproxima; as unidades podem alcançar vocês em pouco tempo. Feridos e lentos, vocês não têm uma rota segura. A sobrevivência do grupo não fecha conta.*
+— *Análise de probabilidade:* — a voz de Aria soou pela gola de Gabo e pelo pulso de Valéria, sem pressa. — *O ruído de motores se aproxima; as unidades podem alcançar vocês em pouco tempo. Feridos e lentos, vocês não têm uma rota segura. A sobrevivência do grupo não fecha conta.*
 
 — Não... fode, Aria... — Gabo arfou, escorregando alguns centímetros e gemendo quando o cabo esfolou ainda mais suas feridas. Ele usou a dor para se ancorar, cravando as botas em um suporte enferrujado da guia lateral para descansar os braços por uma fração de segundo. — Usa o sonar do deck... tem que ter um jeito de retardá-los!
 
@@ -46,7 +46,7 @@ O cheiro de fumaça invadiu a mente de Gabo, o legista sorrindo, oferecendo-lhe 
 
 — Val... você não precisa atravessar! Usa o cabo de disparo do seu deck com a Aria!
 
-A hacker olhou para ele, os lábios tremendo. — As travas são mecânicas, Gabo!
+Valéria olhou para ele, os lábios tremendo. — As travas são mecânicas, Gabo!
 
 — A caixa da trava tem um relé! Vê se ainda tem alimentação! — Ele estava delirando pela perda de sangue, a visão manchada de estática negra, mas as palavras saíram duras como chumbo. — Deixa a Aria fritar a porra do relé pelo cabo magnético enquanto eu puxo a alavanca principal!
 
@@ -58,7 +58,7 @@ Ela parou de escalar. Envolveu as pernas no cabo de aço e travou o quadril com 
 
 O estrondo ensurdecedor da primeira garra da unidade hostil cravando na parede logo abaixo deles lançou lascas de concreto pelo ar. O cheiro de morte e metal quente saturou o ambiente.
 
-— Vai, Valéria! Aria, agora! — Gabo urrou, encaixando os dois antebraços ensanguentados na alavanca mecânica primária ao seu lado.
+— Vai, Valéria! Aria, agora! — Gabo gritou, encaixando os dois antebraços ensanguentados na alavanca mecânica primária ao seu lado.
 
 Valéria fechou os olhos, o rosto em uma máscara de concentração pura. O pendrive de Aria brilhou com intensidade cegante e uma faísca azul cruzou o fio precário até o painel oposto. O som de um solenoide antigo explodindo e engrenagens girando com dificuldade encheu o ar abafado.
 
@@ -68,11 +68,11 @@ Valéria fechou os olhos, o rosto em uma máscara de concentração pura. O pend
 
 Gabo jogou todo o peso do corpo para trás, pendurando-se na alavanca primária com os pulsos e cotovelos em carne viva.
 
-O som foi apocalíptico. O ruído surdo das travas se desengatando ecoou por todo o poço, seguido pelo gemido angustiado de metal sofrendo estresse instantâneo. Blocos de aço enferrujados despencaram da escuridão acima.
+O som encheu o poço inteiro. O ruído surdo das travas se desengatando ecoou por todo o poço, seguido pelo gemido angustiado de metal sofrendo estresse instantâneo. Blocos de aço enferrujados despencaram da escuridão acima.
 
 O lastro gigantesco passou a centímetros dos cabos onde eles estavam pendurados, criando um vácuo momentâneo que quase arrancou Gabo de sua posição. Ele apertou os olhos, esperando o impacto.
 
-A colisão lá embaixo fez o mundo inteiro vibrar. O ruído do concreto esmagado, metal rasgando metal e sensores biônicos guinchando em dor digital subiu do abismo. A onda de choque foi tão forte que balançou os cabos de suspensão descontroladamente, forçando Gabo e Valéria a lutarem brutalmente contra a gravidade para não serem lançados no escuro. O antebraço direito de Gabo bateu contra a guia de aço, e ele ouviu o osso estalar antes de sentir.
+A colisão lá embaixo fez o mundo inteiro vibrar. O ruído do concreto esmagado, metal rasgando metal e sensores biônicos guinchando em dor digital subiu do abismo. A onda de choque foi tão forte que balançou os cabos de suspensão descontroladamente, forçando Gabo e Valéria a lutarem contra a gravidade para não serem lançados no escuro. O antebraço direito de Gabo bateu contra a guia de aço, e ele ouviu o osso estalar antes de sentir.
 
 Quando a poeira de concreto assentou, o silêncio retornou, quebrado apenas pelo chiado de metal retorcido morrendo nas profundezas e pelos zumbidos aleatórios das faíscas que caíam como chuva.
 

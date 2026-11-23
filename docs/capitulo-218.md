@@ -7,9 +7,9 @@ Personagens Presentes: Gabo, Valéria, Elias
 
 # Capítulo 218: A Pressão do Vazio
 
-A descida pela garganta de rocha da cidade parecia uma queda livre em câmera lenta, onde cada segundo era medido pelo rangido violento dos cabos de sustentação. A gaiola de carga de ferro forjado tremia e chacoalhava contra os trilhos verticais chumbados nas paredes basálticas, soltando chuvas de faíscas pálidas que iluminavam o abismo por frações de segundo antes de serem engolidas pelo breu absoluto.
+A descida pela garganta de rocha da cidade parecia uma queda livre em câmera lenta, onde cada segundo era medido pelo rangido violento dos cabos de sustentação. A gaiola de carga de ferro forjado tremia e chacoalhava contra os trilhos verticais chumbados nas paredes basálticas, soltando chuvas de faíscas pálidas que iluminavam o abismo por frações de segundo antes de serem engolidas pelo breu.
 
-O vento frio que subia do poço não tinha cheiro de lodo ou esgoto; era um sopro mineral, seco e gélido, com o odor metálico de poeira antiga e chumbo estagnado. A gaiola descia rápido demais para os ouvidos acompanharem; a cada dez metros meus tímpanos estalavam com uma pontada que subia até a raiz do dente.
+O vento frio que subia do poço não tinha cheiro de lodo ou esgoto; era um sopro mineral, seco e frio, com o odor metálico de poeira antiga e chumbo estagnado. A gaiola descia rápido demais para os ouvidos acompanharem; a cada dez metros meus tímpanos estalavam com uma pontada que subia até a raiz do dente.
 
 Apoiei as costas contra as grades de proteção da gaiola, segurando o corrimão central com as garras de ferro da armação instalada por Vasco para alinhar a fratura do braço. A vibração das sapatas de freio ricocheteava pela estrutura e subia pela minha coluna, arrancando espasmos da musculatura lacerada do ombro que continuava sangrando sob as ataduras sujas. Lembro de provações parecidas no Dilúvio, quando a água negra engoliu os distritos e tanta gente morreu afogada nos túneis; desde a queda da Torre Aeterna neste ano, a cidade vinha quebrando nossos corpos em pedaços, deixando cicatrizes que nunca mais se apagariam. A dor e o ruído se misturavam; precisei pedir a Val que repetisse a distância.
 
@@ -17,7 +17,7 @@ Elias estava sentado no piso de ripas de aço, com os braços entrelaçados nas 
 
 — Minha cabeça... parece que vai rachar ao meio, — balbuciou ele, a voz quase abafada pelo ruído ensurdecedor do vento nos cabos. — Meus ouvidos tão zumbindo...
 
-— Engole a própria saliva com força, Elias, — instruiu Valéria, em pé junto à alavanca do freio centrífugo. Os reflexos azuis da franja holográfica dançavam contra a névoa escura do fosso, iluminando a expressão concentrada e atenta da hacker. Ela ajustava a alavanca com a mão direita para reduzir a velocidade da gaiola. — A pressão tá mudando mais rápido do que o seu ouvido consegue acompanhar, Elias. A gente acabou de cruzar mais duzentos metros neste poço. Vou reduzir a velocidade. Se a dor não passar, a gente para; engolir saliva não resolve toda lesão de ouvido.
+— Engole a própria saliva com força, Elias, — instruiu Valéria, em pé junto à alavanca do freio centrífugo. Os reflexos azuis da franja holográfica dançavam contra a névoa escura do fosso, iluminando a expressão concentrada de Valéria. Ela ajustava a alavanca com a mão direita para reduzir a velocidade da gaiola. — A pressão tá mudando mais rápido do que o seu ouvido consegue acompanhar, Elias. A gente acabou de cruzar mais duzentos metros neste poço. Vou reduzir a velocidade. Se a dor não passar, a gente para; engolir saliva não resolve toda lesão de ouvido.
 
 — E a gaiola aguenta essa descida toda? — perguntei, observando o cabo de aço trançado de duas polegadas vibrar como uma corda de contrabaixo gigante sobre nossas cabeças.
 
@@ -25,11 +25,11 @@ Elias estava sentado no piso de ripas de aço, com os braços entrelaçados nas 
 
 — Deixa a alavanca quieta, Val, — resmunguei, soltando uma risada rouca que terminou em uma tosse seca provocada pela poeira do poço. — Já passei tempo demais pendurado em cabos esta semana pra querer repetir a dose.
 
-Valéria ergueu a lanterna tática do antebraço e mirou o feixe para fora da grade da gaiola, iluminando as paredes do túnel que passavam voando ao nosso lado.
+Valéria ergueu a lanterna do antebraço e mirou o feixe para fora da grade da gaiola, iluminando as paredes do túnel que passavam voando ao nosso lado.
 
 O cinza escuro e áspero do basalto vulcânico começou a desaparecer, substituído por um revestimento contínuo, liso e opaco de placas maciças rebitadas. Não era aço comum, nem cimento armado. Era chumbo. Placas de quatro polegadas de espessura, cobrindo cada centímetro da rocha como um casulo impenetrável.
 
-— Olha isso, Moretti, — Valéria apontou o feixe, os olhos prateados estreitando-se em uma leitura atenta. — Revestimento integral de chumbo naval.
+— Olha isso, Moretti, — Valéria apontou o feixe, estreitando os olhos. — Revestimento integral de chumbo naval.
 
 Elias ergueu a cabeça devagar, correndo a luz de sua lanterna pelas junções soldadas das chapas que desciam conosco.
 

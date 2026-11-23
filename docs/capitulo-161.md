@@ -23,9 +23,9 @@ Gabo jogou o ombro contra a quina de um dos gigantescos racks de servidores inat
 
 — Você vai acabar quebrando a própria espinha antes de chegarmos ao topo, — murmurou Valéria. Ela emergia do buraco logo atrás dele, o rosto cinzento de exaustão, os olhos focados na vastidão escura da sala de servidores enquanto o pendrive de Aria pulsava em seu pulso.
 
-— Se eu não quebrar, o Taxidermista quebra, — Gabo rosnou, a voz áspera como lixa. Ele se afastou do rack, avaliando o ambiente.
+— Se eu não quebrar, o Taxidermista quebra — disse Gabo, a voz áspera. Ele se afastou do rack, avaliando o ambiente.
 
-O lugar era colossal. Fileiras intermináveis de monólitos negros de silício estendiam-se pela penumbra, iluminadas apenas por raras luzes de emergência desde o colapso da superfície. Esta fora a espinha dorsal de processamento da Aeterna Corp. Agora, parecia um cemitério de gigantes.
+O lugar era enorme. Fileiras intermináveis de monólitos negros de silício estendiam-se pela penumbra, iluminadas apenas por raras luzes de emergência desde o colapso da superfície. Esta fora a espinha dorsal de processamento da Aeterna Corp. Agora, parecia um cemitério de gigantes.
 
 Mas havia algo errado.
 
@@ -37,13 +37,13 @@ No braço erguido de Valéria, o pendrive blindado de Aria aquecia enquanto varr
 
 Valéria se aproximou de um dos racks, o olho cibernético ajustando o foco. Ela estendeu a mão, hesitando antes de aproximar o sensor do deck da massa orgânica que envolvia os cabos de fibra ótica.
 
-— Ele está usando o hardware para processar... o quê? — ela sussurrou, enojada. — O Rangel morreu na passarela daqueles tanques... nós passamos pelo inferno... para esse psicopata ter um servidor rodando carne?!
+— Ele está usando o hardware para processar... o quê? — ela sussurrou, enojada. — O Rangel morreu na passarela daqueles tanques... a gente passou por tudo aquilo... para esse psicopata ter um servidor rodando carne?!
 
 — Ele chamava de 'A Grande Obra', — Gabo respondeu, os dentes cerrados, forçando a dor a mantê-lo ancorado. — Ele acha que está aperfeiçoando a cidade. Esculpir dor em dados, exatamente como a Aeterna fazia na Torre.
 
-O pendrive mudou subitamente para um estroboscópico de alerta máximo, interrompendo a reflexão com precisão cirúrgica. — *Movimento detectado no sonar do deck. Múltiplas assinaturas térmicas convergindo pelos corredores laterais. Padrão comportamental de predação cooperativa. Esculturas.*
+O pendrive mudou subitamente para um estroboscópico de alerta máximo, interrompendo a reflexão. — *Movimento detectado no sonar do deck. Múltiplas assinaturas térmicas convergindo pelos corredores laterais. Padrão comportamental de predação cooperativa. Esculturas.*
 
-Das sombras entre os corredores de servidores, as abominações começaram a se desenrolar. Não eram os drones desajeitados do poço de ventilação ou os abortos grotescos do Estúdio. Estas 'Esculturas' eram ágeis, bípedes, compostas por uma fusão nauseante de polímeros balísticos da Aeterna e músculos enxertados superdesenvolvidos. Onde deveriam ter rostos, havia apenas placas lisas de cerâmica blindada, cravejadas com sensores óticos vermelhos.
+Das sombras entre os corredores de servidores, as abominações começaram a se desenrolar. Não eram os drones desajeitados do poço de ventilação ou as aberrações do Estúdio. Estas 'Esculturas' eram ágeis, bípedes, compostas por uma fusão nauseante de polímeros balísticos da Aeterna e músculos enxertados superdesenvolvidos. Onde deveriam ter rostos, havia apenas placas lisas de cerâmica blindada, cravejadas com sensores óticos vermelhos.
 
 Elas se moviam em completo silêncio, a não ser pelo leve som de garras metálicas clicando contra o chão de grade de aço. Eram cinco. Seis. Sete.
 
@@ -51,7 +51,7 @@ Elas se moviam em completo silêncio, a não ser pelo leve som de garras metáli
 
 — Val, — Gabo chamou, a voz tensa, os olhos fixos nas silhuetas vermelhas que os flanqueavam. — Algum terminal limpo onde você possa espetar a Aria? Alguma coisa que não esteja engolida por essa carne?
 
-Valéria estava digitando freneticamente no teclado holográfico do pulso enquanto Aria filtrava as frequências. — Estou tentando! O nível de criptografia biológica é insano, é como tentar hackear um fígado... mas... espere! A Aria achou uma sub-rotina de manutenção de emergência da Aeterna que ainda pulsa no hardware profundo do console central ali na frente. Ela não está contaminada pela rede de carne!
+Valéria digitava depressa no teclado holográfico do pulso enquanto Aria filtrava as frequências. — Estou tentando! A criptografia é biológica, é como tentar hackear um fígado... mas... espere! A Aria achou uma sub-rotina de manutenção de emergência da Aeterna que ainda pulsa no hardware profundo do console central ali na frente. Ela não está contaminada pela rede de carne!
 
 — O que ela faz? — Gabo firmou a prancha com a perna boa, mantendo o braço direito preso à tala.
 
@@ -65,6 +65,6 @@ Ele puxou a barreira para estreitar o corredor entre as abominações e o termin
 
 — *Sua ação é ilógica, Detetive,* — Aria pontuou pelo comunicador na gola dele enquanto Valéria espetava o pendrive de titânio no console central às costas de Gabo e ligava o emissor direcional do deck para dar suporte. — *Você não consegue recarregar sozinho. Confirmo o único cartucho da Caronte e a barreira móvel. Não saia de trás dela para seguir um marcador que eu perca de vista.*
 
-— Não preciso de manuseio fino, Aria! Só trava os servos delas pelo sinal quando chegarem perto! — Gabo rosnou, observando a primeira Escultura saltar em direção a ele, as garras abertas. Ele flexionou os joelhos, preparando o ombro blindado e o cano de Caronte preso ao antebraço para o choque que esmagaria o resto de seu exoesqueleto. — Eu só preciso ser o prego no pneu.
+— Não preciso de manuseio fino, Aria! Só trava os servos delas pelo sinal quando chegarem perto! — disse Gabo, vendo a primeira Escultura saltar em direção a ele, as garras abertas. Ele flexionou os joelhos, preparando o ombro blindado e o cano de Caronte preso ao antebraço para o choque que esmagaria o resto de seu exoesqueleto. — Eu só preciso ser o prego no pneu.
 
 Aria não argumentou. O processador dentro do pendrive cravado no terminal aceitou a variável e disparou um pulso agudo de interferência pelas antenas locais. No instante em que a primeira Escultura vacilou no ar com os sensores piscando em estática, Gabo atirava o peso do próprio corpo e a fúria do aço contra a criatura, o barulho de carne, cerâmica e dor enchendo os corredores outrora silenciosos do Subnível 3.0.

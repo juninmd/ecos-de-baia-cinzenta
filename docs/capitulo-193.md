@@ -35,20 +35,20 @@ A pele dele começou a soltar fumaça pelas costuras dos eletrodos. Eu não podi
 
 Avancei pelo gradeamento ensopado de lodo e sangue ressecado, o ar quente queimando a pele do meu rosto a cada passada pesada das órteses. O calor da tubulação era tão intenso que a borracha das minhas botas começava a soltar uma fumaça acre.
 
-Ergui a armação mecânica de novo, a fiação do ombro estalando em faíscas azuis pela sobretensão da hidráulica. O motor de passo berrou numa vibração furiosa que fez meus dentes baterem.
+Ergui a armação mecânica de novo, a fiação do ombro estalando em faíscas azuis pela sobretensão da hidráulica. O motor de passo gritou numa vibração que fez meus dentes baterem.
 
 — Sai da frente! — berrei, desferindo o peso da liga de aço contra a segunda válvula de alta pressão.
 
 CRASH.
 A chapa de ferro fundido rachou ao meio com um estalo seco de osso quebrado. O duto de cobre dobrou como canudo e uma cascata fervente de refrigerante químico e óleo mineral despencou direto sobre os bancos de servidores centrais.
 
-O choque térmico foi catastrófico. O silício superaquecido em contato com o líquido congelante explodiu em milhares de estilhaços de cerâmica e vidro. Um clarão alaranjado irrompeu quando os primeiros cabos de alta tensão entraram em curto-circuito, incendiando a biomassa ressecada dos fungos que cobriam os servidores.
+O choque térmico partiu tudo. O silício superaquecido em contato com o líquido congelante explodiu em milhares de estilhaços de cerâmica e vidro. Um clarão alaranjado irrompeu quando os primeiros cabos de alta tensão entraram em curto-circuito, incendiando a biomassa ressecada dos fungos que cobriam os servidores.
 
 As chamas se espalharam com a ferocidade de pólvora de canhão.
 
 As raízes carmesins começaram a estalar e queimar em labaredas púrpuras, soltando um odor sulfuroso e asfixiante que preencheu o teto da catedral. Os corpos pendurados amoleceram nas amarras enquanto as conexões neurais torravam internamente pelo fogo elétrico, silenciando para sempre os lamentos que ecoavam nas colunas. Os corpos caíam das amarras; não havia como contar quem morrera com o fogo e quem perdera o suporte. A chama não era prova de descanso.
 
-— Os controladores locais estão parando! — Valéria berrou, puxando um sinalizador térmico do cinto e arremessando-o contra o depósito de óleo na base do terceiro pilar. A fagulha encontrou o combustível vazando e uma parede de fogo de três metros ergueu-se, isolando o núcleo. — A estrutura tá cedendo, Moretti! Trinta segundos antes da câmara inteira colapsar sob a pressão térmica! Corre pro poço da escada!
+— Os controladores locais estão parando! — Valéria gritou, puxando um sinalizador térmico do cinto e arremessando-o contra o depósito de óleo na base do terceiro pilar. A fagulha encontrou o combustível vazando e uma parede de fogo de três metros ergueu-se, isolando o núcleo. — A estrutura tá cedendo, Moretti! Trinta segundos antes da câmara inteira colapsar sob a pressão térmica! Corre pro poço da escada!
 
 — O nó de dados da coluna dorsal ainda tá vivo! — apontei para o pilar central, onde um tronco espesso de raízes ainda pulsava, tentando redirecionar a pouca energia restante para as profundezas. — Se eu não arrebentar esse nó, a rede transfere o backup pro fundo da terra!
 
@@ -70,4 +70,4 @@ Valéria correu até mim através da fumaça, agarrou a manga do meu sobretudo c
 
 — Sai daí, seu teimoso desgraçado! A escotilha de evacuação tá aberta! Mexe essas pernas antes que a gente morra soterrado!
 
-Disparamos pelo corredor lateral em direção ao fosso de serviço, o inferno laranja rugindo às nossas costas e devorando a catedral de mentiras e cadáveres que Silas Vance tentara erguer no escuro.
+Disparamos pelo corredor lateral em direção ao fosso de serviço, o fogo rugindo às nossas costas e devorando a catedral de mentiras e cadáveres que Silas Vance tentara erguer no escuro.

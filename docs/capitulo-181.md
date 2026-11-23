@@ -45,9 +45,9 @@ No centro daquela massa viva, a carcaça de um drone de patrulha da Aeterna — 
 
 — O Jardim... — murmurei, a mão esquerda instintivamente descendo para o cabo de *Caronte* sob o sobretudo. — A podridão do Silas não morreu na Usina. Ela tá descendo pelas galerias de esgoto.
 
-Valéria se agachou a dois metros da borda da massa luminosa, os olhos prateados arregalados e as pontas dos dedos estendidas para o scanner manual do deck.
+Valéria se agachou a dois metros da borda da massa luminosa, os olhos arregalados e as pontas dos dedos estendidas para o scanner manual do deck.
 
-— Não é só matéria fúngica, Gabo — ela apontou o sensor com uma precisão cirúrgica, a respiração presa na garganta. — Os filamentos entram nas portas do drone. Não consigo dizer se estão transmitindo dados ou só crescendo sobre ele.
+— Não é só matéria fúngica, Gabo — ela apontou o sensor, a respiração presa na garganta. — Os filamentos entram nas portas do drone. Não consigo dizer se estão transmitindo dados ou só crescendo sobre ele.
 
 — Pode ser uma rede — eu disse. — Ou só outro cadáver tomado pela colônia.
 

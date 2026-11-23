@@ -11,7 +11,7 @@ A tampa do bueiro pesava uma tonelada. Gabo empurrou o metal enferrujado com o o
 
 Quando ele emergiu, a primeira coisa que o atingiu não foi o frio, mas a ausência. Baía Cinzenta sempre fora uma cacofonia de luz e som — o zumbido constante dos anúncios holográficos, o chiado dos drones de vigilância, o pulsar do neon. Agora, havia apenas o som da chuva batendo no asfalto quebrado e o cheiro acre de incêndios químicos não controlados.
 
-O cheiro o enjoou. Cinzas sintéticas. Lembrava o fumo barato que seu pai costumava acender antes de bater na mãe. O odor grudou no fundo da garganta de Gabo, trazendo uma onda de náusea que nada tinha a ver com a fome ou o cansaço. Era uma repulsa física, visceral, que retorcia seu estômago.
+O cheiro o enjoou. Cinzas sintéticas. Lembrava o fumo barato que seu pai costumava acender antes de bater na mãe. O odor grudou no fundo da garganta de Gabo, trazendo uma onda de náusea que nada tinha a ver com a fome ou o cansaço. Era uma repulsa física, no estômago.
 
 O Distrito 4 estava morto. Sem a "Voz" de Dante para coordenar a rede elétrica, os prédios eram monólitos negros recortados contra um céu cor de hematoma. A única iluminação vinha de fogueiras em latões de lixo e dos ocasionais faróis de veículos blindados patrulhando à distância.
 

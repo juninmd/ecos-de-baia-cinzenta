@@ -7,7 +7,7 @@ Personagens Presentes: Gabo, Valéria, Elias
 
 # Capítulo 204: O Corredor Silencioso
 
-A escotilha de ferro fundido bateu com um estampido seco, ecoando pelo túnel como a tampa de um sarcófago se fechando. O barulho das mandíbulas mecânicas e dos guinchos predatórios do enxame lá embaixo foi abafado instantaneamente, reduzido a uma vibração oca que subia pelas solas dos meus coturnos. O corredor que se abria à nossa frente era uma ruptura brutal com a podridão orgânica das catacumbas: não havia raízes azuis, nem lodo escorrendo pelas paredes. Apenas concreto cinzento, maciço e assustadoramente estéril, estendendo-se em linha reta sob uma penumbra morta.
+A escotilha de ferro fundido bateu com um estampido seco, ecoando pelo túnel como a tampa de um sarcófago se fechando. O barulho das mandíbulas mecânicas e dos guinchos predatórios do enxame lá embaixo foi abafado instantaneamente, reduzido a uma vibração oca que subia pelas solas dos meus coturnos. O corredor que se abria à nossa frente rompia com a podridão das catacumbas: não havia raízes azuis, nem lodo escorrendo pelas paredes. Apenas concreto cinzento, maciço e assustadoramente estéril, estendendo-se em linha reta sob uma penumbra morta.
 
 Caí de costas contra a alvenaria gelada. Meus joelhos cederam, e escorreguei até o chão com o barulho áspero do meu casaco de sarja raspando na parede. Meu ombro direito parecia ter sido esticado em um potro de tortura medieval; o tranco da guia havia puxado o fixador no meu braço fraturado. O sangue quente escorria da minha palma esquerda lacerada pelo vergalhão da escada, pingando rítmico no piso empoeirado.
 
@@ -15,11 +15,11 @@ Elias desabou a dois passos de mim, encolhendo os joelhos contra o peito. Seus d
 
 — A gente... a gente quase virou comida de engrenagem... — balbuciou ele, puxando o ar em golfadas asmáticas. — Eu vi as garras daquela coisa. Aquilo não era um drone. Tinha fibras parecendo tendões enroladas nos motores.
 
-— Bem-vindo ao cardápio da Baía Cinzenta, gênio, — retrucou Valéria, ajoelhando-se ao meu lado sem cerimônia. Os reflexos azuis da franja holográfica dançavam em sua testa suada, iluminando os olhos prateados que avaliavam o meu braço arruinado. — Deixa eu ver essa monstruosidade, Moretti. Se você estourou a fiação do servomotor, a gente tá ferrado.
+— Bem-vindo ao cardápio da Baía Cinzenta, gênio, — retrucou Valéria, ajoelhando-se ao meu lado sem cerimônia. Os reflexos azuis da franja holográfica dançavam em sua testa suada, enquanto ela avaliava o meu braço arruinado. — Deixa eu ver essa coisa, Moretti. Se você estourou a fiação do servomotor, a gente tá ferrado.
 
 — O pistão ainda responde — resmunguei, enquanto ela afastava a manga rasgada. — Não sei o que aconteceu por baixo da chapa.
 
-— "Só puxou", diz o homem que tá vazando sangue igual cano furado de hidrante, — ela rebateu com um estalo de língua irritado, tirando uma lata amassada de selante cirúrgico e um rolo de atadura de fibra sintética do bolso tático. — Você tem a sutileza de um trator desgovernado. Se a armação parar, vamos ter que achar outra forma de abrir as portas. Elias, seu tornozelo aguentou a escada?
+— "Só puxou", diz o homem que tá vazando sangue igual cano furado de hidrante, — ela rebateu com um estalo de língua irritado, tirando uma lata amassada de selante e um rolo de atadura sintética do bolso. — Você tem a sutileza de um trator desgovernado. Se a armação parar, vamos ter que achar outra forma de abrir as portas. Elias, seu tornozelo aguentou a escada?
 
 — Aguentou porque eu parei quando precisava — disse Elias. Ele apoiou a bota enfaixada e esperou a dor baixar antes de se levantar.
 

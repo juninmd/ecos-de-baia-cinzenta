@@ -11,7 +11,7 @@ O contraste foi violento como um soco no estômago.
 
 Um segundo atrás, eles estavam no corredor da Galeria, cercados pelo cheiro de carne podre e formol barato, com o chão pegajoso de sangue coagulado. Agora, ao cruzarem a porta hidráulica, o mundo se tornara branco.
 
-Branco absoluto.
+Branco por toda parte.
 
 O chão era de um polímero liso e sem emendas, refletindo as luzes cirúrgicas que banhavam o ambiente com uma claridade fria, sem sombras. O ar era reciclado, filtrado à exaustão, cheirando a ozônio e antisséptico hospitalar. Aquele cheiro fez o estômago de Gabo revirar mais do que qualquer fedor de esgoto. Lembrava o hospital onde vira Bia pela última vez. Lembrava a esterilidade da morte burocrática.
 
@@ -33,7 +33,7 @@ Seu rosto tinha a simetria impossível de uma estátua grega polida por algoritm
 
 — Detetive Moretti — ele disse, abrindo os braços em um gesto de boas-vindas. Suas mãos eram obras de arte em si mesmas: dedos longos, articulados com precisão mecânica, terminando em pontas que poderiam ser bisturis ou pincéis. — E Srta. Cruz. Fico feliz que tenham aceitado meu convite. A crítica é parte essencial do processo criativo.
 
-— Onde está o Dante? — Gabo rosnou, dando um passo à frente com o vergalhão em punho. A arma enferrujada parecia uma ofensa profana naquele templo de limpeza.
+— Onde está o Dante? — disse Gabo, dando um passo à frente com o vergalhão em punho. A arma enferrujada parecia uma ofensa profana naquele templo de limpeza.
 
 O Taxidermista sorriu, uma expressão que não alcançou os olhos.
 
@@ -71,7 +71,7 @@ Gabo deu um passo à frente, colocando-se entre o Taxidermista e a maca, enquant
 
 — *Análise de ameaça: crítica* — Aria declarou pelo viva-voz do comunicador. — *Indivíduo classificado como Hostil de Alta Complexidade. Não há sinal de disposição para negociar.*
 
-O Taxidermista olhou para o drive de titânio acoplado ao comunicador de Gabo com fascínio clínico.
+O Taxidermista olhou para o drive de titânio acoplado ao comunicador de Gabo com fascínio de colecionador.
 
 — E você... O código que fugiu no pendrive blindado. Uma síntese interessante, mas... castrada. Vocês danificaram a saída dela, não foi? Falta alma na sua execução agora, minha querida. Você ficou eficiente, mas não tem *paixão*. Eu posso consertar isso também quando colocá-la na vitrine.
 
@@ -93,10 +93,10 @@ Eram diferentes dos monstros lá fora. Não eram massas de carne. Eram elegantes
 
 — Apresento as "Esculturas" — disse o Taxidermista, voltando ao seu trabalho na mesa, de costas para eles, como se a luta fosse indigna de sua atenção. — Por favor, não as danifiquem muito. O acabamento foi caríssimo.
 
-— Aria — Gabo rosnou, firmando os pés. — Plano de ataque.
+— Aria — chamou Gabo, firmando os pés. — Plano de ataque.
 
 — *Oponentes com blindagem de cerâmica balística* — Aria respondeu instantaneamente no fone. — *Impactos de concussão diretos serão ineficazes contra o torso. Recomendo alavanca mecânica e ruptura dos feixes hidráulicos nas juntas articulares. Com esses dados, a sobrevivência do grupo não fecha conta.*
 
-— Ótimo — Gabo cuspiu no chão imaculado, manchando o branco com sangue e saliva. — Melhores chances que tivemos a semana toda.
+— Ótimo. — Gabo cuspiu no chão branco. Saiu sangue. — Melhores chances que tivemos a semana toda.
 
 A primeira Escultura avançou.

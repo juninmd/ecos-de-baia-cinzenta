@@ -12,7 +12,7 @@ O cheiro era de tempo estagnado: lodo antigo, cobre oxidado e algo adocicado que
 
 A escuridão das "Catedrais de Pedra" não era vazia. Ela rosnava.
 
-— Eles estão flanqueando — a voz de Valéria sussurrou, trêmula. Sem o sonar digital de longo alcance, ela estava reduzida à visão de curto espectro, quase inútil naquela penumbra absoluta. Ela sustentava a pistola compacta com a mão direita; a esquerda ferida ajudava a firmar o punho sem sentir a pressão.
+— Eles estão flanqueando — a voz de Valéria sussurrou, trêmula. Sem o sonar digital de longo alcance, ela estava reduzida à visão de curto espectro, quase inútil naquela penumbra. Ela sustentava a pistola compacta com a mão direita; a esquerda ferida ajudava a firmar o punho sem sentir a pressão.
 
 Gabo acendeu o último sinalizador químico e o arremessou. A luz vermelha de fósforo chiou, cortando as sombras e revelando o pesadelo.
 
@@ -24,7 +24,7 @@ Eles não latiam. O som que faziam era um clique úmido e mecânico. *Click-clac
 
 Gabo trincou os dentes. O *Colar de Sol* pressionava o peito, onde a pele já estava ferida. Tirou a mão do metal e conferiu a cinta da prancha de Rangel; precisava manter o peso fora da perna que falhava.
 
-— Cale a boca, Aria — ele rosnou, levantando a escopeta *Caronte*. Duas balas restantes. — Valéria, proteja o Rangel. Fique atrás de mim.
+— Cala a boca, Aria — ele disse, levantando a escopeta *Caronte*. Duas balas restantes. — Valéria, proteja o Rangel. Fique atrás de mim.
 
 O líder das Quimeras avançou.
 

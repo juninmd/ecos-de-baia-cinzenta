@@ -11,7 +11,7 @@ description: "O controlador do vagão recebe comandos de Aria; o motor usa a bat
 
 # Capítulo 158: Condutores de Cobre
 
-O silêncio após a voz metálica do Taxidermista era pesado, quebrado pelo gotejar sobre a caixa do kit e pela respiração de Gabo na prancha de inspeção. Gabo respirava em espasmos curtos e controlados, seus olhos fixos na massa enegrecida em suas extremidades. Cada batimento cardíaco enviava uma onda de dor aguda, um choque elétrico branco e puro através de seus braços até a nuca.
+O silêncio após a voz metálica do Taxidermista era pesado, quebrado pelo gotejar sobre a caixa do kit e pela respiração de Gabo na prancha de inspeção. Gabo respirava em espasmos curtos e controlados, seus olhos fixos na massa enegrecida em suas extremidades. Cada batimento cardíaco enviava uma onda de dor aguda, um choque branco através de seus braços até a nuca.
 
 Ele tentou usar a dor como antes, mas a fumaça lembrada continuou. Val prendeu a faixa que se soltava e pediu que ele apoiasse o peso do lado esquerdo. Gabo acompanhou o movimento das mãos dela até conseguir responder.
 
@@ -19,7 +19,7 @@ Ele tentou usar a dor como antes, mas a fumaça lembrada continuou. Val prendeu 
 
 Valéria estava enrolada sobre si mesma a poucos metros, os braços abraçando os joelhos. O medo de que o curativo não bastasse a mantinha paralisada. As lágrimas ainda riscavam a sujeira em seu rosto pálido. O som de Gabo se levantando pareceu despertá-la de um transe sombrio.
 
-— Eu não... Gabo, eu achei que... — ela gaguejou, o olho cibernético piscando instável, tentando processar a realidade brutal do momento.
+— Eu não... Gabo, eu achei que... — ela gaguejou, o olho cibernético piscando instável, tentando entender o que via.
 
 — Você salvou a minha vida, garota, — Gabo cortou, duro, embora não houvesse raiva, apenas a necessidade pragmática de seguir em frente. — Acabou. A caçada pesada dele lá embaixo acabou, mas o túnel está esperando. Não podemos ficar parados aqui.
 
@@ -45,7 +45,7 @@ Valéria limpou o slot de diagnóstico e confirmou a separação entre alimenta�
 
 Um chiado elétrico violento preencheu a cabine. O LED azul-gelo do pendrive cravado no painel brilhou com intensidade quase branca, aquecendo instantaneamente enquanto a IA assumia os barramentos do veículo. Um cheiro forte de ozônio e poeira torrada subiu do console.
 
-Gabo instintivamente prendeu a respiração, o cheiro de faísca elétrica arriscando trazer de volta as alucinações de fumaça. Ele cravou os dentes nos lábios até sentir gosto de sangue, focando na pulsação agoniante das extremidades de seus braços, convertendo a náusea iminente em pura estática física.
+Gabo instintivamente prendeu a respiração, o cheiro de faísca elétrica arriscando trazer de volta as alucinações de fumaça. Ele cravou os dentes nos lábios até sentir gosto de sangue, focando na pulsação agoniante das extremidades de seus braços, trocando a náusea pela dor.
 
 O trem gemeu sob seus pés. Lâmpadas mortas há décadas dentro da cabine piscaram intermitentemente e, com um estalo ensurdecedor que soou como um tiro, as luzes internas acenderam em um brilho amarelo opressivo.
 
@@ -55,7 +55,7 @@ Valéria correu até a entrada e travou a porta de aço deslizante atrás deles 
 
 No console frontal, o pendrive de Aria pulsava em azul intenso. Sem aviso suave, o monorail estremeceu nos trilhos e arrancou para a frente.
 
-O tranco atirou Valéria contra a parede enferrujada. Gabo bateu o ombro esquerdo no encosto; a cinta segurou seu corpo no banco, mas o braço direito doeu dentro da tala. O trem balançou violentamente à medida que os trilhos verticais acomodavam a subida maciça pelo abismo escuro do túnel.
+O tranco atirou Valéria contra a parede enferrujada. Gabo bateu o ombro esquerdo no encosto; a cinta segurou seu corpo no banco, mas o braço direito doeu dentro da tala. O trem balançou à medida que os trilhos verticais acomodavam a subida maciça pelo abismo escuro do túnel.
 
 O barulho era ensurdecedor, o raspar de metal contra metal engolindo qualquer som baixo. A luz fraca e amarelada projetava sombras longas e fantasmagóricas no pequeno espaço de carga.
 
@@ -65,4 +65,4 @@ Gabo arrastou as costas contra a parede lateral do vagão e firmou-se encostado 
 
 Valéria ergueu os olhos pesados e cibernéticos, cheios de uma tristeza cinza profunda, olhando para o pequeno cilindro de titânio espetado no console à frente, cujo LED azul-gelo regia a subida. Ela não discutiu. Seus olhos se fecharam por um instante enquanto o monorail os arrastava contra a gravidade de Baía Cinzenta.
 
-O escuro do túnel do Subnível 3.5 passava voando pela única janela do vagão em linhas embaçadas de poeira e estruturas em ruínas. A cada baque sobre a junção dos trilhos, a dor latejava no braço quebrado de Gabo, e a cada pulsação sua mente se agarrava um pouco mais à clareza insana do momento. Não havia fumaça. Havia apenas aço, ferrugem, dor crua e a voz impessoal e perfeitamente lógica saindo do painel do trem em direção à curadoria prometida do Taxidermista.
+O escuro do túnel do Subnível 3.5 passava voando pela única janela do vagão em linhas embaçadas de poeira e estruturas em ruínas. A cada baque sobre a junção dos trilhos, a dor latejava no braço quebrado de Gabo, e a cada pulsação sua mente se agarrava um pouco mais àquela clareza. Não havia fumaça. Havia apenas aço, ferrugem, dor crua e a voz impessoal e perfeitamente lógica saindo do painel do trem em direção à curadoria prometida do Taxidermista.

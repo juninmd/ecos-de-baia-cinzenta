@@ -37,11 +37,11 @@ Valéria alcançou o recuo da curva e parou ao meu lado, os olhos ópticos prate
 
 — A gente tem que continuar avançando, Val...
 
-— Eu mandei parar, cabeça-dura — ela puxou um rolo de fita hemostática de compressão médica de dentro do bolso tático e arrancou uma tira com os dentes. — Você tá deixando uma trilha de sangue fresco na grade que qualquer carniceiro com olfato cibernético consegue seguir no escuro. Se continuar sangrando assim, você pode ficar fraco antes da saída. Me deixa conferir.
+— Eu mandei parar, cabeça-dura — ela puxou um rolo de fita hemostática de compressão médica do bolso e arrancou uma tira com os dentes. — Você tá deixando uma trilha de sangue fresco na grade que qualquer carniceiro com olfato cibernético consegue seguir no escuro. Se continuar sangrando assim, você pode ficar fraco antes da saída. Me deixa conferir.
 
 Assenti. Ela afastou o tecido rasgado com cuidado, colocou gaze sobre o sangramento visível e prendeu a cobertura ao redor do suporte. Não podia examinar o fixador inteiro naquele espaço.
 
-A pressão sobre a carne viva foi excruciante. Cerrei os dentes com tanta força que o maxilar estalou, a respiração presa na garganta enquanto a dor me ancorava na realidade imediata daquele tubo escuro.
+A pressão sobre a carne viva me tirou o ar. Cerrei os dentes com tanta força que o maxilar estalou, a respiração presa na garganta enquanto a dor me ancorava na realidade imediata daquele tubo escuro.
 
 — Pronto — ela deu um puxão final na fita, travando o adesivo com um tapa seco na minha armação de ferro. — Por enquanto, a gaze segurou o sangue. Agora para de tentar bancar o mártir imortal e usa o apoio do cotovelo mecânico pra distribuir o peso.
 

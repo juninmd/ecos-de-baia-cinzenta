@@ -25,7 +25,7 @@ Assim que os pés de Gabo tocaram o asfalto molhado, Valéria o prensou contra a
 
 — Val! — Gabo tentou recuar, mas a órtese da perna travou na lama.
 
-— Não — Valéria rosnou, o braço pressionando o peito dele e os olhos prateados fixos no drive espetado no comunicador. — Chega de segredos, Gabo. Chega de decidir sozinho o que vai acontecer com quem está nesse módulo.
+— Não — disse Valéria, o braço pressionando o peito dele e os olhos prateados fixos no drive espetado no comunicador. — Chega de segredos, Gabo. Chega de decidir sozinho o que vai acontecer com quem está nesse módulo.
 
 Gabo piscou sob a chuva ácida, a mão subindo instintivamente para proteger o pequeno módulo.
 
@@ -41,7 +41,7 @@ Gabo segurou o pulso de Valéria com firmeza, mas sem violência, afastando-a me
 
 Valéria soltou Gabo, recuando como se o calor do pequeno drive tivesse queimado seus dedos.
 
-— E o que você sabe sobre os mortos deles, Rangel? — ela cuspiu, virando-se para o inspetor. — Você era da Corregedoria. Você encobria a sujeira deles.
+— E o que você sabe sobre os mortos deles, Rangel? — ela disse, virando-se para o inspetor. — Você era da Corregedoria. Você encobria a sujeira deles.
 
 — Eu encobria os erros dos policiais — Rangel corrigiu, tirando a pasta manila que roubara do bunker de Kiko Vibe de dentro da jaqueta. Ele a protegeu da chuva com o corpo. — Mas isso aqui? Isso não é erro policial. Isso é engenharia familiar.
 

@@ -25,19 +25,19 @@ O zumbido hidráulico da minha órtese direita ecoava na vastidão. Um protesto 
 
 — Cuidado onde pisam, — avisei mais alto, olhando para trás.
 
-Elias assentiu freneticamente, as mãos trêmulas agarradas às alças da mochila. O rapaz escorregou em uma chapa de liga de alumínio corroída, soltando um arquejo mudo e se apoiando no chassi de um autômato estripado. A carcaça rangeu sob seu peso, e ele saltou para trás como se tivesse tocado em ferro em brasa.
+Elias assentiu várias vezes, as mãos trêmulas agarradas às alças da mochila. O rapaz escorregou em uma chapa de liga de alumínio corroída, soltando um arquejo mudo e se apoiando no chassi de um autômato estripado. A carcaça rangeu sob seu peso, e ele saltou para trás como se tivesse tocado em ferro em brasa.
 
 Trinta e oito anos. Pálido. Olhos arregalados de quem conhecia aqueles poços como trabalho, antes de virarem terreno de caça. Saber onde ficava a saída não o tornava soldado. Era a única medida honesta de sanidade que nos restava no grupo: quando Elias entrava em pânico, é porque a situação era realmente desesperadora.
 
 — Tem certeza de que... de que não tem nada aqui? — gaguejou o garoto, limpando o suor frio da testa com a manga suja de graxa. — Está tudo tão quieto...
 
-— Quietude de cemitério corporativo nunca é boa notícia, garoto, — Valéria respondeu, desacelerando o passo e erguendo o cyberdeck na altura do peito. Seus olhos prateados estreitaram-se, analisando linhas de código em verde fosforescente que corriam na tela portátil. — Moretti, para um segundo.
+— Quietude de cemitério corporativo nunca é boa notícia, garoto, — Valéria respondeu, desacelerando o passo e erguendo o cyberdeck na altura do peito. Ela estreitou os olhos, lendo linhas de código em verde fosforescente que corriam na tela portátil. — Moretti, para um segundo.
 
 Parei. O peso da minha armação industrial de sucata — acoplada por Vasco ao fixador instalado pela equipe médica — puxou meu ombro direito com uma fisgada aguda de cansaço. O sangue seco colava a atadura na carne viva, e as cicatrizes do Dilúvio queimavam, e precisei apoiar a mão esquerda numa carcaça para descansar antes de continuar.
 
 — O que você tá pegando? — perguntei, destravando a *Caronte* com o polegar.
 
-— Sensores sísmicos do deck, — disse ela, o tom sarcástico sumindo de repente para dar lugar à frieza da hacker que já sobreviveu a três purgas da Aeterna. — Vibrações de frequência ultra-baixa no solo. Ainda não sei o que está produzindo isso.
+— Sensores sísmicos do deck, — disse ela, o sarcasmo sumindo de repente da voz. — Vibrações de frequência ultra-baixa no solo. Ainda não sei o que está produzindo isso.
 
 — Como você sabe?
 
@@ -59,11 +59,11 @@ Não era um motor ligando. Era o ruído obsceno de chapas de blindagem de dez ce
 
 Do fundo do fosso de carga, uma massa titânica começou a se erguer.
 
-Não tinha simetria. Não tinha a engenharia limpa e arrogante das máquinas da Aeterna Corp. Era uma aberração arquitetônica: chassis de empilhadeiras pesadas esmagados e soldados uns sobre os outros, quatro braços hidráulicos de escavadeiras, instalados fora de eixo como patas de um crustáceo monstruoso, e uma cabine de comando triturada encravada no centro como um coração de vidro estilhaçado. Toda a estrutura estava amarrada por cabos de alta tensão e uma crosta espessa de ferrugem viva e lodo biomecânico.
+Não tinha simetria. Não tinha a engenharia limpa e arrogante das máquinas da Aeterna Corp. Era uma construção absurda: chassis de empilhadeiras pesadas esmagados e soldados uns sobre os outros, quatro braços hidráulicos de escavadeiras, instalados fora de eixo como patas de um crustáceo, e uma cabine de comando triturada encravada no centro como um coração de vidro estilhaçado. Toda a estrutura estava amarrada por cabos de alta tensão e uma crosta espessa de ferrugem viva e lodo biomecânico.
 
 As marcas de solda e as peças empilhadas não me diziam quem tinha montado aquilo nem quando.
 
-— Que porra de pesadelo corporativo é esse? — sussurrou Valéria, os olhos prateados arregalados enquanto calculava a massa do monstro.
+— Que porra de pesadelo corporativo é esse? — sussurrou Valéria, calculando a massa do monstro.
 
 — O tipo de pesadelo que não volta pro túmulo sem briga, — respondi, mirando no ponto onde a fiação principal pulsava com um brilho alaranjado doentio.
 

@@ -51,7 +51,7 @@ Ele piscou.
 
 — Como é?
 
-— Você me ouviu. Vai. — Encostei o ombro bom no batente, porque ficar em pé sem apoio tinha virado luxo. — Você não me deve nada, Elias. Você não é polícia, não é resistência, não assinou porra nenhuma. Você era um cara trancado numa sala monitorando pico térmico e nós dois chutamos a sua porta e trouxemos o inferno junto. Se tem alguém aqui embaixo com direito de ir embora, é você.
+— Você me ouviu. Vai. — Encostei o ombro bom no batente, porque ficar em pé sem apoio tinha virado luxo. — Você não me deve nada, Elias. Você não é polícia, não é resistência, não assinou porra nenhuma. Você era um cara trancado numa sala monitorando pico térmico e nós dois chutamos a sua porta e trouxemos o problema junto. Se tem alguém aqui embaixo com direito de ir embora, é você.
 
 — Você está falando sério.
 

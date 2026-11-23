@@ -12,13 +12,13 @@ Não foi um flash de luz, mas de som e temperatura. Quando a carga da *Caronte* 
 
 — *AGORA!* — ele rugiu, mas sua voz foi engolida pelo caos. Ele agarrou o braço de Valéria, puxando-a para baixo.
 
-O jato de vapor superaquecido atingiu os sensores óticos e térmicos do corredor como uma marreta. As câmeras estouraram. O gás paralisante que começava a descer foi violentamente dispersado pela turbulência térmica. Era uma aposta estúpida: trocar asfixia química por queimaduras de terceiro grau.
+O jato de vapor superaquecido atingiu os sensores óticos e térmicos do corredor como uma marreta. As câmeras estouraram. O gás paralisante que começava a descer foi dispersado pela turbulência térmica. Era uma aposta estúpida: trocar asfixia química por queimaduras de terceiro grau.
 
 Gabo sentiu o calor lamber seu rosto através do lenço improvisado. Era úmido, pesado, com gosto de metal fervido.
 
 — Aria! Filtra a visão térmica no meu visor! — Valéria gritou para o microfone de garganta, tossindo enquanto erguia o *Phantom V3* no meio da névoa branca.
 
-No barramento lateral do deck, o pendrive blindado de titânio da Aria piscava freneticamente em azul, compensando o ruído térmico dos sensores de Valéria.
+No barramento lateral do deck, o pendrive blindado de titânio da Aria piscava depressa em azul, compensando o ruído térmico dos sensores de Valéria.
 
 — *Sensores externos saturados* — a voz de Aria cortou o ruído nos fones de ambos, plana e sem pânico. — *O ruído térmico comeu o corredor. O sonar do comunicador detecta uma abertura no setor norte; a planta indica ventilação de serviço. A planta é de antes do incêndio; desobstruída é promessa dela, não minha.*
 

@@ -29,9 +29,9 @@ Atrás de nós, a escotilha de isolamento de pressão da subestação barrava o 
 
 Ela estava trancada por travas de sobrepressão de emergência que haviam disparado quando o incêndio começou lá embaixo.
 
-Valéria correu até a caixa de comando manual, puxando a tampa de proteção com a ponta da faca tática.
+Valéria correu até a caixa de comando manual, puxando a tampa de proteção com a ponta da faca.
 
-— As travas de alívio tão soldadas pela fuligem! — ela gritou, os olhos prateados analisando as cavilhas de travamento hidráulico emperradas no batente. — O relé térmico desligou o motor elétrico! A gente precisa romper os pinos mecânicos de retenção na força bruta antes que o fogo alcance a base dessa plataforma!
+— As travas de alívio tão soldadas pela fuligem! — ela gritou, os olhos nas cavilhas de travamento hidráulico emperradas no batente. — O relé térmico desligou o motor elétrico! A gente precisa romper os pinos mecânicos de retenção na força bruta antes que o fogo alcance a base dessa plataforma!
 
 Olhei para baixo pelo vão da grade. Uma língua de fogo roxo e azul subia pelo fosso, consumindo os cabos de suspensão como pavios de dinamite. O ar estalava com a pressão crescente do metano confinado. Não havia como saber quando a próxima explosão chegaria. Se a comporta não abrisse, morreríamos cozidos como ratos encurralados.
 
@@ -53,9 +53,9 @@ No segundo exato em que meu sobretudo cruzou a soleira, a onda de choque térmic
 Uma bola de fogo alaranjada explodiu contra a parte externa da comporta, lançando um jato ensurdecedor de labaredas e estilhaços incandescentes pelo vão. Apoiando as costas e o braço de ferro contra a chapa maciça, puxei a alavanca do contrapeso de fechamento antes de a pressão crescer, até que o ferrolho manual de emergência bateu no encaixe com um estrondo definitivo.
 
 CLANK.
-A porta vibrou violentamente por três segundos sob o impacto da explosão no fosso, mas a blindagem de aço naval segurou a deflagração. O calor arrefeceu na face interna da chapa.
+A porta vibrou por três segundos sob o impacto da explosão no fosso, mas a blindagem de aço naval segurou a deflagração. O calor arrefeceu na face interna da chapa.
 
-Desabei de costas contra a parede de concreto gélido do Nível B, escorregando até o chão ensopado de água limpa de drenagem.
+Desabei de costas contra a parede de concreto frio do Nível B, escorregando até o chão ensopado de água limpa de drenagem.
 
 O silêncio do túnel superior caiu sobre nós como um manto pesado e restaurador. Não havia uivos de fungos, nem alarmes de sobreaquecimento, nem o calor sufocante da fornalha biológica. Havia apenas o ar frio e estéril de uma subestação abandonada e o eco ritmado da nossa respiração entrecortada.
 

@@ -32,9 +32,9 @@ Ele virou o frasco. A etiqueta da farmácia da Doca 3 trazia uma data riscada a 
 
 — Ele sabia — repetiu Valéria, e a raiva dela não era contra o morto. Era contra o fato de que ninguém, em nenhum ponto daquela subida, tinha conseguido oferecer a Rangel uma escolha melhor do que morrer de pé.
 
-No pulso de Valéria, o pendrive blindado de Aria não expressava luto. O pequeno cilindro prismático, cujo LED azul-gelo refletia na poça de sangue escuro sobre a chapa metálica, processava o fim dos batimentos cardíacos pelos biossensores do *Phantom V3*. A síntese não vacilava. Gabo tomou a voz restrita e a parte inacessível do histórico por prova de que a antiga hesitação e os afetos tinham sido apagados; o próprio drive não podia confirmar essa conclusão.
+No pulso de Valéria, o LED de Aria não mudou de cor. O pequeno cilindro prismático, cujo LED azul-gelo refletia na poça de sangue escuro sobre a chapa metálica, processava o fim dos batimentos cardíacos pelos biossensores do *Phantom V3*. A síntese não vacilava. Gabo tomou a voz restrita e a parte inacessível do histórico por prova de que a antiga hesitação e os afetos tinham sido apagados; o próprio drive não podia confirmar essa conclusão.
 
-— *Registro de transporte interrompido,* — declarou Aria pelos alto-falantes do deck e da gola, a voz modulada sem qualquer inflexão. — *Não consigo transportar o corpo sem vocês. A passarela continua cedendo. Posso registrar a posição, fotografar os marcos e manter o nome ligado ao local, se decidirem partir.*
+— *Registro de transporte interrompido,* — declarou Aria pelos alto-falantes do deck e da gola, a voz baixa, sem pressa. — *Não consigo transportar o corpo sem vocês. A passarela continua cedendo. Posso registrar a posição, fotografar os marcos e manter o nome ligado ao local, se decidirem partir.*
 
 Gabo virou a cabeça devagar. Os músculos do pescoço estalaram como galhos secos.
 
@@ -42,9 +42,9 @@ Gabo virou a cabeça devagar. Os músculos do pescoço estalaram como galhos sec
 
 — *Não estou chamando a morte de vantagem, Detetive Moretti,* — a IA respondeu pelo comunicador, o LED azul-gelo piscando no ritmo exato da síntese vocal. — *O apego biológico não altera os limites de tensão do aço corroído nem reverte a necrose celular. Eu não sabia se ele sobreviveria. Os cálculos de fábrica não sabiam também. Vou preservar o que ele fez e o que nós fizemos; não uma conclusão de que o peso justificava deixá-lo.*
 
-— Ele tinha uma vida! — Valéria disse, levantando-se com dificuldade. Sua mão direita cobriu o conector do deck. — Ele ficou do nosso lado quando Dante assumiu na Torre. Desceu nesse inferno para ajudar a gente.
+— Ele tinha uma vida! — Valéria disse, levantando-se com dificuldade. Sua mão direita cobriu o conector do deck. — Ele ficou do nosso lado quando Dante assumiu na Torre. Desceu nesse buraco para ajudar a gente.
 
-— *Ele desceu para ajudar vocês e morreu depois de ficar ferido. Isso não torna a morte culpa da decisão dele,* — replicou Aria sem alterar um decibel, enquanto Valéria mantinha a mão sobre o conector. — *Causa e efeito. Além disso, se você precisar desligar minha voz, eu continuo registrando pelo terminal. Não vou ameaçar sua saída para obrigá-la a me ouvir, Valéria Cruz. O choque sistêmico do Detetive Moretti requer ação imediata.*
+— *Ele desceu para ajudar vocês e morreu depois de ficar ferido. Isso não torna a morte culpa da decisão dele,* — respondeu Aria, sem levantar a voz, enquanto Valéria mantinha a mão sobre o conector. — *Causa e efeito. Além disso, se você precisar desligar minha voz, eu continuo registrando pelo terminal. Não vou ameaçar sua saída para obrigá-la a me ouvir, Valéria Cruz. O choque sistêmico do Detetive Moretti requer ação imediata.*
 
 — Val... — Gabo murmurou, estendendo o braço ferido para tocar o cotovelo dela.
 
@@ -52,7 +52,7 @@ O mundo girou por um segundo quando ele soltou a grade, os flashes brancos estou
 
 — Precisamos registrar onde ele está — disse Gabo, forçando a voz a sair firme. — E avisar a Nise quando tivermos sinal.
 
-Valéria apertou os lábios, segurando as lágrimas quentes que ardiam nos olhos. Ela tirou a mão do conector e abaixou-se novamente ao lado do inspetor. Com cuidado quase reverente, tirou a velha máquina de escrever em miniatura — o chaveiro de metal gasto que Rangel sempre carregava desde os tempos da delegacia — do bolso do cadáver, fechando-o na própria palma antes de guardá-lo no bolso interno do casaco. Um último fragmento analógico de honra no inferno digital.
+Valéria apertou os lábios, segurando as lágrimas quentes que ardiam nos olhos. Ela tirou a mão do conector e abaixou-se novamente ao lado do inspetor. Com cuidado quase reverente, tirou a velha máquina de escrever em miniatura — o chaveiro de metal gasto que Rangel sempre carregava desde os tempos da delegacia — do bolso do cadáver, fechando-o na própria palma antes de guardá-lo no bolso interno do casaco. Um último pedaço de papel com o nome dele.
 
 — Eu vou cobrar essa conta, Rangel — sussurrou ela. — E vou dizer à Nise onde você está.
 

@@ -7,7 +7,7 @@ Personagens Presentes: Gabo, Valéria
 
 # Capítulo 192: O Relicário de Silício
 
-A escuridão do Núcleo do Arquivo Executivo não era o breu absoluto que esperávamos. O recinto massivo, originalmente planejado como uma catedral de servidores limpos banhados a temperaturas subzero, era agora um abatedouro tecnológico. Um brilho febril, da cor de carne esfolada sob neon defeituoso, pulsava das entranhas dos corredores centrais. O frio original fora devorado por uma umidade asfixiante que condensava nas paredes em gotas pesadas e sujas.
+A escuridão do Núcleo do Arquivo Executivo não era o breu que esperávamos. O recinto massivo, originalmente planejado como uma catedral de servidores limpos banhados a temperaturas subzero, era agora um abatedouro tecnológico. Um brilho febril, da cor de carne esfolada sob neon defeituoso, pulsava das entranhas dos corredores centrais. O frio original fora devorado por uma umidade asfixiante que condensava nas paredes em gotas pesadas e sujas.
 
 O ar tinha um cheiro fétido de decomposição biológica misturado ao ozônio queimado de placas de circuito. Na boca, eu sentia o gosto amargo e metálico na língua, aquele sabor azedo de bile e fuligem que nunca mais me abandonara desde o Dilúvio na Zona Sul.
 
@@ -21,7 +21,7 @@ Suspensos entre as colunas dos data-centers, fundidos ao metal como relíquias p
 
 Havia um som naquela sala que não vinha de máquina nenhuma. Um acorde grave, contínuo, que subia pelo piso e parava nos meus dentes. Centenas de gargantas secas respirando no mesmo compasso, e por baixo delas o zumbido dos coolers, agora quase um sussurro. O ar era morno e úmido, como o hálito de uma boca grande.
 
-Valéria parou na entrada do salão, apoiando o antebraço esquerdo no corrimão de ferro. Os LEDs azuis na franja curta dela piscaram num ritmo errático, refletindo o horror absoluto em seus olhos ópticos prateados.
+Valéria parou na entrada do salão, apoiando o antebraço esquerdo no corrimão de ferro. Os LEDs azuis na franja curta dela piscaram num ritmo errático, refletidos nos olhos assustados.
 
 — Meu Deus... Gabo... isso não é um depósito de dados — a voz dela saiu num sussurro trêmulo, carregado de repulsa. — Há pessoas ligadas aos controladores. O painel mostra comandos para as comportas pluviais, mas não explica o que acontece com elas durante a transmissão.
 
@@ -73,4 +73,4 @@ Encarei o mar de servidores vivos e as almas presas no silício corrompido de Da
 
 — Registra as telas antes de cortar, Val. E registra que eu vi aquele homem mexer a mão. Não vou chamar isto de uma sala de mortos para conseguir sair depois.
 
-Cravei a garra de ferro da armação no volante congelado da válvula, travei os dentes e puxei com toda a força brutal que a escória de Baía Cinzenta ainda guardava no meu peito ferido.
+Cravei a garra de ferro da armação no volante congelado da válvula, travei os dentes e puxei com toda a força que ainda me restava.

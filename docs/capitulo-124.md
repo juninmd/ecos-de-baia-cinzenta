@@ -40,7 +40,7 @@ Valéria apontou para a tela cheia de erros hexadecimais vermelhos lidos diretam
 
 — O que fizemos com o drive da Aria na usina... espetar a unidade dela direto no monólito sem isolamento adequado para sustentar os comandos de suporte da rede... foi o maior empréstimo que já vi.
 
-A garganta de Gabo secou. O ozônio e a fuligem da bancada traziam de volta a memória sufocante da fumaça dos charutos do pai, revirando seu estômago com uma repulsa visceral. Seus dedos tamborilaram nervosamente contra o joelho.
+A garganta de Gabo secou. O ozônio e a fuligem da bancada traziam de volta a memória sufocante da fumaça dos charutos do pai, revirando-lhe o estômago. Seus dedos tamborilaram nervosamente contra o joelho.
 
 Ele levou a mão ao peito e agarrou o *Colar de Sol* sob a camisa. Apertou o metal até as arestas machucarem a palma da mão. A dor era uma âncora.
 

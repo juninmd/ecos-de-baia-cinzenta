@@ -33,7 +33,7 @@ Valéria examinou a fresta entre as chapas com o bico da lanterna.
 
 — Se a gente não abrir essa porta agora, Val, as raízes podem fechar a escada atrás da gente. Precisamos abrir uma saída. Afasta dois metros.
 
-Ela praguejou em voz baixa, recuando com a arma em punho, mas mantendo os olhos prateados cravados na junta mecânica do meu braço com atenção cirúrgica.
+Ela praguejou em voz baixa, recuando com a arma em punho, mas sem tirar os olhos da junta mecânica do meu braço.
 
 Val abriu a tampa da manivela de emergência. Prendeu o regulador da cinta ao suporte para não receber o retorno da roda se o eixo escapasse. Eu encaixei a ferramenta no acionamento, apoiando a armação contra o batente; giramos em etapas, com as pernas firmadas fora da fresta. A trava mecânica segurava cada pequeno avanço.
 
@@ -45,7 +45,7 @@ A raiz que eu tinha arrebentado ainda se mexia no batente, enrolando-se devagar 
 
 Aproximei-me da abertura, respirando fundo para recuperar o fôlego.
 
-Lá dentro não havia cabine de elevador. Havia apenas o vazio vertical de um fosso colossal de quarenta e cinco metros de profundidade, cortado por cabos de tração de aço trançado que desciam em linha reta até sumirem na escuridão impenetrável do fundo.
+Lá dentro não havia cabine de elevador. Havia apenas o vazio vertical de um fosso de quarenta e cinco metros de profundidade, cortado por cabos de tração de aço trançado que desciam em linha reta até sumirem no escuro do fundo.
 
 Peguei um dos parafusos que já tinham se soltado da armação e o deixei cair. Contei. Um, dois, três — e o som voltou, seco e curto, como se o poço tivesse engolido o resto. Quarenta e cinco metros, dizia a planta. O parafuso não ia descer com uma trena para conferir.
 

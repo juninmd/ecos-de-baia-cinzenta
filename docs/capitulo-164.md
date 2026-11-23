@@ -10,7 +10,7 @@ Personagens Presentes: "Gabo, Valéria, Aria (Reboot)"
 
 # Capítulo 164: Engrenagens Cegas
 
-A imensa porta blindada do setor erguia-se como uma lápide de aço escovado. Sem luzes de energia, sem painéis de controle digitais; era uma relíquia brutalista da Aeterna Corp, selada por um firewall puramente mecânico. A purga de íons de Valéria fritara o controle biológico do Taxidermista na sala dos servidores, mas aquela barreira física não se importava com eletricidade ou fantasmas no código.
+A imensa porta blindada do setor erguia-se como uma lápide de aço escovado. Sem luzes de energia, sem painéis de controle digitais; era uma relíquia da Aeterna Corp, fechada por um firewall mecânico. A purga de íons de Valéria fritara o controle biológico do Taxidermista na sala dos servidores, mas aquela barreira física não se importava com eletricidade ou fantasmas no código.
 
 Gabo encostou a lateral do corpo na parede fria do corredor, deixando a textura áspera do concreto raspar contra o que restava de seu casaco carbonizado. O curativo em seu abdômen repuxava a cada lufada de ar superficial que ele ousava tomar. A dor contínua de seu braço fraturado, imobilizado pelas ataduras de Valéria, era o metrônomo que ditava seu ritmo cardíaco.
 
@@ -18,24 +18,24 @@ E era exatamente dessa dor que ele precisava.
 
 O ar estagnado ali cheirava a poeira antiga e ozônio residual, mas a mente exausta de Gabo tentava injetar algo pior. O fantasma sufocante do tabaco, o odor azedo de cinzeiros transbordando da antiga sala do Comissário Dante, rastejava pelas beiradas da sua sanidade. Gabo manteve o braço fraturado junto ao corpo e contou as ranhuras da porta, sem conseguir afastar o cheiro lembrado.
 
-— *A infraestrutura da porta possui um override de manutenção,* — Aria reportou, sua voz sintética cortando o silêncio fúnebre a partir do comunicador de gola. No pulso de Valéria, o pendrive piscava em azul-gelo enquanto o feixe laser do cyberdeck *Phantom V3* mapeava meticulosamente as ranhuras do aço. — *No entanto, a alavanca de destravamento manual localiza-se na câmara de engrenagens superior. O único acesso é um duto de descompressão de quarenta e cinco por sessenta centímetros.*
+— *A infraestrutura da porta possui um override de manutenção,* — Aria reportou, pelo comunicador de gola. No pulso de Valéria, o pendrive piscava em azul-gelo enquanto o feixe laser do cyberdeck *Phantom V3* mapeava meticulosamente as ranhuras do aço. — *No entanto, a alavanca de destravamento manual localiza-se na câmara de engrenagens superior. O único acesso é um duto de descompressão de quarenta e cinco por sessenta centímetros.*
 
 Valéria, sentada no chão coberto de cinzas com os joelhos puxados contra o peito, soltou um riso sem humor. O suor sujo manchava seu rosto pálido de exaustão.
 
 - Quarenta e cinco centímetros? - Ela murmurou, a voz áspera. - Já passei por um pior. Mas não com o colete, o cyberdeck no braço e a bateria nas costas, e quase apagando de fadiga térmica.
 
-— *Sua análise de viabilidade biométrica está correta,* — Aria confirmou pelo alto-falante, o indicador luminoso do pendrive pulsando com frieza matemática. — *E como opero exclusivamente confinada a este módulo de hardware sem atuadores físicos autônomos, não possuo meios de interagir com a alavanca. Posso mapear o acesso pela planta, mas a câmera não mostra seu interior. Não vou chamar uma passagem estreita de saída garantida.*
+— *Sua análise de viabilidade biométrica está correta,* — Aria confirmou pelo alto-falante, o indicador luminoso do pendrive aceso. — *E como opero exclusivamente confinada a este módulo de hardware sem atuadores físicos autônomos, não possuo meios de interagir com a alavanca. Posso mapear o acesso pela planta, mas a câmera não mostra seu interior. Não vou chamar uma passagem estreita de saída garantida.*
 
 Gabo desencostou da parede, o curativo do abdômen puxando sob a jaqueta. Ele olhou para o pequeno duto retangular de ventilação posicionado a dois metros de altura, quase escondido pelas sombras densas.
 
-— Eu não tenho equipamento preso nos braços, só um braço quebrado e uma mão em carne viva. — Gabo cuspiu as palavras com a aspereza de papel lixa. — Você não consegue tracionar com a mão esquerda. Eu consigo me empurrar com as órteses se mantiver o braço direito preso à tala. Preciso que fique aqui para me puxar de volta se eu travar.
+— Eu não tenho equipamento preso nos braços, só um braço quebrado e uma mão em carne viva. — disse Gabo, áspero. — Você não consegue tracionar com a mão esquerda. Eu consigo me empurrar com as órteses se mantiver o braço direito preso à tala. Preciso que fique aqui para me puxar de volta se eu travar.
 
-Valéria ergueu a cabeça rapidamente, os olhos prateados arregalados em um choque genuíno.
+Valéria ergueu a cabeça rapidamente, os olhos arregalados.
 — Gabo, não. Você mal consegue respirar sem abrir o curativo. Se você engatar naquele duto enferrujado e tiver uma hemorragia interna, você morre afogado no próprio sangue e eu não tenho como te puxar de volta.
 
 — Se ficarmos aqui, o Taxidermista nos enterra assim que a energia primária reiniciar. — Gabo rebateu, a voz perigosamente baixa. Ele cravou os dentes no próprio lábio até sentir o gosto ferroso de sangue, forçando a mente a se concentrar na única saída viável. — Val, arrasta aquela caixa de junção e me dá um pé.
 
-— *Sua intenção desafia a lógica de autopreservação básica, Detetive Moretti. Seus sinais vitais indicam exaustão crítica,* — alertou Aria pelo ponto de áudio, seu tom permanentemente clínico. — *O esforço pode agravar a lesão abdominal. Seu corpo já está no limite que mede.*
+— *Sua intenção desafia a lógica de autopreservação básica, Detetive Moretti. Seus sinais vitais indicam exaustão crítica,* — alertou Aria pelo ponto de áudio, sem mudar o tom. — *O esforço pode agravar a lesão abdominal. Seu corpo já está no limite que mede.*
 
 — Eu não pedi uma segunda opinião, pendrive. Valéria, me levanta. — Gabo ordenou, caminhando até abaixo do duto.
 
@@ -53,7 +53,7 @@ Levantou-se lentamente, a respiração saindo em jorros ásperos. A câmara esta
 
 Ele não estava sozinho.
 
-Apoiado e enraizado na grande alavanca de liberação manual da porta — o objetivo principal — estava um apêndice grotesco. Uma massa de músculos vermelhos entrelaçada com fios de cobre e sensores ópticos. Era um sentinela biológico em estágio de casulo. As raízes do parasita prendiam a alavanca firmemente.
+Apoiado e enraizado na grande alavanca de liberação manual da porta — o objetivo principal — estava um apêndice de carne. Uma massa de músculos vermelhos entrelaçada com fios de cobre e sensores ópticos. Era um sentinela biológico em estágio de casulo. As raízes do parasita prendiam a alavanca firmemente.
 
 A poça de carne reagiu à aproximação de Gabo. Um sensor óptico do tamanho de um punho se abriu no centro da massa de músculos, acompanhado por um som úmido e asqueroso. Fios de cobre começaram a se esticar como tentáculos defensivos. O cheiro de podridão e cigarros velhos encheu o ar.
 
