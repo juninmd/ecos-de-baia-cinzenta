@@ -1,0 +1,88 @@
+{
+  "capitulo": 6,
+  "fonte": {
+    "arquivo": "docs/capitulo-6.md",
+    "sha256": "45c24188886b50caa4a87ca737fbd576a84ff75fe322e5539c68e139b291d89d",
+    "sha256_git": "e559bd4416cbf3f5095ced1bd5ea0fbed8aa4caa42929fff118a3b5f2b23ba29"
+  },
+  "gerador": "Codex ImageGen",
+  "seed_controlada": false,
+  "revisao_visual": "Conferência ampliada de identidade, anatomia, conexões e continuidade",
+  "cenas": [
+    {
+      "indice": 1,
+      "linhas": [
+        20,
+        22
+      ],
+      "acontecimento": "Gabo força a porta empenada enquanto Miranda repousa no corredor e as marcas de sangue seguem pela parede.",
+      "prompt": "Corredor seco; ombro de Gabo contra a porta pesada; Miranda exausto no degrau; módulo de Aria conectado ao comunicador.",
+      "arquivo": "docs/public/cenas/capitulo_6/piloto/cena_1.jpg",
+      "sha256": "25a28fe69d776d8ef2afd02461772ce460e8b8ce643b2d815588b42d2eff6450",
+      "ancora": {
+        "arquivo": "docs/public/personagens/gabo.jpg",
+        "sha256": "ca3f1e07c5cc832d9a8b17f615cde29860b4c4b191729fe5f2e4973ef1f8f2d4"
+      }
+    },
+    {
+      "indice": 2,
+      "linhas": [
+        24,
+        40
+      ],
+      "acontecimento": "Gabo registra as fileiras de tanques e telas de vigilância; Miranda cobre a boca.",
+      "prompt": "Sala de processamento fria com racks e tanques de vidro; Gabo filma sem tocar nos cabos; Miranda reage ao que vê.",
+      "arquivo": "docs/public/cenas/capitulo_6/piloto/cena_2.jpg",
+      "sha256": "d68c0eed49a8d6f552e0f20f4414b296670e544674d809137e70d83f7105edde",
+      "ancora": {
+        "arquivo": "docs/public/personagens/gabo.jpg",
+        "sha256": "ca3f1e07c5cc832d9a8b17f615cde29860b4c4b191729fe5f2e4973ef1f8f2d4"
+      }
+    },
+    {
+      "indice": 3,
+      "linhas": [
+        42,
+        52
+      ],
+      "acontecimento": "Gabo fotografa o boletim de desaparecimento preso sob a alimentação do tanque; Miranda baixa os olhos.",
+      "prompt": "Gabo ilumina e fotografa o envelope preso sob o cabo do tanque sem tocar nos conectores; mãos ligadas anatomicamente ao corpo e módulo no comunicador.",
+      "arquivo": "docs/public/cenas/capitulo_6/piloto/cena_3.jpg",
+      "sha256": "bca80e20ba00e1c7bf7e0eb32ad239c3261d1753672ddf0070e9e1fa5b57a25f",
+      "ancora": {
+        "arquivo": "docs/public/personagens/gabo.jpg",
+        "sha256": "ca3f1e07c5cc832d9a8b17f615cde29860b4c4b191729fe5f2e4973ef1f8f2d4"
+      }
+    },
+    {
+      "indice": 4,
+      "linhas": [
+        62,
+        70
+      ],
+      "acontecimento": "Um rosto surge entre a estática no último monitor; Gabo se aproxima e vê o reflexo no vidro escurecido.",
+      "prompt": "Rosto distinto de Dante, homem de bigode, somente dentro da tela em falha; Gabo em choque e o próprio reflexo no vidro.",
+      "arquivo": "docs/public/cenas/capitulo_6/piloto/cena_4.jpg",
+      "sha256": "5e8c72eed1bd4fdf952a69b224c026e0a84f3275eee932147853836b2abe8ca0",
+      "ancora": {
+        "arquivo": "docs/public/personagens/gabo.jpg",
+        "sha256": "ca3f1e07c5cc832d9a8b17f615cde29860b4c4b191729fe5f2e4973ef1f8f2d4"
+      }
+    },
+    {
+      "indice": 5,
+      "linhas": [
+        74,
+        84
+      ],
+      "acontecimento": "A porta de explosão abre e Kael aparece no fundo da sala, pistola baixa e lâmina voltada para Gabo.",
+      "prompt": "Kael careca de mandíbula metálica, lentes oculares negras, avental sobre armadura, próteses modulares; pistola ao chão e lâmina dirigida a Gabo.",
+      "arquivo": "docs/public/cenas/capitulo_6/piloto/cena_5.jpg",
+      "sha256": "bb173d65ee8b8794355effbcf9497577f4fb000b723bd7373d49bcffea4d6d12",
+      "ancora": {
+        "arquivo": "docs/public/personagens/gabo.jpg",
+        "sha256": "ca3f1e07c5cc832d9a8b17f615cde29860b4c4b191729fe5f2e4973ef1f8f2d4"
+      }
+    }
+  ]
+}
