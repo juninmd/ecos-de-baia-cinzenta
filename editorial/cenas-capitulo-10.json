@@ -1,0 +1,114 @@
+{
+  "capitulo": 10,
+  "fonte": {
+    "arquivo": "docs/capitulo-10.md",
+    "sha256": "801cc90a51c1711f8c1f085718648fa6f8f3ad73595629badb0401ff7b571336",
+    "sha256_git": "28704eb7c5d528dfcc6f45f49dd66525a16555282db0d2d4fe19ff7ae802ce7f"
+  },
+  "gerador": "Codex ImageGen",
+  "seed_controlada": false,
+  "revisao_visual": "Conferência ampliada de identidade, anatomia, conexões e continuidade",
+  "cenas": [
+    {
+      "linhas": [
+        21,
+        23
+      ],
+      "indice": 1,
+      "prompt": "Vigília na chuva junto ao galpão: lente na janela, esteira e garra mecânica visíveis.",
+      "acontecimento": "Gabo observa a linha pela janela alta enquanto Val acompanha a rede sob o abrigo da caçamba; o módulo físico de Aria permanece conectado ao equipamento.",
+      "arquivo": "docs/public/cenas/capitulo_10/piloto/cena_1.jpg",
+      "sha256": "f006a8c60a29901d34129034e63db17a76aa55c6aa23272861b1b587927f509c",
+      "ancora": {
+        "arquivo": "docs/public/personagens/gabo.jpg",
+        "sha256": "ca3f1e07c5cc832d9a8b17f615cde29860b4c4b191729fe5f2e4973ef1f8f2d4"
+      },
+      "referencia_visual_secundaria": {
+        "arquivo": "docs/public/personagens/val.png",
+        "sha256": "66ffb335db0f4e0a0c7f867eeed57604870e8362380a14cb72f2ca06edd12e01"
+      }
+    },
+    {
+      "linhas": [
+        31,
+        37
+      ],
+      "indice": 2,
+      "prompt": "Resgate da mulher na correia, botão vermelho acionado, sem ferimentos gráficos.",
+      "acontecimento": "Val para a esteira e Gabo solta a tira que prende a mulher consciente; o braço mecânico fica imóvel.",
+      "arquivo": "docs/public/cenas/capitulo_10/piloto/cena_2.jpg",
+      "sha256": "6a5ed868aaddf1fb8b9ef83ea0273350bd3170ca4af610483922390e4989c71f",
+      "ancora": {
+        "arquivo": "docs/public/personagens/gabo.jpg",
+        "sha256": "ca3f1e07c5cc832d9a8b17f615cde29860b4c4b191729fe5f2e4973ef1f8f2d4"
+      },
+      "referencia_visual_secundaria": {
+        "arquivo": "docs/public/personagens/val.png",
+        "sha256": "66ffb335db0f4e0a0c7f867eeed57604870e8362380a14cb72f2ca06edd12e01"
+      }
+    },
+    {
+      "linhas": [
+        39,
+        49
+      ],
+      "indice": 3,
+      "prompt": "Registro do engajamento biológico e das respostas sincronizadas no galpão.",
+      "acontecimento": "Val documenta os contadores enquanto pessoas sincronizadas se voltam ao alto-falante e uma mulher chora sem perder o sorriso fixo.",
+      "arquivo": "docs/public/cenas/capitulo_10/piloto/cena_3.jpg",
+      "sha256": "b1951ade5346922281578e526891534e1f3633141408bcd85b9572c59b20983c",
+      "ancora": {
+        "arquivo": "docs/public/personagens/gabo.jpg",
+        "sha256": "ca3f1e07c5cc832d9a8b17f615cde29860b4c4b191729fe5f2e4973ef1f8f2d4"
+      },
+      "referencia_visual_secundaria": {
+        "arquivo": "docs/public/personagens/val.png",
+        "sha256": "66ffb335db0f4e0a0c7f867eeed57604870e8362380a14cb72f2ca06edd12e01"
+      }
+    },
+    {
+      "linhas": [
+        71,
+        75
+      ],
+      "indice": 4,
+      "prompt": "Ação imediatamente antes do acionamento da prensa, sem mostrar esmagamento.",
+      "acontecimento": "Gabo corre pela correia para atrair a fila e alcançar o degrau; Val lê o ciclo e aciona o controle manual da prensa.",
+      "arquivo": "docs/public/cenas/capitulo_10/piloto/cena_4.jpg",
+      "sha256": "d67b9a86ee1ddc884043cb2457d5089e591405b7ea4b833c32c5dbd1bd414ca6",
+      "ancora": {
+        "arquivo": "docs/public/personagens/gabo.jpg",
+        "sha256": "ca3f1e07c5cc832d9a8b17f615cde29860b4c4b191729fe5f2e4973ef1f8f2d4"
+      },
+      "referencia_visual_secundaria": {
+        "arquivo": "docs/public/personagens/val.png",
+        "sha256": "66ffb335db0f4e0a0c7f867eeed57604870e8362380a14cb72f2ca06edd12e01"
+      }
+    },
+    {
+      "linhas": [
+        81,
+        87
+      ],
+      "indice": 5,
+      "prompt": "Retirada pelo pátio industrial com todos os corpos separados e pés no chão.",
+      "acontecimento": "Gabo e Val empurram o carrinho com a mulher consciente pela porta de carga enquanto a fumaça toma as vigas; nenhum dos dois a carrega no colo.",
+      "arquivo": "docs/public/cenas/capitulo_10/piloto/cena_5.jpg",
+      "sha256": "b2e9aab0957f476f7be309f2b1c0a67ed1ca3672872743893eec53da67072f61",
+      "ancora": {
+        "arquivo": "docs/public/personagens/gabo.jpg",
+        "sha256": "ca3f1e07c5cc832d9a8b17f615cde29860b4c4b191729fe5f2e4973ef1f8f2d4"
+      },
+      "referencia_visual_secundaria": {
+        "arquivo": "docs/public/personagens/val.png",
+        "sha256": "66ffb335db0f4e0a0c7f867eeed57604870e8362380a14cb72f2ca06edd12e01"
+      }
+    }
+  ],
+  "referencias_visuais_secundarias": [
+    {
+      "arquivo": "docs/public/personagens/val.png",
+      "sha256": "66ffb335db0f4e0a0c7f867eeed57604870e8362380a14cb72f2ca06edd12e01"
+    }
+  ]
+}
