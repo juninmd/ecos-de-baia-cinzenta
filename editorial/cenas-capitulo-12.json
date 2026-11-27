@@ -1,0 +1,140 @@
+{
+  "capitulo": 12,
+  "fonte": {
+    "arquivo": "docs/capitulo-12.md",
+    "sha256": "5d98d622ad27cca7f6e026645ec1b1dcf6d8aa63510eab68380036346f60c080",
+    "sha256_git": "9518661aa01470540b8d7a22c750c4fbf80cff90a1e1681817a1a9515e6031bc"
+  },
+  "gerador": "Codex ImageGen",
+  "seed_controlada": false,
+  "revisao_visual": "Conferência ampliada de identidade, anatomia, conexões e continuidade",
+  "cenas": [
+    {
+      "indice": 1,
+      "linhas": [
+        8,
+        10
+      ],
+      "prompt": "Val sentada no degrau da galeria e Gabo ajoelhado junto ao tornozelo, com módulo de Aria no deck.",
+      "acontecimento": "Na galeria pluvial, Val consulta o alerta de quatro horas e vinte minutos enquanto Gabo ilumina o tornozelo imobilizado e inchado; o módulo físico de Aria está conectado ao deck.",
+      "arquivo": "docs/public/cenas/capitulo_12/piloto/cena_1.jpg",
+      "sha256": "c754795f50e688c4d8a7cd9a533f2df0b343b60cdc1a188367513b2a8b8d4ebb",
+      "ancora": {
+        "arquivo": "docs/public/personagens/gabo.jpg",
+        "sha256": "ca3f1e07c5cc832d9a8b17f615cde29860b4c4b191729fe5f2e4973ef1f8f2d4"
+      },
+      "referencia_visual_secundaria": [
+        {
+          "arquivo": "docs/public/personagens/val.png",
+          "sha256": "66ffb335db0f4e0a0c7f867eeed57604870e8362380a14cb72f2ca06edd12e01"
+        }
+      ]
+    },
+    {
+      "indice": 2,
+      "linhas": [
+        12,
+        20
+      ],
+      "prompt": "Troca silenciosa do cantil na galeria; Val segura o deck com aviso de identidade cancelada, sem texto legível.",
+      "acontecimento": "Val mostra o cancelamento da própria identidade; Gabo percebe o campo vazio e deixa o cantil com os dois últimos goles para ela.",
+      "arquivo": "docs/public/cenas/capitulo_12/piloto/cena_2.jpg",
+      "sha256": "c6d1a91fec8d6822598522ffe4108b3dcc499c3330a8749688b7768196c52c1d",
+      "ancora": {
+        "arquivo": "docs/public/personagens/gabo.jpg",
+        "sha256": "ca3f1e07c5cc832d9a8b17f615cde29860b4c4b191729fe5f2e4973ef1f8f2d4"
+      },
+      "referencia_visual_secundaria": [
+        {
+          "arquivo": "docs/public/personagens/val.png",
+          "sha256": "66ffb335db0f4e0a0c7f867eeed57604870e8362380a14cb72f2ca06edd12e01"
+        }
+      ]
+    },
+    {
+      "indice": 3,
+      "linhas": [
+        70,
+        78
+      ],
+      "prompt": "Revelação ampla do bunker com quatro pessoas de máscaras lisas, cabos e personagens de identidade oficial.",
+      "acontecimento": "As portas do elevador revelam pessoas mascaradas e conectadas às colunas; Miranda aparece junto à bancada com terno marrom e mão direita mecânica de aço.",
+      "arquivo": "docs/public/cenas/capitulo_12/piloto/cena_3.jpg",
+      "sha256": "d07e45518691a44881271ec56951595f970822078887d23ab5fca77c93156e72",
+      "ancora": {
+        "arquivo": "docs/public/personagens/gabo.jpg",
+        "sha256": "ca3f1e07c5cc832d9a8b17f615cde29860b4c4b191729fe5f2e4973ef1f8f2d4"
+      },
+      "referencia_visual_secundaria": [
+        {
+          "arquivo": "docs/public/personagens/val.png",
+          "sha256": "66ffb335db0f4e0a0c7f867eeed57604870e8362380a14cb72f2ca06edd12e01"
+        },
+        {
+          "arquivo": "docs/public/personagens/miranda.jpg",
+          "sha256": "42df82a155269fe4898a74f81f95d93be21b59743b246e5e96c30407918fc9b4"
+        }
+      ]
+    },
+    {
+      "indice": 4,
+      "linhas": [
+        96,
+        128
+      ],
+      "prompt": "Confronto em triângulo diante da bancada, Val no painel, Gabo com Glock baixa voltada ao reservatório e campo azul curto na mão de aço de Miranda.",
+      "acontecimento": "Val vê os pedidos de identidade das pessoas e alcança o trinco do armário; Miranda oferece o acordo e o campo azul curto; Gabo aponta para o reservatório laranja.",
+      "arquivo": "docs/public/cenas/capitulo_12/piloto/cena_4.jpg",
+      "sha256": "038812697182db36a621007a28bd7b5b349fb8f07862a0cb9b5e1a7088ca0aba",
+      "ancora": {
+        "arquivo": "docs/public/personagens/gabo.jpg",
+        "sha256": "ca3f1e07c5cc832d9a8b17f615cde29860b4c4b191729fe5f2e4973ef1f8f2d4"
+      },
+      "referencia_visual_secundaria": [
+        {
+          "arquivo": "docs/public/personagens/val.png",
+          "sha256": "66ffb335db0f4e0a0c7f867eeed57604870e8362380a14cb72f2ca06edd12e01"
+        },
+        {
+          "arquivo": "docs/public/personagens/miranda.jpg",
+          "sha256": "42df82a155269fe4898a74f81f95d93be21b59743b246e5e96c30407918fc9b4"
+        }
+      ]
+    },
+    {
+      "indice": 5,
+      "linhas": [
+        130,
+        138
+      ],
+      "prompt": "Câmera baixa junto aos tubos laranja; o primeiro tiro abre o vidro do reservatório sem atingir ninguém.",
+      "acontecimento": "Miranda estende a mão esquerda, Gabo escolhe o reservatório laranja e dispara o primeiro cartucho através do vidro enquanto Val está no trinco.",
+      "arquivo": "docs/public/cenas/capitulo_12/piloto/cena_5.jpg",
+      "sha256": "745a8a0fd5f5832b972e6475e7d0abfb2ad036b969a7b71e2b0fbbd8297cc6e8",
+      "ancora": {
+        "arquivo": "docs/public/personagens/gabo.jpg",
+        "sha256": "ca3f1e07c5cc832d9a8b17f615cde29860b4c4b191729fe5f2e4973ef1f8f2d4"
+      },
+      "referencia_visual_secundaria": [
+        {
+          "arquivo": "docs/public/personagens/val.png",
+          "sha256": "66ffb335db0f4e0a0c7f867eeed57604870e8362380a14cb72f2ca06edd12e01"
+        },
+        {
+          "arquivo": "docs/public/personagens/miranda.jpg",
+          "sha256": "42df82a155269fe4898a74f81f95d93be21b59743b246e5e96c30407918fc9b4"
+        }
+      ]
+    }
+  ],
+  "referencias_visuais_secundarias": [
+    {
+      "arquivo": "docs/public/personagens/val.png",
+      "sha256": "66ffb335db0f4e0a0c7f867eeed57604870e8362380a14cb72f2ca06edd12e01"
+    },
+    {
+      "arquivo": "docs/public/personagens/miranda.jpg",
+      "sha256": "42df82a155269fe4898a74f81f95d93be21b59743b246e5e96c30407918fc9b4"
+    }
+  ]
+}
