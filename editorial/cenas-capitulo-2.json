@@ -1,0 +1,89 @@
+{
+  "capitulo": 2,
+  "fonte": {
+    "arquivo": "docs/capitulo-2.md",
+    "sha256": "ebe74730059610172778679ef9c5aa2f8ae8d05c62d6054580c3c3eeb637c0c8",
+    "sha256_git": "351a7556acb1fc89a82e6a9a6ed89aacc5b7617d8a4da30064851eb94beedabc"
+  },
+  "gerador": "Codex ImageGen",
+  "seed_controlada": false,
+  "revisao_visual": "Conferência ampliada de identidade, anatomia, conexões e continuidade",
+  "cenas": [
+    {
+      "indice": 1,
+      "linhas": [
+        9,
+        21
+      ],
+      "acontecimento": "A chamada de Rangel na enchente",
+      "prompt": "Medium side shot from the front passenger seat of an old metallic blue compact Chevrolet Cobalt sedan, driver positioned on the vehicle's LEFT. Through the open driver window black floodwater is visible in the streets, below the window; windscreen wiper and leaf in background. Gabo at the wheel, visibly presses one small dash-mounted radio button with his right index finger, with his left hand clearly attached and still on the wheel. Head turned toward the windscreen, bare hands intact, no bandage yet. Muted amber instruments, saturated cold rain outside. The radio is the only representation of the caller.",
+      "arquivo": "docs/public/cenas/capitulo_2/piloto/cena_1.jpg",
+      "sha256": "8a8452ef1e0df31bffb4ee3825adeefe90c3b78d644c358a002dd9b7152cc9e1",
+      "ancora": {
+        "arquivo": "docs/public/personagens/gabo.jpg",
+        "sha256": "ca3f1e07c5cc832d9a8b17f615cde29860b4c4b191729fe5f2e4973ef1f8f2d4"
+      }
+    },
+    {
+      "indice": 2,
+      "linhas": [
+        48,
+        66
+      ],
+      "acontecimento": "O sinal na cabine de telefone",
+      "prompt": "Wide exterior near ground level. Gabo in profile at mid-distance trudges from his parked metallic blue Cobalt through calf-deep storm water toward an old narrow rusted steel phone booth on a raised curb, holding the edge of his beige overcoat clear of the current with his left hand. Right hand stays low near his waist on far side of his body. In the booth, a single tiny pulsing blue screen glows through cracked acrylic, clearly attached to the terminal. All streetlights are dead. Cut cables hang down from the roof of the kiosk. Overturned municipal garbage truck far behind, litter carried by the flood. Spatially distinct silhouette, no sirens.",
+      "arquivo": "docs/public/cenas/capitulo_2/piloto/cena_2.jpg",
+      "sha256": "56caf0fe9ca97f99ac63353162aeea8b10fc207dc3b80b670c8074e9e6ae5518",
+      "ancora": {
+        "arquivo": "docs/public/personagens/gabo.jpg",
+        "sha256": "ca3f1e07c5cc832d9a8b17f615cde29860b4c4b191729fe5f2e4973ef1f8f2d4"
+      }
+    },
+    {
+      "indice": 3,
+      "linhas": [
+        68,
+        88
+      ],
+      "acontecimento": "A voz no fone",
+      "prompt": "Tight three-quarter profile inside a cramped corroded steel phone booth. Gabo has a black Bakelite telephone handset in his LEFT hand pressed to his left ear, attached to the old telephone via a visible coiled cord. Trace gloved-free left wrist and sleeve to elbow and shoulder; right arm is entirely below the bottom edge. His eyes study the terminal. Beneath its blue waveform screen, a seven-centimeter dark ribbed titanium USB-stick-like module with a black polymer end and one BLUE LED sits physically plugged DIRECTLY into an open service port. It is the size of a thumb drive. The human in frame is Gabo. No avatar, projection, second face or silhouette. Rain beyond the cracked acrylic.",
+      "ajuste_visual": "Cabo do fone ligado ao teclado, separado da porta de serviço de Aria.",
+      "arquivo": "docs/public/cenas/capitulo_2/piloto/cena_3.jpg",
+      "sha256": "fbc7c283bb2e86f4fac7c1bee175dbf6215a8d1e1b3b6b08360b556d95a008b3",
+      "ancora": {
+        "arquivo": "docs/public/personagens/gabo.jpg",
+        "sha256": "ca3f1e07c5cc832d9a8b17f615cde29860b4c4b191729fe5f2e4973ef1f8f2d4"
+      }
+    },
+    {
+      "indice": 4,
+      "linhas": [
+        88,
+        94
+      ],
+      "acontecimento": "Gabo retira o módulo quente",
+      "prompt": "Oblique close-up from the side at waist height, framing the phone service panel and the detective's upper body, short focal distance. Show exactly one bare RIGHT hand of Gabo withdrawing a tiny thumb-drive-sized matte titanium module with black polymer finned sides, a tiny dim amber LED, and a short exposed metal connector. Pinched between right thumb and forefinger. His right knuckles have a subdued fresh abrasion and a partially displaced damp cloth bandage, skin intact apart from a small non-graphic cut. Right hand, wrist and uninterrupted beige sleeve to its shoulder are readable. The matching port is now empty and the booth waveform monitor has just gone dark. His left arm is outside the frame. No gun, no second USB stick, no extra hand. Only rain and very faint steam, no sparks or light ray.",
+      "arquivo": "docs/public/cenas/capitulo_2/piloto/cena_4.jpg",
+      "sha256": "875207dfa3b2b418c03b446c6ab3114c6ae76e9978364b0665f723a399da8c2f",
+      "ancora": {
+        "arquivo": "docs/public/personagens/gabo.jpg",
+        "sha256": "ca3f1e07c5cc832d9a8b17f615cde29860b4c4b191729fe5f2e4973ef1f8f2d4"
+      }
+    },
+    {
+      "indice": 5,
+      "linhas": [
+        96,
+        105
+      ],
+      "acontecimento": "O painel azul do Cobalt",
+      "prompt": "Medium driver-side rear three-quarter view inside an old compact blue sedan. Gabo, seated at the LEFT-hand driver seat, uses his bare LEFT index finger to confirm on the old center dashboard, emitting restrained blue light. At the lower edge of the center stack, a tiny thumb-drive-sized matte titanium and black ribbed module sits attached to the diagnostics port. His injured right hand is wrapped in the damp cloth and rests supported on his own right thigh with continuous visible sleeve. Both arms have clear ownership. Through the rain-covered windshield, a soft moving searchlight brushes the overturned garbage truck several meters ahead. Dashboard is largely analog, no face on display, no avatar, no big floating interface or readable text.",
+      "arquivo": "docs/public/cenas/capitulo_2/piloto/cena_5.jpg",
+      "sha256": "d468cb7356a2ba7ed9cd4954a1eb081679261b9471c08f2328402fded9062261",
+      "ancora": {
+        "arquivo": "docs/public/personagens/gabo.jpg",
+        "sha256": "ca3f1e07c5cc832d9a8b17f615cde29860b4c4b191729fe5f2e4973ef1f8f2d4"
+      }
+    }
+  ]
+}
