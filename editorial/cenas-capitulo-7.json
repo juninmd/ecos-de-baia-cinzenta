@@ -1,0 +1,112 @@
+{
+  "capitulo": 7,
+  "fonte": {
+    "arquivo": "docs/capitulo-7.md",
+    "sha256": "04c3cf7d56a214ea7a554bb47ea14a6a8d3e86fa12bb939877035c1a4323588f",
+    "sha256_git": "72cf8aac0213216338522469ce75f48efa80d7ce62671ba85fd568a7f3a71566"
+  },
+  "gerador": "Codex ImageGen",
+  "seed_controlada": false,
+  "revisao_visual": "Conferência ampliada de identidade, anatomia, conexões, fase humana e uniforme policial de Miranda",
+  "cenas": [
+    {
+      "acontecimento": "Kael corta a alça do colete enquanto Gabo recua e dispara o segundo cano da Caronte contra o rack; Miranda, ainda humano e fardado, permanece atrás da base.",
+      "prompt": "Gabo recua e dispara no rack enquanto Kael corta a alça; Miranda com identidade e uniforme humano oficial, ferido, abriga-se atrás da base.",
+      "indice": 1,
+      "linhas": [
+        9,
+        15
+      ],
+      "arquivo": "docs/public/cenas/capitulo_7/piloto/cena_1.jpg",
+      "sha256": "79f261ba91236f32b77a7eabb9f777eb4586c22e266ad796143e023a1a605934",
+      "ancora": {
+        "arquivo": "docs/public/personagens/gabo.jpg",
+        "sha256": "ca3f1e07c5cc832d9a8b17f615cde29860b4c4b191729fe5f2e4973ef1f8f2d4"
+      },
+      "referencia_visual_secundaria": {
+        "arquivo": "docs/public/personagens/roberto_humano.png",
+        "sha256": "c5a6b935c11e8c8cbe30fe6409f54fa2046e38a9fc87048f56e9d5729a5cbcfd"
+      }
+    },
+    {
+      "acontecimento": "Miranda indica o volante vermelho e Gabo o fecha com a mão esquerda, mantendo a mão direita queimada no chão.",
+      "prompt": "Gabo usa a mão esquerda no volante; direita queimada no piso; Miranda com rosto e uniforme policial oficiais da fase humana aponta; Kael ao fundo.",
+      "indice": 2,
+      "linhas": [
+        17,
+        25
+      ],
+      "arquivo": "docs/public/cenas/capitulo_7/piloto/cena_2.jpg",
+      "sha256": "b6423354b70289a0596870fcc133bbeb8f32fbdca09b401b93e3462f36952e1b",
+      "ancora": {
+        "arquivo": "docs/public/personagens/gabo.jpg",
+        "sha256": "ca3f1e07c5cc832d9a8b17f615cde29860b4c4b191729fe5f2e4973ef1f8f2d4"
+      },
+      "referencia_visual_secundaria": {
+        "arquivo": "docs/public/personagens/roberto_humano.png",
+        "sha256": "c5a6b935c11e8c8cbe30fe6409f54fa2046e38a9fc87048f56e9d5729a5cbcfd"
+      }
+    },
+    {
+      "acontecimento": "Gabo espera Kael transferir o peso e atira na abertura da articulação do joelho exposta.",
+      "prompt": "Gabo mira a Caronte no joelho mecânico aberto de Kael, sem gore; rack esmagado; apenas os dois em foco.",
+      "indice": 3,
+      "linhas": [
+        33,
+        39
+      ],
+      "arquivo": "docs/public/cenas/capitulo_7/piloto/cena_3.jpg",
+      "sha256": "311410872982d6caeb33a6ece4abffa81c5967c89001fab4bb8e6b7269725c29",
+      "ancora": {
+        "arquivo": "docs/public/personagens/gabo.jpg",
+        "sha256": "ca3f1e07c5cc832d9a8b17f615cde29860b4c4b191729fe5f2e4973ef1f8f2d4"
+      }
+    },
+    {
+      "acontecimento": "Gabo conduz o Toupeira pela galeria com Miranda ferido e preso ao banco; as Vespas abrem fogo contra a gaiola.",
+      "prompt": "Buggy de seis rodas; Gabo ao volante; Miranda com rosto e farda policial oficiais da fase humana, ferido e preso ao banco; drones atiram na gaiola.",
+      "indice": 4,
+      "linhas": [
+        59,
+        65
+      ],
+      "arquivo": "docs/public/cenas/capitulo_7/piloto/cena_4.jpg",
+      "sha256": "f9fe756b4d33679bbe604a0d974e5c2dce4fb0a8e1832d6780ac70221ddc1618",
+      "ancora": {
+        "arquivo": "docs/public/personagens/gabo.jpg",
+        "sha256": "ca3f1e07c5cc832d9a8b17f615cde29860b4c4b191729fe5f2e4973ef1f8f2d4"
+      },
+      "referencia_visual_secundaria": {
+        "arquivo": "docs/public/personagens/roberto_humano.png",
+        "sha256": "c5a6b935c11e8c8cbe30fe6409f54fa2046e38a9fc87048f56e9d5729a5cbcfd"
+      }
+    },
+    {
+      "acontecimento": "Sob os disparos que atingem a sucata, Gabo puxa Miranda pelo uniforme para trás do buggy tombado; os dois se apoiam no chão.",
+      "prompt": "Gabo e Miranda de joelhos atrás do buggy tombado; Gabo puxa Miranda pelo uniforme policial; Miranda se sustenta no próprio antebraço e joelho. Sem colo.",
+      "indice": 5,
+      "linhas": [
+        101,
+        105
+      ],
+      "arquivo": "docs/public/cenas/capitulo_7/piloto/cena_5.jpg",
+      "sha256": "83c14ecc9a2c41a46ea644b693b3374b3c0ca45de362f241eafd4c5c1948e656",
+      "ancora": {
+        "arquivo": "docs/public/personagens/gabo.jpg",
+        "sha256": "ca3f1e07c5cc832d9a8b17f615cde29860b4c4b191729fe5f2e4973ef1f8f2d4"
+      },
+      "referencia_visual_secundaria": {
+        "arquivo": "docs/public/personagens/roberto_humano.png",
+        "sha256": "c5a6b935c11e8c8cbe30fe6409f54fa2046e38a9fc87048f56e9d5729a5cbcfd"
+      }
+    }
+  ],
+  "referencias_novas": [
+    {
+      "arquivo": "docs/public/personagens/roberto_humano.png",
+      "sha256": "c5a6b935c11e8c8cbe30fe6409f54fa2046e38a9fc87048f56e9d5729a5cbcfd",
+      "sha256_base": "583c2bb4eac0edfcf4df3a8f8a44571603361a78943776b6304daded2c071999",
+      "baseada_em": "docs/public/personagens/roberto.png"
+    }
+  ]
+}
