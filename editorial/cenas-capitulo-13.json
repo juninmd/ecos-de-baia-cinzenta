@@ -1,0 +1,152 @@
+{
+  "capitulo": 13,
+  "fonte": {
+    "arquivo": "docs/capitulo-13.md",
+    "sha256": "4b2868b92aaaf3369784495f54a5d1c2faf285a29d817a3700597b2c2c77e8f0",
+    "sha256_git": "3b2f2c26081137b456bdc39306aae675a6897938fa5435612229900993049ac3"
+  },
+  "gerador": "Codex ImageGen",
+  "seed_controlada": false,
+  "revisao_visual": "Conferência ampliada de identidade, anatomia, conexões e continuidade",
+  "cenas": [
+    {
+      "indice": 1,
+      "acontecimento": "A falha de pressão quebra o vidro do bunker; Val desliga o retorno das cadeiras enquanto Miranda atinge o ombro esquerdo de Gabo com a arma de energia.",
+      "linhas": [
+        1,
+        18
+      ],
+      "prompt": "Falha de contenção, Gabo atingido no ombro, Val no comando e Miranda com prótese de aço.",
+      "arquivo": "docs/public/cenas/capitulo_13/piloto/cena_1.jpg",
+      "sha256": "d3a1cfe83efe55346b11cfce68c463d9b95b79fba7068872b7b9746d9fd54456",
+      "ancora": {
+        "arquivo": "docs/public/personagens/gabo.jpg",
+        "sha256": "ca3f1e07c5cc832d9a8b17f615cde29860b4c4b191729fe5f2e4973ef1f8f2d4"
+      },
+      "referencias_visuais_secundarias": [
+        {
+          "arquivo": "docs/public/personagens/val.png",
+          "sha256": "66ffb335db0f4e0a0c7f867eeed57604870e8362380a14cb72f2ca06edd12e01"
+        },
+        {
+          "arquivo": "docs/public/personagens/miranda.jpg",
+          "sha256": "42df82a155269fe4898a74f81f95d93be21b59743b246e5e96c30407918fc9b4"
+        }
+      ]
+    },
+    {
+      "indice": 2,
+      "acontecimento": "A mulher que trabalhava nos cadastros puxa Val para trás do armário e recebe o teclado para mostrar os pedidos sem confirmá-los; Gabo se protege ao fundo.",
+      "linhas": [
+        25,
+        43
+      ],
+      "prompt": "Trabalhadora de cadastro e Val atrás do armário, teclado destacável e Gabo guardando o ombro ferido.",
+      "arquivo": "docs/public/cenas/capitulo_13/piloto/cena_2.jpg",
+      "sha256": "cf98f7c4e8624fabbc7b2dc45027e28976607ff07ece47d0b004a35874139757",
+      "ancora": {
+        "arquivo": "docs/public/personagens/val.png",
+        "sha256": "66ffb335db0f4e0a0c7f867eeed57604870e8362380a14cb72f2ca06edd12e01"
+      },
+      "referencias_visuais_secundarias": [
+        {
+          "arquivo": "docs/public/personagens/gabo.jpg",
+          "sha256": "ca3f1e07c5cc832d9a8b17f615cde29860b4c4b191729fe5f2e4973ef1f8f2d4"
+        },
+        {
+          "arquivo": "docs/public/personagens/miranda.jpg",
+          "sha256": "42df82a155269fe4898a74f81f95d93be21b59743b246e5e96c30407918fc9b4"
+        }
+      ]
+    },
+    {
+      "indice": 3,
+      "acontecimento": "Gabo derruba Miranda, mantém-no vivo com a Glock apontada e rejeita executar o antigo parceiro; Val prepara a reversão do lote.",
+      "linhas": [
+        44,
+        63
+      ],
+      "prompt": "Gabo mantém Miranda vivo no chão, Glock na testa, prótese de aço visível; Val e a trabalhadora cuidam dos registros ao fundo.",
+      "arquivo": "docs/public/cenas/capitulo_13/piloto/cena_3.jpg",
+      "sha256": "2ea65c3ca5f9b7c03b1c04d4e3eacb1684eefd434350639462c71d4efbfe4c84",
+      "ancora": {
+        "arquivo": "docs/public/personagens/gabo.jpg",
+        "sha256": "ca3f1e07c5cc832d9a8b17f615cde29860b4c4b191729fe5f2e4973ef1f8f2d4"
+      },
+      "referencias_visuais_secundarias": [
+        {
+          "arquivo": "docs/public/personagens/val.png",
+          "sha256": "66ffb335db0f4e0a0c7f867eeed57604870e8362380a14cb72f2ca06edd12e01"
+        },
+        {
+          "arquivo": "docs/public/personagens/miranda.jpg",
+          "sha256": "42df82a155269fe4898a74f81f95d93be21b59743b246e5e96c30407918fc9b4"
+        }
+      ]
+    },
+    {
+      "indice": 4,
+      "acontecimento": "Val e a trabalhadora revisam comandos e horários com nomes ocultos antes de enviar a cópia pública, preservando a lista completa.",
+      "linhas": [
+        64,
+        82
+      ],
+      "prompt": "Val e a trabalhadora decidem sobre o envio de registros redigidos, Aria como módulo físico no deck.",
+      "arquivo": "docs/public/cenas/capitulo_13/piloto/cena_4.jpg",
+      "sha256": "4896b53785f58ed3f9b46ab9d8711527b2c7f649a29835ffdb9ccb6613a374e7",
+      "ancora": {
+        "arquivo": "docs/public/personagens/val.png",
+        "sha256": "66ffb335db0f4e0a0c7f867eeed57604870e8362380a14cb72f2ca06edd12e01"
+      },
+      "referencias_visuais_secundarias": [
+        {
+          "arquivo": "docs/public/personagens/gabo.jpg",
+          "sha256": "ca3f1e07c5cc832d9a8b17f615cde29860b4c4b191729fe5f2e4973ef1f8f2d4"
+        },
+        {
+          "arquivo": "docs/public/personagens/miranda.jpg",
+          "sha256": "42df82a155269fe4898a74f81f95d93be21b59743b246e5e96c30407918fc9b4"
+        }
+      ]
+    },
+    {
+      "indice": 5,
+      "acontecimento": "Gabo ajuda Val a deixar o bunker pelo elevador, apoiando-a sem carregá-la no colo; Miranda fica vivo e ferido atrás deles.",
+      "linhas": [
+        83,
+        110
+      ],
+      "prompt": "Saída apoiada pelo elevador, Gabo sustenta Val com os dois corpos e quatro pernas visíveis, tornozelo imobilizado.",
+      "arquivo": "docs/public/cenas/capitulo_13/piloto/cena_5.jpg",
+      "sha256": "f151edb8de5fd0f3c7c93649814bd9cb47311fb8eb97c9d8f6428982553aa38f",
+      "ancora": {
+        "arquivo": "docs/public/personagens/gabo.jpg",
+        "sha256": "ca3f1e07c5cc832d9a8b17f615cde29860b4c4b191729fe5f2e4973ef1f8f2d4"
+      },
+      "referencias_visuais_secundarias": [
+        {
+          "arquivo": "docs/public/personagens/val.png",
+          "sha256": "66ffb335db0f4e0a0c7f867eeed57604870e8362380a14cb72f2ca06edd12e01"
+        },
+        {
+          "arquivo": "docs/public/personagens/miranda.jpg",
+          "sha256": "42df82a155269fe4898a74f81f95d93be21b59743b246e5e96c30407918fc9b4"
+        }
+      ]
+    }
+  ],
+  "referencias_visuais_secundarias": [
+    {
+      "arquivo": "docs/public/personagens/gabo.jpg",
+      "sha256": "ca3f1e07c5cc832d9a8b17f615cde29860b4c4b191729fe5f2e4973ef1f8f2d4"
+    },
+    {
+      "arquivo": "docs/public/personagens/val.png",
+      "sha256": "66ffb335db0f4e0a0c7f867eeed57604870e8362380a14cb72f2ca06edd12e01"
+    },
+    {
+      "arquivo": "docs/public/personagens/miranda.jpg",
+      "sha256": "42df82a155269fe4898a74f81f95d93be21b59743b246e5e96c30407918fc9b4"
+    }
+  ]
+}
