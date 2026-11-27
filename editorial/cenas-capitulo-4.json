@@ -1,0 +1,88 @@
+{
+  "capitulo": 4,
+  "fonte": {
+    "arquivo": "docs/capitulo-4.md",
+    "sha256": "e270f9715efd8f4e46abe4ccecc378d0abfa48f91cb2ca3e6969bf12bb33eefd",
+    "sha256_git": "f7da860b54e15f3dae2aa265dff3ffad43bed3d25e3dd5d7910b82057dfac912"
+  },
+  "gerador": "Codex ImageGen",
+  "seed_controlada": false,
+  "revisao_visual": "Conferência ampliada de identidade, anatomia, conexões e continuidade",
+  "cenas": [
+    {
+      "indice": 1,
+      "linhas": [
+        9,
+        13
+      ],
+      "acontecimento": "Gabo observa a chegada ao Baile",
+      "prompt": "Ground-level three-quarter medium shot in the dismal alley across from the Aeterna tower entrance. Gabo has his canonical wet stained beige trench coat over a rumpled off-white shirt; use the exact bearded detective from the reference. He lifts a compact single pair of binoculars to his eyes with his LEFT hand. His injured RIGHT hand wrapped in damp white gauze hangs separately at his side. Both shoulders and sleeve paths visible. The parked old dark metallic blue compact sedan and runoff are in the near shadows. Far beyond, limousines slide beneath the warm gala canopy at the bottom of an immensely tall tower disappearing into heavy low cloud. Light bronze gala atmosphere far away, cold industrial gray forecourt near camera.",
+      "arquivo": "docs/public/cenas/capitulo_4/piloto/cena_1.jpg",
+      "sha256": "51a6d263efa3a3f31d1c2ae2338245140d386432e3ed5458e09e91b5401d19ca",
+      "ancora": {
+        "arquivo": "docs/public/personagens/gabo.jpg",
+        "sha256": "ca3f1e07c5cc832d9a8b17f615cde29860b4c4b191729fe5f2e4973ef1f8f2d4"
+      }
+    },
+    {
+      "indice": 2,
+      "linhas": [
+        28,
+        32
+      ],
+      "acontecimento": "A nota para o estivador",
+      "prompt": "Street-level medium two-shot at the edge of the service dock. Same Gabo in dirty beige trench coat and rumpled dress shirt, exact beard and face. He offers a single folded paper credit note with his LEFT hand to a gray uniformed older Brazilian dockworker sitting on the ground, who reaches with one hand. His own injured gauzed RIGHT hand remains low close to his side. One arm per reaching hand, each sleeve clearly connected to the corresponding distinct body, fingers spaced naturally. Subtle line of dark grease at the worker's temple. Lit security kiosk with a closed window farther behind. Dock pallets and wet industrial pavement. No fight or other people in the foreground.",
+      "arquivo": "docs/public/cenas/capitulo_4/piloto/cena_2.jpg",
+      "sha256": "82c0b035f868ac4733ce846124657ae7665e5e6251dade1321276c507c2e35cf",
+      "ancora": {
+        "arquivo": "docs/public/personagens/gabo.jpg",
+        "sha256": "ca3f1e07c5cc832d9a8b17f615cde29860b4c4b191729fe5f2e4973ef1f8f2d4"
+      }
+    },
+    {
+      "indice": 3,
+      "linhas": [
+        50,
+        60
+      ],
+      "acontecimento": "Krell negocia no salão",
+      "prompt": "Same 50-year-old Viktor Krell as the official identity reference, bespoke charcoal three-piece suit, platinum hair slicked back, cold sapphire cybernetic eye detail, man with dwarfism, angled seated view toward one nearby investor. A quiet futuristic low hover chair visibly hovering a modest distance above the ballroom carpet, with a sleek rigid dark base and no wheels. His singular plain black titanium cane rests horizontally across his two knees. His right hand rests naturally on the right chair arm and his left hand touches the cane, two readable arms. The people he listens to are only blurred suit shoulders at the edges; a glass and tablet rest on a nearby pedestal. Above the clouds, floor-to-ceiling smart glass, opulent restraint and warm chamber-music atmosphere. New composition, no street neon or corporate signage.",
+      "arquivo": "docs/public/cenas/capitulo_4/piloto/cena_3.jpg",
+      "sha256": "209ad8ba52ff922e600e3870b72d05d777a5eb2ab90a3602d4416808013fff13",
+      "ancora": {
+        "arquivo": "docs/public/personagens/krell.jpg",
+        "sha256": "d060f27d409d7696039d70dfaad8499aad6d1c5ef1d5b03f6b955a7ae31799bd"
+      }
+    },
+    {
+      "indice": 4,
+      "linhas": [
+        99,
+        108
+      ],
+      "acontecimento": "A toalha e o cristal no salão",
+      "prompt": "Dynamic medium side shot at a real corporate gala. The detective from the portrait in wet mud-stained beige trench coat takes a step back while yanking an ivory tablecloth with his LEFT arm. Show a readable path from left shoulder along the taut, extended left sleeve to his gripping left hand. His bandaged right hand is lowered, apart from the moving cloth. A small number of crystal wine glasses are caught tilting off the table, falling naturally; caviar and one dark bottle spill across marble. Near camera, beige detective is sharply identifiable, staring at the guests, not posing. In background two blurred gala guests lower their phones and a distant tactical silhouette approaches. No attack or impact shown; this is the instant the music stops. Warm high-society lights, wet boot marks near carpet.",
+      "arquivo": "docs/public/cenas/capitulo_4/piloto/cena_4.jpg",
+      "sha256": "3ecc2b77b99657aa52a84fdcfc4ec4ab5aadfbcdc42da970f703ef37f3b5ecac",
+      "ancora": {
+        "arquivo": "docs/public/personagens/gabo.jpg",
+        "sha256": "ca3f1e07c5cc832d9a8b17f615cde29860b4c4b191729fe5f2e4973ef1f8f2d4"
+      }
+    },
+    {
+      "indice": 5,
+      "linhas": [
+        120,
+        130
+      ],
+      "acontecimento": "A mensagem na saída de serviço",
+      "prompt": "Medium-low oblique shot behind Aeterna's service exit in the rain. Exact same Gabo in damp dirty beige coat, his white shirt and beard untouched in identity. Seated on wet concrete by a dark rolling service door, recovering his breath after being thrown out, with a tiny crimson mark at corner of mouth and a damp bandage on right hand resting by his knee. His LEFT hand, connected by clear sleeve and elbow, holds the scratched rugged communicator low, the screen showing only a few subdued rows of pale light angled away from camera. The small ribbed dark communications module is secured in a simple lapel adapter with one restrained blue pin light. No hologram; the faint light falls on his serious face. Distant illuminated guard kiosk across the service yard.",
+      "arquivo": "docs/public/cenas/capitulo_4/piloto/cena_5.jpg",
+      "sha256": "1492376fcd478d247de534818e33d7c81e944b81e1120463e771d52a80877f23",
+      "ancora": {
+        "arquivo": "docs/public/personagens/gabo.jpg",
+        "sha256": "ca3f1e07c5cc832d9a8b17f615cde29860b4c4b191729fe5f2e4973ef1f8f2d4"
+      }
+    }
+  ]
+}
