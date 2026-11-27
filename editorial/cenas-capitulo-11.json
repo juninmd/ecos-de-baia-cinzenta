@@ -1,0 +1,144 @@
+{
+  "capitulo": 11,
+  "fonte": {
+    "arquivo": "docs/capitulo-11.md",
+    "sha256": "247c82944dd38a33dcbfe6637ce904801e158d3945cd97748a4b3b6e0a749b92",
+    "sha256_git": "2357cff5359f2e0ad915df55836c9e5d5230c46387d59a1d30b92b5b25bb9385"
+  },
+  "gerador": "Codex ImageGen",
+  "seed_controlada": false,
+  "revisao_visual": "Conferência ampliada de identidade, anatomia, conexões e continuidade",
+  "cenas": [
+    {
+      "linhas": [
+        11,
+        25
+      ],
+      "prompt": "Triagem e renovação dos curativos no laboratório, paciente protegida pela divisória.",
+      "indice": 1,
+      "acontecimento": "Nise recebe a mulher resgatada e examina as lesões persistentes de Gabo e Val no laboratório de reserva.",
+      "arquivo": "docs/public/cenas/capitulo_11/piloto/cena_1.jpg",
+      "sha256": "1b3999f11ba76df162a5ec88495c5fa6c2d9a12c78106ce7144722e153adf86b",
+      "ancora": {
+        "arquivo": "docs/public/personagens/gabo.jpg",
+        "sha256": "ca3f1e07c5cc832d9a8b17f615cde29860b4c4b191729fe5f2e4973ef1f8f2d4"
+      },
+      "referencias_visuais_secundarias": [
+        {
+          "arquivo": "docs/public/personagens/val.png",
+          "sha256": "66ffb335db0f4e0a0c7f867eeed57604870e8362380a14cb72f2ca06edd12e01"
+        },
+        {
+          "arquivo": "docs/public/personagens/nise.png",
+          "sha256": "a3edf482cdf02ff665f264d84b6aa10c370181c4a207ae4259a2b75a4b47e12b"
+        }
+      ]
+    },
+    {
+      "linhas": [
+        53,
+        64
+      ],
+      "prompt": "Análise dos traçados no terminal local por Nise, Val e Gabo.",
+      "indice": 2,
+      "acontecimento": "Nise e Val comparam os traçados e concluem que o sistema contou um pedido de interrupção como aceitação.",
+      "arquivo": "docs/public/cenas/capitulo_11/piloto/cena_2.jpg",
+      "sha256": "3c7d5d10604f8871c1423333a56f44e5129f41ba3830652d53ac1b06da4f2484",
+      "ancora": {
+        "arquivo": "docs/public/personagens/gabo.jpg",
+        "sha256": "ca3f1e07c5cc832d9a8b17f615cde29860b4c4b191729fe5f2e4973ef1f8f2d4"
+      },
+      "referencias_visuais_secundarias": [
+        {
+          "arquivo": "docs/public/personagens/val.png",
+          "sha256": "66ffb335db0f4e0a0c7f867eeed57604870e8362380a14cb72f2ca06edd12e01"
+        },
+        {
+          "arquivo": "docs/public/personagens/nise.png",
+          "sha256": "a3edf482cdf02ff665f264d84b6aa10c370181c4a207ae4259a2b75a4b47e12b"
+        }
+      ]
+    },
+    {
+      "linhas": [
+        93,
+        110
+      ],
+      "prompt": "Registro da autorização e da anotação de referência familiar sem inventar palavras legíveis.",
+      "indice": 3,
+      "acontecimento": "Val fotografa as duas faces da autorização de Dante, incluindo a linha de referência familiar, enquanto Nise sustenta o papel.",
+      "arquivo": "docs/public/cenas/capitulo_11/piloto/cena_3.jpg",
+      "sha256": "8d83d50c152d9148b0451c0dfb4d62afb8c3b54325868ebfaf392e67087b46b2",
+      "ancora": {
+        "arquivo": "docs/public/personagens/gabo.jpg",
+        "sha256": "ca3f1e07c5cc832d9a8b17f615cde29860b4c4b191729fe5f2e4973ef1f8f2d4"
+      },
+      "referencias_visuais_secundarias": [
+        {
+          "arquivo": "docs/public/personagens/val.png",
+          "sha256": "66ffb335db0f4e0a0c7f867eeed57604870e8362380a14cb72f2ca06edd12e01"
+        },
+        {
+          "arquivo": "docs/public/personagens/nise.png",
+          "sha256": "a3edf482cdf02ff665f264d84b6aa10c370181c4a207ae4259a2b75a4b47e12b"
+        }
+      ]
+    },
+    {
+      "linhas": [
+        112,
+        120
+      ],
+      "prompt": "Nise permanece para defender o laboratório; Gabo e Val seguem feridos à saída de serviço.",
+      "indice": 4,
+      "acontecimento": "Nise fica na porta interna com a espingarda e protege a paciente enquanto Gabo e Val deixam o laboratório.",
+      "arquivo": "docs/public/cenas/capitulo_11/piloto/cena_4.jpg",
+      "sha256": "85bb51576ff5a9934dc0ffa5a7c111b2446c4c1a372a49f0b9b515a2f46ecc2b",
+      "ancora": {
+        "arquivo": "docs/public/personagens/gabo.jpg",
+        "sha256": "ca3f1e07c5cc832d9a8b17f615cde29860b4c4b191729fe5f2e4973ef1f8f2d4"
+      },
+      "referencias_visuais_secundarias": [
+        {
+          "arquivo": "docs/public/personagens/val.png",
+          "sha256": "66ffb335db0f4e0a0c7f867eeed57604870e8362380a14cb72f2ca06edd12e01"
+        },
+        {
+          "arquivo": "docs/public/personagens/nise.png",
+          "sha256": "a3edf482cdf02ff665f264d84b6aa10c370181c4a207ae4259a2b75a4b47e12b"
+        }
+      ]
+    },
+    {
+      "linhas": [
+        122,
+        130
+      ],
+      "prompt": "Fuga pela água até os joelhos, deck de Val vibrando e lanterna com Gabo.",
+      "indice": 5,
+      "acontecimento": "Na galeria pluvial, Val segura o corrimão com o punho e aperta o deck com a mão enfaixada enquanto Gabo ilumina a saída.",
+      "arquivo": "docs/public/cenas/capitulo_11/piloto/cena_5.jpg",
+      "sha256": "7c11fe4f8a6b8a4b6b840bc063fa94a1c231650d09e4a3f9c2e1e675db01049e",
+      "ancora": {
+        "arquivo": "docs/public/personagens/gabo.jpg",
+        "sha256": "ca3f1e07c5cc832d9a8b17f615cde29860b4c4b191729fe5f2e4973ef1f8f2d4"
+      },
+      "referencias_visuais_secundarias": [
+        {
+          "arquivo": "docs/public/personagens/val.png",
+          "sha256": "66ffb335db0f4e0a0c7f867eeed57604870e8362380a14cb72f2ca06edd12e01"
+        }
+      ]
+    }
+  ],
+  "referencias_visuais_secundarias": [
+    {
+      "arquivo": "docs/public/personagens/val.png",
+      "sha256": "66ffb335db0f4e0a0c7f867eeed57604870e8362380a14cb72f2ca06edd12e01"
+    },
+    {
+      "arquivo": "docs/public/personagens/nise.png",
+      "sha256": "a3edf482cdf02ff665f264d84b6aa10c370181c4a207ae4259a2b75a4b47e12b"
+    }
+  ]
+}
