@@ -1,0 +1,90 @@
+{
+  "capitulo": 3,
+  "fonte": {
+    "arquivo": "docs/capitulo-3.md",
+    "sha256": "9a8ec90c63f0df0b666d249f379bf1088eba8e726a9496e8509e8667e9b82925",
+    "sha256_git": "1f4616d1a529fd15917268db7b85e9c5b810a00f3ad3ee2e06255e934865bee1"
+  },
+  "gerador": "Codex ImageGen",
+  "seed_controlada": false,
+  "revisao_visual": "Conferência ampliada de identidade, anatomia, conexões e continuidade",
+  "cenas": [
+    {
+      "indice": 1,
+      "linhas": [
+        9,
+        16
+      ],
+      "acontecimento": "A mão ferida na entrada do galpão",
+      "prompt": "Gabriel Moretti from the official portrait, in soaked soot-stained beige trench coat over off-white dress shirt, brown tired eyes, dark beard and wet dark hair. Medium shot under the awning by the warehouse entrance, plain yellow police tape visible behind him. He stops halfway through pulling a thin black forensic glove onto his injured RIGHT hand, small white gauze has just been requested. His uninjured bare LEFT hand holds the loose glove cuff, only two hands with separated wrists and plainly connected arms. Small cut over right knuckles, understated, not fresh dripping blood. In the far distance, two gray suited officials take notes on tablets, kept in defocus. Show his discomfort, his expression is on the hand.",
+      "arquivo": "docs/public/cenas/capitulo_3/piloto/cena_1.jpg",
+      "sha256": "6b240520cd7c78d704494bd3838158c1be9aff47e95f8c52bb1047c90e42125e",
+      "ancora": {
+        "arquivo": "docs/public/personagens/gabo.jpg",
+        "sha256": "ca3f1e07c5cc832d9a8b17f615cde29860b4c4b191729fe5f2e4973ef1f8f2d4"
+      }
+    },
+    {
+      "indice": 2,
+      "linhas": [
+        26,
+        36
+      ],
+      "acontecimento": "A instalação sob os refletores",
+      "prompt": "Large establishing shot of an immense disused coastal industrial warehouse. The detective from the reference occupies the left midground turned away, dirty beige trench coat recognizable under a transparent forensic rain layer, protective hood and clear visor, with a compact athletic silhouette. From forensic spotlights and two photographers' flashes we see the shape of a deceased adult man suspended roughly half a meter above a concrete floor with nearly invisible monofilament, arms extended forward and to the sides like a marionette. His torso faces slightly away and is dark and obscured by a shaft of white light and shadows. Only a little amber glint from clockwork is discernible, no exposed anatomy or gore. Full composition uses industrial heights, rusted beams, cables, white spotlights, gray concrete, muted amber. Detective stands naturally with arms low. Physical suspense and vast scale.",
+      "arquivo": "docs/public/cenas/capitulo_3/piloto/cena_2.jpg",
+      "sha256": "57ab43b882ca5c7e967fcc3b107e92992caf81ada0ee6885719db2edc5408a44",
+      "ancora": {
+        "arquivo": "docs/public/personagens/gabo.jpg",
+        "sha256": "ca3f1e07c5cc832d9a8b17f615cde29860b4c4b191729fe5f2e4973ef1f8f2d4"
+      }
+    },
+    {
+      "indice": 3,
+      "linhas": [
+        53,
+        65
+      ],
+      "acontecimento": "Valéria localiza a emissão",
+      "prompt": "Use Valéria Cruz's reference exact face, ice-blue eyes, short asymmetric silver-blond bob with clipped nape and individual soft blue fiber LEDs. Black synthetic leather jacket under a partially transparent forensic protective hood with clear visor, dark cargo pants, practical boots. She is seated cross-legged on a tarp at the warehouse floor. One hand points toward a clearly distinct closed industrial electrical cabinet in the out-of-focus midground; the other rests beside an orange-tipped handheld field meter. Her own two arms have explicit continuous shoulder-to-wrist paths, and her crossed legs are unambiguous. Multiple ordinary physical cables lead to one bulky period portable terminal with green phosphor screens in front of her, no hologram and no readable text. Low viewpoint, realistic hard sodium warehouse lights and green CRT fill, industrial noir rather than fashion photography.",
+      "arquivo": "docs/public/cenas/capitulo_3/piloto/cena_3.jpg",
+      "sha256": "b7de6a475df8dba35c4cfeb6dd361dccdd886b6a6f601d1aefe29c286e920fe6",
+      "ancora": {
+        "arquivo": "docs/public/personagens/val.png",
+        "sha256": "66ffb335db0f4e0a0c7f867eeed57604870e8362380a14cb72f2ca06edd12e01"
+      }
+    },
+    {
+      "indice": 4,
+      "linhas": [
+        73,
+        90
+      ],
+      "acontecimento": "O relógio na fotografia da delegacia",
+      "prompt": "Side-lit high-angle macro film still of a physical white-bordered photo lying flat on a stainless forensic evidence tray, partly enclosed by transparent archival sleeve. No person is holding or touching the photo. One angled forensic light illuminates the photo only, with blurred warehouse concrete at the edges. Inside the old printed photo, the real field-era adult Dante Moretti has the exact mustached face of the reference and broad strong build, in formal dark police uniform standing on stone police station stairs next to seven-year-old Gabriel holding an ice cream cone. Dante's RIGHT forearm hangs unobstructed at his side with a clearly visible dark wristwatch and slim chain at the right shirt cuff. His left wrist has no watch. Dante is present exclusively in the small historical photo, outside it there is just the tray and sleeve. Warm black and white printed image, believable paper texture. No artificial captions, timestamps or watermarks.",
+      "ajuste_visual": "Relógio só no pulso direito de Dante, corrente e placa da delegacia.",
+      "arquivo": "docs/public/cenas/capitulo_3/piloto/cena_4.jpg",
+      "sha256": "6b225225f960af8a3af3f8915ed274b8a632cabdebeb8063661d7ec71d76516b",
+      "ancora": {
+        "arquivo": "docs/public/personagens/dante.jpg",
+        "sha256": "14f93adc01069d89cfc5e88c0942628a2f9346b6737429b718dda37560ba507d"
+      }
+    },
+    {
+      "indice": 5,
+      "linhas": [
+        129,
+        135
+      ],
+      "acontecimento": "Cruz confere o comunicador antes da partida",
+      "prompt": "Medium profile film still just inside a warehouse doorway, blue rain and the parked blue Cobalt outside. Valéria Cruz exactly like the portrait, asymmetric short silver-blond bob with blue filament accents and icy blue eyes, black synthetic leather jacket and dark cargo clothes, shoulders through hands visible. She checks a small dark handheld police communicator and the short ribbed titanium and black thumb-drive-sized Aria module, aligned at the single physical data port, before letting Gabo attach it. Keep her arms separated and clearly show one hand supporting the communicator and the other holding the module. In the far rear, one off-focus beige-clad detective silhouette looks out into the rain, no hands visible. The only sign of Aria is a powered physical module, no hologram, floating screen or interface.",
+      "ajuste_visual": "O módulo fica apagado antes do acoplamento.",
+      "arquivo": "docs/public/cenas/capitulo_3/piloto/cena_5.jpg",
+      "sha256": "71f58868b8a829d938255cd6ba3ba4747df770f915a408b65effadbf43dc5838",
+      "ancora": {
+        "arquivo": "docs/public/personagens/val.png",
+        "sha256": "66ffb335db0f4e0a0c7f867eeed57604870e8362380a14cb72f2ca06edd12e01"
+      }
+    }
+  ]
+}
