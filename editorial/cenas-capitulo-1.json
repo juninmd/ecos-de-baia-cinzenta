@@ -1,0 +1,78 @@
+{
+  "capitulo": 1,
+  "fonte": {
+    "arquivo": "docs/capitulo-1.md",
+    "sha256": "faa4e4813ebcabe342d89b8edeeab0c0a0a2dd5c1609c784872587ad5abea6d8"
+  },
+  "ancora": {
+    "personagem": "Gabriel Moretti",
+    "arquivo": "docs/public/personagens/gabo.jpg",
+    "sha256": "ca3f1e07c5cc832d9a8b17f615cde29860b4c4b191729fe5f2e4973ef1f8f2d4"
+  },
+  "prompt_comum": "Keep the reference man's wet soot-stained beige trench coat over a rumpled pale dress shirt. Preserve his exact facial structure, tired dark brown eyes, messy dark hair, full dark beard with early gray, and stocky athletic build, age 35. Remove the reference paper coffee cup. Make a new photograph with the action and camera angle described below. Photorealistic gritty Brazilian cyberpunk noir, 35mm film still, coarse grain, street lighting, practical wet surfaces and muted cyan and amber in Vila da Ferrugem, Baia Cinzenta. Night rain, corroded stacked housing containers and muddy metal walkways. Horizontal cinematic composition. No captions, titles, readable lettering, logos, or watermark. Avoid cigarette and coffee props.",
+  "cenas": [
+    {
+      "indice": 1,
+      "acontecimento": "Gabo impede Silva de dar o segundo passo",
+      "linhas": [
+        14,
+        17
+      ],
+      "prompt": "Medium-wide three-quarter side view, with the patrol officer facing away down the alley. The detective in beige puts his open right hand on the back of the right shoulder of a young uniformed patrol officer to stop his second step. Patrol boot splashes in a dark puddle at the lower edge. The officer keeps his hands at his sides, in dark navy uniform. Their arms do not touch anywhere else. Both stand upright. A plain unprinted yellow ribbon and stacked shipping-container dwellings frame the narrow alley.",
+      "arquivo": "docs/public/cenas/capitulo_1/piloto/cena_1.jpg",
+      "sha256": "9c5a1fc6046cf5b67a7cfaefe49f847495c75c568372d6a30a15a58dba25267f",
+      "ajuste_visual": null
+    },
+    {
+      "indice": 2,
+      "acontecimento": "A luz vermelha da Corregedoria",
+      "linhas": [
+        27,
+        38
+      ],
+      "prompt": "Tight side-profile film frame, the detective lifting his empty left hand to see the communicator strapped to his left forearm. Both hands are empty, his left wrist is at the height of his chest. He glances down at its red status light on the back of the wrist, clearly part of its wristband. Wet folds and skin are crisp. In the rain during a tense call. The red indicator contrasts with the wet beige sleeve. His mouth is unobstructed. A plain unprinted yellow ribbon crosses the out-of-focus alley behind him.",
+      "arquivo": "docs/public/cenas/capitulo_1/piloto/cena_2.jpg",
+      "sha256": "f704b4c2561ee90d3e740670244f8c5893175d059fea972f256e1310eebd4e1d",
+      "ajuste_visual": null
+    },
+    {
+      "indice": 3,
+      "acontecimento": "As lentes analógicas reagem à mão enluvada",
+      "linhas": [
+        63,
+        84
+      ],
+      "prompt": "Ground-level medium two-shot. Gabo is crouched on the right, his small flashlight directed at the pale face of a deceased adult man slumped against a corrugated zinc wall under a crooked sheet-metal rain shield. The young man has faded blue hair, worn patched clothes, and circuit tattoos on his forearms. Two dark glass analog camera lenses are set flush inside his eye sockets with dark metal rings, no straps or protruding attachments. His mouth is slightly open and his hands hang limp. Gabo moves one gloved hand near the lenses without touching them, as the lenses focus.",
+      "arquivo": "docs/public/cenas/capitulo_1/piloto/cena_3.jpg",
+      "sha256": "5eba442222a85cf2ef8b02d0b5746082990d46a2af15b5bbb63caa889e965c2e",
+      "ajuste_visual": "Braços em alturas diferentes e sem cruzamento. Conferência ampliada da conexão entre ombro, cotovelo e pulso. Gabo aproxima a mão direita e mantém a lanterna junto à coxa com a esquerda."
+    },
+    {
+      "indice": 4,
+      "acontecimento": "A solução se torna violeta",
+      "linhas": [
+        88,
+        92
+      ],
+      "prompt": "Oblique mid-close shot at ground level. The detective crouches over a compact portable forensic kit, in thin black gloves, holding a dropper above a small vial of violet liquid with tiny bubbles. A second capped evidence vial stands alongside in the open kit. His intent face is visible behind his hands in three-quarter view, in soft street light. Wet mud and corrugated metal surround the kit.",
+      "arquivo": "docs/public/cenas/capitulo_1/piloto/cena_4.jpg",
+      "sha256": "2a9a8e81b174be91da6272339f9c48c4c27e765cb781b75223458813c895f029",
+      "ajuste_visual": "Amostra lacrada sem reagente"
+    },
+    {
+      "indice": 5,
+      "acontecimento": "O menino na fotografia",
+      "linhas": [
+        102,
+        126
+      ],
+      "prompt": "Over-the-shoulder close shot as the detective lifts a clear evidence bag in his left gloved hand and illuminates it with a small flashlight. His recognizable bearded profile is at the near edge of frame. The flat black-and-white photograph inside the bag clearly shows a smiling little boy holding an ice cream cone in a sunny park, with a blurred broad-shouldered dark-haired mustached father in the background of the printed photo only. Color in the rainy alley contrasts with grayscale on photographic paper. The rest of the alley is dim.",
+      "arquivo": "docs/public/cenas/capitulo_1/piloto/cena_5.jpg",
+      "sha256": "4527f7b9584c5645e970f3f7df0c91f849b745f948d2f79f75d2b0006f2892e8",
+      "ajuste_visual": "Idade do menino e desfoque do pai na fotografia"
+    }
+  ],
+  "gerador": "Codex ImageGen com retrato de referencia",
+  "seed_controlada": false,
+  "revisao_visual": "Comparacao manual com o retrato oficial e o texto do capitulo"
+}

@@ -145,7 +145,7 @@ Lint: none configured in the repo (no linter config at the root). Typecheck: onl
 11. **Nenhuma imagem entra sem homologação.** `python scripts/homologar_cenas.py --realimentar`
     mede resolução, nitidez, contraste, arquivo chapado, texto queimado e cena repetida, escreve
     `docs/qualidade_imagens.md` e devolve as reprovadas para `docs/public/cenas/regerar.txt`.
-    Fidelidade de rosto é auditada com visão (`--visao N`). O ciclo completo está em
+    Amplie a imagem final e rastreie cada mão até o ombro e cada pé até o quadril. Reprove membros soltos, duplicados ou de origem ambígua e revise a pose. A fidelidade de rosto é auditada com visão (`--visao N`). O ciclo completo está em
     `docs/pipeline_imagens.md`.
 12. **Bases de Referência Oficiais e Benchmark Gabo (OBRIGATÓRIO).** Gabo, Bio-Dante, Enzo e
     Sofia **NUNCA** podem ser gerados/recriados sem suas imagens de referência oficiais:
