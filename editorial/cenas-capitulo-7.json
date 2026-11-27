@@ -1,0 +1,88 @@
+{
+  "capitulo": 7,
+  "fonte": {
+    "arquivo": "docs/capitulo-7.md",
+    "sha256": "04c3cf7d56a214ea7a554bb47ea14a6a8d3e86fa12bb939877035c1a4323588f",
+    "sha256_git": "72cf8aac0213216338522469ce75f48efa80d7ce62671ba85fd568a7f3a71566"
+  },
+  "gerador": "Codex ImageGen",
+  "seed_controlada": false,
+  "revisao_visual": "Conferência ampliada de identidade, anatomia, conexões e continuidade",
+  "cenas": [
+    {
+      "acontecimento": "Kael corta a alça do colete enquanto Gabo recua e dispara o segundo cano da Caronte contra um rack; Miranda permanece atrás da base de concreto.",
+      "linhas": [
+        9,
+        15
+      ],
+      "prompt": "Gabo recua e dispara no rack enquanto Kael corta a alça; Miranda, homem ferido de cabelo curto, abriga-se atrás da base.",
+      "indice": 1,
+      "arquivo": "docs/public/cenas/capitulo_7/piloto/cena_1.jpg",
+      "sha256": "f38c101f6b9a59385b2362a28e1ae092fc92aa23c2cbfa6bf1c1749290088808",
+      "ancora": {
+        "arquivo": "docs/public/personagens/gabo.jpg",
+        "sha256": "ca3f1e07c5cc832d9a8b17f615cde29860b4c4b191729fe5f2e4973ef1f8f2d4"
+      }
+    },
+    {
+      "acontecimento": "Miranda aponta o volante vermelho e Gabo o fecha com a mão esquerda, apoiando a espingarda no chão.",
+      "linhas": [
+        17,
+        25
+      ],
+      "prompt": "Gabo usa a mão esquerda no volante vermelho; a mão direita queimada apoia-se no chão; Miranda, adulto homem ferido, aponta; Kael ao fundo.",
+      "indice": 2,
+      "arquivo": "docs/public/cenas/capitulo_7/piloto/cena_2.jpg",
+      "sha256": "6b7ab2991009c8781838cedfcd39ef841d52c1d384b86c67ba65f27ea73547a6",
+      "ancora": {
+        "arquivo": "docs/public/personagens/gabo.jpg",
+        "sha256": "ca3f1e07c5cc832d9a8b17f615cde29860b4c4b191729fe5f2e4973ef1f8f2d4"
+      }
+    },
+    {
+      "acontecimento": "Gabo espera Kael transferir o peso e atira na abertura da articulação do joelho exposta.",
+      "linhas": [
+        33,
+        39
+      ],
+      "prompt": "Gabo mira a Caronte no joelho mecânico aberto de Kael, sem gore; rack esmagado; apenas os dois em foco.",
+      "indice": 3,
+      "arquivo": "docs/public/cenas/capitulo_7/piloto/cena_3.jpg",
+      "sha256": "311410872982d6caeb33a6ece4abffa81c5967c89001fab4bb8e6b7269725c29",
+      "ancora": {
+        "arquivo": "docs/public/personagens/gabo.jpg",
+        "sha256": "ca3f1e07c5cc832d9a8b17f615cde29860b4c4b191729fe5f2e4973ef1f8f2d4"
+      }
+    },
+    {
+      "acontecimento": "Gabo conduz o Toupeira pela galeria com Miranda preso ao banco; as Vespas abrem fogo contra a gaiola.",
+      "linhas": [
+        59,
+        65
+      ],
+      "prompt": "Buggy de seis rodas com gaiola; Gabo ao volante com mão direita enfaixada; Miranda, homem adulto de cabelo curto, preso ao banco de passageiro; drones atiram na gaiola.",
+      "indice": 4,
+      "arquivo": "docs/public/cenas/capitulo_7/piloto/cena_4.jpg",
+      "sha256": "59f09c9f6ec77f273e4fdcdadeea8416399f7d4851e1a67874db4bb718654ee8",
+      "ancora": {
+        "arquivo": "docs/public/personagens/gabo.jpg",
+        "sha256": "ca3f1e07c5cc832d9a8b17f615cde29860b4c4b191729fe5f2e4973ef1f8f2d4"
+      }
+    },
+    {
+      "acontecimento": "Depois do capotamento sob a chuva, Gabo tira Miranda inconsciente do buggy e pede a Valéria que preserve a transmissão.",
+      "linhas": [
+        87,
+        95
+      ],
+      "prompt": "No beco chuvoso, buggy tombado e grade ao fundo; Gabo exausto resgata Miranda, homem adulto ferido, apoiado sobre seus joelhos; drone distante.",
+      "indice": 5,
+      "arquivo": "docs/public/cenas/capitulo_7/piloto/cena_5.jpg",
+      "sha256": "a67d3d785cd2929369cb99e99cf5c49e92468327a5021e8662c17b1c278d624e",
+      "ancora": {
+        "arquivo": "docs/public/personagens/gabo.jpg",
+        "sha256": "ca3f1e07c5cc832d9a8b17f615cde29860b4c4b191729fe5f2e4973ef1f8f2d4"
+      }
+    }
+  ]
+}
