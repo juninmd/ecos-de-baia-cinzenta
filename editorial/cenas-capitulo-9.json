@@ -1,0 +1,114 @@
+{
+  "capitulo": 9,
+  "fonte": {
+    "arquivo": "docs/capitulo-9.md",
+    "sha256": "285c877dd8c13ad9aea216165af5f91aae06d3a4d8a33f22749ff22eef7a0c38",
+    "sha256_git": "f9160f52f1872e4411a94ce769e58ce150e25a3169d00429d2f311238b5cc7ae"
+  },
+  "gerador": "Codex ImageGen",
+  "seed_controlada": false,
+  "revisao_visual": "Conferência ampliada de identidade, anatomia, conexões e continuidade",
+  "cenas": [
+    {
+      "indice": 1,
+      "linhas": [
+        18,
+        24
+      ],
+      "acontecimento": "No elevador de vidro, Val registra no deck que recusou a leitura biométrica não autorizada enquanto Gabo observa a cidade e o painel.",
+      "prompt": "Gabo e Val sobem no elevador de serviço; Val registra a recusa biométrica em seu deck; fitas prendem o kit; identidade oficial dos dois.",
+      "arquivo": "docs/public/cenas/capitulo_9/piloto/cena_1.jpg",
+      "sha256": "69cb83402eb825fd67919bef54aea52d742513741d83f1dec3d721efbb4510a5",
+      "ancora": {
+        "arquivo": "docs/public/personagens/gabo.jpg",
+        "sha256": "ca3f1e07c5cc832d9a8b17f615cde29860b4c4b191729fe5f2e4973ef1f8f2d4"
+      },
+      "referencia_visual_secundaria": {
+        "sha256": "66ffb335db0f4e0a0c7f867eeed57604870e8362380a14cb72f2ca06edd12e01",
+        "arquivo": "docs/public/personagens/val.png"
+      }
+    },
+    {
+      "indice": 2,
+      "linhas": [
+        26,
+        36
+      ],
+      "acontecimento": "Gabo documenta o selo rompido e Val fotografa pegadas sobrepostas no apartamento preparado para transmissão.",
+      "prompt": "Gabo registra o lacre rompido; Val fotografa pegadas no carpete; cadeira de transmissão vazia e telas em estática; módulo físico no deck.",
+      "arquivo": "docs/public/cenas/capitulo_9/piloto/cena_2.jpg",
+      "sha256": "71107ec2d64db18b873fa5158ff3ddcee30b2c4a749ef5696462a3db86309b3f",
+      "ancora": {
+        "arquivo": "docs/public/personagens/gabo.jpg",
+        "sha256": "ca3f1e07c5cc832d9a8b17f615cde29860b4c4b191729fe5f2e4973ef1f8f2d4"
+      },
+      "referencia_visual_secundaria": {
+        "sha256": "66ffb335db0f4e0a0c7f867eeed57604870e8362380a14cb72f2ca06edd12e01",
+        "arquivo": "docs/public/personagens/val.png"
+      }
+    },
+    {
+      "indice": 3,
+      "linhas": [
+        38,
+        46
+      ],
+      "acontecimento": "No banheiro, Gabo encontra um drive offline envolto em plástico e suspenso sobre a água do sifão; Val documenta o conector.",
+      "prompt": "Gabo usa pinça para retirar fio com drive isolado em plástico acima do sifão; Val fotografa sem conectar; mãos anatomicamente ligadas.",
+      "arquivo": "docs/public/cenas/capitulo_9/piloto/cena_3.jpg",
+      "sha256": "74261ef45537568ba9ad69f60d3a3c91be21269691162b444a7beb2156667793",
+      "ancora": {
+        "arquivo": "docs/public/personagens/gabo.jpg",
+        "sha256": "ca3f1e07c5cc832d9a8b17f615cde29860b4c4b191729fe5f2e4973ef1f8f2d4"
+      },
+      "referencia_visual_secundaria": {
+        "sha256": "66ffb335db0f4e0a0c7f867eeed57604870e8362380a14cb72f2ca06edd12e01",
+        "arquivo": "docs/public/personagens/val.png"
+      }
+    },
+    {
+      "indice": 4,
+      "linhas": [
+        48,
+        68
+      ],
+      "acontecimento": "A cobertura é selada; Gabo protege o rosto da névoa enquanto Val mede a queda do oxigênio e perde a conexão.",
+      "prompt": "Fechamento de aço interno, estática com olho vermelho, névoa sem identificação; Gabo se cobre com a manga, Val consulta sensor portátil.",
+      "arquivo": "docs/public/cenas/capitulo_9/piloto/cena_4.jpg",
+      "sha256": "74c248b762e9e48b16225bbe912a2ad0be88f341e93dc73de654234b69e0dbac",
+      "ancora": {
+        "arquivo": "docs/public/personagens/gabo.jpg",
+        "sha256": "ca3f1e07c5cc832d9a8b17f615cde29860b4c4b191729fe5f2e4973ef1f8f2d4"
+      },
+      "referencia_visual_secundaria": {
+        "sha256": "66ffb335db0f4e0a0c7f867eeed57604870e8362380a14cb72f2ca06edd12e01",
+        "arquivo": "docs/public/personagens/val.png"
+      }
+    },
+    {
+      "indice": 5,
+      "linhas": [
+        74,
+        100
+      ],
+      "acontecimento": "Gabo e Val alcançam a plataforma de inspeção enquanto a cabine sobe pelo poço; ele fere a mão e ela torce o tornozelo.",
+      "prompt": "Ambos já apoiados na plataforma sólida, separados; Val puxa a alça do colete de Gabo, mão dele sangra, tornozelo dela torce; cabine passa atrás da grade.",
+      "arquivo": "docs/public/cenas/capitulo_9/piloto/cena_5.jpg",
+      "sha256": "7253c1fb03a3ab403c1b01be976c2cf3a19dad0816c348030c35ed5105f6d262",
+      "ancora": {
+        "arquivo": "docs/public/personagens/gabo.jpg",
+        "sha256": "ca3f1e07c5cc832d9a8b17f615cde29860b4c4b191729fe5f2e4973ef1f8f2d4"
+      },
+      "referencia_visual_secundaria": {
+        "sha256": "66ffb335db0f4e0a0c7f867eeed57604870e8362380a14cb72f2ca06edd12e01",
+        "arquivo": "docs/public/personagens/val.png"
+      }
+    }
+  ],
+  "referencias_visuais_secundarias": [
+    {
+      "sha256": "66ffb335db0f4e0a0c7f867eeed57604870e8362380a14cb72f2ca06edd12e01",
+      "arquivo": "docs/public/personagens/val.png"
+    }
+  ]
+}
