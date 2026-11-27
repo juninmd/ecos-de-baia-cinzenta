@@ -1,0 +1,91 @@
+{
+  "capitulo": 5,
+  "fonte": {
+    "arquivo": "docs/capitulo-5.md",
+    "sha256": "bf119320381da5f76afa64ec23ed24952556e6ed34071e50e6e58447d69ab15c",
+    "sha256_git": "6eb6099a99a12c0c07f990a0f608750eefa6582b4b5df07dc71785c32da9717c"
+  },
+  "gerador": "Codex ImageGen",
+  "seed_controlada": false,
+  "revisao_visual": "Conferência ampliada de identidade, anatomia, conexões e continuidade",
+  "cenas": [
+    {
+      "indice": 1,
+      "linhas": [
+        10,
+        16
+      ],
+      "acontecimento": "A escada rolante imóvel",
+      "prompt": "Medium-wide oblique shot down a stopped escalator leading to a flooded abandoned metro station. Gabo from the official portrait descends gingerly, his single uninjured left hand resting on the cold escalator rail. His bandaged right hand hangs low and separately at his side. Wet stained beige trench coat with no visible gun. His bent posture hints at bruised ribs, shallow breaths. The camera captures his recognizable side profile and the parallel stair lines. Lower platform and inhabited ceramic-tile alcoves soften into darkness, cold fixtures and one restrained amber emergency lamp.",
+      "arquivo": "docs/public/cenas/capitulo_5/piloto/cena_1.jpg",
+      "sha256": "50aa89a02285c4f83dc05053276886409c7db2104de887aefca91696454ebbd2",
+      "ancora": {
+        "arquivo": "docs/public/personagens/gabo.jpg",
+        "sha256": "ca3f1e07c5cc832d9a8b17f615cde29860b4c4b191729fe5f2e4973ef1f8f2d4"
+      }
+    },
+    {
+      "indice": 2,
+      "linhas": [
+        16,
+        20
+      ],
+      "acontecimento": "Miranda no terminal da plataforma",
+      "prompt": "Use the supplied chapter artwork ONLY as an anchor for the human police officer on the RIGHT, Roberto Miranda. Carry forward his soiled blue-gray uniform and recognizable tall posture from this artwork. Show early phase: full natural human anatomy without cybernetic parts, athletic 32 year old man, short black military-cut hair. View from behind and slightly to the side, his face turned away into the glow of a chunky dark green CRT. He inclines his head to listen with both hands on one keyboard; wrists, arms and shoulders are unambiguously connected. Far end of an abandoned tiled metro platform, dust, dull glaze and a few lived-in niches; ordinary faint silhouettes of residents, never skeletons or undead. No second detective, weapon, letters, visible signage, glowing mask or legible text. Use the action before the confrontation.",
+      "ajuste_visual": "Miranda visto de costas. A arte do capítulo orienta uniforme e porte na fase humana.",
+      "arquivo": "docs/public/cenas/capitulo_5/piloto/cena_2.jpg",
+      "sha256": "5fde517a04f2dfb6e1ea956ffa0730f24a839371d9e09556a6ddf06259825130",
+      "ancora": {
+        "arquivo": "docs/public/cenas/capitulo_5/cena_1.jpg",
+        "sha256": "63ceadbe2a315f89dd8dcdac67099b9f47d391a3261518d6506a93e3055d9a1d"
+      }
+    },
+    {
+      "indice": 3,
+      "linhas": [
+        64,
+        72
+      ],
+      "acontecimento": "A luz do gravador antes da decisão",
+      "prompt": "Tight side view at the tiled metro platform. Gabo in his canonical dirty beige trench coat and white shirt, face wet and exhausted. His eyes glance from the single subtle red recording light at his lapel communicator to a blurred uniform and tiled wall beyond camera focus. The communication module is an attached ribbed physical thumb drive. Gabo's shoulders begin to relax as he lowers his bandaged right hand, which remains wholly below the frame. His empty left hand may stay below frame as well. Camera holds the moment of hesitation, no visible weapon, no assault, no avatar. CRT light and dull green painted tile.",
+      "arquivo": "docs/public/cenas/capitulo_5/piloto/cena_3.jpg",
+      "sha256": "8124b2ebeaba49b7329fa3e9e2c55197788c5b96fdc12e1e1054fcebcb34f61e",
+      "ancora": {
+        "arquivo": "docs/public/personagens/gabo.jpg",
+        "sha256": "ca3f1e07c5cc832d9a8b17f615cde29860b4c4b191729fe5f2e4973ef1f8f2d4"
+      }
+    },
+    {
+      "indice": 4,
+      "linhas": [
+        73,
+        80
+      ],
+      "acontecimento": "O registro do recipiente e o lacre",
+      "prompt": "Side angle close medium shot of Gabo in soiled beige trench coat at a narrow table by the abandoned platform. He looks down in concentration. He holds a cream forensic evidence envelope steady with his right bandaged hand and smooths the adhesive seal with the left. Both hands plainly connected via their own visible cuffs and elbows. A small hard gray container with a dim red indicator sits open to one side, emptied of the memory chip now inside the envelope. A green CRT glow in the background. No dropped weapons, no blood beyond a tiny stain on the gauze, no floating screens or text.",
+      "ajuste_visual": "Plataforma subterrânea e adereços restritos à coleta.",
+      "arquivo": "docs/public/cenas/capitulo_5/piloto/cena_4.jpg",
+      "sha256": "3600a88b15020a549e94ecea21fc1f82009b89dddbea0787f3786f52418dbec8",
+      "ancora": {
+        "arquivo": "docs/public/personagens/gabo.jpg",
+        "sha256": "ca3f1e07c5cc832d9a8b17f615cde29860b4c4b191729fe5f2e4973ef1f8f2d4"
+      }
+    },
+    {
+      "indice": 5,
+      "linhas": [
+        128,
+        138
+      ],
+      "acontecimento": "Gabo puxa Miranda para a galeria",
+      "prompt": "Medium-wide rescue scene inside the abandoned tiled metro, looking toward a dark drainage portal through a low curtain of steam. Gabo, exact reference face and wet filthy beige coat, bends his knees and uses his uninjured LEFT arm to grip the fabric of the back of Miranda's grimy blue-gray police vest, pulling him out of the open platform. His own dressed RIGHT hand stays close to his own chest, injured. Both beige sleeves are visible and connected to separate shoulders. Miranda, still fully human, lies low in the foreground, facing away, his legs in dark blue uniform clearly attached to him. The two bodies have no blended limbs, source of both sets of hands is legible, no gore or visible gun. A tiny dark red spot on the cloth near Miranda's thigh is enough. Green light, condensation and steam show the danger behind them.",
+      "ajuste_visual": "Gaze mantida na mão direita durante o resgate.",
+      "arquivo": "docs/public/cenas/capitulo_5/piloto/cena_5.jpg",
+      "sha256": "aaf86f7fa92e8159ae7460252fc3a0bd1ebf1f688f5917204d367af212d93476",
+      "ancora": {
+        "arquivo": "docs/public/personagens/gabo.jpg",
+        "sha256": "ca3f1e07c5cc832d9a8b17f615cde29860b4c4b191729fe5f2e4973ef1f8f2d4"
+      }
+    }
+  ]
+}
